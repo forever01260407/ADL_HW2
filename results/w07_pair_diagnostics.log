@@ -1,0 +1,28 @@
+Token indices sequence length is longer than the specified maximum sequence length for this model (612 > 512). Running this sequence through the model will result in indexing errors
+{
+  "candidate_pairs": 48300,
+  "unique_candidate_products": 19502,
+  "truncated_product_pairs": 21756,
+  "truncated_pair_fraction": 0.4504347826086956,
+  "pairs_exceeding_single_text_512_budget": 13021,
+  "query_truncations_at_192": 0,
+  "min_product_budget": 319,
+  "max_product_budget": 464,
+  "groups": {
+    "gold_fits_pair": {
+      "queries": 446,
+      "b0_gold_hits10": 317,
+      "a1_gold_hits10": 271,
+      "promoted_into_top10": 40,
+      "lost_from_top10": 86
+    },
+    "gold_truncated": {
+      "queries": 181,
+      "b0_gold_hits10": 136,
+      "a1_gold_hits10": 142,
+      "promoted_into_top10": 26,
+      "lost_from_top10": 20
+    }
+  },
+  "note": "candidate-frequency-weighted truncation; lengths use MiniLM tokenizer; descriptive association, not a truncation ablation"
+}

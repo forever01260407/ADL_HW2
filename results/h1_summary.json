@@ -1,0 +1,817 @@
+{
+  "scope": "H1 fixed dev 966 / 50000 products; no public or training",
+  "protected_files_and_student_boundary_verified": true,
+  "b0_top50_reproduced": true,
+  "official_hardware_validation": false,
+  "variants": {
+    "dense": {
+      "gold": {
+        "queries": 966,
+        "gold_hit@1": 0.2225672877846791,
+        "gold_mrr@1": 0.2225672877846791,
+        "gold_hit@10": 0.468944099378882,
+        "gold_mrr@10": 0.29241595188800157
+      },
+      "graded": {
+        "metrics": {
+          "queries": 966,
+          "graded_recall@10": 0.6521739130434783,
+          "graded_mrr@10": 0.39644582470669426
+        },
+        "comparisons": 9207,
+        "parse_failures": 0,
+        "judge_resources": {
+          "peak_cuda_memory_gib": 4.554347515106201,
+          "peak_cuda_memory_reserved_gib": 8.630859375
+        },
+        "judge_runtime_seconds": 580.282922581
+      },
+      "retrieval": {
+        "cold_process_wall_seconds": 105.08243603799997,
+        "resources": {
+          "entrypoint_wall_seconds": 104.089109307,
+          "peak_process_rss_bytes": 1788010496,
+          "peak_cuda_allocated_bytes": 503805952,
+          "peak_cuda_reserved_bytes": 717225984,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "sentence_transformers": "5.1.0",
+            "numpy": "1.26.4",
+            "faiss": "1.12.0"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/w06/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/snapshots/w06/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl"
+        }
+      },
+      "judge": {
+        "cold_process_wall_seconds": 583.114356848,
+        "resources": {
+          "entrypoint_wall_seconds": 582.0775835370001,
+          "peak_process_rss_bytes": 4246134784,
+          "peak_cuda_allocated_bytes": 4890193408,
+          "peak_cuda_reserved_bytes": 9267314688,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "numpy": "1.26.4"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/w06/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/snapshots/w06/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl",
+          "results/w06_b0_dev_top10.json": "results/w06_b0_dev_top10.json"
+        }
+      },
+      "by_message_count": {
+        "3": {
+          "graded_recall@10": 0.6155419222903885,
+          "graded_mrr@10": 0.34992534164313305
+        },
+        "5": {
+          "graded_recall@10": 0.689727463312369,
+          "graded_mrr@10": 0.4441366343882067
+        }
+      },
+      "by_qid_prefix": {
+        "beauty-train": {
+          "queries": 437,
+          "gold": {
+            "queries": 437,
+            "gold_hit@10": 0.37528604118993136,
+            "gold_mrr@10": 0.2182131052268352
+          },
+          "graded": {
+            "graded_recall@10": 0.6155606407322655,
+            "graded_mrr@10": 0.34876775271512117
+          }
+        },
+        "train-beauty-official": {
+          "queries": 74,
+          "gold": {
+            "queries": 74,
+            "gold_hit@10": 0.5135135135135135,
+            "gold_mrr@10": 0.31192621192621195
+          },
+          "graded": {
+            "graded_recall@10": 0.6216216216216216,
+            "graded_mrr@10": 0.40605426855426857
+          }
+        },
+        "train-home-and-kitchen": {
+          "queries": 104,
+          "gold": {
+            "queries": 104,
+            "gold_hit@10": 0.5384615384615384,
+            "gold_mrr@10": 0.36523580586080584
+          },
+          "graded": {
+            "graded_recall@10": 0.6730769230769231,
+            "graded_mrr@10": 0.4221001221001221
+          }
+        },
+        "train-pet-supplies": {
+          "queries": 102,
+          "gold": {
+            "queries": 102,
+            "gold_hit@10": 0.47058823529411764,
+            "gold_mrr@10": 0.27254512916277623
+          },
+          "graded": {
+            "graded_recall@10": 0.7254901960784313,
+            "graded_mrr@10": 0.4056605975723623
+          }
+        },
+        "train-sports-and-outdoors": {
+          "queries": 130,
+          "gold": {
+            "queries": 130,
+            "gold_hit@10": 0.7307692307692307,
+            "gold_mrr@10": 0.4570573870573871
+          },
+          "graded": {
+            "graded_recall@10": 0.823076923076923,
+            "graded_mrr@10": 0.5441727716727717
+          }
+        },
+        "train-toys-and-games": {
+          "queries": 119,
+          "gold": {
+            "queries": 119,
+            "gold_hit@10": 0.4369747899159664,
+            "gold_mrr@10": 0.32630718954248367
+          },
+          "graded": {
+            "graded_recall@10": 0.5378151260504201,
+            "graded_mrr@10": 0.3738562091503268
+          }
+        }
+      }
+    },
+    "bm25": {
+      "gold": {
+        "queries": 966,
+        "gold_hit@1": 0.3064182194616977,
+        "gold_mrr@1": 0.3064182194616977,
+        "gold_hit@10": 0.494824016563147,
+        "gold_mrr@10": 0.3623459528739032
+      },
+      "graded": {
+        "metrics": {
+          "queries": 966,
+          "graded_recall@10": 0.650103519668737,
+          "graded_mrr@10": 0.4508869006539814
+        },
+        "comparisons": 9182,
+        "parse_failures": 0,
+        "judge_resources": {
+          "peak_cuda_memory_gib": 4.568247318267822,
+          "peak_cuda_memory_reserved_gib": 12.943359375
+        },
+        "judge_runtime_seconds": 607.999933411
+      },
+      "retrieval": {
+        "cold_process_wall_seconds": 9.575974659999929,
+        "resources": {
+          "entrypoint_wall_seconds": 9.433169747999955,
+          "peak_process_rss_bytes": 443670528,
+          "peak_cuda_allocated_bytes": null,
+          "peak_cuda_reserved_bytes": null,
+          "gpu_name": null,
+          "gpu_total_memory_bytes": null,
+          "versions": {
+            "numpy": "1.26.4"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "0",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null,
+          "HW2_RETRIEVER": "bm25",
+          "HW2_RRF_CANDIDATES": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/h1/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl"
+        }
+      },
+      "judge": {
+        "cold_process_wall_seconds": 610.263265176,
+        "resources": {
+          "entrypoint_wall_seconds": 609.5070042719999,
+          "peak_process_rss_bytes": 4250386432,
+          "peak_cuda_allocated_bytes": 4905118208,
+          "peak_cuda_reserved_bytes": 13897826304,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "numpy": "1.26.4"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "0",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null,
+          "HW2_RETRIEVER": "bm25",
+          "HW2_RRF_CANDIDATES": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/h1/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl",
+          "results/h1_bm25_dev_top10.json": "results/h1_bm25_dev_top10.json"
+        }
+      },
+      "by_message_count": {
+        "3": {
+          "graded_recall@10": 0.5971370143149284,
+          "graded_mrr@10": 0.3829957477196741
+        },
+        "5": {
+          "graded_recall@10": 0.7044025157232704,
+          "graded_mrr@10": 0.5204860071212273
+        }
+      },
+      "by_qid_prefix": {
+        "beauty-train": {
+          "queries": 437,
+          "gold": {
+            "queries": 437,
+            "gold_hit@10": 0.2242562929061785,
+            "gold_mrr@10": 0.13275035414623515
+          },
+          "graded": {
+            "graded_recall@10": 0.4851258581235698,
+            "graded_mrr@10": 0.2720496894409938
+          }
+        },
+        "train-beauty-official": {
+          "queries": 74,
+          "gold": {
+            "queries": 74,
+            "gold_hit@10": 0.7432432432432432,
+            "gold_mrr@10": 0.576517589017589
+          },
+          "graded": {
+            "graded_recall@10": 0.7837837837837838,
+            "graded_mrr@10": 0.6026598026598027
+          }
+        },
+        "train-home-and-kitchen": {
+          "queries": 104,
+          "gold": {
+            "queries": 104,
+            "gold_hit@10": 0.6826923076923077,
+            "gold_mrr@10": 0.5705128205128205
+          },
+          "graded": {
+            "graded_recall@10": 0.7596153846153846,
+            "graded_mrr@10": 0.5880189255189255
+          }
+        },
+        "train-pet-supplies": {
+          "queries": 102,
+          "gold": {
+            "queries": 102,
+            "gold_hit@10": 0.7549019607843137,
+            "gold_mrr@10": 0.5529917522564581
+          },
+          "graded": {
+            "graded_recall@10": 0.8725490196078431,
+            "graded_mrr@10": 0.6691682228446934
+          }
+        },
+        "train-sports-and-outdoors": {
+          "queries": 130,
+          "gold": {
+            "queries": 130,
+            "gold_hit@10": 0.8076923076923077,
+            "gold_mrr@10": 0.5987851037851037
+          },
+          "graded": {
+            "graded_recall@10": 0.8615384615384616,
+            "graded_mrr@10": 0.6347374847374847
+          }
+        },
+        "train-toys-and-games": {
+          "queries": 119,
+          "gold": {
+            "queries": 119,
+            "gold_hit@10": 0.6050420168067226,
+            "gold_mrr@10": 0.46866746698679473
+          },
+          "graded": {
+            "graded_recall@10": 0.6554621848739496,
+            "graded_mrr@10": 0.5054555155395491
+          }
+        }
+      },
+      "candidate_gold": {
+        "queries": 966,
+        "gold_hit@10": 0.494824016563147,
+        "gold_mrr@10": 0.3623459528739032,
+        "gold_hit@50": 0.6273291925465838,
+        "gold_mrr@50": 0.3688811673110528
+      },
+      "candidate_timing": {
+        "cold_process_wall_seconds": 9.277035352999974,
+        "resources": {
+          "entrypoint_wall_seconds": 9.113234892000037,
+          "peak_process_rss_bytes": 443256832,
+          "peak_cuda_allocated_bytes": null,
+          "peak_cuda_reserved_bytes": null,
+          "gpu_name": null,
+          "gpu_total_memory_bytes": null,
+          "versions": {
+            "numpy": "1.26.4"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "0",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null,
+          "HW2_RETRIEVER": "bm25",
+          "HW2_RRF_CANDIDATES": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/h1/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl"
+        }
+      },
+      "dev_fast_vs_full_changed_qids": []
+    },
+    "hybrid": {
+      "gold": {
+        "queries": 966,
+        "gold_hit@1": 0.2743271221532091,
+        "gold_mrr@1": 0.2743271221532091,
+        "gold_hit@10": 0.5579710144927537,
+        "gold_mrr@10": 0.3547590292155509
+      },
+      "graded": {
+        "metrics": {
+          "queries": 966,
+          "graded_recall@10": 0.7391304347826086,
+          "graded_mrr@10": 0.46578017680502154
+        },
+        "comparisons": 9121,
+        "parse_failures": 0,
+        "judge_resources": {
+          "peak_cuda_memory_gib": 4.56926965713501,
+          "peak_cuda_memory_reserved_gib": 9.71875
+        },
+        "judge_runtime_seconds": 596.3585506170002
+      },
+      "retrieval": {
+        "cold_process_wall_seconds": 105.49912690099995,
+        "resources": {
+          "entrypoint_wall_seconds": 104.83635979099995,
+          "peak_process_rss_bytes": 1801351168,
+          "peak_cuda_allocated_bytes": 503805952,
+          "peak_cuda_reserved_bytes": 717225984,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "sentence_transformers": "5.1.0",
+            "numpy": "1.26.4",
+            "faiss": "1.12.0"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "0",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null,
+          "HW2_RETRIEVER": "hybrid",
+          "HW2_RRF_CANDIDATES": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/h1/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl"
+        }
+      },
+      "judge": {
+        "cold_process_wall_seconds": 598.6599687439998,
+        "resources": {
+          "entrypoint_wall_seconds": 597.9523990070002,
+          "peak_process_rss_bytes": 6506938368,
+          "peak_cuda_allocated_bytes": 4906215936,
+          "peak_cuda_reserved_bytes": 10435428352,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "numpy": "1.26.4"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "0",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null,
+          "HW2_RETRIEVER": "hybrid",
+          "HW2_RRF_CANDIDATES": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/h1/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl",
+          "results/h1_hybrid_dev_top10.json": "results/h1_hybrid_dev_top10.json"
+        }
+      },
+      "by_message_count": {
+        "3": {
+          "graded_recall@10": 0.7034764826175869,
+          "graded_mrr@10": 0.41134238971662285
+        },
+        "5": {
+          "graded_recall@10": 0.7756813417190775,
+          "graded_mrr@10": 0.5215874679711158
+        }
+      },
+      "by_qid_prefix": {
+        "beauty-train": {
+          "queries": 437,
+          "gold": {
+            "queries": 437,
+            "gold_hit@10": 0.3501144164759725,
+            "gold_mrr@10": 0.19378155533761943
+          },
+          "graded": {
+            "graded_recall@10": 0.6338672768878718,
+            "graded_mrr@10": 0.359199629508554
+          }
+        },
+        "train-beauty-official": {
+          "queries": 74,
+          "gold": {
+            "queries": 74,
+            "gold_hit@10": 0.7972972972972973,
+            "gold_mrr@10": 0.5216055341055341
+          },
+          "graded": {
+            "graded_recall@10": 0.8783783783783784,
+            "graded_mrr@10": 0.5841537966537966
+          }
+        },
+        "train-home-and-kitchen": {
+          "queries": 104,
+          "gold": {
+            "queries": 104,
+            "gold_hit@10": 0.6730769230769231,
+            "gold_mrr@10": 0.4883661477411477
+          },
+          "graded": {
+            "graded_recall@10": 0.7980769230769231,
+            "graded_mrr@10": 0.546875
+          }
+        },
+        "train-pet-supplies": {
+          "queries": 102,
+          "gold": {
+            "queries": 102,
+            "gold_hit@10": 0.7352941176470589,
+            "gold_mrr@10": 0.43855820105820104
+          },
+          "graded": {
+            "graded_recall@10": 0.8529411764705882,
+            "graded_mrr@10": 0.5517662620603797
+          }
+        },
+        "train-sports-and-outdoors": {
+          "queries": 130,
+          "gold": {
+            "queries": 130,
+            "gold_hit@10": 0.8384615384615385,
+            "gold_mrr@10": 0.5825152625152624
+          },
+          "graded": {
+            "graded_recall@10": 0.9153846153846154,
+            "graded_mrr@10": 0.6358882783882783
+          }
+        },
+        "train-toys-and-games": {
+          "queries": 119,
+          "gold": {
+            "queries": 119,
+            "gold_hit@10": 0.6134453781512605,
+            "gold_mrr@10": 0.40475523542750436
+          },
+          "graded": {
+            "graded_recall@10": 0.6974789915966386,
+            "graded_mrr@10": 0.4531545951714019
+          }
+        }
+      },
+      "candidate_gold": {
+        "queries": 966,
+        "gold_hit@10": 0.5579710144927537,
+        "gold_mrr@10": 0.3547590292155509,
+        "gold_hit@50": 0.7039337474120083,
+        "gold_mrr@50": 0.36204573238559623
+      },
+      "candidate_timing": {
+        "cold_process_wall_seconds": 109.05728322499999,
+        "resources": {
+          "entrypoint_wall_seconds": 108.36476479199996,
+          "peak_process_rss_bytes": 1801416704,
+          "peak_cuda_allocated_bytes": 503805952,
+          "peak_cuda_reserved_bytes": 717225984,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "sentence_transformers": "5.1.0",
+            "numpy": "1.26.4",
+            "faiss": "1.12.0"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "0",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null,
+          "HW2_RETRIEVER": "hybrid",
+          "HW2_RRF_CANDIDATES": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/h1/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl"
+        }
+      },
+      "dev_fast_vs_full_changed_qids": []
+    }
+  },
+  "selection_policy": "eligible if both graded metrics improve over B0; among eligible maximize Recall then MRR",
+  "b0_regression_timing": {
+    "cold_process_wall_seconds": 97.28641832300013,
+    "resources": {
+      "entrypoint_wall_seconds": 96.654485711,
+      "peak_process_rss_bytes": 1793122304,
+      "peak_cuda_allocated_bytes": 503805952,
+      "peak_cuda_reserved_bytes": 717225984,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": "0",
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null,
+      "HW2_RETRIEVER": "dense",
+      "HW2_RRF_CANDIDATES": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "code/script/snapshots/h1/retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+      "data/train/products.jsonl": "data/train/products.jsonl"
+    }
+  },
+  "paired_changes": {
+    "bm25": {
+      "graded_recall@10": {
+        "mean_difference": -0.002070393374741201,
+        "improved_queries": 142,
+        "worsened_queries": 144,
+        "unchanged_queries": 680
+      },
+      "graded_mrr@10": {
+        "mean_difference": 0.05444107594728713,
+        "improved_queries": 315,
+        "worsened_queries": 263,
+        "unchanged_queries": 388
+      }
+    },
+    "hybrid": {
+      "graded_recall@10": {
+        "mean_difference": 0.08695652173913043,
+        "improved_queries": 132,
+        "worsened_queries": 48,
+        "unchanged_queries": 786
+      },
+      "graded_mrr@10": {
+        "mean_difference": 0.06933435209832725,
+        "improved_queries": 336,
+        "worsened_queries": 166,
+        "unchanged_queries": 464
+      }
+    }
+  },
+  "selected_variant": "hybrid",
+  "selected_default_verified": true,
+  "selected_default_timing": {
+    "cold_process_wall_seconds": 112.75512380099826,
+    "resources": {
+      "entrypoint_wall_seconds": 111.9973961350006,
+      "peak_process_rss_bytes": 1799495680,
+      "peak_cuda_allocated_bytes": 503805952,
+      "peak_cuda_reserved_bytes": 717225984,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": "0",
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null,
+      "HW2_RETRIEVER": null,
+      "HW2_RRF_CANDIDATES": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+      "data/train/products.jsonl": "data/train/products.jsonl"
+    }
+  },
+  "notes": [
+    "same frozen grouped dev; selecting on dev is not an unseen-test result",
+    "BM25 reads full products, dense truncates at 512; this is a system ablation, not an isolated formula experiment",
+    "same judge model/order/batch 8; changed candidates alter batch composition",
+    "RRF uses rankings and filters zero-score lexical candidates; no MiniLM reranker",
+    "historical source hashes resolved only against preserved exact snapshots"
+  ],
+  "analysis_sha256": {
+    "code/script/audit_h1.py": "3229af915a25f8c4e518cff95a3029f4a3296af8a3710c7e6663377bf010eadd",
+    "code/script/audit_w07.py": "a56c2c3313d9c02d1a8f24849ca666d8f2939391be4de4e957d9f51a12a9febe",
+    "code/script/audit_w06.py": "65db2d4deec0c1724ab98611d587bb2743cc043b0143c944b89b95efc6f0b29b"
+  }
+}

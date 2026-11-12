@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "url": "https://drive.usercontent.google.com/download?id=1bC4rxq7mqzrqtbXfgbWAcPKzwktUwsWk&export=download&confirm=t",
+  "archive_sha256": "714d7a9be5486de5db8c59a8fba1a9f65d4e868f3c00b668500c20e5d8309768",
+  "archive_bytes": 395347153,
+  "wall_seconds": 19.97228451,
+  "empty_destination": true,
+  "checkpoint_files_verified": 10,
+  "public_runs": 0,
+  "training_runs": 0
+}

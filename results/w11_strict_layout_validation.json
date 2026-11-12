@@ -1,0 +1,76 @@
+{
+  "status": "passed_strict_slide_layout_and_runtime_checks",
+  "root_files": [
+    "download.sh",
+    "run.sh",
+    "retrieval_utils.py",
+    "requirements.txt",
+    "report.pdf",
+    "README.md"
+  ],
+  "only_root_directory": "code",
+  "scripts_directory": "code/script",
+  "original_official_sources": "code/script/official",
+  "reference_records": "code/script/records",
+  "editable_report": "code/script/docs/report.md",
+  "manifest": "code/script/SUBMISSION_MANIFEST.json",
+  "runtime_initialization": "Copies bundled references to the original relative paths; no package installs, downloads or training",
+  "runtime_initialization_verified_references": 513,
+  "initialization_idempotent": true,
+  "download_wrapper_local_archive_install_passed": true,
+  "initialization_boundary_tests": {
+    "passed": [
+      "existing_different_file_preserved",
+      "tampered_reference_rejected",
+      "path_traversal_rejected"
+    ]
+  },
+  "training_smoke": {
+    "base": {
+      "status": "completed",
+      "optimizer_steps": 4,
+      "train_count": 16,
+      "offline_reload_max_abs_difference": 0.0,
+      "peak_cuda_allocated_bytes": 2542147072,
+      "peak_cuda_reserved_bytes": 3087007744
+    },
+    "hard": {
+      "status": "completed",
+      "optimizer_steps": 4,
+      "train_count": 16,
+      "offline_reload_max_abs_difference": 0.0,
+      "peak_cuda_allocated_bytes": 2967137792,
+      "peak_cuda_reserved_bytes": 3258974208
+    }
+  },
+  "retrieval_comparison": {
+    "status": "passed",
+    "queries": 8,
+    "products": 12,
+    "top_k": 10,
+    "all_rankings_equal": true,
+    "valid_unique_top10": true,
+    "wall_seconds": [
+      19.88620645900002,
+      20.262440767999976
+    ],
+    "quality_evaluation": false,
+    "public_runs": 0,
+    "judge_runs": 0
+  },
+  "formal_retrieval_source_unchanged": true,
+  "formal_checkpoint_unchanged": true,
+  "report_unchanged": true,
+  "official_source_files_unchanged": true,
+  "new_archive_created": false,
+  "old_draft_zip_unchanged": true,
+  "public_runs": 0,
+  "judge_runs": 0,
+  "production_model_training_runs": 0,
+  "validation_copy": "C:\\Users\\yuting\\Desktop\\HW2_ADL\\output\\strict_layout_validation\\r15922a14",
+  "supersedes_layout_record": "results/w11_clean_staging_validation.json",
+  "remaining": [
+    "create and validate the final ZIP when requested",
+    "user submits ZIP to course NTU COOL"
+  ]
+}

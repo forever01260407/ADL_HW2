@@ -1,0 +1,30 @@
+{
+  "selected_variant": "d6_b1",
+  "ranking_path": "results/h2b_d6_b1_top10.json",
+  "ranking_sha256": "748ae810646621ab39de61fe2f59ec6651483eb659b444e3ae7048eebea6cb7c",
+  "model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+  },
+  "maximum_full_dev_judge_runs": 1,
+  "queries": 966,
+  "non_gold_comparisons": 8962,
+  "max_input_tokens": 2285,
+  "context_limit": 32768,
+  "batch_size": 8,
+  "max_new_tokens": 12,
+  "dtype": "bfloat16",
+  "do_sample": false,
+  "truncation": false,
+  "input_sha256": {
+    "artifacts/models/Qwen2.5-1.5B-Instruct/config.json": "98d2ff8cc47488d08a2b0b3acf4eb99ef210779b42bd48605f6b8e36acdbf670",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/generation_config.json": "e558847a8b4402616f1273797b015104dc266fe4b520056fca88823ba8f8ebe6",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/merges.txt": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/model.safetensors": "dd924a11b4c220f385b51ffa522daea7c9f3d850e31b162bb5661df483c6d3ee",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/tokenizer.json": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/tokenizer_config.json": "5b5d4f65d0acd3b2d56a35b56d374a36cbc1c8fa5cf3b3febbbfabf22f359583",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+    "results/h2b_rrf_screening.json": "fa10e85c69e5e2290687227d83b58cf60d3a2f789737fa819ae39c7591200485"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "created_utc": "2026-10-24T19:03:44.097086+00:00",
+  "checkpoint": "artifacts/training/h5_hard_negative/checkpoint",
+  "quality_sha256": "0e9a2765f9923d462ceca3e6324af289ac69b21537facdcc2a550ff3b95b02bf",
+  "source_before_sha256": "048ac8e45bc148f787815e365ce850169c6830716a86622f46afd296403933f6",
+  "source_after_sha256": "95c2d8ee025ce20412a856afd7d8d9d064999c1984117f90f65b83eed4d16660",
+  "public_runs": 0,
+  "decision_basis": "train/dev only, fixed 5:1 and one trained candidate",
+  "expected_top50_sha256": "9d31687dcc2d9d4062fdfe823e82e0554f6cc2dc34cc8b323a70b63457f9820a",
+  "input_sha256": {
+    "code/script/adopt_hard_negative.py": "da15b9054d2a6d8c85883e65d2508c3d9d527eb338427a01baa3df486724011f",
+    "results/h5_quality_final.json": "0e9a2765f9923d462ceca3e6324af289ac69b21537facdcc2a550ff3b95b02bf",
+    "results/h5_base5_top50.json": "9d31687dcc2d9d4062fdfe823e82e0554f6cc2dc34cc8b323a70b63457f9820a",
+    "results/h5_base5_top10.json": "bc6753791cde45d6b5f28e56109d6f7454bd12397ab8367d57fbe24a333d4427"
+  }
+}

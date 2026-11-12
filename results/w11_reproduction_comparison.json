@@ -1,0 +1,109 @@
+{
+  "status": "completed",
+  "stages": {
+    "base": {
+      "same_batch_qids": true,
+      "tensor_count": 199,
+      "different_tensors": 0,
+      "max_abs_parameter_difference": 0.0,
+      "model_file_sha256_equal": true,
+      "manifest": {
+        "status": "completed",
+        "stage": "base",
+        "source": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/bge-base-en-v1.5",
+        "smoke": false,
+        "public_used": false,
+        "dev_used_for_gradient": false,
+        "dev_used_for_mining": false,
+        "gradient_checkpointing": true,
+        "precision": "float32",
+        "seed": 42,
+        "official_hardware_validation": false,
+        "train_count": 3864,
+        "optimizer_steps": 242,
+        "training_wall_seconds": 73.7949565470044,
+        "warmup_steps": 25,
+        "learning_rate": 2e-05,
+        "trained_own_negative_exposures": 0,
+        "duplicate_stream_negatives_masked": 0,
+        "tracked_parameter_max_abs_change": 0.000913470983505249,
+        "checkpoint": "artifacts/release_reproduction/base/checkpoint",
+        "offline_reload_max_abs_difference": 0.0,
+        "peak_cuda_allocated_bytes": 2559884288,
+        "peak_cuda_reserved_bytes": 3089104896,
+        "peak_process_rss_bytes": 2324123648,
+        "wall_seconds": 79.58299932400405,
+        "checkpoint_files": {
+          "1_Pooling/config.json": "2b1d283d4e7e9a64eef827933051d26478d271766eb234c76012f9012cd97907",
+          "config.json": "c7d0a7580e015e98305702068ffde8b36e54be9e862c3d4a379046181ace48f4",
+          "config_sentence_transformers.json": "4f23dd77608eabbd1915a1d4562f2582aaadf5884f587d574f2529ce91ff0f5b",
+          "model.safetensors": "8bb73a3c0b1d28df0c29817197e70ff21ae9369f0efc471c0a219bf8ace46a4c",
+          "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+          "sentence_bert_config.json": "65c2293c310f5476a8d1cbada277722c3e7ae5b5ddbaa2d2fe5d075f410d6d02",
+          "special_tokens_map.json": "5d5b662e421ea9fac075174bb0688ee0d9431699900b90662acd44b2a350503a",
+          "tokenizer.json": "91f1def9b9391fdabe028cd3f3fcc4efd34e5d1f08c3bf2de513ebb5911a1854",
+          "tokenizer_config.json": "7b082b48a08a0b5c5939d99472e33addce3d96202155e33f7928cecd171186a0",
+          "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+        },
+        "input_sha256": {
+          "code/script/train_release.py": "3ed1abff874cbba7d60174a3a80fc41af85b32868a3f54d34678c8f5fc56f867",
+          "code/script/configs/release_negatives.json": "fa8cd04ac5caa199fabfeafbe8ed85c88cd974637780990b39945fa843090a88"
+        }
+      }
+    },
+    "hard": {
+      "same_batch_qids": true,
+      "tensor_count": 199,
+      "different_tensors": 0,
+      "max_abs_parameter_difference": 0.0,
+      "model_file_sha256_equal": true,
+      "manifest": {
+        "status": "completed",
+        "stage": "hard",
+        "source": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/release_reproduction/base/checkpoint",
+        "smoke": false,
+        "public_used": false,
+        "dev_used_for_gradient": false,
+        "dev_used_for_mining": false,
+        "gradient_checkpointing": true,
+        "precision": "float32",
+        "seed": 42,
+        "official_hardware_validation": false,
+        "train_count": 3864,
+        "optimizer_steps": 242,
+        "training_wall_seconds": 125.73949391600036,
+        "warmup_steps": 25,
+        "learning_rate": 5e-06,
+        "trained_own_negative_exposures": 3795,
+        "duplicate_stream_negatives_masked": 1,
+        "tracked_parameter_max_abs_change": 0.0002507530152797699,
+        "checkpoint": "artifacts/release_reproduction/hard/checkpoint",
+        "offline_reload_max_abs_difference": 0.0,
+        "peak_cuda_allocated_bytes": 2984601600,
+        "peak_cuda_reserved_bytes": 3586129920,
+        "peak_process_rss_bytes": 2759991296,
+        "wall_seconds": 131.1209521520068,
+        "checkpoint_files": {
+          "1_Pooling/config.json": "2b1d283d4e7e9a64eef827933051d26478d271766eb234c76012f9012cd97907",
+          "config.json": "c7d0a7580e015e98305702068ffde8b36e54be9e862c3d4a379046181ace48f4",
+          "config_sentence_transformers.json": "4f23dd77608eabbd1915a1d4562f2582aaadf5884f587d574f2529ce91ff0f5b",
+          "model.safetensors": "61885419cc42c473335c10b81fed396eec15df4947b805b35a1eda3cd5e50b56",
+          "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+          "sentence_bert_config.json": "65c2293c310f5476a8d1cbada277722c3e7ae5b5ddbaa2d2fe5d075f410d6d02",
+          "special_tokens_map.json": "5d5b662e421ea9fac075174bb0688ee0d9431699900b90662acd44b2a350503a",
+          "tokenizer.json": "91f1def9b9391fdabe028cd3f3fcc4efd34e5d1f08c3bf2de513ebb5911a1854",
+          "tokenizer_config.json": "479a5afc56069a77cc24c74a1943501275664e8d493e215f5716a81ebc0e86db",
+          "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+        },
+        "input_sha256": {
+          "code/script/train_release.py": "3ed1abff874cbba7d60174a3a80fc41af85b32868a3f54d34678c8f5fc56f867",
+          "code/script/configs/release_negatives.json": "fa8cd04ac5caa199fabfeafbe8ed85c88cd974637780990b39945fa843090a88"
+        }
+      }
+    }
+  },
+  "report_summary": "W11實際重現兩個完整epoch（各3864題／242steps），相同batch qids、FP32與超參數；新增第一階段gradient checkpointing後，兩階段皆在8GiB allocator內。原H3與H5的重訓最大參數差分別為0／0；正式提交仍使用原H5 checkpoint，重訓結果不作Public選型。",
+  "official_hardware_validation": false,
+  "public_runs": 0,
+  "original_model_changed": false
+}

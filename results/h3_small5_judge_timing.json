@@ -1,0 +1,92 @@
+{
+  "started_utc": "2026-10-24T16:34:23.766323+00:00",
+  "command": [
+    "/mnt/c/Users/yuting/Desktop/HW2_ADL/.venv/bin/python",
+    "evaluate.py",
+    "--retrieval-results",
+    "results/h2b_d5_b1_top10.json",
+    "--dialogues",
+    "data/derived/dev.jsonl",
+    "--products",
+    "data/train/products.jsonl",
+    "--model",
+    "artifacts/models/Qwen2.5-1.5B-Instruct",
+    "--batch-size",
+    "8",
+    "--max-new-tokens",
+    "12",
+    "--top-k",
+    "10",
+    "--device",
+    "cuda",
+    "--output",
+    "results/h3_small5_graded.json"
+  ],
+  "input_sha256": {
+    "retrieval.py": "7c0a0c0a6a5f466a3a3bcf78e7d410bacaf1876eeb44aa3cae10c6cebba8f774",
+    "evaluate.py": "0f640c6b126594d75d39baa1c3b7447185fda9010a5e8486a88e29198b23acbf",
+    "eval_utils.py": "47b1dd2dee9b6c9769d4952dc32712ac8e25f0cb57665ceb2247880d43e32e0b",
+    "retrieval_utils.py": "d5be9dcba87dd70a6e79478306a7f770ba7030948cfd2bcae679c499dcc2b39f",
+    "code/script/run_measured.py": "665a6764cff24e3df7cc64be0ba415ef990831e05d6de0d16a7db3b4ad7f52f2",
+    "data/derived/dev.jsonl": "6776f3c5546ea0fbc93524aec0925b8e0911160937a51c8bf8895e3ff9816b0d",
+    "data/train/products.jsonl": "6865b9cb44dc1e1c3d8a38c6f8207b00ddd5b442471db1d2016e1cc8403dee34",
+    "results/h2b_d5_b1_top10.json": "93a5b66877663f7312f00578e2c5a937498d0ebdb8fa0a89272a16034b5bde7c"
+  },
+  "models": {
+    "embedding": {
+      "repo_id": "BAAI/bge-small-en-v1.5",
+      "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+      "path": "artifacts/models/bge-small-en-v1.5"
+    },
+    "generator": {
+      "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+    },
+    "reranker": {
+      "repo_id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a",
+      "path": "artifacts/models/ms-marco-MiniLM-L6-v2"
+    }
+  },
+  "environment": {
+    "HF_HUB_OFFLINE": "1",
+    "TRANSFORMERS_OFFLINE": "1",
+    "TOKENIZERS_PARALLELISM": "false",
+    "OMP_NUM_THREADS": "4",
+    "HW2_BATCH_SIZE": "32",
+    "HW2_MODEL_PATH": null,
+    "HW2_RERANK": null,
+    "HW2_RERANK_CANDIDATES": null,
+    "HW2_RERANK_BATCH_SIZE": null,
+    "HW2_RERANK_MODEL_PATH": null,
+    "HW2_RETRIEVER": null,
+    "HW2_RRF_CANDIDATES": null,
+    "HW2_BM25_QUERY_MODE": null,
+    "HW2_BM25_LAST_WEIGHT": null,
+    "HW2_BM25_TITLE_WEIGHT": null,
+    "HW2_BM25_TRACE_PATH": null
+  },
+  "timing_scope": "fresh Python child including wrapper startup, imports, data/model load, indexing, search, output; no index cache; OS disk caches not flushed",
+  "official_hardware_validation": false,
+  "cold_process_wall_seconds": 562.2441888500034,
+  "exit_code": 0,
+  "log": "results/h3_small5_judge_timing.log",
+  "resources": {
+    "entrypoint_wall_seconds": 561.5367775100021,
+    "peak_process_rss_bytes": 4250320896,
+    "peak_cuda_allocated_bytes": 4905118208,
+    "peak_cuda_reserved_bytes": 10179575808,
+    "gpu_name": "NVIDIA GeForce RTX 4090",
+    "gpu_total_memory_bytes": 25756696576,
+    "versions": {
+      "torch": "2.8.0+cu128",
+      "transformers": "4.56.1",
+      "numpy": "1.26.4"
+    },
+    "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+    "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "exit_code": 0,
+    "error": null
+  }
+}

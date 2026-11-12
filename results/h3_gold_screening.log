@@ -1,0 +1,57 @@
+{
+  "gold_gate": {
+    "passed": true,
+    "checks": {
+      "hybrid_hit10_gain": true,
+      "hybrid_mrr10_gain": true,
+      "hybrid_hit50_nondecreasing": true,
+      "dense_hit10_nondecreasing": true,
+      "dense_mrr10_nondecreasing": true
+    },
+    "hybrid_differences": {
+      "gold_hit@10": 0.03002070393374745,
+      "gold_mrr@10": 0.03240535344572615,
+      "gold_hit@50": 0.023809523809523725
+    },
+    "dense_differences": {
+      "gold_hit@10": 0.038302277432712195,
+      "gold_mrr@10": 0.04696712018140592
+    }
+  },
+  "small_dense": {
+    "queries": 966,
+    "gold_hit@1": 0.4192546583850932,
+    "gold_mrr@1": 0.4192546583850932,
+    "gold_hit@10": 0.7091097308488613,
+    "gold_mrr@10": 0.5091992835781656,
+    "gold_hit@50": 0.8519668737060041,
+    "gold_mrr@50": 0.5165384159023578
+  },
+  "small5": {
+    "queries": 966,
+    "gold_hit@1": 0.4192546583850932,
+    "gold_mrr@1": 0.4192546583850932,
+    "gold_hit@10": 0.7236024844720497,
+    "gold_mrr@10": 0.5179199940845903,
+    "gold_hit@50": 0.8623188405797102,
+    "gold_mrr@50": 0.5248437186067743
+  },
+  "base_dense": {
+    "queries": 966,
+    "gold_hit@1": 0.46790890269151136,
+    "gold_mrr@1": 0.46790890269151136,
+    "gold_hit@10": 0.7474120082815735,
+    "gold_mrr@10": 0.5561664037595715,
+    "gold_hit@50": 0.8840579710144928,
+    "gold_mrr@50": 0.5632709880206178
+  },
+  "base5": {
+    "queries": 966,
+    "gold_hit@1": 0.45962732919254656,
+    "gold_mrr@1": 0.45962732919254656,
+    "gold_hit@10": 0.7536231884057971,
+    "gold_mrr@10": 0.5503253475303165,
+    "gold_hit@50": 0.8861283643892339,
+    "gold_mrr@50": 0.5573198593817665
+  }
+}

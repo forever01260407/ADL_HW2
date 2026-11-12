@@ -1,0 +1,17 @@
+test_boundary_ties_order_and_pool_mutation (test_retrieval.IndexTests.test_boundary_ties_order_and_pool_mutation) ... <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss load_and_products_s=0.002 total_function_s=0.077
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss load_and_products_s=0.001 total_function_s=0.030
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy load_and_products_s=0.001 total_function_s=0.002
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy load_and_products_s=0.001 total_function_s=0.001
+ok
+test_exact_oracle_and_mapping (test_retrieval.IndexTests.test_exact_oracle_and_mapping) ... retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss load_and_products_s=0.001 total_function_s=0.033
+retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy load_and_products_s=0.001 total_function_s=0.001
+ok
+test_nonfinite_or_zero_vectors_fail (test_retrieval.IndexTests.test_nonfinite_or_zero_vectors_fail) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.151s
+
+OK

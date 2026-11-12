@@ -1,0 +1,3871 @@
+{
+  "parse_fallbacks": 0,
+  "context_added": 0,
+  "weighted_queries": 966,
+  "results": [
+    {
+      "qid": "beauty-train-000000",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000033",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000034",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000038",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000043",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000046",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000057",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000063",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000074",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000078",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000079",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000084",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000085",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000090",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000092",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000093",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000102",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000104",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000118",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000141",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000144",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000158",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000162",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000166",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000193",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000194",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000198",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000199",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000202",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000212",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000218",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000237",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000241",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000257",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000289",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000302",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000304",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000340",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000350",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000356",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000367",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000379",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000386",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000391",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000393",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000407",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000416",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000422",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000434",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000449",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000466",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000468",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000490",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000494",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000495",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000502",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000512",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000524",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000534",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000543",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000544",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000545",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000560",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000578",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000584",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000588",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000592",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000601",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000636",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000649",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000652",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000657",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000661",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000693",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000711",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000717",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000736",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000748",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000786",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000801",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000822",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000824",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000825",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000840",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000848",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000866",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000876",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000880",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000892",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000903",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000912",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000927",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000928",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000930",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000943",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000956",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000958",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000965",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000967",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000983",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000987",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000990",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000993",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-000999",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001011",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001026",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001028",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001038",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001058",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001070",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001072",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001091",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001097",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001146",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001151",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001159",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001178",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001206",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001220",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001243",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001247",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001265",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001271",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001272",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001274",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001281",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001282",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001312",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001325",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001336",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001338",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001349",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001355",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001357",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001385",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001387",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001406",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001429",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001434",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001459",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001468",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001479",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001488",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001496",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001510",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001542",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001559",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001570",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001573",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001581",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001607",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001617",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001620",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001632",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001636",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001639",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001655",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001656",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001668",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001688",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001689",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001705",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001707",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001713",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001719",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001724",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001729",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001731",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001732",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001752",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001753",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001778",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001781",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001782",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001790",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001802",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001837",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001846",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001847",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001850",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001887",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001893",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001903",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001906",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001907",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001915",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001918",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001923",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001931",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001933",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001961",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001972",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001977",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-001985",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002013",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002030",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002047",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002051",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002086",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002093",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002099",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002103",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002122",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002129",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002142",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002164",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002170",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002177",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002178",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002193",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002208",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002214",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002217",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002234",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002236",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002238",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002268",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002270",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002286",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002314",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002316",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002329",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002334",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002342",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002352",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002354",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002364",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002367",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002398",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002413",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002419",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002433",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002441",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002453",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002455",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002461",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002483",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002491",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002496",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002512",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002531",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002538",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002543",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002548",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002554",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002580",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002602",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002604",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002607",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002609",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002614",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002616",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002624",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002627",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002630",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002650",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002655",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002685",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002699",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002710",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002714",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002720",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002722",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002737",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002780",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002782",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002790",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002813",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002831",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002838",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002870",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002871",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002888",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002890",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002903",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002931",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002935",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002946",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002951",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002952",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002969",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002979",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-002982",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003000",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003024",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003027",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003071",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003072",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003073",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003080",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003090",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003115",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003119",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003120",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003132",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003134",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003136",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003148",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003156",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003165",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003169",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003177",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003188",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003213",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003229",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003230",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003243",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003257",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003269",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003276",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003292",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003293",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003295",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003321",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003329",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003350",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003352",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003353",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003370",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003377",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003382",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003383",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003389",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003394",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003397",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003401",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003413",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003442",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003453",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003475",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003479",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003505",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003509",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003521",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003537",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003560",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003567",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003570",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003582",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003595",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003599",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003602",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003639",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003640",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003678",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003709",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003725",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003735",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003736",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003738",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003750",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003758",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003767",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003781",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003814",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003829",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003832",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003834",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003844",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003861",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003868",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003895",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003898",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003920",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003925",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003929",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003936",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003942",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003956",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003960",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-003966",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004015",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004025",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004026",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004029",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004033",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004045",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004051",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004075",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004088",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004092",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004099",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004100",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004102",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004117",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004124",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004128",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004140",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004154",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004166",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004199",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004205",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004213",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004216",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004218",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004235",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004248",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004253",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004272",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004275",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004290",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004299",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004312",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004323",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004352",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004360",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004368",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004369",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004370",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004379",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004408",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004433",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004439",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004441",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004458",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004472",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004475",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004486",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004505",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004506",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004514",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004546",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004550",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004560",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004571",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004593",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004626",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004646",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004659",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004678",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004698",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004742",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004762",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004767",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004787",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004803",
+      "positive_count": 100
+    },
+    {
+      "qid": "beauty-train-004831",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000001",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000003",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000005",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000021",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000023",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000025",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000026",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000034",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000038",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000039",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000048",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000051",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000064",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000065",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000068",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000077",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000086",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000099",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000100",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000103",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000117",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000118",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000125",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000129",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000140",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000141",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000142",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000143",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000153",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000158",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000163",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000167",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000174",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000183",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000184",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000190",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000216",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000221",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000222",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000233",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000235",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000239",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000240",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000242",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000244",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000246",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000265",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000266",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000267",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000270",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000277",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000285",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000286",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000299",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000305",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000320",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000322",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000326",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000330",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000335",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000341",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000347",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000354",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000362",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000371",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000379",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000384",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000386",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000389",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000397",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000406",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000413",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000416",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-beauty-official-000436",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000003",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000007",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000008",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000019",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000022",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000027",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000028",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000029",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000030",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000033",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000037",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000041",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000055",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000057",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000061",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000062",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000065",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000068",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000070",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000073",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000074",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000081",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000084",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000092",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000094",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000097",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000101",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000113",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000114",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000115",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000119",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000122",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000126",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000128",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000134",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000148",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000158",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000162",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000197",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000209",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000219",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000220",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000227",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000236",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000241",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000242",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000243",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000251",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000252",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000262",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000269",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000276",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000280",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000282",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000286",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000290",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000298",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000300",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000310",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000311",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000317",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000322",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000327",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000334",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000336",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000339",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000340",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000345",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000355",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000362",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000379",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000383",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000389",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000393",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000395",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000398",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000400",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000402",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000406",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000409",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000411",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000413",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000420",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000423",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000425",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000437",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000445",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000455",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000463",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000470",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000473",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000475",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000489",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000500",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000501",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000507",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000508",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000518",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000525",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000528",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000534",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000536",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000565",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-home-and-kitchen-000567",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000004",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000010",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000014",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000019",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000023",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000040",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000045",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000050",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000052",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000056",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000059",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000066",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000074",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000076",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000079",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000083",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000085",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000091",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000092",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000095",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000097",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000106",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000110",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000112",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000113",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000122",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000123",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000135",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000136",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000140",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000144",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000146",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000147",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000157",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000166",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000167",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000168",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000187",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000188",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000193",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000194",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000199",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000206",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000210",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000213",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000229",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000230",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000257",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000272",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000283",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000294",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000295",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000309",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000312",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000316",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000325",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000328",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000332",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000338",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000346",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000358",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000368",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000371",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000373",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000374",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000375",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000377",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000383",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000384",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000392",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000394",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000402",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000404",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000423",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000427",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000430",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000431",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000452",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000453",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000456",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000458",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000479",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000486",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000489",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000493",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000498",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000505",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000506",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000507",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000509",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000511",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000512",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000514",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000518",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000521",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000536",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000540",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000551",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000552",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000556",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-pet-supplies-000563",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000008",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000028",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000033",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000034",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000042",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000043",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000044",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000048",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000049",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000052",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000059",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000065",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000068",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000075",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000079",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000084",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000088",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000091",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000099",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000105",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000107",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000110",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000125",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000138",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000142",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000143",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000153",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000157",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000159",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000161",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000162",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000165",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000166",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000168",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000173",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000174",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000180",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000181",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000182",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000190",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000193",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000195",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000203",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000209",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000213",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000220",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000221",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000226",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000231",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000236",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000241",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000243",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000244",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000256",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000257",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000265",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000277",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000281",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000284",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000296",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000297",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000299",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000302",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000307",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000313",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000318",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000319",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000320",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000328",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000329",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000330",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000333",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000339",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000347",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000356",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000359",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000363",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000377",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000382",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000383",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000387",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000391",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000393",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000395",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000396",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000398",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000414",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000416",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000418",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000421",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000422",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000423",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000425",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000427",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000435",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000436",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000438",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000439",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000442",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000446",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000448",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000461",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000462",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000466",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000472",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000473",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000479",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000481",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000483",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000485",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000489",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000490",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000496",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000509",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000515",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000519",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000520",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000524",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000526",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000529",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000544",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000549",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000552",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000554",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000557",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000558",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000568",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000569",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-sports-and-outdoors-000570",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000002",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000008",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000032",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000037",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000040",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000042",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000049",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000051",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000057",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000066",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000080",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000082",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000085",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000086",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000088",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000091",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000095",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000100",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000104",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000115",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000117",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000129",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000132",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000142",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000145",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000147",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000149",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000150",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000158",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000159",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000160",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000166",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000168",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000170",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000172",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000174",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000176",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000178",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000210",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000223",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000237",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000238",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000240",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000245",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000247",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000249",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000251",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000255",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000257",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000258",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000261",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000271",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000272",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000275",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000281",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000287",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000292",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000296",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000297",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000298",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000306",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000314",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000316",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000318",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000322",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000334",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000337",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000339",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000340",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000343",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000362",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000365",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000366",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000371",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000373",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000384",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000398",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000402",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000403",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000410",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000411",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000412",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000414",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000415",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000419",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000421",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000441",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000446",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000447",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000448",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000449",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000450",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000451",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000452",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000454",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000461",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000465",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000467",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000481",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000482",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000491",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000495",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000497",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000498",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000501",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000511",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000512",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000521",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000525",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000530",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000532",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000544",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000545",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000549",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000551",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000554",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000563",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000564",
+      "positive_count": 100
+    },
+    {
+      "qid": "train-toys-and-games-000569",
+      "positive_count": 100
+    }
+  ]
+}

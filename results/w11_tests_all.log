@@ -1,0 +1,98 @@
+..........bm25: products=2 queries=1 terms=5 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.001
+bm25: products=2 queries=1 terms=5 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=7 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=7 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+.bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.001
+..bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=users last_weight=2 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=1 lexical_s=0.000
+.bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=1 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=1 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=1 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=6 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=1 context_added=0 weighted_queries=0 lexical_s=0.000
+.bm25: products=2 queries=1 terms=5 k1=1.5 b=0.75 query_mode=users last_weight=2 title_weight=1 parse_fallbacks=0 context_added=1 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=5 k1=1.5 b=0.75 query_mode=users last_weight=2 title_weight=1 parse_fallbacks=0 context_added=1 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=5 k1=1.5 b=0.75 query_mode=users last_weight=2 title_weight=1 parse_fallbacks=0 context_added=1 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=5 k1=1.5 b=0.75 query_mode=users last_weight=2 title_weight=1 parse_fallbacks=0 context_added=1 weighted_queries=0 lexical_s=0.000
+.bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=2 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.158 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.158
+bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=users last_weight=2 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=1 lexical_s=0.000
+retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.036 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.036
+bm25: products=2 queries=1 terms=2 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=2 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.037 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.037
+.bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.039 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.003 total_function_s=0.039
+bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.038 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.038
+bm25: products=105 queries=1 terms=2 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.001
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.041 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.003 total_function_s=0.041
+bm25: products=105 queries=1 terms=2 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.038 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.038
+bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=hybrid rerank=False pre_rerank_s=0.009 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.009
+bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=hybrid rerank=False pre_rerank_s=0.006 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.006 total_function_s=0.006
+bm25: products=105 queries=1 terms=2 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=hybrid rerank=False pre_rerank_s=0.003 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.003 total_function_s=0.003
+bm25: products=105 queries=1 terms=2 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=hybrid rerank=False pre_rerank_s=0.004 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.003 total_function_s=0.004
+..bm25: products=4 queries=1 terms=3 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=4 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.101 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.101
+bm25: products=4 queries=1 terms=3 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=4 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.051 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.051
+bm25: products=4 queries=1 terms=3 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=4 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.040 rrf_weights=2.5:0.5 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.041
+.......................bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=4 queries=1 terms=4 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+.bm25: products=3 queries=1 terms=3 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=3 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.041 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.041
+.bm25: products=3 queries=1 terms=9 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=3 queries=1 terms=9 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=3 queries=1 terms=9 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+.bm25: products=4 queries=1 terms=3 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=4 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.038 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.038
+.bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.036 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.036
+bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False pre_rerank_s=0.038 rrf_weights=1.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.038
+bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+bm25: products=2 queries=1 terms=0 k1=1.5 b=0.75 query_mode=full last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=0.000
+.......rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=3 pairs=3 batch=4 truncated_queries=0 rerank_s=0.043
+retrieval: products=3 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True pre_rerank_s=0.043 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.086
+rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=4 pairs=4 batch=4 truncated_queries=0 rerank_s=0.041
+retrieval: products=5 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True pre_rerank_s=0.037 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.079
+..rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=3 pairs=6 batch=4 truncated_queries=0 rerank_s=0.046
+retrieval: products=4 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True pre_rerank_s=0.037 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.084
+.rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=3 pairs=3 batch=4 truncated_queries=0 rerank_s=0.050
+retrieval: products=3 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True pre_rerank_s=0.039 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.090
+.rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=2 pairs=2 batch=4 truncated_queries=1 rerank_s=0.047
+retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True pre_rerank_s=0.038 rrf_weights=5.0:1.0 truncated_queries=1 load_and_products_s=0.002 total_function_s=0.085
+rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=2 pairs=2 batch=4 truncated_queries=0 rerank_s=0.051
+retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True pre_rerank_s=0.043 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.095
+..retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=0.036 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.036
+.retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=0.095 rrf_weights=5.0:1.0 truncated_queries=1 load_and_products_s=0.001 total_function_s=0.095
+.retrieval: products=12 queries=8 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=0.044 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.044
+.retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=0.036 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.036
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=0.035 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.035
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=dense rerank=False pre_rerank_s=0.001 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=dense rerank=False pre_rerank_s=0.001 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+.retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=0.038 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.038
+retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=dense rerank=False pre_rerank_s=0.001 rrf_weights=5.0:1.0 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+.......................retrieval: products=2 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=0.035 rrf_weights=5.0:1.0 truncated_queries=1 load_and_products_s=0.001 total_function_s=0.035
+..
+----------------------------------------------------------------------
+Ran 88 tests in 8.490s
+
+OK

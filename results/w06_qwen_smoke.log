@@ -1,0 +1,30 @@
+{
+  "kind": "official_judge_compatibility_smoke_not_quality_benchmark",
+  "model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+  },
+  "judge_prompt_tokens": {
+    "count": 954,
+    "min": 358,
+    "max": 1868,
+    "p50": 1021.5,
+    "p95": 1571.6999999999998,
+    "over_limit": 0,
+    "limit": 32756
+  },
+  "settings": {
+    "batch_size": 8,
+    "max_new_tokens": 12,
+    "dtype": "bfloat16",
+    "do_sample": false,
+    "truncation": false
+  },
+  "original_evaluate_sha256": "0f640c6b126594d75d39baa1c3b7447185fda9010a5e8486a88e29198b23acbf",
+  "status": "passed",
+  "elapsed_seconds_including_model_load": 14.040916480000078,
+  "peak_cuda_allocated_bytes": 4575377408,
+  "peak_cuda_reserved_bytes": 5532286976,
+  "gpu_name": "NVIDIA GeForce RTX 4090"
+}

@@ -1,0 +1,1064 @@
+{
+  "shared_non_gold_pairs": 4715,
+  "shared_pairs_changed_gain": 55,
+  "pet_recall_improved_qids": [
+    "train-pet-supplies-000040"
+  ],
+  "pet_recall_worsened_qids": [
+    "train-pet-supplies-000004",
+    "train-pet-supplies-000194",
+    "train-pet-supplies-000234",
+    "train-pet-supplies-000383",
+    "train-pet-supplies-000458",
+    "train-pet-supplies-000540"
+  ],
+  "pet_loss_cases": [
+    {
+      "qid": "train-pet-supplies-000004",
+      "small5_gold_rank50": 38,
+      "base5_gold_rank50": 30,
+      "small5_relevant_pids": [
+        "B09K496J5Y",
+        "B0B6QJMK5J",
+        "B072HCBCQC"
+      ],
+      "previous_relevant_retained_in_base_top10": [],
+      "previous_relevant_retained_but_changed_gain": [],
+      "small5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B09K37L6TB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B0BMX6WZNT",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B013IZPXNC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B09K496J5Y",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}"
+        },
+        {
+          "rank": 5,
+          "pid": "B004B9GNSY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B07QFS9B6Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B0BTS9PY5T",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B0B6QJMK5J",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}"
+        },
+        {
+          "rank": 9,
+          "pid": "B072HCBCQC",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}"
+        },
+        {
+          "rank": 10,
+          "pid": "B071YM8LXR",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ],
+      "base5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B07QFS9B6Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B013IZPXNC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B0BMX6WZNT",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B07TBFN9DN",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B09K37L6TB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B08TXN34M8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B09K37QBNF",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B07P765HNR",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B07NW73C29",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B0BS2Z9G51",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000194",
+      "small5_gold_rank50": 7,
+      "base5_gold_rank50": 12,
+      "small5_relevant_pids": [
+        "B00S5BN0KS"
+      ],
+      "previous_relevant_retained_in_base_top10": [],
+      "previous_relevant_retained_but_changed_gain": [],
+      "small5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B085N17PQN",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B000BO96K0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B0026L5UQU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B09DCGNFGQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B0BG6VPJ72",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B07SHXVMV3",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B00S5BN0KS",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null
+        },
+        {
+          "rank": 8,
+          "pid": "B0BWN8BLLP",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B09FF81TTH",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B00Y42W0BC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ],
+      "base5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B000BO96K0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B0026L5UQU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B09DCGNFGQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B000QOHVSO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B085N17PQN",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B0CBCQGXKY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B004G8EJOK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B00025YVPI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B076CNQLSY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B0BWN8BLLP",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "small5_gold_rank50": null,
+      "base5_gold_rank50": null,
+      "small5_relevant_pids": [
+        "B0BH2H19DS"
+      ],
+      "previous_relevant_retained_in_base_top10": [],
+      "previous_relevant_retained_but_changed_gain": [],
+      "small5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B01N3UZ10A",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B06XL19QJR",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B0964F6LMV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B001J9ST90",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B0BH2H19DS",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}"
+        },
+        {
+          "rank": 6,
+          "pid": "B00LHYFNKU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B00FG0Q9AO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B003ZNXCFO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B0CC67Q461",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B00S5CBJ3C",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ],
+      "base5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B07XVZ85PT",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B06Y4F3TVT",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B0CC67Q461",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B0964F6LMV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B0B21QZ6RM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B094HN81L2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B0C78DNG9G",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B08223DG6P",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B08913TYL5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B00S5CBJ3C",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000383",
+      "small5_gold_rank50": 4,
+      "base5_gold_rank50": 14,
+      "small5_relevant_pids": [
+        "B0BLNJZXFM"
+      ],
+      "previous_relevant_retained_in_base_top10": [],
+      "previous_relevant_retained_but_changed_gain": [],
+      "small5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B08MVRLW2Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B0C5FNPRH5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B07QK8VMX3",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BLNJZXFM",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null
+        },
+        {
+          "rank": 5,
+          "pid": "B08GC582CK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B00028IXC2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B083969CH5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B0C3TKQR5P",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B07FVT9C7T",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B09D7BXRPP",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ],
+      "base5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B08MVRLW2Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B08GC582CK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B09H383LG8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B08THGYGL8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B08FSQLPMW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B0C22R75N8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B083969CH5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B07ZGLNWP3",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B09H3LMQKT",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B09D2GTF2Z",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000458",
+      "small5_gold_rank50": 4,
+      "base5_gold_rank50": 23,
+      "small5_relevant_pids": [
+        "B074H212TL"
+      ],
+      "previous_relevant_retained_in_base_top10": [],
+      "previous_relevant_retained_but_changed_gain": [],
+      "small5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B0BLHXQKB6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B09HS4R77C",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B0C2WK4WTH",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B074H212TL",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null
+        },
+        {
+          "rank": 5,
+          "pid": "B09M676SP3",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B0B333N2KZ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B09CPGHWJV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B09XPB77WD",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B0BLSSJRDR",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B08RCSMTXV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ],
+      "base5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B0BLHXQKB6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B09HS4R77C",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B0C2WK4WTH",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B0006PQKL2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B09M676SP3",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B0009YHTA6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B08W3CGBS1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B096YZ96J9",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B08RCSMTXV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B08MPW5KWD",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000540",
+      "small5_gold_rank50": 3,
+      "base5_gold_rank50": null,
+      "small5_relevant_pids": [
+        "B07G633NVG"
+      ],
+      "previous_relevant_retained_in_base_top10": [],
+      "previous_relevant_retained_but_changed_gain": [],
+      "small5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B0743T9F4P",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B08FXYGPY4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B07G633NVG",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null
+        },
+        {
+          "rank": 4,
+          "pid": "B016RN3GWC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B07C5H3C5D",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B01F0O60CW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B00SSQGKUM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B00WV4D0IW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B00UASZTTY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B06WLGJXQ1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ],
+      "base5_candidates": [
+        {
+          "rank": 1,
+          "pid": "B07C5H3C5D",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 2,
+          "pid": "B0099LSYVI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 3,
+          "pid": "B00SSQGKUM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 4,
+          "pid": "B06ZXW75HK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 5,
+          "pid": "B016RN3GWC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 6,
+          "pid": "B08FXYGPY4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 7,
+          "pid": "B00ZF59C2M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 8,
+          "pid": "B00UASZTTY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 9,
+          "pid": "B00SKAQNE4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "rank": 10,
+          "pid": "B01F0O60CW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    }
+  ],
+  "note": "same qid/PID pair gains can change with batch composition; cause not isolated; no Judge reruns"
+}

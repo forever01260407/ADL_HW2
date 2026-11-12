@@ -1,0 +1,9 @@
+{
+  "verified_negative_queries": 3796,
+  "identical_encoder_input_pairs": 0,
+  "qids": [],
+  "product_limit_tokens": 512,
+  "input_sha256": {
+    "results/h5_verified_negatives.json": "e8dfa20c1b98dfc3278ec7e315010a98a73fd5a689c0aa93a4fc87cf261b1f77"
+  }
+}

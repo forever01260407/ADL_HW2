@@ -1,0 +1,156 @@
+{
+  "status": "editorial_review_passed_root_reports_synchronized",
+  "root_report_updated": true,
+  "reviewed_pdf": "output/pdf/editorial/report.pdf",
+  "reviewed_markdown": "output/pdf/editorial/report.md",
+  "reviewed_pdf_sha256": "8d81959cb5a7b935a2cf89fde3264564536f8ca19f8ab81a7fce9bdd13907561",
+  "reviewed_markdown_sha256": "16ec879dd39ce5b5a66534465f019cd2a01abb64d84586a18334fef50388fb88",
+  "pages": 13,
+  "raw_generation_outputs_preserved": [
+    {
+      "qid": "train-pet-supplies-000140",
+      "prompt_id": "G-P1",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000140",
+      "prompt_id": "G-P2",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000140",
+      "prompt_id": "G-P3",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "prompt_id": "G-P1",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "prompt_id": "G-P2",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "prompt_id": "G-P3",
+      "raw_preserved": true
+    },
+    {
+      "qid": "beauty-train-003071",
+      "prompt_id": "G-P1",
+      "raw_preserved": true
+    },
+    {
+      "qid": "beauty-train-003071",
+      "prompt_id": "G-P2",
+      "raw_preserved": true
+    },
+    {
+      "qid": "beauty-train-003071",
+      "prompt_id": "G-P3",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "prompt_id": "G-P1",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "prompt_id": "G-P2",
+      "raw_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "prompt_id": "G-P3",
+      "raw_preserved": true
+    },
+    {
+      "qid": "beauty-train-001206",
+      "prompt_id": "G-P1",
+      "raw_preserved": true
+    },
+    {
+      "qid": "beauty-train-001206",
+      "prompt_id": "G-P2",
+      "raw_preserved": true
+    },
+    {
+      "qid": "beauty-train-001206",
+      "prompt_id": "G-P3",
+      "raw_preserved": true
+    }
+  ],
+  "original_prompts_preserved": true,
+  "all_metric_sources_unchanged_and_values_present": true,
+  "replacement_characters": 0,
+  "all_13_pages_rendered_and_visually_inspected": true,
+  "render_dpi": 85,
+  "protected_files_verified_unchanged": 501,
+  "old_draft_zip_unchanged": true,
+  "new_archive_created": false,
+  "before_draft_root_files": [
+    "DECISIONS.md",
+    "download.sh",
+    "eval_utils.py",
+    "evaluate.py",
+    "H1_RESULTS.md",
+    "H1U_RESULTS.md",
+    "H2_RESULTS.md",
+    "H2B_RESULTS.md",
+    "H3_RESULTS.md",
+    "H4_RESULTS.md",
+    "H5_RESULTS.md",
+    "H6_RESULTS.md",
+    "PLAN.md",
+    "PROGRESS.md",
+    "PROJECT.md",
+    "README.md",
+    "report.md",
+    "report.pdf",
+    "requirements.txt",
+    "retrieval.py",
+    "retrieval_utils.py",
+    "run.sh",
+    "W06_RESULTS.md",
+    "W07_RESULTS.md",
+    "W08_RESULTS.md",
+    "W09_RESULTS.md",
+    "W10_RESULTS.md",
+    "W11_RESULTS.md",
+    "SUBMISSION_MANIFEST.json"
+  ],
+  "before_root_markdown_count": 20,
+  "future_root_files": [
+    "download.sh",
+    "eval_utils.py",
+    "evaluate.py",
+    "README.md",
+    "report.pdf",
+    "requirements.txt",
+    "retrieval.py",
+    "retrieval_utils.py",
+    "run.sh",
+    "SUBMISSION_MANIFEST.json"
+  ],
+  "future_root_markdown": [
+    "README.md"
+  ],
+  "future_report_markdown": "code/script/docs/report.md",
+  "development_notes": "kept in workspace; excluded from future submission root",
+  "readme_lines_before": 226,
+  "readme_lines_after": 107,
+  "edited_file_sha256": {
+    "README.md": "e0c3985192db40b1fd8d1c6ed58fd02a75c9c3bed592bc7f7365fab4ab29b760",
+    "code/script/build_final_report.py": "34feed65090b8317e24e60567376ea4e45bec08deabd160a31f4d01fce6c9cbe",
+    "code/script/build_submission.py": "c20e84d78b3e68e1032e6a0607f5321dfa266bc0e6b9deecd26b9eff1139f846"
+  },
+  "historical_seals": "unchanged; their document hashes identify the pre-editorial versions preserved in code/script/snapshots/w11_pre_editorial/",
+  "remaining": [
+    "later final packaging when requested"
+  ],
+  "model_hosting_configured": true,
+  "remote_download_verified": true
+}

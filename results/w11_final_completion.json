@@ -1,0 +1,36 @@
+{
+  "status": "final_submission_archive_complete_ready_for_user_upload",
+  "finished_utc": "2026-10-25T14:02:52.228390+00:00",
+  "student_id": "r15922a14",
+  "archive": "output/r15922a14.zip",
+  "archive_bytes": 22621343,
+  "archive_sha256": "bb2c8201bbc1fe168061dccce9effef61cfb7d3ae601f8e95299c58143834e3d",
+  "archive_audit": "output/r15922a14.zip.audit.json",
+  "archive_audit_sha256": "85460536e8377940eb7fbf8b454170b269d29859c0e9459cda0b5928d29a58eb",
+  "files": 628,
+  "root_layout_exactly_matches_slide": true,
+  "zip_crc_and_per_file_sha256_passed": true,
+  "ubuntu_actual_unzip_and_runtime_initialization_passed": true,
+  "remote_model_archive_and_10_files_verified": true,
+  "report_pages": 13,
+  "formal_model": "BGE-base continued with Train-only hard negatives; Dense:BM25 5:1",
+  "formal_retriever_unchanged": true,
+  "public_recall_at_10": 0.952,
+  "public_mrr_at_10": 0.8024043650793651,
+  "official_hardware_validation": false,
+  "private_results_unknown": true,
+  "new_training_runs": 0,
+  "new_public_runs": 0,
+  "new_judge_runs": 0,
+  "old_draft_zip_unchanged": true,
+  "external_uploads_or_course_submission": 0,
+  "remaining": [
+    "User uploads output/r15922a14.zip to the HW2 assignment on NTU COOL before the deadline",
+    "Keep the model hosting link accessible for at least three weeks after the deadline"
+  ],
+  "supersedes_pending_states": [
+    "results/w11_local_completion.json",
+    "results/w11_remote_completion.json"
+  ],
+  "historical_seals_unchanged": true
+}

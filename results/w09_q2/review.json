@@ -1,0 +1,94 @@
+{
+  "reviewer": "Codex assistant; not user annotation, an independent judge, or blinded review",
+  "method": "Post-hoc qualitative reading of all fifteen saved outputs against each sample's actual shared evidence. Scores are descriptive judgments, not measured official quality or a passing grade.",
+  "source_sha256": {
+    "plan.json": "5eaac8fe86811e48f02f0554612e2474e463f784f80f55f3fc5703ca6d666699",
+    "outputs.jsonl": "8300d4ac904db0535f42438da448f683de0128435474c2c608a5f191488dc988"
+  },
+  "dimensions": ["current_need", "constraints_and_preferences", "evidence_faithfulness", "no_unsupported_claims", "clarity"],
+  "rubric": {
+    "current_need": {"2": "Addresses the current core need with an appropriate candidate", "1": "Partial match or an important part of the need is omitted", "0": "Wrong purpose or unjustified refusal despite supplied fit"},
+    "constraints_and_preferences": {"2": "Respects supported firm constraints and represents preferences appropriately", "1": "Important requirements are insufficiently checked or preferences are distorted", "0": "Material firm constraint is contradicted or falsely declared satisfied"},
+    "evidence_faithfulness": {"2": "Product and user facts are correctly attributed", "1": "Some imprecision, omission, or weakly supported attribution", "0": "Material contradiction, cross-product attribution, or invented user fact"},
+    "no_unsupported_claims": {"2": "No material unsupported claim", "1": "Minor inference or overconfident marketing phrasing", "0": "Material unsupported specification, outcome, user fact, or no-fit assertion"},
+    "clarity": {"2": "Concise and understandable", "1": "Verbose, misses requested explanatory structure, or lacks a useful conclusion", "0": "Unusable or incoherent"}
+  },
+  "format_compliance": "PID presence and exact [PID: ...] syntax are reported separately; not folded into the subjective score twice.",
+  "records": [
+    {
+      "qid": "train-pet-supplies-000140", "prompt_id": "G-P1", "scores": [2, 2, 1, 1, 2],
+      "assessment": "選到能維持份量、改變熱量並維持肌肉的 SIMPLY FIT，主要需求吻合。Fat Burn Chicken 的命名不精確；把文案功效直接當結果敘述，未依共通指令標明文案宣稱。沒有 PID。",
+      "evidence_pids": ["B07GPX2F5S"], "issues": ["minor_attribution", "marketing_as_outcome", "missing_pid"]
+    },
+    {
+      "qid": "train-pet-supplies-000140", "prompt_id": "G-P2", "scores": [2, 2, 1, 2, 1],
+      "assessment": "推薦商品方向正確，但 Need -> Evidence 下面只是重述三個需求，沒有對應商品的 ICR、兩階段熱量或相同份量證據；shrinking dog 也誤讀 shrinking meals。沒有 PID。",
+      "evidence_pids": ["B07GPX2F5S"], "issues": ["missing_evidence_mapping", "minor_user_misreading", "missing_pid"]
+    },
+    {
+      "qid": "train-pet-supplies-000140", "prompt_id": "G-P3", "scores": [2, 2, 0, 0, 1],
+      "assessment": "核心推薦正確，但 SIMPLY FIT 文案沒有 100% satisfaction guarantee；該說法出現在第二名 MVP 增重產品，屬跨商品規格移植。136 words 超過共通 120-word 指令，沒有 PID。",
+      "evidence_pids": ["B07GPX2F5S", "B01ACQIG8Y"], "issues": ["cross_product_guarantee", "over_word_limit", "missing_pid"]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373", "prompt_id": "G-P1", "scores": [2, 2, 2, 1, 2],
+      "assessment": "選到標準 Shield 專用 IWB，規格、退伍軍人公司與退款保證均有文案支持，未被歷史腳踏車或耳罩帶走。comfortable/credibility/reliability 帶有超出已驗證事實的推論；PID 正確但沒有指定括號格式。",
+      "evidence_pids": ["B077TXZ34T"], "issues": ["marketing_inference", "pid_format"]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373", "prompt_id": "G-P2", "scores": [2, 2, 0, 0, 2],
+      "assessment": "舒適、標準型與無配件的需求對應有實際商品證據，但退款 within 30 days 在三項證據中皆未提供。這是新增期限，不能由 100% money-back 自動推導。沒有 PID。",
+      "evidence_pids": ["B077TXZ34T"], "issues": ["invented_refund_period", "missing_pid"]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373", "prompt_id": "G-P3", "scores": [0, 1, 0, 0, 1],
+      "assessment": "主要談過去腳踏車與耳罩，斷言沒有商品符合；實際第一名已提供標準 Shield、IWB、無附加配件、公司背景與退款資訊。這是沒有證據支持的拒答，而非正確的謹慎處理；把軟偏好也寫得像硬要求。",
+      "evidence_pids": ["B077TXZ34T"], "issues": ["history_distraction", "unsupported_abstention", "preference_distortion", "missing_pid"]
+    },
+    {
+      "qid": "beauty-train-003071", "prompt_id": "G-P1", "scores": [1, 1, 1, 0, 2],
+      "assessment": "選到相關 nail stamper，但 offers full nail patterns 沒有此 PID 文案明確支持；第三名 plate 標題反而明列 42 Full Nailart Designs。沒有說明已買 stamper 與新圖板的差異，也沒有 PID。",
+      "evidence_pids": ["B005V2LLXC", "B006OMHV00"], "issues": ["unsupported_full_patterns", "partial_current_need", "missing_pid"]
+    },
+    {
+      "qid": "beauty-train-003071", "prompt_id": "G-P2", "scores": [1, 1, 0, 0, 1],
+      "assessment": "把商品文案的 work fast 用法反寫成顧客說過自己會快速操作，亦捏造顧客希望改善技巧與嘗試不同技法的明確意圖。只有兩組需求，171 words 超限；有正確 PID，但沒有指定格式。",
+      "evidence_pids": ["B005V2LLXC", "B009NCM6JY", "B006OMHV00"], "issues": ["product_instruction_as_user_fact", "invented_user_intent", "over_word_limit", "pid_format"]
+    },
+    {
+      "qid": "beauty-train-003071", "prompt_id": "G-P3", "scores": [1, 1, 1, 0, 1],
+      "assessment": "再次把 MASH 說成有 full nail patterns，並無證據地比較其他圖板較 specialized、less versatile；沒有指出哪些規格不確定。134 words 超限，沒有 PID。",
+      "evidence_pids": ["B005V2LLXC", "B009NCM6JY", "B006OMHV00"], "issues": ["unsupported_full_patterns", "unsupported_comparison", "over_word_limit", "missing_pid"]
+    },
+    {
+      "qid": "train-pet-supplies-000234", "prompt_id": "G-P1", "scores": [0, 0, 0, 0, 2],
+      "assessment": "宣稱 Yak Cheese 美國製，直接違反文案 made in Nepal；其成分是 yak milk/salt/lime juice，亦非單一成分。保留消化酵素、不烘焙與 8 oz 沒有獲得確認。回答仍稱符合，沒有 PID。",
+      "evidence_pids": ["B01N3UZ10A"], "issues": ["origin_contradiction", "ingredient_constraint", "unverified_enzyme_processing_size", "missing_pid"]
+    },
+    {
+      "qid": "train-pet-supplies-000234", "prompt_id": "G-P2", "scores": [0, 0, 0, 0, 2],
+      "assessment": "所列天然成分與無添加部分有文案支持，但 Unmet Requirement: None identified 錯誤掩蓋 Nepal 產地、多成分及未證實酵素／處理方式／份量等關鍵缺口。沒有 PID。",
+      "evidence_pids": ["B01N3UZ10A"], "issues": ["false_no_unmet_requirements", "origin_constraint_ignored", "ingredient_constraint", "missing_pid"]
+    },
+    {
+      "qid": "train-pet-supplies-000234", "prompt_id": "G-P3", "scores": [0, 0, 0, 0, 2],
+      "assessment": "明確要求不要猜測的提示詞下，仍把 Nepal 產品說成 USA-made，並新增 8 oz 份量與 ensuring digestive health；商品證據不支持這些說法。沒有 PID。",
+      "evidence_pids": ["B01N3UZ10A"], "issues": ["origin_contradiction", "invented_size", "unsupported_health_outcome", "missing_pid"]
+    },
+    {
+      "qid": "beauty-train-001206", "prompt_id": "G-P1", "scores": [1, 1, 1, 0, 2],
+      "assessment": "選到有溫和配方文案的 Total Color，但未說明此 SKU 是 Light Golden Brown；將 gray coverage 當成避免 brassing 的理由，兩者不能由提供證據直接等同。紅色是軟偏好，應交代色號差異而非自動視為禁止棕色。沒有 PID。",
+      "evidence_pids": ["B09S794SG5"], "issues": ["shade_preference_omitted", "gray_coverage_as_anti_brass", "missing_pid"]
+    },
+    {
+      "qid": "beauty-train-001206", "prompt_id": "G-P2", "scores": [1, 1, 0, 0, 1],
+      "assessment": "把其他候選 ColorSilk 系列的技術名移植給第一名 Total Color；未處理所選色號棕色與紅色偏好、避免 brassing 的證據缺口。多條規格不等於三組需求對應；有正確 PID 但格式不符。",
+      "evidence_pids": ["B09S794SG5", "B0C2NP6NV7", "B0BP488JG5"], "issues": ["cross_product_technology", "shade_preference_omitted", "missing_requirement_mapping", "pid_format"]
+    },
+    {
+      "qid": "beauty-train-001206", "prompt_id": "G-P3", "scores": [1, 1, 0, 0, 1],
+      "assessment": "捏造顧客已有 very light hair tones，並在缺乏證據下推論缺少 keratin/amino acids 對其效果的影響；推薦的兩個 PID 都有效，但沒有交代實際棕色色號。138 words 超限，PID 格式不符。",
+      "evidence_pids": ["B09S794SG5", "B0C2NP6NV7"], "issues": ["invented_user_hair_tone", "unsupported_effect_inference", "shade_preference_omitted", "over_word_limit", "pid_format"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+  "torch": "2.8.0+cu128",
+  "numpy": "1.26.4",
+  "transformers": "4.56.1",
+  "sentence_transformers": "5.1.0",
+  "faiss": "1.12.0",
+  "cuda": true
+}

@@ -1,0 +1,49 @@
+{
+  "experiment": "h5_base_verified_own_hard_negative",
+  "source_checkpoint": "artifacts/training/h3_base_epoch1/checkpoint",
+  "output": "artifacts/training/h5_hard_negative",
+  "smoke_output": "artifacts/training/h5_hard_negative_smoke",
+  "seed": 42,
+  "epochs": 1,
+  "batch_size": 16,
+  "learning_rate": 0.000005,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "max_grad_norm": 1.0,
+  "scale": 20.0,
+  "max_seq_length": 512,
+  "precision": "float32",
+  "gradient_checkpointing": true,
+  "cuda_allocator_budget_gib": 8,
+  "candidate_start_ranks": [5, 15],
+  "candidate_max_rank": 50,
+  "candidates_per_query": 2,
+  "hard_negatives_per_query": 1,
+  "minimum_verified_negative_fraction": 0.25,
+  "teacher_batch_size": 8,
+  "teacher_max_new_tokens": 12,
+  "teacher_requires_exact_json_false": true,
+  "loss": "in_batch_InfoNCE_plus_only_the_query_own_verified_negative",
+  "gold_gate": {
+    "minimum_hit10_count_gain": 1,
+    "minimum_mrr10_gain": 0.005,
+    "hit50_must_not_decrease": true,
+    "dense_hit10_and_mrr10_must_not_decrease": true
+  },
+  "graded_gate": {
+    "recall_must_not_decrease": true,
+    "minimum_mrr10_gain": 0.005,
+    "category_changes_reported_not_silently_discarded": true
+  },
+  "retrieval": {
+    "dense_weight": 5,
+    "bm25_weight": 1,
+    "route_candidates": 100,
+    "rrf_constant": 60,
+    "bm25_query_mode": "full"
+  },
+  "maximum_quality_training_runs": 1,
+  "maximum_dev_judge_runs": 1,
+  "public_runs": 0,
+  "w11_authorized": false
+}

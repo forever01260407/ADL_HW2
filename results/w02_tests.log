@@ -1,0 +1,10 @@
+test_balanced_sample_and_label_free_q2 (test_splits.SplitTests.test_balanced_sample_and_label_free_q2) ... ok
+test_real_split_invariants (test_splits.SplitTests.test_real_split_invariants) ... ok
+test_roles_order_and_negation_are_distinct (test_splits.SplitTests.test_roles_order_and_negation_are_distinct) ... ok
+test_transitive_union_and_input_order (test_splits.SplitTests.test_transitive_union_and_input_order) ... ok
+test_validation (test_splits.SplitTests.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 1.426s
+
+OK

@@ -1,0 +1,25 @@
+{
+  "experiment": "w09_q2_v1",
+  "queries": "data/derived/q2_queries.jsonl",
+  "queries_sha256": "fa44d5256c163b7315c4186956a00dc576d96cd7fdc0b0440f71f7126576371a",
+  "products": "data/train/products.jsonl",
+  "products_sha256": "6865b9cb44dc1e1c3d8a38c6f8207b00ddd5b442471db1d2016e1cc8403dee34",
+  "rankings": "results/w08_default_dev_top50.json",
+  "rankings_sha256": "d5c919e2a2dc884c2263faad97453ac0073287ddf8e9002835c986125dfc308f",
+  "retriever": "w08_epoch1; hybrid; BM25 full/1/1; candidates 100; RRF 60",
+  "checkpoint_manifest_sha256": "05ff874553011df72611796a465f74f4e5da8e914b0341daf4f4fe85deb682f3",
+  "prompts": "code/script/configs/w09_prompts.json",
+  "sample_count": 5,
+  "top_n": 3,
+  "product_token_cap": 900,
+  "input_token_limit": 3840,
+  "total_token_limit": 4096,
+  "generation": {
+    "seed": 0,
+    "batch_size": 1,
+    "dtype": "bfloat16",
+    "do_sample": false,
+    "num_beams": 1,
+    "max_new_tokens": 256
+  }
+}

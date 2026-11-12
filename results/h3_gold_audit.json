@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "independent_gold_queries_verified": 1932,
+  "five_categories_and_six_sources_verified": true,
+  "variants": {
+    "base_dense": {
+      "gold_hits10": 722,
+      "gold_hits50": 854
+    },
+    "base5": {
+      "gold_hits10": 728,
+      "gold_hits50": 856
+    }
+  },
+  "input_sha256": {
+    "results/h3_gold_screening.json": "345103cd1de01c553fc1ba69db9f725142386b407bceb34f364af3b79d0e0cba"
+  }
+}

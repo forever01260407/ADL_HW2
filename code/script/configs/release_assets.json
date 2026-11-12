@@ -1,0 +1,57 @@
+{
+  "student_id": "r15922a14",
+  "final_model": {
+    "url": "https://drive.usercontent.google.com/download?id=1bC4rxq7mqzrqtbXfgbWAcPKzwktUwsWk&export=download&confirm=t",
+    "archive_name": "h5_final_r15922a14.zip",
+    "archive_sha256": "714d7a9be5486de5db8c59a8fba1a9f65d4e868f3c00b668500c20e5d8309768",
+    "archive_bytes": 395347153,
+    "path": "artifacts/training/h5_hard_negative/checkpoint",
+    "files": {
+      "1_Pooling/config.json": "2b1d283d4e7e9a64eef827933051d26478d271766eb234c76012f9012cd97907",
+      "config.json": "c7d0a7580e015e98305702068ffde8b36e54be9e862c3d4a379046181ace48f4",
+      "config_sentence_transformers.json": "4f23dd77608eabbd1915a1d4562f2582aaadf5884f587d574f2529ce91ff0f5b",
+      "model.safetensors": "61885419cc42c473335c10b81fed396eec15df4947b805b35a1eda3cd5e50b56",
+      "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+      "sentence_bert_config.json": "65c2293c310f5476a8d1cbada277722c3e7ae5b5ddbaa2d2fe5d075f410d6d02",
+      "special_tokens_map.json": "5d5b662e421ea9fac075174bb0688ee0d9431699900b90662acd44b2a350503a",
+      "tokenizer.json": "91f1def9b9391fdabe028cd3f3fcc4efd34e5d1f08c3bf2de513ebb5911a1854",
+      "tokenizer_config.json": "479a5afc56069a77cc24c74a1943501275664e8d493e215f5716a81ebc0e86db",
+      "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+    }
+  },
+  "auxiliary_models": {
+    "base": {
+      "repo_id": "BAAI/bge-base-en-v1.5",
+      "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+      "path": "artifacts/models/bge-base-en-v1.5",
+      "files": {
+        "1_Pooling/config.json": "c9bef85e8bbf4b2eab4941b3fb62bd33f88686748b478f2e264d256472d9643b",
+        "config.json": "bc00af31a4a31b74040d73370aa83b62da34c90b75eb77bfa7db039d90abd591",
+        "config_sentence_transformers.json": "940d5f50db195fa6e5e6a4f122c095f77880de259d74b14a65779ed48bdd7c56",
+        "model.safetensors": "c7c1988aae201f80cf91a5dbbd5866409503b89dcaba877ca6dba7dd0a5167d7",
+        "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+        "sentence_bert_config.json": "84e39fda68ccbff05bfa723ae9c0e70e23e2ec373b76e0f8c6e71af72a693cbf",
+        "special_tokens_map.json": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3",
+        "tokenizer.json": "d241a60d5e8f04cc1b2b3e9ef7a4921b27bf526d9f6050ab90f9267a1f9e5c66",
+        "tokenizer_config.json": "9261e7d79b44c8195c1cada2b453e55b00aeb81e907a6664974b4d7776172ab3",
+        "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+      }
+    },
+    "generator": {
+      "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "path": "artifacts/models/Qwen2.5-1.5B-Instruct",
+      "files": {
+        "config.json": "98d2ff8cc47488d08a2b0b3acf4eb99ef210779b42bd48605f6b8e36acdbf670",
+        "generation_config.json": "e558847a8b4402616f1273797b015104dc266fe4b520056fca88823ba8f8ebe6",
+        "merges.txt": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+        "model.safetensors": "dd924a11b4c220f385b51ffa522daea7c9f3d850e31b162bb5661df483c6d3ee",
+        "tokenizer.json": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+        "tokenizer_config.json": "5b5d4f65d0acd3b2d56a35b56d374a36cbc1c8fa5cf3b3febbbfabf22f359583",
+        "vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+      }
+    }
+  },
+  "training_negatives_sha256": "fa8cd04ac5caa199fabfeafbe8ed85c88cd974637780990b39945fa843090a88",
+  "public_used_for_training": false
+}

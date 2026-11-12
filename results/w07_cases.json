@@ -1,0 +1,1172 @@
+[
+  {
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000034",
+      "query": "user: I'm just browsing for some new grooming things, maybe something to go with my shea shampoo and oat lotion but I'm not sure what I need.\nassistant: Got it! Are you looking more for hair care or something for your body and shower routine?\nuser: Honestly I'm a bit unsure, maybe something for the shower that's simple and not too fancy.",
+      "gold_pid": "B00AFCP6F2"
+    },
+    "gold_title": "Old Spice High Endurance Pure Sport Scent Bar Soap Pack Of 6 - 24 Oz",
+    "variants": {
+      "B0": [
+        {
+          "rank": 1,
+          "pid": "B000HJUWRU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "The Body Shop Cactus Body Brush"
+        },
+        {
+          "rank": 2,
+          "pid": "B0046HIP1Y",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Curl Junkie Curl Assurance Smoothing Lotion, 12 fl. oz."
+        },
+        {
+          "rank": 3,
+          "pid": "B000NRQ89M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Ultra moisture in-Shower body lotion with shea butter 8.4 fl oz"
+        },
+        {
+          "rank": 4,
+          "pid": "B0016OCTDU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW! Solid Shampoo by LUSH"
+        },
+        {
+          "rank": 5,
+          "pid": "B08KJKWPZC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "SheaMoisture Restorative Conditioner for Dry, Damaged Hair Raw Shea Butter Silicone Free Conditioner for Curly Hair 13 oz"
+        },
+        {
+          "rank": 6,
+          "pid": "B01LTIAU8S",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cantu for Men Leave-In Rinse-Out Conditioner for Hair & Beard, 13 oz (Packaging May Vary)"
+        },
+        {
+          "rank": 7,
+          "pid": "B001FB5NTG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Moisturinse In-Shower Body Lotion w/ shea butter, 15.2 Ounce (Pack of 4)"
+        },
+        {
+          "rank": 8,
+          "pid": "B00A0J09C0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Dove Men+Care Hydrate + Shave Gel"
+        },
+        {
+          "rank": 9,
+          "pid": "B000KOOCQO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Goody Ouchless Cushion Styling Hair Brush for Medium Hair #88168 Color May Very"
+        },
+        {
+          "rank": 10,
+          "pid": "B076S9XDTJ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "OGX Hydrating Moisture + Shea Soft & Smooth Body Wash, Coconut, 19.5 Fl Oz"
+        }
+      ],
+      "A1": [
+        {
+          "rank": 1,
+          "pid": "B0C4BD1NLC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "SheaMoisture Shampoo Deep Moisturizing For Dry, Damaged Or Transitioning Hair Raw Shea Butter Sulfate-Free 13oz"
+        },
+        {
+          "rank": 2,
+          "pid": "B0016OCTDU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW! Solid Shampoo by LUSH"
+        },
+        {
+          "rank": 3,
+          "pid": "B007RTR9FQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "CLEAR SCALP & HAIR BEAUTY Ultra Shea Cleanse & Nourish Shampoo, 12.9 Fluid Ounce"
+        },
+        {
+          "rank": 4,
+          "pid": "B000NVMM1G",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Ultra Moisture Lotion with Shea Butter Lotion Women by Olay, 8.4 Ounce"
+        },
+        {
+          "rank": 5,
+          "pid": "B000NRQ89M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Ultra moisture in-Shower body lotion with shea butter 8.4 fl oz"
+        },
+        {
+          "rank": 6,
+          "pid": "B001FB5NTG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Moisturinse In-Shower Body Lotion w/ shea butter, 15.2 Ounce (Pack of 4)"
+        },
+        {
+          "rank": 7,
+          "pid": "B0CCZK7VWN",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cantu Sulfate-Free Cleansing Cream Shampoo with Shea Butter for Natural Hair, 13.5 fl oz (Packaging May Vary)"
+        },
+        {
+          "rank": 8,
+          "pid": "B0BDXXKWNC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cantu Moisturizing Curl Activator Cream for Natural Hair with Pure Shea Butter, 12 fl oz (Pack of 2) (Packaging May Vary)"
+        },
+        {
+          "rank": 9,
+          "pid": "B0BSPTLD2M",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Cantu Extra Hold Edge Stay Gel for Natural Hair with Shea Butter, 2.25 oz (Pack of 4) (Packaging May Vary)"
+        },
+        {
+          "rank": 10,
+          "pid": "B09FPCLB9L",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cantu Moisturizing Twist & Lock Gel with Shea Butter for Natural Hair, 13 oz (Packaging May Vary)"
+        }
+      ]
+    }
+  },
+  {
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000304",
+      "query": "user: I picked up that rose bud shellac a while back but my nails are still soft and peeling, so I'm skeptical any polish can help.\nassistant: Got it. Have you tried a dedicated nail treatment rather than just color?\nuser: Probably not, but I doubt a strengthener actually thickens nails or fills ridges like they claim.",
+      "gold_pid": "B000RLXG6W"
+    },
+    "gold_title": "Nail Tek Intensitive Therapy II With Free Foundation II (Size.5x2)",
+    "variants": {
+      "B0": [
+        {
+          "rank": 1,
+          "pid": "B00126IXLO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Quimica Alemana Nail Hardener 0.47 oz"
+        },
+        {
+          "rank": 2,
+          "pid": "B003OGV7UO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Creative Nail Shellac Rose Bud, 0.25 Fluid Ounce"
+        },
+        {
+          "rank": 3,
+          "pid": "B07BSCMBB3",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NAIL-AID Hardener + Keratin Growth + Gel Top Coat, Clear Set"
+        },
+        {
+          "rank": 4,
+          "pid": "B096LHC1F4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Nail-Aid Biotin Ultimate Strength - Nail Treatment & Strengthener - Clear, 0.55 Fl Oz (08873)"
+        },
+        {
+          "rank": 5,
+          "pid": "B007AAUXI2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Creative Nail Shellac Rubble, 0.25 Fluid Ounce"
+        },
+        {
+          "rank": 6,
+          "pid": "B006GK5NNW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "CND Shellac Gel Nail Polish \"Zillionaire .25 Oz\" High Quality"
+        },
+        {
+          "rank": 7,
+          "pid": "B003OGQYC0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Shellac Cream Puff .25 oz."
+        },
+        {
+          "rank": 8,
+          "pid": "B09KCDYKLX",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Bliss Kiss | Vanilla Fragrance | Nail Oil Cuticle Dropper w/Vitamin E & Jojoba⏤Nail Strengthener Nail Growth Treatment for Brittle Peeling Breaking Thin Nails | 0.5oz |"
+        },
+        {
+          "rank": 9,
+          "pid": "B004LEJ8R2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Creative Nail Shellac, Iced Coral, 0.25 Fluid Ounce"
+        },
+        {
+          "rank": 10,
+          "pid": "B007BKB6AU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "MelodySusie Portable White Violeteer 9W UV Lamp Light Acrylic Nail Dryer for CND Shellac, All Brand of UV Gel Nail Polish + MelodySusie Nail Nippers"
+        }
+      ],
+      "A1": [
+        {
+          "rank": 1,
+          "pid": "B003OGV7UO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Creative Nail Shellac Rose Bud, 0.25 Fluid Ounce"
+        },
+        {
+          "rank": 2,
+          "pid": "B000RLXG6W",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null,
+          "title": "Nail Tek Intensitive Therapy II With Free Foundation II (Size.5x2)"
+        },
+        {
+          "rank": 3,
+          "pid": "B006GK5NNW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "CND Shellac Gel Nail Polish \"Zillionaire .25 Oz\" High Quality"
+        },
+        {
+          "rank": 4,
+          "pid": "B005LK6F58",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Shellac Black Pool Gel Nail Polish .25 Oz"
+        },
+        {
+          "rank": 5,
+          "pid": "B005G5DTZC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Creative Nail Shellac, Hotski To Tchotchke, 0.25 Fluid Ounce"
+        },
+        {
+          "rank": 6,
+          "pid": "B003ZUZCDC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Rose Garden"
+        },
+        {
+          "rank": 7,
+          "pid": "B007AAUXI2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Creative Nail Shellac Rubble, 0.25 Fluid Ounce"
+        },
+        {
+          "rank": 8,
+          "pid": "B007EZ2HI2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Creative Nail Shellac Dark Lava, 0.25 Fluid Ounce"
+        },
+        {
+          "rank": 9,
+          "pid": "B07BSCMBB3",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NAIL-AID Hardener + Keratin Growth + Gel Top Coat, Clear Set"
+        },
+        {
+          "rank": 10,
+          "pid": "B004GJCN8I",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "CND Shellac Creative Nail Shellac UV Top Coat 0.5 oz"
+        }
+      ]
+    }
+  },
+  {
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000534",
+      "query": "user: hey, i'm kinda looking into nail art stuff but not sure what i need yet. i did get some stamp plates a while back though.\nassistant: nice! what kind of stamping have you been doing with those plates?\nuser: mostly just trying out the PUEEN and Fairy stamp sets i grabbed, but my old stamper is kinda crap.\nassistant: gotcha. are you looking for a better stamper to go with them?\nuser: yeah maybe, something that's easy to use would be good.",
+      "gold_pid": "B00DIH6CMW"
+    },
+    "gold_title": "PUEEN Nail Art Super Soft Squishy Silicone Stamper and Scraper Set - Stamping Tools",
+    "variants": {
+      "B0": [
+        {
+          "rank": 1,
+          "pid": "B009NCM6JY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Fairy Set of 25 Nail Art Design Stamps Stamping Manicure Image Plates by Gals"
+        },
+        {
+          "rank": 2,
+          "pid": "B00649P3H6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Set of 10 Nail Art / Nailart Stamp Plates - Stamper and Scraper Kit by Cheeky®"
+        },
+        {
+          "rank": 3,
+          "pid": "B005FK3M46",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW 2013 Gals \"Princes Set\" of 25 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit."
+        },
+        {
+          "rank": 4,
+          "pid": "B0082XRJXS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW 2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 161 Nail Art Designs."
+        },
+        {
+          "rank": 5,
+          "pid": "B006OMHR1S",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 160 Nail Art Designs"
+        },
+        {
+          "rank": 6,
+          "pid": "B006OMHUGU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Bundle 3 Nail Art Jumbo Image Plates Stamps (Z4) of 168 Designs by Cheeky"
+        },
+        {
+          "rank": 7,
+          "pid": "B006OMHTMK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Bundle 3 Nail Art Jumbo Image Plates Stamps (Z2) of 168 Designs by Cheeky®"
+        },
+        {
+          "rank": 8,
+          "pid": "B006OMHUZQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Bundle of 6 Nail Art Jumbo Image Plates Stamps (X1) 331 Designs by Cheeky®"
+        },
+        {
+          "rank": 9,
+          "pid": "B006OMHTXO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Bundle 3 Nail Art Jumbo Image Plates Stamps (Z3) of 168 Designs by Cheeky®"
+        },
+        {
+          "rank": 10,
+          "pid": "B0082XRHGM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Design Jumbo Nail Art Image Plate (D) of 42 Full Nailart Designs by Cheeky®"
+        }
+      ],
+      "A1": [
+        {
+          "rank": 1,
+          "pid": "B00649P3H6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Set of 10 Nail Art / Nailart Stamp Plates - Stamper and Scraper Kit by Cheeky®"
+        },
+        {
+          "rank": 2,
+          "pid": "B00B83V0HK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Nail Art Jumbo Stamp Stamping Manicure Image Plate 9 Wild At Heart by Cheeky®"
+        },
+        {
+          "rank": 3,
+          "pid": "B009NCM6JY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Fairy Set of 25 Nail Art Design Stamps Stamping Manicure Image Plates by Gals"
+        },
+        {
+          "rank": 4,
+          "pid": "B005R3UYEW",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "SHANY Stamping Nail Art Set (Nail Art Image Plate Holder, Scraper, Stamper)"
+        },
+        {
+          "rank": 5,
+          "pid": "B0082XRJXS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW 2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 161 Nail Art Designs."
+        },
+        {
+          "rank": 6,
+          "pid": "B00B83G0OS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Nail Art Jumbo Stamp Stamping Manicure Image Plate 1 Viva Mexico by Cheeky®"
+        },
+        {
+          "rank": 7,
+          "pid": "B00B83I86G",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Nail Art Jumbo Stamp Stamping Manicure Image Plate 3 European Romance by Cheeky®"
+        },
+        {
+          "rank": 8,
+          "pid": "B006OMHUZQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Bundle of 6 Nail Art Jumbo Image Plates Stamps (X1) 331 Designs by Cheeky®"
+        },
+        {
+          "rank": 9,
+          "pid": "B006OMHUGU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Bundle 3 Nail Art Jumbo Image Plates Stamps (Z4) of 168 Designs by Cheeky"
+        },
+        {
+          "rank": 10,
+          "pid": "B006OMHTMK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Bundle 3 Nail Art Jumbo Image Plates Stamps (Z2) of 168 Designs by Cheeky®"
+        }
+      ]
+    }
+  },
+  {
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000000",
+      "query": "user: hey, just browsing for something new for my skin but not really sure what i need. i did love that self-tanning mousse i grabbed last time though\nassistant: happy to help! are you wanting more of a hydrating lotion or something to firm and tone your skin?\nuser: probably firming, i've been noticing my skin feels less tight than before",
+      "gold_pid": "B000P9B3NY"
+    },
+    "gold_title": "Jergens Skin Firming Daily Toning Moisturizer, 16.8 Ounce",
+    "variants": {
+      "B0": [
+        {
+          "rank": 1,
+          "pid": "B0916YXLY8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "That’s What Sea Said Tanning Lotion Accelerator - For Indoor Tanning Beds and Outdoor Sun Tan - Safe for Face, Body and Tattoos - With Coconut Oil - No Bronzer"
+        },
+        {
+          "rank": 2,
+          "pid": "B09B1T79CM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Jergens Natural Glow +FIRMING In-shower Self Tanner Lotion, Sunless Tanning for Medium to Deep Skin Tone, Anti Cellulite Firming Body Lotion, for Gradual and Natural-Looking Fake Tan, 7.5 Ounce"
+        },
+        {
+          "rank": 3,
+          "pid": "B000P9B3NY",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null,
+          "title": "Jergens Skin Firming Daily Toning Moisturizer, 16.8 Ounce"
+        },
+        {
+          "rank": 4,
+          "pid": "B09DPN5P5D",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NIVEA Item Name Skin Firming Body Lotion with Q10 and Shea Butter, Skin Firming Lotion, Moisturizing Shea Butter Lotion, 16.9 Fl Oz (Pack of 3)"
+        },
+        {
+          "rank": 5,
+          "pid": "B07RHWBTS5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NIVEA Skin Firming Body Lotion Variety Pack with 16.9 Fl Oz Hydrating Body Lotion and 6.7 Oz Skin Firming Gel Cream"
+        },
+        {
+          "rank": 6,
+          "pid": "B000NVMM1G",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Ultra Moisture Lotion with Shea Butter Lotion Women by Olay, 8.4 Ounce"
+        },
+        {
+          "rank": 7,
+          "pid": "B005KJ35D0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Own Products Refining Moisture Night Cream"
+        },
+        {
+          "rank": 8,
+          "pid": "B0009I4J4G",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Lubriderm Daily Moisture Lotion with Shea and Cocoa Butter, 16 Ounce"
+        },
+        {
+          "rank": 9,
+          "pid": "B08Z38LKKT",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Bondi Sands Everyday Gradual Tanning Milk | Long-Lasting, Tanning Body Moisturizer Enriched With Aloe Vera and Vitamin E for Glowing Skin"
+        },
+        {
+          "rank": 10,
+          "pid": "B001G7PNU8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Quench Plus Firming Body Lotion, 13.5 Ounce (Pack of 2)"
+        }
+      ],
+      "A1": [
+        {
+          "rank": 1,
+          "pid": "B09B1T79CM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Jergens Natural Glow +FIRMING In-shower Self Tanner Lotion, Sunless Tanning for Medium to Deep Skin Tone, Anti Cellulite Firming Body Lotion, for Gradual and Natural-Looking Fake Tan, 7.5 Ounce"
+        },
+        {
+          "rank": 2,
+          "pid": "B09XV9ZWNF",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Yvoier Tanning Back Lotion Applicator - Self Tanning Lotion Applicator for Back Tanner Lotion Double-Side Used Back Buddy Lotion Applicator Apply Lotion to Back Smooth Even Tan"
+        },
+        {
+          "rank": 3,
+          "pid": "B0758ZMRZD",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Loving Tan 2 HR Express Mousse 200ml - Ultra Dark"
+        },
+        {
+          "rank": 4,
+          "pid": "B0C5RYXK3V",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Tan Physics True Color Sunless Tanner 8 fl oz"
+        },
+        {
+          "rank": 5,
+          "pid": "B0C2578X82",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "SOL by Jergens Deep Water Self Tanner Mousse, Water-based Sunless Tanner with Coconut Water, Tanning Water for Natural Looking Fake Tan, Dye-free, Tanning Active Derived from Natural Sugars, 5 Ounce"
+        },
+        {
+          "rank": 6,
+          "pid": "B005KJ353U",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Own Products Rejuvenating Facial Cleanser"
+        },
+        {
+          "rank": 7,
+          "pid": "B08JK18449",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Jergens Natural Glow 3-Day Sunless Tanning Lotion, Self Tanner, Fair to Medium Skin Tone, Sunless Tanning Daily Moisturizer, for Streak-free Color, 4 Ounce"
+        },
+        {
+          "rank": 8,
+          "pid": "B0916YXLY8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "That’s What Sea Said Tanning Lotion Accelerator - For Indoor Tanning Beds and Outdoor Sun Tan - Safe for Face, Body and Tattoos - With Coconut Oil - No Bronzer"
+        },
+        {
+          "rank": 9,
+          "pid": "B005KJ35D0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Own Products Refining Moisture Night Cream"
+        },
+        {
+          "rank": 10,
+          "pid": "B0BZ3XNRK5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Alpha Skin Care Revitalizing Body Lotion with 12% Glycolic AHA, Simple and Effective Multi-Purpose Daily Moisturizer Hydrates and Exfoliates with Anti-Aging, Smoothing Properties"
+        }
+      ]
+    }
+  },
+  {
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000033",
+      "query": "user: I've been using that firming eye cream and my argan oil, but noticing some scars from weight changes. Not sure creams really work though.\nassistant: Yeah, lots of creams are hype, but some have real independent testing.\nuser: Independent testing sounds like marketing fluff. What could actually fade stretch marks?",
+      "gold_pid": "B00DLRNSSK"
+    },
+    "gold_title": "DermaRESTORE - Stretch Mark and Scar Treatment - The Latest in Skin Repair technology - 4oz Cream",
+    "variants": {
+      "B0": [
+        {
+          "rank": 1,
+          "pid": "B00J9E8MPS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Stretch Mark Cream ~ One of the Best Natural, Preventative, Anti Stretch Mark Firming Creams ~ 60 DAY GUARANTEE ~ Suitable for Men and Women ~ Remove, Repair and Prevent Your Pregnancy Stretch Marks ~ Scar Removal Cream ~ Pregnant and Wondering How to Get Rid of Stretch Marks? Massage Our Superior Moisturizing Cream Into Your Skin for the Answer! ~ 4oz"
+        },
+        {
+          "rank": 2,
+          "pid": "B00DLRNSSK",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null,
+          "title": "DermaRESTORE - Stretch Mark and Scar Treatment - The Latest in Skin Repair technology - 4oz Cream"
+        },
+        {
+          "rank": 3,
+          "pid": "B00I4ZERGG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "#1 Best Selling Organic Anti-Aging, Brightening Eye Cream 1 oz , Best Dark Circles, Puffiness, Dark Circle Eye Treatments, Wrinkles & Bags Under Eyes Treatment, Fast-Acting & All-Natural Facial Lines and Wrinkle Remover Using A Lightweight Oil-Free Formulation. Guaranteed to Work & Backed by Our 90-Day No-Questions Asked Guarantee!"
+        },
+        {
+          "rank": 4,
+          "pid": "B095FL23YS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Sudden Change Under-Eye Firming Serum - Decreases Under-Eye Bags, Puffiness, Lines, & Wrinkles - Wear With or Without Makeup - Works in Under 3 Minutes (0.23 oz, Pack of 2)"
+        },
+        {
+          "rank": 5,
+          "pid": "B000V1BDIG",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Belli Elasticity Belly Oil, 4 fl. oz."
+        },
+        {
+          "rank": 6,
+          "pid": "B09MY1FZMJ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Palmer's Cocoa Butter Formula Skin Therapy Moisturizing Body Oil with Vitamin E & Pure Argan Oil, Deep Body Moisturizer for Dry, Damaged Skin, Scars or Stretch Marks, 5.1 Ounces (Pack of 3)"
+        },
+        {
+          "rank": 7,
+          "pid": "B00JYKBZ3I",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Best Anti- aging Cream to Curb Wrinkles. Anti -aging Moisturizers with Peptides, Vitamin C and Hyaluronic Acid. #1 Anti-Wrinkle Cream. Use it for Pain Free Rejuvenation and Restoration of Skin without Painful Injections. Lifting and Firming Cream. Comes With 100 percent Money Back Guarantee !!!."
+        },
+        {
+          "rank": 8,
+          "pid": "B000248HLI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "StriVectin-SD Intensive Repair for Existing Stretch Marks, 6 oz."
+        },
+        {
+          "rank": 9,
+          "pid": "B0064M5JBI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Argan Oil 50 Night Cream for mature and dry skin"
+        },
+        {
+          "rank": 10,
+          "pid": "B00KLJDYL2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Integral Beauty's Anti Aging Eye Cream Gives You Younger Looking Eyes, Minimizes Fine Lines & Wrinkles, Reduces Dark Circles & Repairs Puffiness and Tired Eyes. Advanced Formula Containing Peptides of Matrixyl 3000 & Tripeptide-5 Plus Ocean Based Retinol. Firm, Rejuvenate, Repair and Soothe the Skin Around Your Eyes Helping You To Look Years Younger. ★ Zero Risk 100% Money Back Guarantee ★"
+        }
+      ],
+      "A1": [
+        {
+          "rank": 1,
+          "pid": "B00CKH38HI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Savanaah's Organic Argan Eye Cream 2 OZ / 60g"
+        },
+        {
+          "rank": 2,
+          "pid": "B00IH49VBU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "100% Organic Argan Oil for Skin & Hair - Pure Virgin Argan Oil is Cold Pressed for Highest Quality - Supports Hair Growth - One of the Best Natural Anti-Aging/Anti-Wrinkle Skin Care Products - Super Antioxidant Moisturizer with Vitamin E - Fast Absorbing and Non Greasy Beauty Treatment - Feel Confident with Our Satisfaction Guarantee!"
+        },
+        {
+          "rank": 3,
+          "pid": "B0064M5JBI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Argan Oil 50 Night Cream for mature and dry skin"
+        },
+        {
+          "rank": 4,
+          "pid": "B09MY1FZMJ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Palmer's Cocoa Butter Formula Skin Therapy Moisturizing Body Oil with Vitamin E & Pure Argan Oil, Deep Body Moisturizer for Dry, Damaged Skin, Scars or Stretch Marks, 5.1 Ounces (Pack of 3)"
+        },
+        {
+          "rank": 5,
+          "pid": "B095FL23YS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Sudden Change Under-Eye Firming Serum - Decreases Under-Eye Bags, Puffiness, Lines, & Wrinkles - Wear With or Without Makeup - Works in Under 3 Minutes (0.23 oz, Pack of 2)"
+        },
+        {
+          "rank": 6,
+          "pid": "B00CSS9ZHG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Natural Anti Aging Anti Wrinkle Intensive Skin Care Eye Firming Cream - Made Under the Mediterranean Sun | Smooths Out Fine Lines and Wrinkles | Lightens Dark Circles | Reduces Puffy Eyes | Encourages the Skin to Produce Natural Collagen | Rejuvenating Naturally Mediterranean Moisturizing Cream | SAY Goodbye to Wrinkles, Baggy Eyes and Dark Rings | Fresh Looking Youthful Skin | Easily Absorbs to Leave Skin Smooth | No Chemicals, No Additives, No Unnatural Preservatives, No Parabens, No Free Radicals"
+        },
+        {
+          "rank": 7,
+          "pid": "B0018SAJ7M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC CompleteLift Eye Cream, 0.5-Ounce Tube"
+        },
+        {
+          "rank": 8,
+          "pid": "B006YUOHXQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Argan Oil Body Butter 8 oz. Jar"
+        },
+        {
+          "rank": 9,
+          "pid": "B00KK1V28I",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Hair Repair Mask with Argan Oil and Shea Butter For Moisturizing Dry Damaged Hair-Great For Curly, Frizzy and Chemically-Treated Hair. L'Eau de Parfum (Fragrance) du Masque est Excellent Plus Is Paraben Free and Sulfate Free-Satisfaction Guaranteed"
+        },
+        {
+          "rank": 10,
+          "pid": "B000NSTX20",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Sudden Change Under-eye Firming Serum 0.23 Oz"
+        }
+      ]
+    }
+  },
+  {
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000078",
+      "query": "user: I liked those soft false lashes and the Burt's Bees foot kit I bought. I need a natural shampoo without harsh chemicals.\nassistant: Nice! Are you looking for something SLS-free?\nuser: Yes, exactly, SLS-free and made in the USA.",
+      "gold_pid": "B005I8RH78"
+    },
+    "gold_title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA",
+    "variants": {
+      "B0": [
+        {
+          "rank": 1,
+          "pid": "B005I8RH78",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null,
+          "title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA"
+        },
+        {
+          "rank": 2,
+          "pid": "B004EDYQX6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Tips and Toes Kit"
+        },
+        {
+          "rank": 3,
+          "pid": "B09WHMND5W",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Newcally Natural Look Lashes Mink 3D Fluffy Wispy False Eyelashes Short Light Volume Fake Eye Lashes Pack 14 Pairs Reusable Soft Faux Mink Eyelashes"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BDTL82H1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Shed Control Shampoo with Omega 3 and Vitamin E | Shedding Shampoo for All Dogs | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Ounces"
+        },
+        {
+          "rank": 5,
+          "pid": "B00ZY64J2A",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Klorane Shampoo with Olive Extract, Thicker Fuller & Stronger Hair, Antioxidant Rich, Paraben & SLS Free"
+        },
+        {
+          "rank": 6,
+          "pid": "B0BGSD6NCW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "VGTE False Eyelashes Russian Strip Lashes D Curl Wispy Fluffy Natural Cat Eye Lashes 3D Faux Mink Lashes 10 Pairs Pack (3D T01)"
+        },
+        {
+          "rank": 7,
+          "pid": "B08NG8WWH2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Oatmeal Dog Shampoo | With Colloidal Oat Flour & Honey | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Oz - Pack of 6"
+        },
+        {
+          "rank": 8,
+          "pid": "B0C6N71G61",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Moisturizing Lip Care, for All Day Hydration, 100% Natural, Original Beeswax with Vitamin E & Peppermint Oil (2 Pack)"
+        },
+        {
+          "rank": 9,
+          "pid": "B0BR86QDHL",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Eye Makeup Remover Pads, 35 Count"
+        },
+        {
+          "rank": 10,
+          "pid": "B008HBMQTM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Sensitive Facial Cleansing Towelettes with Cotton Extract, 30 Count"
+        }
+      ],
+      "A1": [
+        {
+          "rank": 1,
+          "pid": "B08NG8WWH2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Oatmeal Dog Shampoo | With Colloidal Oat Flour & Honey | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Oz - Pack of 6"
+        },
+        {
+          "rank": 2,
+          "pid": "B0BTPD94D8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Calming Dog Shampoo | Soothes, Calms & Revitalizes Dog's Coats | Dog Shampoos Made with Lavender and Green Tea | pH Balanced for Puppies - Made in USA, 32 Oz"
+        },
+        {
+          "rank": 3,
+          "pid": "B0B5Q8D9YS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Hypoallergenic Dog Shampoo with Shea Butter & Honey for Dogs with Dry or Sensitive Skin | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs | 16 Oz, 2 Pack"
+        },
+        {
+          "rank": 4,
+          "pid": "B004EDYQX6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Tips and Toes Kit"
+        },
+        {
+          "rank": 5,
+          "pid": "B0B5Q8JKPB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Kitten Natural Tearless Shampoo with Buttermilk, 10 Oz - Burts Bees Cat Shampoo, Kitten Shampoo for Cats - Cat Grooming Supplies, Cat Bath Supplies, Kitty Shampoo, Pet Shampoo"
+        },
+        {
+          "rank": 6,
+          "pid": "B0BTBXG6Z6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Deodorizing Dog Shampoo with Apple & Rosemary |Dog Shampoo Combats Odors | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 oz - 2 Pack"
+        },
+        {
+          "rank": 7,
+          "pid": "B0B5Q9C3MV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Waterless Shampoo Spray with Apple and Honey | Dry Dog Shampoo for All Dogs and Puppies | Cruelty, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 10 Ounces"
+        },
+        {
+          "rank": 8,
+          "pid": "B0BDTL82H1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Shed Control Shampoo with Omega 3 and Vitamin E | Shedding Shampoo for All Dogs | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Ounces"
+        },
+        {
+          "rank": 9,
+          "pid": "B01ACOH2BI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Coconut Oil Foot Cream, Package May Vary, 4.3 Oz"
+        },
+        {
+          "rank": 10,
+          "pid": "B001GIOV3W",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Face Wash, Deep Facial Cleansing Cream, All Natural Cleanser with Chamomile, 6 Ounce (Pack of 3) (Packaging May Vary)"
+        }
+      ]
+    }
+  }
+]

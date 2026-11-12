@@ -1,0 +1,3 @@
+{"step": 1, "batch_size": 16, "loss": 1.0380139350891113, "learning_rate": 0.0, "grad_norm_before_clip": 13.764057159423828, "own_verified_negatives": 16, "duplicate_stream_negatives_masked": 0}
+{"step": 4, "batch_size": 16, "loss": 0.6909176111221313, "learning_rate": 1.6666666666666667e-06, "grad_norm_before_clip": 12.372822761535645, "own_verified_negatives": 16, "duplicate_stream_negatives_masked": 0}
+{"status": "completed", "train_count": 16, "optimizer_steps": 4, "trained_own_negative_exposures": 64, "training_wall_seconds": 2.5337716060021194, "peak_cuda_allocated_bytes": 2934958592, "peak_cuda_reserved_bytes": 3244294144, "offline_reload_max_abs_difference": 0.0}

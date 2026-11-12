@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-10-24T17:34:25.645385+00:00",
+  "candidate": "H3 trained BGE-base, full transcript BM25, RRF 5:1, 100 each, constant60",
+  "checkpoint": "artifacts/training/h3_base_epoch1/checkpoint",
+  "default_promoted_before_public": true,
+  "selection_basis": "train/dev only; accept D28 Pet tradeoff; no selection based on new Public",
+  "queries": 1000,
+  "products": 75000,
+  "maximum_public_judge_runs": 1,
+  "batch_size": 8,
+  "max_new_tokens": 12,
+  "dtype": "bfloat16",
+  "do_sample": false,
+  "input_sha256": {
+    "results/h4_validation_plan.json": "36d249bd17d5b6e375986e0dedc04e09b41a9bdb37bc58733db32e5e625b2030",
+    "results/h4_dev_validation.json": "6938b1ac9e13220a2a1a57bbc7c8317a22b01c0e4c52b8463e243e11cf155396",
+    "retrieval_utils.py": "048ac8e45bc148f787815e365ce850169c6830716a86622f46afd296403933f6"
+  }
+}

@@ -1,0 +1,2 @@
+bm25: products=50000 queries=966 terms=210066 k1=1.5 b=0.75 query_tf=unique lexical_s=7.275
+Saved 966 ranked lists -> results/h1_bm25_dev_top10.json

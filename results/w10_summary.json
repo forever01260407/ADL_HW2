@@ -1,0 +1,228 @@
+{
+  "candidate": "w08_epoch1 hybrid full/1/1",
+  "official_public_judge_runs": 1,
+  "public": {
+    "metrics": {
+      "queries": 1000,
+      "graded_recall@10": 0.902,
+      "graded_mrr@10": 0.7043484126984128
+    },
+    "comparisons": 9181,
+    "parse_failures": 0,
+    "judge_resources": {
+      "peak_cuda_memory_gib": 4.653174877166748,
+      "peak_cuda_memory_reserved_gib": 9.875
+    },
+    "judge_runtime_seconds": 661.773915861002
+  },
+  "grade_estimate": {
+    "split": "public",
+    "interpretation": "estimated additive per-cell course percentage points; exact boundary/grading rules not explicitly confirmed",
+    "cells": [
+      {
+        "tier": "simple",
+        "metric": "graded_recall@10",
+        "threshold": 0.86,
+        "actual": 0.902,
+        "course_percentage_points": 2,
+        "relation": "above",
+        "estimated_if_inclusive": 2,
+        "estimated_if_strict": 2
+      },
+      {
+        "tier": "simple",
+        "metric": "graded_mrr@10",
+        "threshold": 0.65,
+        "actual": 0.7043484126984128,
+        "course_percentage_points": 2,
+        "relation": "above",
+        "estimated_if_inclusive": 2,
+        "estimated_if_strict": 2
+      },
+      {
+        "tier": "strong",
+        "metric": "graded_recall@10",
+        "threshold": 0.885,
+        "actual": 0.902,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      },
+      {
+        "tier": "strong",
+        "metric": "graded_mrr@10",
+        "threshold": 0.68,
+        "actual": 0.7043484126984128,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      },
+      {
+        "tier": "boss",
+        "metric": "graded_recall@10",
+        "threshold": 0.95,
+        "actual": 0.902,
+        "course_percentage_points": 1,
+        "relation": "below",
+        "estimated_if_inclusive": 0,
+        "estimated_if_strict": 0
+      },
+      {
+        "tier": "boss",
+        "metric": "graded_mrr@10",
+        "threshold": 0.8,
+        "actual": 0.7043484126984128,
+        "course_percentage_points": 1,
+        "relation": "below",
+        "estimated_if_inclusive": 0,
+        "estimated_if_strict": 0
+      }
+    ],
+    "estimated_points_inclusive": 6,
+    "estimated_points_strict": 6,
+    "available_points": 8,
+    "private_points_known": false,
+    "report_points_known": false
+  },
+  "by_qid_prefix": {
+    "public-test-beauty": {
+      "queries": 200,
+      "graded_recall@10": 0.935,
+      "graded_mrr@10": 0.7331428571428572
+    },
+    "public-test-home-and-kitchen": {
+      "queries": 200,
+      "graded_recall@10": 0.94,
+      "graded_mrr@10": 0.7624761904761905
+    },
+    "public-test-pet-supplies": {
+      "queries": 200,
+      "graded_recall@10": 0.875,
+      "graded_mrr@10": 0.6799761904761905
+    },
+    "public-test-sports-and-outdoors": {
+      "queries": 200,
+      "graded_recall@10": 0.935,
+      "graded_mrr@10": 0.7779861111111112
+    },
+    "public-test-toys-and-games": {
+      "queries": 200,
+      "graded_recall@10": 0.825,
+      "graded_mrr@10": 0.5681607142857142
+    }
+  },
+  "retrieval": {
+    "cold_process_wall_seconds": 163.89245368199772,
+    "resources": {
+      "entrypoint_wall_seconds": 163.06971207800234,
+      "peak_process_rss_bytes": 2004856832,
+      "peak_cuda_allocated_bytes": 503382528,
+      "peak_cuda_reserved_bytes": 717225984,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": null,
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null,
+      "HW2_RETRIEVER": null,
+      "HW2_RRF_CANDIDATES": null,
+      "HW2_BM25_QUERY_MODE": null,
+      "HW2_BM25_LAST_WEIGHT": null,
+      "HW2_BM25_TITLE_WEIGHT": null,
+      "HW2_BM25_TRACE_PATH": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/public/dialogues.jsonl": "data/public/dialogues.jsonl",
+      "data/public/products.jsonl": "data/public/products.jsonl"
+    }
+  },
+  "judge": {
+    "cold_process_wall_seconds": 664.8675757710007,
+    "resources": {
+      "entrypoint_wall_seconds": 664.1125574359976,
+      "peak_process_rss_bytes": 6584967168,
+      "peak_cuda_allocated_bytes": 4996308480,
+      "peak_cuda_reserved_bytes": 10603200512,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "numpy": "1.26.4"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": null,
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null,
+      "HW2_RETRIEVER": null,
+      "HW2_RRF_CANDIDATES": null,
+      "HW2_BM25_QUERY_MODE": null,
+      "HW2_BM25_LAST_WEIGHT": null,
+      "HW2_BM25_TITLE_WEIGHT": null,
+      "HW2_BM25_TRACE_PATH": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/public/dialogues.jsonl": "data/public/dialogues.jsonl",
+      "data/public/products.jsonl": "data/public/products.jsonl",
+      "results/w10_w08_public_top10.json": "results/w10_w08_public_top10.json"
+    }
+  },
+  "development_retrieval_under_one_hour": true,
+  "development_retrieval_rss_under_32gib": true,
+  "official_hardware_validation": false,
+  "private_evaluated": false,
+  "report_grade_known": false,
+  "public_feedback_seen": true,
+  "default_changed": false,
+  "next_experiment_rule": "Any improvement is selected on train/dev; no public gradients, negative mining or per-qid/PID rules; subsequent public is not an untouched holdout",
+  "input_sha256": {
+    "results/w10_frozen_plan.json": "2f80a8a20391715a90bb87c2b698414a252b9563dd6fed59a4a173b4d6450f7f",
+    "results/w10_judge_plan.json": "3437fc08709e2b5f48d6e16008acfe5554a9b93bbc0e6c0a24ac30287d1d3bc3",
+    "results/w10_w08_public_graded.json": "5008737fc503fda3a0556650fadeca1c2814389b7ec803e205aa2780f8e69a23",
+    "results/w10_w08_public_top10.json": "13efba0df0ac7622db0b93e100149dc745d0b7c169e9315a13acf12328944431",
+    "code/script/audit_w10.py": "28baa77b39cf2c5ebd48935750c0266a9ea9d729f48ba8fee7297e2895af606f"
+  }
+}

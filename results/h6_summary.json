@@ -1,0 +1,1421 @@
+{
+  "status": "frozen_h5_public_confirmation_complete",
+  "public": {
+    "metrics": {
+      "queries": 1000,
+      "graded_recall@10": 0.952,
+      "graded_mrr@10": 0.8024043650793651
+    },
+    "comparisons": 9096,
+    "parse_failures": 0,
+    "judge_resources": {
+      "peak_cuda_memory_gib": 4.653174877166748,
+      "peak_cuda_memory_reserved_gib": 9.095703125
+    },
+    "judge_runtime_seconds": 630.5004033110017
+  },
+  "gold_diagnostic": {
+    "queries": 1000,
+    "gold_hit@1": 0.644,
+    "gold_mrr@1": 0.644,
+    "gold_hit@10": 0.904,
+    "gold_mrr@10": 0.728475,
+    "gold_hit@50": 0.968,
+    "gold_mrr@50": 0.7319668905124919
+  },
+  "previous_h4": {
+    "queries": 1000,
+    "graded_recall@10": 0.933,
+    "graded_mrr@10": 0.7479154761904762
+  },
+  "previous_w10": {
+    "queries": 1000,
+    "graded_recall@10": 0.902,
+    "graded_mrr@10": 0.7043484126984128
+  },
+  "vs_h4": {
+    "queries": 1000,
+    "candidate": {
+      "graded_recall@10": 0.952,
+      "graded_mrr@10": 0.8024043650793651
+    },
+    "baseline": {
+      "graded_recall@10": 0.933,
+      "graded_mrr@10": 0.7479154761904762
+    },
+    "paired": {
+      "graded_recall@10": {
+        "mean_difference": 0.019,
+        "improved": 29,
+        "worsened": 10,
+        "improved_qids": [
+          "public-test-beauty-000043",
+          "public-test-beauty-000072",
+          "public-test-beauty-000103",
+          "public-test-beauty-000128",
+          "public-test-beauty-000149",
+          "public-test-pet-supplies-000020",
+          "public-test-pet-supplies-000061",
+          "public-test-pet-supplies-000066",
+          "public-test-pet-supplies-000144",
+          "public-test-pet-supplies-000145",
+          "public-test-pet-supplies-000158",
+          "public-test-pet-supplies-000162",
+          "public-test-pet-supplies-000193",
+          "public-test-toys-and-games-000005",
+          "public-test-toys-and-games-000051",
+          "public-test-toys-and-games-000069",
+          "public-test-toys-and-games-000075",
+          "public-test-toys-and-games-000086",
+          "public-test-toys-and-games-000124",
+          "public-test-toys-and-games-000150",
+          "public-test-toys-and-games-000179",
+          "public-test-toys-and-games-000191",
+          "public-test-toys-and-games-000194",
+          "public-test-sports-and-outdoors-000004",
+          "public-test-sports-and-outdoors-000098",
+          "public-test-sports-and-outdoors-000164",
+          "public-test-home-and-kitchen-000007",
+          "public-test-home-and-kitchen-000180",
+          "public-test-home-and-kitchen-000183"
+        ],
+        "worsened_qids": [
+          "public-test-beauty-000090",
+          "public-test-beauty-000154",
+          "public-test-pet-supplies-000077",
+          "public-test-pet-supplies-000117",
+          "public-test-pet-supplies-000136",
+          "public-test-toys-and-games-000057",
+          "public-test-toys-and-games-000070",
+          "public-test-sports-and-outdoors-000019",
+          "public-test-home-and-kitchen-000008",
+          "public-test-home-and-kitchen-000112"
+        ]
+      },
+      "graded_mrr@10": {
+        "mean_difference": 0.054488888888888885,
+        "improved": 196,
+        "worsened": 83,
+        "improved_qids": [
+          "public-test-beauty-000001",
+          "public-test-beauty-000003",
+          "public-test-beauty-000011",
+          "public-test-beauty-000016",
+          "public-test-beauty-000034",
+          "public-test-beauty-000037",
+          "public-test-beauty-000043",
+          "public-test-beauty-000054",
+          "public-test-beauty-000056",
+          "public-test-beauty-000058",
+          "public-test-beauty-000059",
+          "public-test-beauty-000061",
+          "public-test-beauty-000062",
+          "public-test-beauty-000069",
+          "public-test-beauty-000072",
+          "public-test-beauty-000073",
+          "public-test-beauty-000076",
+          "public-test-beauty-000080",
+          "public-test-beauty-000081",
+          "public-test-beauty-000082",
+          "public-test-beauty-000084",
+          "public-test-beauty-000086",
+          "public-test-beauty-000088",
+          "public-test-beauty-000091",
+          "public-test-beauty-000102",
+          "public-test-beauty-000103",
+          "public-test-beauty-000110",
+          "public-test-beauty-000111",
+          "public-test-beauty-000120",
+          "public-test-beauty-000124",
+          "public-test-beauty-000128",
+          "public-test-beauty-000129",
+          "public-test-beauty-000135",
+          "public-test-beauty-000142",
+          "public-test-beauty-000143",
+          "public-test-beauty-000145",
+          "public-test-beauty-000149",
+          "public-test-beauty-000150",
+          "public-test-beauty-000152",
+          "public-test-beauty-000155",
+          "public-test-beauty-000156",
+          "public-test-beauty-000157",
+          "public-test-beauty-000161",
+          "public-test-beauty-000167",
+          "public-test-beauty-000170",
+          "public-test-beauty-000171",
+          "public-test-beauty-000172",
+          "public-test-beauty-000177",
+          "public-test-beauty-000180",
+          "public-test-beauty-000184",
+          "public-test-beauty-000188",
+          "public-test-pet-supplies-000004",
+          "public-test-pet-supplies-000009",
+          "public-test-pet-supplies-000015",
+          "public-test-pet-supplies-000018",
+          "public-test-pet-supplies-000019",
+          "public-test-pet-supplies-000020",
+          "public-test-pet-supplies-000021",
+          "public-test-pet-supplies-000023",
+          "public-test-pet-supplies-000027",
+          "public-test-pet-supplies-000031",
+          "public-test-pet-supplies-000034",
+          "public-test-pet-supplies-000047",
+          "public-test-pet-supplies-000056",
+          "public-test-pet-supplies-000060",
+          "public-test-pet-supplies-000061",
+          "public-test-pet-supplies-000063",
+          "public-test-pet-supplies-000066",
+          "public-test-pet-supplies-000068",
+          "public-test-pet-supplies-000070",
+          "public-test-pet-supplies-000086",
+          "public-test-pet-supplies-000088",
+          "public-test-pet-supplies-000097",
+          "public-test-pet-supplies-000105",
+          "public-test-pet-supplies-000106",
+          "public-test-pet-supplies-000107",
+          "public-test-pet-supplies-000108",
+          "public-test-pet-supplies-000109",
+          "public-test-pet-supplies-000118",
+          "public-test-pet-supplies-000122",
+          "public-test-pet-supplies-000131",
+          "public-test-pet-supplies-000134",
+          "public-test-pet-supplies-000138",
+          "public-test-pet-supplies-000140",
+          "public-test-pet-supplies-000144",
+          "public-test-pet-supplies-000145",
+          "public-test-pet-supplies-000151",
+          "public-test-pet-supplies-000153",
+          "public-test-pet-supplies-000156",
+          "public-test-pet-supplies-000158",
+          "public-test-pet-supplies-000160",
+          "public-test-pet-supplies-000162",
+          "public-test-pet-supplies-000165",
+          "public-test-pet-supplies-000169",
+          "public-test-pet-supplies-000180",
+          "public-test-pet-supplies-000181",
+          "public-test-pet-supplies-000190",
+          "public-test-pet-supplies-000193",
+          "public-test-pet-supplies-000194",
+          "public-test-toys-and-games-000003",
+          "public-test-toys-and-games-000005",
+          "public-test-toys-and-games-000009",
+          "public-test-toys-and-games-000017",
+          "public-test-toys-and-games-000021",
+          "public-test-toys-and-games-000022",
+          "public-test-toys-and-games-000032",
+          "public-test-toys-and-games-000039",
+          "public-test-toys-and-games-000040",
+          "public-test-toys-and-games-000041",
+          "public-test-toys-and-games-000051",
+          "public-test-toys-and-games-000052",
+          "public-test-toys-and-games-000062",
+          "public-test-toys-and-games-000069",
+          "public-test-toys-and-games-000075",
+          "public-test-toys-and-games-000081",
+          "public-test-toys-and-games-000085",
+          "public-test-toys-and-games-000086",
+          "public-test-toys-and-games-000094",
+          "public-test-toys-and-games-000095",
+          "public-test-toys-and-games-000109",
+          "public-test-toys-and-games-000110",
+          "public-test-toys-and-games-000124",
+          "public-test-toys-and-games-000129",
+          "public-test-toys-and-games-000140",
+          "public-test-toys-and-games-000150",
+          "public-test-toys-and-games-000151",
+          "public-test-toys-and-games-000156",
+          "public-test-toys-and-games-000159",
+          "public-test-toys-and-games-000164",
+          "public-test-toys-and-games-000166",
+          "public-test-toys-and-games-000167",
+          "public-test-toys-and-games-000179",
+          "public-test-toys-and-games-000183",
+          "public-test-toys-and-games-000184",
+          "public-test-toys-and-games-000187",
+          "public-test-toys-and-games-000188",
+          "public-test-toys-and-games-000191",
+          "public-test-toys-and-games-000194",
+          "public-test-toys-and-games-000196",
+          "public-test-sports-and-outdoors-000002",
+          "public-test-sports-and-outdoors-000003",
+          "public-test-sports-and-outdoors-000004",
+          "public-test-sports-and-outdoors-000005",
+          "public-test-sports-and-outdoors-000013",
+          "public-test-sports-and-outdoors-000017",
+          "public-test-sports-and-outdoors-000026",
+          "public-test-sports-and-outdoors-000027",
+          "public-test-sports-and-outdoors-000037",
+          "public-test-sports-and-outdoors-000042",
+          "public-test-sports-and-outdoors-000045",
+          "public-test-sports-and-outdoors-000048",
+          "public-test-sports-and-outdoors-000053",
+          "public-test-sports-and-outdoors-000058",
+          "public-test-sports-and-outdoors-000059",
+          "public-test-sports-and-outdoors-000060",
+          "public-test-sports-and-outdoors-000063",
+          "public-test-sports-and-outdoors-000073",
+          "public-test-sports-and-outdoors-000074",
+          "public-test-sports-and-outdoors-000079",
+          "public-test-sports-and-outdoors-000098",
+          "public-test-sports-and-outdoors-000101",
+          "public-test-sports-and-outdoors-000112",
+          "public-test-sports-and-outdoors-000116",
+          "public-test-sports-and-outdoors-000122",
+          "public-test-sports-and-outdoors-000123",
+          "public-test-sports-and-outdoors-000126",
+          "public-test-sports-and-outdoors-000137",
+          "public-test-sports-and-outdoors-000145",
+          "public-test-sports-and-outdoors-000152",
+          "public-test-sports-and-outdoors-000155",
+          "public-test-sports-and-outdoors-000164",
+          "public-test-sports-and-outdoors-000172",
+          "public-test-sports-and-outdoors-000183",
+          "public-test-sports-and-outdoors-000191",
+          "public-test-sports-and-outdoors-000194",
+          "public-test-sports-and-outdoors-000200",
+          "public-test-home-and-kitchen-000007",
+          "public-test-home-and-kitchen-000013",
+          "public-test-home-and-kitchen-000025",
+          "public-test-home-and-kitchen-000029",
+          "public-test-home-and-kitchen-000061",
+          "public-test-home-and-kitchen-000071",
+          "public-test-home-and-kitchen-000113",
+          "public-test-home-and-kitchen-000121",
+          "public-test-home-and-kitchen-000134",
+          "public-test-home-and-kitchen-000136",
+          "public-test-home-and-kitchen-000148",
+          "public-test-home-and-kitchen-000151",
+          "public-test-home-and-kitchen-000153",
+          "public-test-home-and-kitchen-000158",
+          "public-test-home-and-kitchen-000162",
+          "public-test-home-and-kitchen-000172",
+          "public-test-home-and-kitchen-000180",
+          "public-test-home-and-kitchen-000183",
+          "public-test-home-and-kitchen-000184",
+          "public-test-home-and-kitchen-000191"
+        ],
+        "worsened_qids": [
+          "public-test-beauty-000032",
+          "public-test-beauty-000048",
+          "public-test-beauty-000066",
+          "public-test-beauty-000085",
+          "public-test-beauty-000090",
+          "public-test-beauty-000095",
+          "public-test-beauty-000108",
+          "public-test-beauty-000112",
+          "public-test-beauty-000126",
+          "public-test-beauty-000131",
+          "public-test-beauty-000136",
+          "public-test-beauty-000137",
+          "public-test-beauty-000146",
+          "public-test-beauty-000154",
+          "public-test-beauty-000187",
+          "public-test-beauty-000193",
+          "public-test-pet-supplies-000003",
+          "public-test-pet-supplies-000028",
+          "public-test-pet-supplies-000032",
+          "public-test-pet-supplies-000043",
+          "public-test-pet-supplies-000046",
+          "public-test-pet-supplies-000052",
+          "public-test-pet-supplies-000058",
+          "public-test-pet-supplies-000065",
+          "public-test-pet-supplies-000075",
+          "public-test-pet-supplies-000077",
+          "public-test-pet-supplies-000081",
+          "public-test-pet-supplies-000082",
+          "public-test-pet-supplies-000083",
+          "public-test-pet-supplies-000087",
+          "public-test-pet-supplies-000096",
+          "public-test-pet-supplies-000099",
+          "public-test-pet-supplies-000112",
+          "public-test-pet-supplies-000117",
+          "public-test-pet-supplies-000130",
+          "public-test-pet-supplies-000135",
+          "public-test-pet-supplies-000136",
+          "public-test-pet-supplies-000164",
+          "public-test-pet-supplies-000196",
+          "public-test-toys-and-games-000008",
+          "public-test-toys-and-games-000016",
+          "public-test-toys-and-games-000024",
+          "public-test-toys-and-games-000037",
+          "public-test-toys-and-games-000046",
+          "public-test-toys-and-games-000054",
+          "public-test-toys-and-games-000055",
+          "public-test-toys-and-games-000057",
+          "public-test-toys-and-games-000070",
+          "public-test-toys-and-games-000078",
+          "public-test-toys-and-games-000084",
+          "public-test-toys-and-games-000093",
+          "public-test-toys-and-games-000135",
+          "public-test-toys-and-games-000142",
+          "public-test-toys-and-games-000145",
+          "public-test-toys-and-games-000147",
+          "public-test-toys-and-games-000157",
+          "public-test-toys-and-games-000168",
+          "public-test-toys-and-games-000172",
+          "public-test-toys-and-games-000192",
+          "public-test-sports-and-outdoors-000008",
+          "public-test-sports-and-outdoors-000019",
+          "public-test-sports-and-outdoors-000038",
+          "public-test-sports-and-outdoors-000050",
+          "public-test-sports-and-outdoors-000051",
+          "public-test-sports-and-outdoors-000064",
+          "public-test-sports-and-outdoors-000120",
+          "public-test-sports-and-outdoors-000133",
+          "public-test-sports-and-outdoors-000146",
+          "public-test-sports-and-outdoors-000156",
+          "public-test-sports-and-outdoors-000169",
+          "public-test-home-and-kitchen-000008",
+          "public-test-home-and-kitchen-000041",
+          "public-test-home-and-kitchen-000052",
+          "public-test-home-and-kitchen-000073",
+          "public-test-home-and-kitchen-000097",
+          "public-test-home-and-kitchen-000102",
+          "public-test-home-and-kitchen-000112",
+          "public-test-home-and-kitchen-000125",
+          "public-test-home-and-kitchen-000140",
+          "public-test-home-and-kitchen-000149",
+          "public-test-home-and-kitchen-000154",
+          "public-test-home-and-kitchen-000165",
+          "public-test-home-and-kitchen-000197"
+        ]
+      }
+    }
+  },
+  "by_category_vs_h4": {
+    "public-test-beauty": {
+      "queries": 200,
+      "candidate": {
+        "graded_recall@10": 0.95,
+        "graded_mrr@10": 0.8099166666666666
+      },
+      "baseline": {
+        "graded_recall@10": 0.935,
+        "graded_mrr@10": 0.7141150793650793
+      },
+      "paired": {
+        "graded_recall@10": {
+          "mean_difference": 0.015,
+          "improved": 5,
+          "worsened": 2,
+          "improved_qids": [
+            "public-test-beauty-000043",
+            "public-test-beauty-000072",
+            "public-test-beauty-000103",
+            "public-test-beauty-000128",
+            "public-test-beauty-000149"
+          ],
+          "worsened_qids": [
+            "public-test-beauty-000090",
+            "public-test-beauty-000154"
+          ]
+        },
+        "graded_mrr@10": {
+          "mean_difference": 0.0958015873015873,
+          "improved": 51,
+          "worsened": 16,
+          "improved_qids": [
+            "public-test-beauty-000001",
+            "public-test-beauty-000003",
+            "public-test-beauty-000011",
+            "public-test-beauty-000016",
+            "public-test-beauty-000034",
+            "public-test-beauty-000037",
+            "public-test-beauty-000043",
+            "public-test-beauty-000054",
+            "public-test-beauty-000056",
+            "public-test-beauty-000058",
+            "public-test-beauty-000059",
+            "public-test-beauty-000061",
+            "public-test-beauty-000062",
+            "public-test-beauty-000069",
+            "public-test-beauty-000072",
+            "public-test-beauty-000073",
+            "public-test-beauty-000076",
+            "public-test-beauty-000080",
+            "public-test-beauty-000081",
+            "public-test-beauty-000082",
+            "public-test-beauty-000084",
+            "public-test-beauty-000086",
+            "public-test-beauty-000088",
+            "public-test-beauty-000091",
+            "public-test-beauty-000102",
+            "public-test-beauty-000103",
+            "public-test-beauty-000110",
+            "public-test-beauty-000111",
+            "public-test-beauty-000120",
+            "public-test-beauty-000124",
+            "public-test-beauty-000128",
+            "public-test-beauty-000129",
+            "public-test-beauty-000135",
+            "public-test-beauty-000142",
+            "public-test-beauty-000143",
+            "public-test-beauty-000145",
+            "public-test-beauty-000149",
+            "public-test-beauty-000150",
+            "public-test-beauty-000152",
+            "public-test-beauty-000155",
+            "public-test-beauty-000156",
+            "public-test-beauty-000157",
+            "public-test-beauty-000161",
+            "public-test-beauty-000167",
+            "public-test-beauty-000170",
+            "public-test-beauty-000171",
+            "public-test-beauty-000172",
+            "public-test-beauty-000177",
+            "public-test-beauty-000180",
+            "public-test-beauty-000184",
+            "public-test-beauty-000188"
+          ],
+          "worsened_qids": [
+            "public-test-beauty-000032",
+            "public-test-beauty-000048",
+            "public-test-beauty-000066",
+            "public-test-beauty-000085",
+            "public-test-beauty-000090",
+            "public-test-beauty-000095",
+            "public-test-beauty-000108",
+            "public-test-beauty-000112",
+            "public-test-beauty-000126",
+            "public-test-beauty-000131",
+            "public-test-beauty-000136",
+            "public-test-beauty-000137",
+            "public-test-beauty-000146",
+            "public-test-beauty-000154",
+            "public-test-beauty-000187",
+            "public-test-beauty-000193"
+          ]
+        }
+      }
+    },
+    "public-test-home-and-kitchen": {
+      "queries": 200,
+      "candidate": {
+        "graded_recall@10": 0.975,
+        "graded_mrr@10": 0.848422619047619
+      },
+      "baseline": {
+        "graded_recall@10": 0.97,
+        "graded_mrr@10": 0.845531746031746
+      },
+      "paired": {
+        "graded_recall@10": {
+          "mean_difference": 0.005,
+          "improved": 3,
+          "worsened": 2,
+          "improved_qids": [
+            "public-test-home-and-kitchen-000007",
+            "public-test-home-and-kitchen-000180",
+            "public-test-home-and-kitchen-000183"
+          ],
+          "worsened_qids": [
+            "public-test-home-and-kitchen-000008",
+            "public-test-home-and-kitchen-000112"
+          ]
+        },
+        "graded_mrr@10": {
+          "mean_difference": 0.0028908730158730155,
+          "improved": 20,
+          "worsened": 13,
+          "improved_qids": [
+            "public-test-home-and-kitchen-000007",
+            "public-test-home-and-kitchen-000013",
+            "public-test-home-and-kitchen-000025",
+            "public-test-home-and-kitchen-000029",
+            "public-test-home-and-kitchen-000061",
+            "public-test-home-and-kitchen-000071",
+            "public-test-home-and-kitchen-000113",
+            "public-test-home-and-kitchen-000121",
+            "public-test-home-and-kitchen-000134",
+            "public-test-home-and-kitchen-000136",
+            "public-test-home-and-kitchen-000148",
+            "public-test-home-and-kitchen-000151",
+            "public-test-home-and-kitchen-000153",
+            "public-test-home-and-kitchen-000158",
+            "public-test-home-and-kitchen-000162",
+            "public-test-home-and-kitchen-000172",
+            "public-test-home-and-kitchen-000180",
+            "public-test-home-and-kitchen-000183",
+            "public-test-home-and-kitchen-000184",
+            "public-test-home-and-kitchen-000191"
+          ],
+          "worsened_qids": [
+            "public-test-home-and-kitchen-000008",
+            "public-test-home-and-kitchen-000041",
+            "public-test-home-and-kitchen-000052",
+            "public-test-home-and-kitchen-000073",
+            "public-test-home-and-kitchen-000097",
+            "public-test-home-and-kitchen-000102",
+            "public-test-home-and-kitchen-000112",
+            "public-test-home-and-kitchen-000125",
+            "public-test-home-and-kitchen-000140",
+            "public-test-home-and-kitchen-000149",
+            "public-test-home-and-kitchen-000154",
+            "public-test-home-and-kitchen-000165",
+            "public-test-home-and-kitchen-000197"
+          ]
+        }
+      }
+    },
+    "public-test-pet-supplies": {
+      "queries": 200,
+      "candidate": {
+        "graded_recall@10": 0.96,
+        "graded_mrr@10": 0.7708650793650794
+      },
+      "baseline": {
+        "graded_recall@10": 0.935,
+        "graded_mrr@10": 0.7052738095238095
+      },
+      "paired": {
+        "graded_recall@10": {
+          "mean_difference": 0.025,
+          "improved": 8,
+          "worsened": 3,
+          "improved_qids": [
+            "public-test-pet-supplies-000020",
+            "public-test-pet-supplies-000061",
+            "public-test-pet-supplies-000066",
+            "public-test-pet-supplies-000144",
+            "public-test-pet-supplies-000145",
+            "public-test-pet-supplies-000158",
+            "public-test-pet-supplies-000162",
+            "public-test-pet-supplies-000193"
+          ],
+          "worsened_qids": [
+            "public-test-pet-supplies-000077",
+            "public-test-pet-supplies-000117",
+            "public-test-pet-supplies-000136"
+          ]
+        },
+        "graded_mrr@10": {
+          "mean_difference": 0.06559126984126984,
+          "improved": 48,
+          "worsened": 23,
+          "improved_qids": [
+            "public-test-pet-supplies-000004",
+            "public-test-pet-supplies-000009",
+            "public-test-pet-supplies-000015",
+            "public-test-pet-supplies-000018",
+            "public-test-pet-supplies-000019",
+            "public-test-pet-supplies-000020",
+            "public-test-pet-supplies-000021",
+            "public-test-pet-supplies-000023",
+            "public-test-pet-supplies-000027",
+            "public-test-pet-supplies-000031",
+            "public-test-pet-supplies-000034",
+            "public-test-pet-supplies-000047",
+            "public-test-pet-supplies-000056",
+            "public-test-pet-supplies-000060",
+            "public-test-pet-supplies-000061",
+            "public-test-pet-supplies-000063",
+            "public-test-pet-supplies-000066",
+            "public-test-pet-supplies-000068",
+            "public-test-pet-supplies-000070",
+            "public-test-pet-supplies-000086",
+            "public-test-pet-supplies-000088",
+            "public-test-pet-supplies-000097",
+            "public-test-pet-supplies-000105",
+            "public-test-pet-supplies-000106",
+            "public-test-pet-supplies-000107",
+            "public-test-pet-supplies-000108",
+            "public-test-pet-supplies-000109",
+            "public-test-pet-supplies-000118",
+            "public-test-pet-supplies-000122",
+            "public-test-pet-supplies-000131",
+            "public-test-pet-supplies-000134",
+            "public-test-pet-supplies-000138",
+            "public-test-pet-supplies-000140",
+            "public-test-pet-supplies-000144",
+            "public-test-pet-supplies-000145",
+            "public-test-pet-supplies-000151",
+            "public-test-pet-supplies-000153",
+            "public-test-pet-supplies-000156",
+            "public-test-pet-supplies-000158",
+            "public-test-pet-supplies-000160",
+            "public-test-pet-supplies-000162",
+            "public-test-pet-supplies-000165",
+            "public-test-pet-supplies-000169",
+            "public-test-pet-supplies-000180",
+            "public-test-pet-supplies-000181",
+            "public-test-pet-supplies-000190",
+            "public-test-pet-supplies-000193",
+            "public-test-pet-supplies-000194"
+          ],
+          "worsened_qids": [
+            "public-test-pet-supplies-000003",
+            "public-test-pet-supplies-000028",
+            "public-test-pet-supplies-000032",
+            "public-test-pet-supplies-000043",
+            "public-test-pet-supplies-000046",
+            "public-test-pet-supplies-000052",
+            "public-test-pet-supplies-000058",
+            "public-test-pet-supplies-000065",
+            "public-test-pet-supplies-000075",
+            "public-test-pet-supplies-000077",
+            "public-test-pet-supplies-000081",
+            "public-test-pet-supplies-000082",
+            "public-test-pet-supplies-000083",
+            "public-test-pet-supplies-000087",
+            "public-test-pet-supplies-000096",
+            "public-test-pet-supplies-000099",
+            "public-test-pet-supplies-000112",
+            "public-test-pet-supplies-000117",
+            "public-test-pet-supplies-000130",
+            "public-test-pet-supplies-000135",
+            "public-test-pet-supplies-000136",
+            "public-test-pet-supplies-000164",
+            "public-test-pet-supplies-000196"
+          ]
+        }
+      }
+    },
+    "public-test-sports-and-outdoors": {
+      "queries": 200,
+      "candidate": {
+        "graded_recall@10": 0.985,
+        "graded_mrr@10": 0.8675833333333334
+      },
+      "baseline": {
+        "graded_recall@10": 0.975,
+        "graded_mrr@10": 0.8064365079365079
+      },
+      "paired": {
+        "graded_recall@10": {
+          "mean_difference": 0.01,
+          "improved": 3,
+          "worsened": 1,
+          "improved_qids": [
+            "public-test-sports-and-outdoors-000004",
+            "public-test-sports-and-outdoors-000098",
+            "public-test-sports-and-outdoors-000164"
+          ],
+          "worsened_qids": [
+            "public-test-sports-and-outdoors-000019"
+          ]
+        },
+        "graded_mrr@10": {
+          "mean_difference": 0.061146825396825394,
+          "improved": 37,
+          "worsened": 11,
+          "improved_qids": [
+            "public-test-sports-and-outdoors-000002",
+            "public-test-sports-and-outdoors-000003",
+            "public-test-sports-and-outdoors-000004",
+            "public-test-sports-and-outdoors-000005",
+            "public-test-sports-and-outdoors-000013",
+            "public-test-sports-and-outdoors-000017",
+            "public-test-sports-and-outdoors-000026",
+            "public-test-sports-and-outdoors-000027",
+            "public-test-sports-and-outdoors-000037",
+            "public-test-sports-and-outdoors-000042",
+            "public-test-sports-and-outdoors-000045",
+            "public-test-sports-and-outdoors-000048",
+            "public-test-sports-and-outdoors-000053",
+            "public-test-sports-and-outdoors-000058",
+            "public-test-sports-and-outdoors-000059",
+            "public-test-sports-and-outdoors-000060",
+            "public-test-sports-and-outdoors-000063",
+            "public-test-sports-and-outdoors-000073",
+            "public-test-sports-and-outdoors-000074",
+            "public-test-sports-and-outdoors-000079",
+            "public-test-sports-and-outdoors-000098",
+            "public-test-sports-and-outdoors-000101",
+            "public-test-sports-and-outdoors-000112",
+            "public-test-sports-and-outdoors-000116",
+            "public-test-sports-and-outdoors-000122",
+            "public-test-sports-and-outdoors-000123",
+            "public-test-sports-and-outdoors-000126",
+            "public-test-sports-and-outdoors-000137",
+            "public-test-sports-and-outdoors-000145",
+            "public-test-sports-and-outdoors-000152",
+            "public-test-sports-and-outdoors-000155",
+            "public-test-sports-and-outdoors-000164",
+            "public-test-sports-and-outdoors-000172",
+            "public-test-sports-and-outdoors-000183",
+            "public-test-sports-and-outdoors-000191",
+            "public-test-sports-and-outdoors-000194",
+            "public-test-sports-and-outdoors-000200"
+          ],
+          "worsened_qids": [
+            "public-test-sports-and-outdoors-000008",
+            "public-test-sports-and-outdoors-000019",
+            "public-test-sports-and-outdoors-000038",
+            "public-test-sports-and-outdoors-000050",
+            "public-test-sports-and-outdoors-000051",
+            "public-test-sports-and-outdoors-000064",
+            "public-test-sports-and-outdoors-000120",
+            "public-test-sports-and-outdoors-000133",
+            "public-test-sports-and-outdoors-000146",
+            "public-test-sports-and-outdoors-000156",
+            "public-test-sports-and-outdoors-000169"
+          ]
+        }
+      }
+    },
+    "public-test-toys-and-games": {
+      "queries": 200,
+      "candidate": {
+        "graded_recall@10": 0.89,
+        "graded_mrr@10": 0.715234126984127
+      },
+      "baseline": {
+        "graded_recall@10": 0.85,
+        "graded_mrr@10": 0.6682202380952381
+      },
+      "paired": {
+        "graded_recall@10": {
+          "mean_difference": 0.04,
+          "improved": 10,
+          "worsened": 2,
+          "improved_qids": [
+            "public-test-toys-and-games-000005",
+            "public-test-toys-and-games-000051",
+            "public-test-toys-and-games-000069",
+            "public-test-toys-and-games-000075",
+            "public-test-toys-and-games-000086",
+            "public-test-toys-and-games-000124",
+            "public-test-toys-and-games-000150",
+            "public-test-toys-and-games-000179",
+            "public-test-toys-and-games-000191",
+            "public-test-toys-and-games-000194"
+          ],
+          "worsened_qids": [
+            "public-test-toys-and-games-000057",
+            "public-test-toys-and-games-000070"
+          ]
+        },
+        "graded_mrr@10": {
+          "mean_difference": 0.04701388888888889,
+          "improved": 40,
+          "worsened": 20,
+          "improved_qids": [
+            "public-test-toys-and-games-000003",
+            "public-test-toys-and-games-000005",
+            "public-test-toys-and-games-000009",
+            "public-test-toys-and-games-000017",
+            "public-test-toys-and-games-000021",
+            "public-test-toys-and-games-000022",
+            "public-test-toys-and-games-000032",
+            "public-test-toys-and-games-000039",
+            "public-test-toys-and-games-000040",
+            "public-test-toys-and-games-000041",
+            "public-test-toys-and-games-000051",
+            "public-test-toys-and-games-000052",
+            "public-test-toys-and-games-000062",
+            "public-test-toys-and-games-000069",
+            "public-test-toys-and-games-000075",
+            "public-test-toys-and-games-000081",
+            "public-test-toys-and-games-000085",
+            "public-test-toys-and-games-000086",
+            "public-test-toys-and-games-000094",
+            "public-test-toys-and-games-000095",
+            "public-test-toys-and-games-000109",
+            "public-test-toys-and-games-000110",
+            "public-test-toys-and-games-000124",
+            "public-test-toys-and-games-000129",
+            "public-test-toys-and-games-000140",
+            "public-test-toys-and-games-000150",
+            "public-test-toys-and-games-000151",
+            "public-test-toys-and-games-000156",
+            "public-test-toys-and-games-000159",
+            "public-test-toys-and-games-000164",
+            "public-test-toys-and-games-000166",
+            "public-test-toys-and-games-000167",
+            "public-test-toys-and-games-000179",
+            "public-test-toys-and-games-000183",
+            "public-test-toys-and-games-000184",
+            "public-test-toys-and-games-000187",
+            "public-test-toys-and-games-000188",
+            "public-test-toys-and-games-000191",
+            "public-test-toys-and-games-000194",
+            "public-test-toys-and-games-000196"
+          ],
+          "worsened_qids": [
+            "public-test-toys-and-games-000008",
+            "public-test-toys-and-games-000016",
+            "public-test-toys-and-games-000024",
+            "public-test-toys-and-games-000037",
+            "public-test-toys-and-games-000046",
+            "public-test-toys-and-games-000054",
+            "public-test-toys-and-games-000055",
+            "public-test-toys-and-games-000057",
+            "public-test-toys-and-games-000070",
+            "public-test-toys-and-games-000078",
+            "public-test-toys-and-games-000084",
+            "public-test-toys-and-games-000093",
+            "public-test-toys-and-games-000135",
+            "public-test-toys-and-games-000142",
+            "public-test-toys-and-games-000145",
+            "public-test-toys-and-games-000147",
+            "public-test-toys-and-games-000157",
+            "public-test-toys-and-games-000168",
+            "public-test-toys-and-games-000172",
+            "public-test-toys-and-games-000192"
+          ]
+        }
+      }
+    }
+  },
+  "grade_estimate": {
+    "split": "public",
+    "interpretation": "estimated additive per-cell course percentage points; exact boundary/grading rules not explicitly confirmed",
+    "cells": [
+      {
+        "tier": "simple",
+        "metric": "graded_recall@10",
+        "threshold": 0.86,
+        "actual": 0.952,
+        "course_percentage_points": 2,
+        "relation": "above",
+        "estimated_if_inclusive": 2,
+        "estimated_if_strict": 2
+      },
+      {
+        "tier": "simple",
+        "metric": "graded_mrr@10",
+        "threshold": 0.65,
+        "actual": 0.8024043650793651,
+        "course_percentage_points": 2,
+        "relation": "above",
+        "estimated_if_inclusive": 2,
+        "estimated_if_strict": 2
+      },
+      {
+        "tier": "strong",
+        "metric": "graded_recall@10",
+        "threshold": 0.885,
+        "actual": 0.952,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      },
+      {
+        "tier": "strong",
+        "metric": "graded_mrr@10",
+        "threshold": 0.68,
+        "actual": 0.8024043650793651,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      },
+      {
+        "tier": "boss",
+        "metric": "graded_recall@10",
+        "threshold": 0.95,
+        "actual": 0.952,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      },
+      {
+        "tier": "boss",
+        "metric": "graded_mrr@10",
+        "threshold": 0.8,
+        "actual": 0.8024043650793651,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      }
+    ],
+    "estimated_points_inclusive": 8,
+    "estimated_points_strict": 8,
+    "available_points": 8,
+    "private_points_known": false,
+    "report_points_known": false
+  },
+  "budget_checks": {
+    "allocator_budget_configured": true,
+    "cuda_allocated_within_budget": true,
+    "cuda_reserved_within_budget": true,
+    "rss_under_32gib": true,
+    "under_one_hour": true,
+    "batch32": true,
+    "no_configuration_overrides": true
+  },
+  "retrieval": {
+    "started_utc": "2026-10-24T19:15:44.305193+00:00",
+    "command": [
+      "/mnt/c/Users/yuting/Desktop/HW2_ADL/.venv/bin/python",
+      "retrieval.py",
+      "--dialogues",
+      "data/public/dialogues.jsonl",
+      "--products",
+      "data/public/products.jsonl",
+      "--top-k",
+      "50",
+      "--output",
+      "results/h6_h5_public_top50.json"
+    ],
+    "input_sha256": {
+      "retrieval.py": "7c0a0c0a6a5f466a3a3bcf78e7d410bacaf1876eeb44aa3cae10c6cebba8f774",
+      "evaluate.py": "0f640c6b126594d75d39baa1c3b7447185fda9010a5e8486a88e29198b23acbf",
+      "eval_utils.py": "47b1dd2dee9b6c9769d4952dc32712ac8e25f0cb57665ceb2247880d43e32e0b",
+      "retrieval_utils.py": "95c2d8ee025ce20412a856afd7d8d9d064999c1984117f90f65b83eed4d16660",
+      "code/script/run_validated.py": "d5d9bae063d1f3d0ce396277de5246b55388ddd08ca84223237c2117670460e9",
+      "data/public/dialogues.jsonl": "575db46b17c868edf0e9dd486c2563373e6453334ed35234a6ec946f9be42e04",
+      "data/public/products.jsonl": "ee19fd31e2b050ff95f7840769cc6aa6973682337afeb6113bcb8154fa641de1"
+    },
+    "environment": {
+      "HW2_MODEL_PATH": null,
+      "HW2_RETRIEVER": null,
+      "HW2_RERANK": null,
+      "HW2_BATCH_SIZE": "32",
+      "HW2_RRF_CANDIDATES": null,
+      "HW2_RRF_DENSE_WEIGHT": null,
+      "HW2_RRF_BM25_WEIGHT": null,
+      "HW2_BM25_QUERY_MODE": null,
+      "HW2_BM25_LAST_WEIGHT": null,
+      "HW2_BM25_TITLE_WEIGHT": null,
+      "HW2_BM25_TRACE_PATH": null,
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "OMP_NUM_THREADS": "4"
+    },
+    "cuda_allocator_budget_gib": 8.0,
+    "official_hardware_validation": false,
+    "timing_scope": "fresh child includes imports, full data/model load, indexing and output; no persistent index; OS disk caches not flushed",
+    "exit_code": 0,
+    "cold_process_wall_seconds": 272.10191010199924,
+    "resources": {
+      "exit_code": 0,
+      "error": null,
+      "entrypoint_wall_seconds": 271.13162769399787,
+      "peak_process_rss_bytes": 2351636480,
+      "peak_cuda_allocated_bytes": 1112026112,
+      "peak_cuda_reserved_bytes": 1405091840,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "cuda_allocator_budget_gib": 8.0,
+      "cuda_allocator_fraction": 0.33350296171148247,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35"
+    },
+    "log": "results/h6_h5_public_timing.log"
+  },
+  "judge": {
+    "started_utc": "2026-10-25T02:39:18.622515+00:00",
+    "command": [
+      "/mnt/c/Users/yuting/Desktop/HW2_ADL/.venv/bin/python",
+      "evaluate.py",
+      "--retrieval-results",
+      "results/h6_h5_public_top10.json",
+      "--dialogues",
+      "data/public/dialogues.jsonl",
+      "--products",
+      "data/public/products.jsonl",
+      "--model",
+      "artifacts/models/Qwen2.5-1.5B-Instruct",
+      "--batch-size",
+      "8",
+      "--max-new-tokens",
+      "12",
+      "--top-k",
+      "10",
+      "--device",
+      "cuda",
+      "--output",
+      "results/h6_h5_public_graded.json"
+    ],
+    "input_sha256": {
+      "retrieval.py": "7c0a0c0a6a5f466a3a3bcf78e7d410bacaf1876eeb44aa3cae10c6cebba8f774",
+      "evaluate.py": "0f640c6b126594d75d39baa1c3b7447185fda9010a5e8486a88e29198b23acbf",
+      "eval_utils.py": "47b1dd2dee9b6c9769d4952dc32712ac8e25f0cb57665ceb2247880d43e32e0b",
+      "retrieval_utils.py": "95c2d8ee025ce20412a856afd7d8d9d064999c1984117f90f65b83eed4d16660",
+      "code/script/run_validated.py": "d5d9bae063d1f3d0ce396277de5246b55388ddd08ca84223237c2117670460e9",
+      "data/public/dialogues.jsonl": "575db46b17c868edf0e9dd486c2563373e6453334ed35234a6ec946f9be42e04",
+      "data/public/products.jsonl": "ee19fd31e2b050ff95f7840769cc6aa6973682337afeb6113bcb8154fa641de1",
+      "results/h6_h5_public_top10.json": "fc95327d4a6d4b33834d021b880f173ae90822c0657592c2cc5d1851611fdf25"
+    },
+    "environment": {
+      "HW2_MODEL_PATH": null,
+      "HW2_RETRIEVER": null,
+      "HW2_RERANK": null,
+      "HW2_BATCH_SIZE": "32",
+      "HW2_RRF_CANDIDATES": null,
+      "HW2_RRF_DENSE_WEIGHT": null,
+      "HW2_RRF_BM25_WEIGHT": null,
+      "HW2_BM25_QUERY_MODE": null,
+      "HW2_BM25_LAST_WEIGHT": null,
+      "HW2_BM25_TITLE_WEIGHT": null,
+      "HW2_BM25_TRACE_PATH": null,
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "OMP_NUM_THREADS": "4"
+    },
+    "cuda_allocator_budget_gib": 0,
+    "official_hardware_validation": false,
+    "timing_scope": "fresh child includes imports, full data/model load, indexing and output; no persistent index; OS disk caches not flushed",
+    "exit_code": 0,
+    "cold_process_wall_seconds": 633.6602811229968,
+    "resources": {
+      "exit_code": 0,
+      "error": null,
+      "entrypoint_wall_seconds": 632.7971352169989,
+      "peak_process_rss_bytes": 6585970688,
+      "peak_cuda_allocated_bytes": 4996308480,
+      "peak_cuda_reserved_bytes": 9766436864,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "cuda_allocator_budget_gib": 0.0,
+      "cuda_allocator_fraction": null,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "numpy": "1.26.4"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35"
+    },
+    "log": "results/h6_h5_public_judge_timing.log"
+  },
+  "shared_non_gold_pairs": 5970,
+  "shared_pair_gain_changes": [
+    {
+      "qid": "public-test-beauty-000013",
+      "pid": "B0BXGQK5SB",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-beauty-000036",
+      "pid": "B0BR4TG2KK",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-beauty-000055",
+      "pid": "B0BYPWK2VD",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-beauty-000061",
+      "pid": "B0032ANCUU",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-beauty-000087",
+      "pid": "B0BW8GQ3FF",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-beauty-000109",
+      "pid": "B002B4NP00",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-beauty-000151",
+      "pid": "B000VUYX9S",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-beauty-000164",
+      "pid": "B0C9HS5PSQ",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-pet-supplies-000036",
+      "pid": "B099NRS6N7",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-pet-supplies-000049",
+      "pid": "B005IZOB5M",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-pet-supplies-000075",
+      "pid": "B082HPK3MN",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-pet-supplies-000090",
+      "pid": "B09DVR36YN",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-pet-supplies-000097",
+      "pid": "B07SLKDW5J",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-pet-supplies-000103",
+      "pid": "B08P3WZYD2",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-pet-supplies-000133",
+      "pid": "B002RM1882",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-pet-supplies-000160",
+      "pid": "B09BN483DL",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-pet-supplies-000190",
+      "pid": "B07GYZYJQN",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-pet-supplies-000192",
+      "pid": "B071942ZM8",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000010",
+      "pid": "B07GX3RGTP",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000015",
+      "pid": "B09FQ3GQ5Y",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000027",
+      "pid": "B07T7C2R85",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000027",
+      "pid": "B0943GB9L4",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-toys-and-games-000041",
+      "pid": "B0BV2T2ZG6",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-toys-and-games-000054",
+      "pid": "B07GDF9QMH",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000059",
+      "pid": "B0C66GF36H",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-toys-and-games-000068",
+      "pid": "B0070B5534",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000116",
+      "pid": "B07KG7X48H",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-toys-and-games-000128",
+      "pid": "B08MVW7LXQ",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-toys-and-games-000137",
+      "pid": "B07ZR211K1",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000138",
+      "pid": "B00P2SL9FA",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000177",
+      "pid": "B01B6XKX6K",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-toys-and-games-000180",
+      "pid": "B01JMYP9OQ",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000004",
+      "pid": "B003KZKDZ4",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000042",
+      "pid": "B086MRM73N",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000050",
+      "pid": "B0B9MCFXRV",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000055",
+      "pid": "B0035ELWS2",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000082",
+      "pid": "B0845MP57D",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000100",
+      "pid": "B009Q1AAHM",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000112",
+      "pid": "B00C6OUDX2",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000137",
+      "pid": "B081DPQT7V",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000139",
+      "pid": "B0C2JJTR7T",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000155",
+      "pid": "B00D7H9LIA",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000179",
+      "pid": "B0C6BDRD2H",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000188",
+      "pid": "B004O0FQTM",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000197",
+      "pid": "B0C6CXZS4K",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000001",
+      "pid": "B07P6MFMK6",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000003",
+      "pid": "B0C4Q7Q5JZ",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000064",
+      "pid": "B08TK636C3",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000078",
+      "pid": "B07QTVKSNQ",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000115",
+      "pid": "B014CZB9NA",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000133",
+      "pid": "B094C87ZYZ",
+      "old_gain": 1,
+      "new_gain": 0.0
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000160",
+      "pid": "B07D5YB8JV",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000180",
+      "pid": "B0BGR6N8JN",
+      "old_gain": 0.0,
+      "new_gain": 1
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000190",
+      "pid": "B0B8P39M5X",
+      "old_gain": 1,
+      "new_gain": 0.0
+    }
+  ],
+  "judge_variation_note": "Candidate batches differ; cause of shared-pair changes unisolated; retain raw single runs",
+  "official_public_judge_runs": 1,
+  "public_retrieval_runs": 1,
+  "training_runs": 0,
+  "mining_runs": 0,
+  "default_changed": false,
+  "public_used_for_tuning_or_selection": false,
+  "public_previously_seen": true,
+  "official_hardware_validation": false,
+  "w11_started": false,
+  "finished_utc": "2026-10-25T02:50:15.432570+00:00"
+}

@@ -1,0 +1,2 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files:  10%|█         | 1/10 [00:00<00:03,  2.25it/s]Fetching 10 files:  30%|███       | 3/10 [00:00<00:01,  4.97it/s]Fetching 10 files:  40%|████      | 4/10 [00:07<00:15,  2.63s/it]Fetching 10 files: 100%|██████████| 10/10 [00:07<00:00,  1.27it/s]
+{"role": "embedding", "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a", "files": 10, "bytes": 134411157}

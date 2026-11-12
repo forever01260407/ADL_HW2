@@ -1,0 +1,393 @@
+{
+  "scope": "fixed dev 966 / full 50000 products; A1 only; no training/public",
+  "protected_sources_unchanged": true,
+  "student_block_boundary_verified": true,
+  "b0_top50_exactly_reproduced": true,
+  "a1_candidate_containment": true,
+  "official_hardware_validation": false,
+  "models": {
+    "embedding": {
+      "repo_id": "BAAI/bge-small-en-v1.5",
+      "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+      "path": "artifacts/models/bge-small-en-v1.5"
+    },
+    "generator": {
+      "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+    },
+    "reranker": {
+      "repo_id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a",
+      "path": "artifacts/models/ms-marco-MiniLM-L6-v2"
+    }
+  },
+  "variants": {
+    "B0": {
+      "graded": {
+        "metrics": {
+          "queries": 966,
+          "graded_recall@10": 0.6521739130434783,
+          "graded_mrr@10": 0.39644582470669426
+        },
+        "comparisons": 9207,
+        "parse_failures": 0,
+        "judge_resources": {
+          "peak_cuda_memory_gib": 4.554347515106201,
+          "peak_cuda_memory_reserved_gib": 8.630859375
+        },
+        "judge_runtime_seconds": 580.282922581
+      },
+      "gold": {
+        "queries": 966,
+        "gold_hit@1": 0.2225672877846791,
+        "gold_mrr@1": 0.2225672877846791,
+        "gold_hit@10": 0.468944099378882,
+        "gold_mrr@10": 0.29241595188800157
+      },
+      "retrieval": {
+        "cold_process_wall_seconds": 105.08243603799997,
+        "resources": {
+          "entrypoint_wall_seconds": 104.089109307,
+          "peak_process_rss_bytes": 1788010496,
+          "peak_cuda_allocated_bytes": 503805952,
+          "peak_cuda_reserved_bytes": 717225984,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "sentence_transformers": "5.1.0",
+            "numpy": "1.26.4",
+            "faiss": "1.12.0"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/w06/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/snapshots/w06/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl"
+        }
+      },
+      "judge": {
+        "cold_process_wall_seconds": 583.114356848,
+        "resources": {
+          "entrypoint_wall_seconds": 582.0775835370001,
+          "peak_process_rss_bytes": 4246134784,
+          "peak_cuda_allocated_bytes": 4890193408,
+          "peak_cuda_reserved_bytes": 9267314688,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "numpy": "1.26.4"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "code/script/snapshots/w06/retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/snapshots/w06/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl",
+          "results/w06_b0_dev_top10.json": "results/w06_b0_dev_top10.json"
+        }
+      }
+    },
+    "A1": {
+      "graded": {
+        "metrics": {
+          "queries": 966,
+          "graded_recall@10": 0.6066252587991718,
+          "graded_mrr@10": 0.32725935784941995
+        },
+        "comparisons": 9247,
+        "parse_failures": 0,
+        "judge_resources": {
+          "peak_cuda_memory_gib": 4.55505895614624,
+          "peak_cuda_memory_reserved_gib": 8.75390625
+        },
+        "judge_runtime_seconds": 592.931909983
+      },
+      "gold": {
+        "queries": 966,
+        "gold_hit@1": 0.16459627329192547,
+        "gold_mrr@1": 0.16459627329192547,
+        "gold_hit@10": 0.427536231884058,
+        "gold_mrr@10": 0.2364381018107726
+      },
+      "retrieval": {
+        "cold_process_wall_seconds": 170.392691715,
+        "resources": {
+          "entrypoint_wall_seconds": 169.60632745799995,
+          "peak_process_rss_bytes": 1905115136,
+          "peak_cuda_allocated_bytes": 503805952,
+          "peak_cuda_reserved_bytes": 717225984,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "sentence_transformers": "5.1.0",
+            "numpy": "1.26.4",
+            "faiss": "1.12.0"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "1",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl"
+        }
+      },
+      "judge": {
+        "cold_process_wall_seconds": 595.295665011,
+        "resources": {
+          "entrypoint_wall_seconds": 594.547129544,
+          "peak_process_rss_bytes": 4250370048,
+          "peak_cuda_allocated_bytes": 4890957312,
+          "peak_cuda_reserved_bytes": 9399435264,
+          "gpu_name": "NVIDIA GeForce RTX 4090",
+          "gpu_total_memory_bytes": 25756696576,
+          "versions": {
+            "torch": "2.8.0+cu128",
+            "transformers": "4.56.1",
+            "numpy": "1.26.4"
+          },
+          "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+          "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+          "exit_code": 0,
+          "error": null
+        },
+        "environment": {
+          "HF_HUB_OFFLINE": "1",
+          "TRANSFORMERS_OFFLINE": "1",
+          "TOKENIZERS_PARALLELISM": "false",
+          "OMP_NUM_THREADS": "4",
+          "HW2_BATCH_SIZE": "32",
+          "HW2_MODEL_PATH": null,
+          "HW2_RERANK": "1",
+          "HW2_RERANK_CANDIDATES": null,
+          "HW2_RERANK_BATCH_SIZE": null,
+          "HW2_RERANK_MODEL_PATH": null
+        },
+        "verified_sources": {
+          "retrieval.py": "retrieval.py",
+          "evaluate.py": "evaluate.py",
+          "eval_utils.py": "eval_utils.py",
+          "retrieval_utils.py": "retrieval_utils.py",
+          "code/script/run_measured.py": "code/script/run_measured.py",
+          "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+          "data/train/products.jsonl": "data/train/products.jsonl",
+          "results/w07_a1_dev_top10.json": "results/w07_a1_dev_top10.json"
+        }
+      }
+    }
+  },
+  "reranker_files_verified": true,
+  "pair_diagnostics": {
+    "candidate_pairs": 48300,
+    "unique_candidate_products": 19502,
+    "truncated_product_pairs": 21756,
+    "truncated_pair_fraction": 0.4504347826086956,
+    "pairs_exceeding_single_text_512_budget": 13021,
+    "query_truncations_at_192": 0,
+    "min_product_budget": 319,
+    "max_product_budget": 464,
+    "groups": {
+      "gold_fits_pair": {
+        "queries": 446,
+        "b0_gold_hits10": 317,
+        "a1_gold_hits10": 271,
+        "promoted_into_top10": 40,
+        "lost_from_top10": 86
+      },
+      "gold_truncated": {
+        "queries": 181,
+        "b0_gold_hits10": 136,
+        "a1_gold_hits10": 142,
+        "promoted_into_top10": 26,
+        "lost_from_top10": 20
+      }
+    },
+    "note": "candidate-frequency-weighted truncation; lengths use MiniLM tokenizer; descriptive association, not a truncation ablation"
+  },
+  "b0_regression_timing": {
+    "cold_process_wall_seconds": 105.86409523999998,
+    "resources": {
+      "entrypoint_wall_seconds": 104.71302509199998,
+      "peak_process_rss_bytes": 1789333504,
+      "peak_cuda_allocated_bytes": 503805952,
+      "peak_cuda_reserved_bytes": 717225984,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": "0",
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+      "data/train/products.jsonl": "data/train/products.jsonl"
+    }
+  },
+  "a1_dev_fast_timing": {
+    "cold_process_wall_seconds": 107.580411253,
+    "resources": {
+      "entrypoint_wall_seconds": 106.84859746500001,
+      "peak_process_rss_bytes": 1903927296,
+      "peak_cuda_allocated_bytes": 503805952,
+      "peak_cuda_reserved_bytes": 717225984,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": "1",
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/derived/dev_fast.jsonl": "data/derived/dev_fast.jsonl",
+      "data/train/products.jsonl": "data/train/products.jsonl"
+    }
+  },
+  "a1_dev_fast_vs_full_changed_qids": [],
+  "paired_changes": {
+    "graded_recall@10": {
+      "mean_difference": -0.045548654244306416,
+      "improved_queries": 76,
+      "worsened_queries": 120,
+      "unchanged_queries": 770
+    },
+    "graded_mrr@10": {
+      "mean_difference": -0.06918646685727431,
+      "improved_queries": 213,
+      "worsened_queries": 322,
+      "unchanged_queries": 431
+    }
+  },
+  "by_message_count": {
+    "3": {
+      "B0": {
+        "graded_recall@10": 0.6155419222903885,
+        "graded_mrr@10": 0.34992534164313305
+      },
+      "A1": {
+        "graded_recall@10": 0.5787321063394683,
+        "graded_mrr@10": 0.3025099814977116
+      }
+    },
+    "5": {
+      "B0": {
+        "graded_recall@10": 0.689727463312369,
+        "graded_mrr@10": 0.4441366343882067
+      },
+      "A1": {
+        "graded_recall@10": 0.6352201257861635,
+        "graded_mrr@10": 0.35263136002129714
+      }
+    }
+  },
+  "selection": "Keep B0 default; A1 did not improve both graded metrics",
+  "notes": [
+    "one dev comparison, not an unseen-test guarantee",
+    "same judge model/order/batch 8; candidate changes alter batch composition",
+    "gold-only and official graded metrics are reported separately",
+    "W06 code hashes checked against preserved exact source snapshots"
+  ]
+}

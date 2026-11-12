@@ -1,0 +1,2354 @@
+[
+  {
+    "variant": "bm25",
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000038",
+      "query": "user: I've been doing my own gels with that UV dryer and the grapefruit sparkle color I got before, but I'm not sure what else I need.\nassistant: Got it! Are you looking for something to finish off your manicure or more colors to try?\nuser: Maybe a finisher? I have that top and base set but not sure if I'm missing something.\nassistant: Do you feel like the shine wears off too soon with that set?\nuser: Yeah, the shine fades after a few days, so I'm open to suggestions.",
+      "gold_pid": "B004GJCN8I"
+    },
+    "gold_title": "CND Shellac Creative Nail Shellac UV Top Coat 0.5 oz",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B003VMXSIK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Elegant Wish"
+        },
+        {
+          "rank": 2,
+          "pid": "B003VMM74Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Midnight Caller (0.5 Oz)"
+        },
+        {
+          "rank": 3,
+          "pid": "B004SS6IKG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Need a Tan"
+        },
+        {
+          "rank": 4,
+          "pid": "B003VMVBVG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish #324 Simple Sheer"
+        },
+        {
+          "rank": 5,
+          "pid": "B003VMU63K",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Gossip Girl (0.5 Oz)"
+        },
+        {
+          "rank": 6,
+          "pid": "B003VN1ING",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish June Brid"
+        },
+        {
+          "rank": 7,
+          "pid": "B004SSIW5K",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Up In The Blue"
+        },
+        {
+          "rank": 8,
+          "pid": "B003VMTZ8C",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Light Elegant (0.5 Oz)"
+        },
+        {
+          "rank": 9,
+          "pid": "B004NMVP82",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Grand Jewels"
+        },
+        {
+          "rank": 10,
+          "pid": "B0055E61KY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Black Shadow (0.5 Oz)"
+        }
+      ],
+      "bm25": [
+        {
+          "rank": 1,
+          "pid": "B0BG8HNDD1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "ab gel 18 pcs Gel Nail Polish Kit, Include 6 pcs Metal Line Nail Stickers,16 Colors Soak Off UV LED Nail Gel Pastel Collection with Base and Top Coat Manicure Nail Art Salon"
+        },
+        {
+          "rank": 2,
+          "pid": "B00GEG0FRM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Top Salicylic Acid Peel On Amazon! Try It Risk Free! Professional Chemical Gel Serum Look Younger At Home! No More Acne, Warts, Blackheads Or Wrinkles! Highest Potency 20%, Witch Hazel, Butylene Glycol, Hamamelis Virginiana For MAXIMUM Results! 2 pH"
+        },
+        {
+          "rank": 3,
+          "pid": "B006G4I15K",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "MelodySusie Lastest Automatical LED Gel Lamp Light Nail Dryer for Harmony Gelish & LED Gels Nail Polish 30s-90s White + MelodySusie Nail Nipper"
+        },
+        {
+          "rank": 4,
+          "pid": "B00ZOTQC0O",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Gellen Base Coat Top Coat, for Gel Nails Polish UV LED Soak Off No Wipe Glossy Top Coat Long Lasting Home Gel Manicure Kit - 0.33 Fl oz *2"
+        },
+        {
+          "rank": 5,
+          "pid": "B018ITP7ES",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Ultra Absorb Cat Box Liner Pads Premium Generic Refill for Breeze Tidy Cat Litter Box System - 22 Pad Pack"
+        },
+        {
+          "rank": 6,
+          "pid": "B00773ENH4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Hog Wild Toys Air Strike Catapult"
+        },
+        {
+          "rank": 7,
+          "pid": "B09YNX8QKC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Vishine Gel Nail Polish Starter Kit with 36W UV LED Nail Lamp Speed Dryer Manicure Tools Set of 6 Sheer Milky White Neutrals Skin Nude Jelly Transparent Colors Gel Polish Base and Top Coat #055"
+        },
+        {
+          "rank": 8,
+          "pid": "B07MKMKCFW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Split TOP California King Bed Sheet Set Royal Collection 1900 Egyptian Cotton Bamboo Quality with 1 Fitted Sheet 36\", 1 King Flat and 2 King P/Cases.No Wrinkle (White, Top Split Cal King)"
+        },
+        {
+          "rank": 9,
+          "pid": "B01CW9UUQK",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Seche Vive Gel Effect Top Coat 0.5oz, boxed"
+        },
+        {
+          "rank": 10,
+          "pid": "B06XJ24GTH",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "AIMEILI No Wipe Top Coat Soak Off U V LED Gel Nail Polish"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "bm25",
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000043",
+      "query": "user: hey, i've been using that lactic acid hair stuff and my gelish polishes a lot, but i'm not sure what to try next.\nassistant: Got it! Are you more in the mood to pamper your hair or play with your nails right now?\nuser: honestly i'm leaning towards nails, i liked those soak-off gels i got before but want something different.\nassistant: Nice, so you want a new nail look. Any preference for special effects or just a plain color?\nuser: something with a cool effect would be fun, like magnetic or shimmery.",
+      "gold_pid": "B00762XYKI"
+    },
+    "gold_title": "Harmony Gelish Magneto - Drawn Together w/ Matching Magnet Lacquer Kit",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B003VMXSIK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Elegant Wish"
+        },
+        {
+          "rank": 2,
+          "pid": "B006R3CORG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Gelish Soak-Off Gel Polish by Nail Harmony - 01523 My Forbidden Love"
+        },
+        {
+          "rank": 3,
+          "pid": "B003VMZHKM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Passion"
+        },
+        {
+          "rank": 4,
+          "pid": "B003VGMLSO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish #328 Bashful .5 oz"
+        },
+        {
+          "rank": 5,
+          "pid": "B003VGMOR2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Gelish soak off sealer gel top it off"
+        },
+        {
+          "rank": 6,
+          "pid": "B003VN1ING",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish June Brid"
+        },
+        {
+          "rank": 7,
+          "pid": "B003VMZRYI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Sweet Chocolate"
+        },
+        {
+          "rank": 8,
+          "pid": "B004SS6IKG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Need a Tan"
+        },
+        {
+          "rank": 9,
+          "pid": "B003VMJ01Y",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Rendezvous"
+        },
+        {
+          "rank": 10,
+          "pid": "B003VMVBVG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish #324 Simple Sheer"
+        }
+      ],
+      "bm25": [
+        {
+          "rank": 1,
+          "pid": "B006R3CORG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Gelish Soak-Off Gel Polish by Nail Harmony - 01523 My Forbidden Love"
+        },
+        {
+          "rank": 2,
+          "pid": "B006I9RQBI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "UltraClear Acne Cream"
+        },
+        {
+          "rank": 3,
+          "pid": "B00GEG0FRM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Top Salicylic Acid Peel On Amazon! Try It Risk Free! Professional Chemical Gel Serum Look Younger At Home! No More Acne, Warts, Blackheads Or Wrinkles! Highest Potency 20%, Witch Hazel, Butylene Glycol, Hamamelis Virginiana For MAXIMUM Results! 2 pH"
+        },
+        {
+          "rank": 4,
+          "pid": "B01G31PBZS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "SUPERIOR Classic All-Season Down Alternative Comforter with Baffle Box Construction, Warm Filling - King Comforter, Navy Blue"
+        },
+        {
+          "rank": 5,
+          "pid": "B002CC1ARQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "MySack Golf Ball Storage Bag | This Funny Golf Gift Is Sure to Get a Laugh | Store Your Other Golf Accessories for Men Such as Tees & Gloves by Putting Them in This Gag Gift"
+        },
+        {
+          "rank": 6,
+          "pid": "B005J5T5VG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Gelish Soak-Off Gel Polish by Nail Harmony - 01600 Wiggle Fingers Wiggle Thumbs"
+        },
+        {
+          "rank": 7,
+          "pid": "B005J5SGS4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Gelish Soak-Off Gel Polish by Nail Harmony - 06101 Ali Babas Sim Sala Bim"
+        },
+        {
+          "rank": 8,
+          "pid": "B07F1PD25R",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "UV Nail Lamp 72W LED Nail Dryer UV Lamp Professional UV Led Nail Lamp,Nail Curing Lamp Double Power Gel Nail UV Light with 36 Beads, IR Sensor Gel Nail Polish Light for Curing Gel Nails（White）"
+        },
+        {
+          "rank": 9,
+          "pid": "B00H0CVFGO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Organic Argan Oil Young for Life - Certified, Pure, Natural, Virgin Moroccan Cold Pressed - For Your Hair, Skin, Face, Nails and Cuticals. Skin Problems Relief. Use Daily and Look Younger Like the Hollywood Beauties - Life-time No Questions Asked Guarantee!"
+        },
+        {
+          "rank": 10,
+          "pid": "B0090ELFRO",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "SHANY Cosmetics Magnetic Nail Polish, Earth Colors, 14.6 Ounce"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "bm25",
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000084",
+      "query": "user: I really liked that retinol night cream I picked up before, but my skin's been super dry during the day.\nassistant: Got it! So you're looking for a daytime moisturizer to pair with it?\nuser: Yeah, I need something lightweight that gives strong hydration without clogging pores.\nassistant: Sure, I can help with that. Do you prefer any particular brand or unisex option?\nuser: No brand preference, just want something for extra thirsty skin.",
+      "gold_pid": "B001BKO2ZC"
+    },
+    "gold_title": "Clinique Moisture Surge Extended Thirst Relief 1.7 oz",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B0B5S9B2SC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Neutrogena Healthy Skin Anti-Wrinkle Retinol Night Cream with Vitamin E and Vitamin B5 - Night Moisturizer Cream with Retinol, Vitamin E, Vitamin B5, Glycerin, 1.4 oz"
+        },
+        {
+          "rank": 2,
+          "pid": "B0002A65LQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Philosophy Help Me Retinol Night Treatment, 1.05 Ounce"
+        },
+        {
+          "rank": 3,
+          "pid": "B002RL8IWC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Skincare LdeL Cosmetics Retinol Night Cream, 1.7-Ounce Jar"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BNN3R65J",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Retinol Correxion Anti-Aging Wrinkle Night Serum, Daily Line Smoothing Skin Care Treatment for Fine Lines, Dark Spots, Post-Acne Scars, 30 Individual Capsules, Unscented, 0.35 Fl Oz"
+        },
+        {
+          "rank": 5,
+          "pid": "B08C5PHRM1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "L'Oreal Paris Revitalift 0.3% Pure Retinol Night Serum, to Visibly Reduce Wrinkles, Even Deep Ones, Fragrance Free 1 oz + Moisturizer Sample"
+        },
+        {
+          "rank": 6,
+          "pid": "B076KNVTHQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Retinol Moisturizer Anti Aging Cream for Face and Eye Area - With Hyaluronic Acid - 2.5% Active Retinol - Vitamin E - Reduce Appearance of Wrinkles and Fine lines - Best Day and Night Face Cream"
+        },
+        {
+          "rank": 7,
+          "pid": "B002JDUMFO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "L'Oreal Paris Collagen Moisture Filler Day/Night Cream, 1.7 Fluid Ounce"
+        },
+        {
+          "rank": 8,
+          "pid": "B0047F71SS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "L'Oreal Paris Youth Code Day/Night Cream, 1.7 Fluid Ounce"
+        },
+        {
+          "rank": 9,
+          "pid": "B002GOXELA",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Proactiv Solution JUMBO Super Size Clarifying Night Cream 2.5oz"
+        },
+        {
+          "rank": 10,
+          "pid": "B007JBF99U",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Babyface Night Renewal Cream 2% Encapsulated Retinol (1,700,000 IU/g) Non-Irritating Retinol OTC for Skin Tone Correction, Resurfacing, Anti-Aging, Acne"
+        }
+      ],
+      "bm25": [
+        {
+          "rank": 1,
+          "pid": "B0018SAJAY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Multi-Correxion Night Treatment, 1 Ounce"
+        },
+        {
+          "rank": 2,
+          "pid": "B00027DMI8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Retinol Correxion Deep Wrinkle Night Cream, 1-Ounce"
+        },
+        {
+          "rank": 3,
+          "pid": "B00387F426",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Deep Wrinkle Daily Moisturizer SPF30, 1 Ounce"
+        },
+        {
+          "rank": 4,
+          "pid": "B00DUUGR72",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Natural Facial Mask"
+        },
+        {
+          "rank": 5,
+          "pid": "B0009RFB76",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Retinol Correxion Eye Cream, 0.5 Ounce"
+        },
+        {
+          "rank": 6,
+          "pid": "B007JBF99U",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Babyface Night Renewal Cream 2% Encapsulated Retinol (1,700,000 IU/g) Non-Irritating Retinol OTC for Skin Tone Correction, Resurfacing, Anti-Aging, Acne"
+        },
+        {
+          "rank": 7,
+          "pid": "B00387F42Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Deep Wrinkle Filler, 1 Ounce"
+        },
+        {
+          "rank": 8,
+          "pid": "B0018S8NNE",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Multi-Correxion Eye Treatment, 0.5 Ounce"
+        },
+        {
+          "rank": 9,
+          "pid": "B0B2MKRTKB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Medline Remedy Clinical Skin Cream, Vanilla Scent (16 fl oz), Moisturizing Face and Body Cream for All Ages, Paraben & Sulfate Free, Quick Absorbent Formula, Hypoallergenic Skin Moisturizer"
+        },
+        {
+          "rank": 10,
+          "pid": "B0B5B63DLL",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Olay Regenerist Vitamin C MAX + Peptide 24 Brightening Face Moisturizer for Brighter Skin, Lightweight anti aging cream for dark spots 1.7oz, Includes Whip Travel Size for Dry Skin"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "bm25",
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000078",
+      "query": "user: I liked those soft false lashes and the Burt's Bees foot kit I bought. I need a natural shampoo without harsh chemicals.\nassistant: Nice! Are you looking for something SLS-free?\nuser: Yes, exactly, SLS-free and made in the USA.",
+      "gold_pid": "B005I8RH78"
+    },
+    "gold_title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B005I8RH78",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null,
+          "title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA"
+        },
+        {
+          "rank": 2,
+          "pid": "B004EDYQX6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Tips and Toes Kit"
+        },
+        {
+          "rank": 3,
+          "pid": "B09WHMND5W",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Newcally Natural Look Lashes Mink 3D Fluffy Wispy False Eyelashes Short Light Volume Fake Eye Lashes Pack 14 Pairs Reusable Soft Faux Mink Eyelashes"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BDTL82H1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Shed Control Shampoo with Omega 3 and Vitamin E | Shedding Shampoo for All Dogs | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Ounces"
+        },
+        {
+          "rank": 5,
+          "pid": "B00ZY64J2A",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Klorane Shampoo with Olive Extract, Thicker Fuller & Stronger Hair, Antioxidant Rich, Paraben & SLS Free"
+        },
+        {
+          "rank": 6,
+          "pid": "B0BGSD6NCW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "VGTE False Eyelashes Russian Strip Lashes D Curl Wispy Fluffy Natural Cat Eye Lashes 3D Faux Mink Lashes 10 Pairs Pack (3D T01)"
+        },
+        {
+          "rank": 7,
+          "pid": "B08NG8WWH2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Oatmeal Dog Shampoo | With Colloidal Oat Flour & Honey | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Oz - Pack of 6"
+        },
+        {
+          "rank": 8,
+          "pid": "B0C6N71G61",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Moisturizing Lip Care, for All Day Hydration, 100% Natural, Original Beeswax with Vitamin E & Peppermint Oil (2 Pack)"
+        },
+        {
+          "rank": 9,
+          "pid": "B0BR86QDHL",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Eye Makeup Remover Pads, 35 Count"
+        },
+        {
+          "rank": 10,
+          "pid": "B008HBMQTM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Sensitive Facial Cleansing Towelettes with Cotton Extract, 30 Count"
+        }
+      ],
+      "bm25": [
+        {
+          "rank": 1,
+          "pid": "B0B5Q84T6G",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Cats Waterless Shampoo with Apple & Honey | Dry Cat Shampoo Cat Waterless Shampoo Spray | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Cats - Made in USA, 10 Oz- 2 Pack"
+        },
+        {
+          "rank": 2,
+          "pid": "B0B5Q9C3MV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Waterless Shampoo Spray with Apple and Honey | Dry Dog Shampoo for All Dogs and Puppies | Cruelty, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 10 Ounces"
+        },
+        {
+          "rank": 3,
+          "pid": "B0B5Q8D9YS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Hypoallergenic Dog Shampoo with Shea Butter & Honey for Dogs with Dry or Sensitive Skin | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs | 16 Oz, 2 Pack"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BTPD94D8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Calming Dog Shampoo | Soothes, Calms & Revitalizes Dog's Coats | Dog Shampoos Made with Lavender and Green Tea | pH Balanced for Puppies - Made in USA, 32 Oz"
+        },
+        {
+          "rank": 5,
+          "pid": "B0BDTL82H1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Shed Control Shampoo with Omega 3 and Vitamin E | Shedding Shampoo for All Dogs | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Ounces"
+        },
+        {
+          "rank": 6,
+          "pid": "B0B5Q8JKPB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Kitten Natural Tearless Shampoo with Buttermilk, 10 Oz - Burts Bees Cat Shampoo, Kitten Shampoo for Cats - Cat Grooming Supplies, Cat Bath Supplies, Kitty Shampoo, Pet Shampoo"
+        },
+        {
+          "rank": 7,
+          "pid": "B0BTBXG6Z6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Deodorizing Dog Shampoo with Apple & Rosemary |Dog Shampoo Combats Odors | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 oz - 2 Pack"
+        },
+        {
+          "rank": 8,
+          "pid": "B0BRB8J44L",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Hot Spot Shampoo with Apple Cider Vinegar & Aloe Vera | Soothing & Relieving Hot Spot Remedy for Dog | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs | 16 Oz"
+        },
+        {
+          "rank": 9,
+          "pid": "B08NG8WWH2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Oatmeal Dog Shampoo | With Colloidal Oat Flour & Honey | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Oz - Pack of 6"
+        },
+        {
+          "rank": 10,
+          "pid": "B0B5QB6W5F",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Dogs All-Natural Itch Soothing Spray with Honeysuckle | Best Anti-Itch Spray For All Dogs And Puppies With Itchy Skin | 10 Ounces - Pack of 2"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "bm25",
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000090",
+      "query": "user: I need a new facial moisturizer. I've been happy with that gentle cleanser and eye cream I got before.\nassistant: Got it. What kind of moisturizer are you looking for?\nuser: Something gentle and good for sensitive skin, maybe with natural butters.\nassistant: Okay, I can look into that. Do you prefer a day or night cream?\nuser: Day cream ideally, and something that helps with aging too.",
+      "gold_pid": "B00AAR9I60"
+    },
+    "gold_title": "Hydrate, facial moisturizer, 1.7oz. (48g)",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B00H1EHTAC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Day Cream Moisturizer Formulated with Peptides and Antioxidants for ALL Skin Types! - 60 Day 100% Money Back Guarantee - Paraben - Petrolatum - Phthalate Free!"
+        },
+        {
+          "rank": 2,
+          "pid": "B09NB2R394",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Hydrating Facial Moisturizer Face Cream - Clean, Daily Face Moisturizer for All Skin Types - with Certified Organic Ingredients for Soft, Smooth Skin - Face Lotion for Women and Men, Anise"
+        },
+        {
+          "rank": 3,
+          "pid": "B00021B8L2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Philosophy Hope in a Jar Daily Moisturizer, Dry Skin, 2 Ounce"
+        },
+        {
+          "rank": 4,
+          "pid": "B07WTJTJ33",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Amazon Basics Oil-free Facial Moisturizer for Sensitive Skin, Fragrance Free, 4 Fluid Ounce (Previously Solimo)"
+        },
+        {
+          "rank": 5,
+          "pid": "B001FYSHL4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "L'Oreal Paris Age Perfect Cream Cleanser, 5- Ounce"
+        },
+        {
+          "rank": 6,
+          "pid": "B00187OEWO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Avon Moisture Effective Eye Makeup Remover Lotion"
+        },
+        {
+          "rank": 7,
+          "pid": "B00CHHJX0M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Simple Kind to Skin Facial Toner, Soothing, 6.7 Fl Oz (Pack of 1)"
+        },
+        {
+          "rank": 8,
+          "pid": "B000EBIDIQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Aqua Glycolic Alpha Hydroxy Acid Skin Care System, Facial Cleanser 6 Ounce, Toner 6 Ounce, Face Cream, 2 ounce 1 kit"
+        },
+        {
+          "rank": 9,
+          "pid": "B0031NK6J8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Philosophy Miracle Worker Anti-Aging Moisturizer, 2 Ounce"
+        },
+        {
+          "rank": 10,
+          "pid": "B0047F71SS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "L'Oreal Paris Youth Code Day/Night Cream, 1.7 Fluid Ounce"
+        }
+      ],
+      "bm25": [
+        {
+          "rank": 1,
+          "pid": "B00KCTER3U",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Anti-Aging Facial Moisturizer Cream 3.4 OZ For Face, Under Eye, Oily, Sensitive, & Dry Skin ★LIMITED SALE!★ Best Anti-Wrinkle Cream | Youth Express Age-Defying Moisturizer | Suitable for Men & Women | Reduces Appearance of Wrinkles, Fine Lines & Hydrates the Skin - Moisturizing Night & Day Cream | Perfectly Suitable As Hand Cream & Eye Cream | 100 Days 100% Satisfaction Guarantee"
+        },
+        {
+          "rank": 2,
+          "pid": "B07RT73CGB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "L'Oréal Paris Revitalift Bright Reveal Anti-Aging Day Cream with SPF 30 with Glycolic Acid, Vitamin C & Pro-Retinol to Reduce Wrinkles & Brighten Skin, 1 fl. oz."
+        },
+        {
+          "rank": 3,
+          "pid": "B073QPMFPC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Garnier SkinActive Facial Mist Spray with Rose Water, 4.4 Fl Oz (130mL), 1 Count (Packaging May Vary)"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BQQ3T6D6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Dove Beauty Bar More Moisturizing Than Bar Soap Gentle Exfoliating With Mild Cleanser For Softer And Smoother Skin 3.75 oz, 6 Bars"
+        },
+        {
+          "rank": 5,
+          "pid": "B00CDTHC6G",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "THAT Eye Cream All-In-One Eye Gel with Vitamin C - Best Anti Aging Serum For Wrinkles, Dark Circles, Puffiness, Bags and More - Effective Formula Helps Soothe and Refresh Delicate Under Eye Skin - Easy To Apply, Oil and Paraben Free"
+        },
+        {
+          "rank": 6,
+          "pid": "B0018SAJAY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "RoC Multi-Correxion Night Treatment, 1 Ounce"
+        },
+        {
+          "rank": 7,
+          "pid": "B015ORL3B8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Radha Beauty Moisturizing Miracle Retinol Cream for Face - with 2.5% Retinol, Hyaluronic Acid, Vitamin E and Green Tea. Luxury Night and Day Anti-Aging Wrinkle Cream 1.7 fl oz."
+        },
+        {
+          "rank": 8,
+          "pid": "B0B6JFLYXB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Aveeno Active Naturals Ultra-Calming Foaming Cleanser, Fragrance-Free, 6-Ounce Bottle (Pack of 3)"
+        },
+        {
+          "rank": 9,
+          "pid": "B00FJE4K94",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Anti Aging Moisturizer With Matrixy - Vellumay tm. Anti Wrinkle Cream Containing Patented Pentapeptides - Superior Collagen Booster - Facial Moisturizer With Hyaluronic Acid And Green Tea Extract for Tissue Hydration And Free Radical Elimination - Best Facial Cream To Help Significantly Lessen The Appearance Of Puffiness and Wrinkles"
+        },
+        {
+          "rank": 10,
+          "pid": "B000142BP2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Queen Helene Natural Cocoa Crème, Cocoa Butter, 15 Ounce"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "bm25",
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000102",
+      "query": "user: hey, i've been liking my coco mango perfume oil but i'm kinda unsure what other little beauty things i might need right now.\nassistant: got it! are you looking more for skincare, hair care, or maybe something for lips and makeup?\nuser: hmm, i'm not really sure, maybe something for my lips? they've been dry lately.",
+      "gold_pid": "B002D4JABQ"
+    },
+    "gold_title": "Philosophy Kiss Me Tonight Lip Therapy, 0.3 Ounce",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B018RMJD3M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Ultra Pure Organic Virgin Coconut Oil for Hair, Skin, Body, Scalp and Hair By COCO & CO."
+        },
+        {
+          "rank": 2,
+          "pid": "B000OP3DIM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Alba Botanica Hawaiian Coconut Cream Lip Balm 0.15 oz"
+        },
+        {
+          "rank": 3,
+          "pid": "B00YW8JWO6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Dial Liquid Hand Soap, Coconut Water & Mango, 7.5 Ounce"
+        },
+        {
+          "rank": 4,
+          "pid": "B00X0XHPNE",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "OKAY 100% COCONUT OIL for HAIR and SKIN in JAR 6oz / 177ml"
+        },
+        {
+          "rank": 5,
+          "pid": "B0014AX89K",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cococare Shea Butter Moisturizing Stick 1 oz."
+        },
+        {
+          "rank": 6,
+          "pid": "B09XBXN5TW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Better Shea Butter Set of Raw Shea Butter, Raw Mango Butter, Unrefined Cocoa Butter For Soap Making and DIY Body Butters, Lip Balms, Body Lotions - Each Jar is 8 oz Making 24 oz Total (3-Bar Set)"
+        },
+        {
+          "rank": 7,
+          "pid": "B0B72C6BVG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Alaffia EveryDay Coconut Hydrating Body Lotion, Normal to Dry Skin, Moisturizing Support for Soft & Supple Skin, Purely Coconut, 32 Fl Oz"
+        },
+        {
+          "rank": 8,
+          "pid": "B0009OAHQE",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Bora Bora by Liz Claiborne for Women, Eau De Parfum Spray, 3.4-Ounce"
+        },
+        {
+          "rank": 9,
+          "pid": "B009ARXDHQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "SHANY Cosmetics SHANY Cocolicious Lip Gloss Set No.1 Chocolate Shades Aloe Vera and Vitamin E, 6 Count"
+        },
+        {
+          "rank": 10,
+          "pid": "B07YG8YVQW",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "NIVEA Moisture Lip Care, Lip Balm Stick with Shea Butter, Jojoba Oil and Avocado Oil, 0.17 Oz, Pack of 4"
+        }
+      ],
+      "bm25": [
+        {
+          "rank": 1,
+          "pid": "B0BTHF8Y4M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "wet n wild Silk Finish Lipstick| Hydrating Lip Color| Rich Buildable Color| Raging Red"
+        },
+        {
+          "rank": 2,
+          "pid": "B07SMW3PZ2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Scrunchies Hair Ties Silk Satin Scrunchy - Cute Bow Bunny Ear Hair Elastic Ponytail Holder Bobbles Soft Elegant Elastic Hair Bands with Tail Ribbon"
+        },
+        {
+          "rank": 3,
+          "pid": "B07D5S54KF",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Untamed Raptor by Fingerlings - Blaze (Orange) - Interactive Collectible Dinosaur - By WowWee"
+        },
+        {
+          "rank": 4,
+          "pid": "B00H0CVFGO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Organic Argan Oil Young for Life - Certified, Pure, Natural, Virgin Moroccan Cold Pressed - For Your Hair, Skin, Face, Nails and Cuticals. Skin Problems Relief. Use Daily and Look Younger Like the Hollywood Beauties - Life-time No Questions Asked Guarantee!"
+        },
+        {
+          "rank": 5,
+          "pid": "B018ITP7ES",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Ultra Absorb Cat Box Liner Pads Premium Generic Refill for Breeze Tidy Cat Litter Box System - 22 Pad Pack"
+        },
+        {
+          "rank": 6,
+          "pid": "B006I9RQBI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "UltraClear Acne Cream"
+        },
+        {
+          "rank": 7,
+          "pid": "B01G31PBZS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "SUPERIOR Classic All-Season Down Alternative Comforter with Baffle Box Construction, Warm Filling - King Comforter, Navy Blue"
+        },
+        {
+          "rank": 8,
+          "pid": "B007CTNHL6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "#52101 Black All Night Waterproof Liquid Eyeliner Smudge Proof Cosmetics Makeup"
+        },
+        {
+          "rank": 9,
+          "pid": "B002CC1ARQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "MySack Golf Ball Storage Bag | This Funny Golf Gift Is Sure to Get a Laugh | Store Your Other Golf Accessories for Men Such as Tees & Gloves by Putting Them in This Gag Gift"
+        },
+        {
+          "rank": 10,
+          "pid": "B00GEG0FRM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Top Salicylic Acid Peel On Amazon! Try It Risk Free! Professional Chemical Gel Serum Look Younger At Home! No More Acne, Warts, Blackheads Or Wrinkles! Highest Potency 20%, Witch Hazel, Butylene Glycol, Hamamelis Virginiana For MAXIMUM Results! 2 pH"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "hybrid",
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000034",
+      "query": "user: I'm just browsing for some new grooming things, maybe something to go with my shea shampoo and oat lotion but I'm not sure what I need.\nassistant: Got it! Are you looking more for hair care or something for your body and shower routine?\nuser: Honestly I'm a bit unsure, maybe something for the shower that's simple and not too fancy.",
+      "gold_pid": "B00AFCP6F2"
+    },
+    "gold_title": "Old Spice High Endurance Pure Sport Scent Bar Soap Pack Of 6 - 24 Oz",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B000HJUWRU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "The Body Shop Cactus Body Brush"
+        },
+        {
+          "rank": 2,
+          "pid": "B0046HIP1Y",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Curl Junkie Curl Assurance Smoothing Lotion, 12 fl. oz."
+        },
+        {
+          "rank": 3,
+          "pid": "B000NRQ89M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Ultra moisture in-Shower body lotion with shea butter 8.4 fl oz"
+        },
+        {
+          "rank": 4,
+          "pid": "B0016OCTDU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW! Solid Shampoo by LUSH"
+        },
+        {
+          "rank": 5,
+          "pid": "B08KJKWPZC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "SheaMoisture Restorative Conditioner for Dry, Damaged Hair Raw Shea Butter Silicone Free Conditioner for Curly Hair 13 oz"
+        },
+        {
+          "rank": 6,
+          "pid": "B01LTIAU8S",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cantu for Men Leave-In Rinse-Out Conditioner for Hair & Beard, 13 oz (Packaging May Vary)"
+        },
+        {
+          "rank": 7,
+          "pid": "B001FB5NTG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Moisturinse In-Shower Body Lotion w/ shea butter, 15.2 Ounce (Pack of 4)"
+        },
+        {
+          "rank": 8,
+          "pid": "B00A0J09C0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Dove Men+Care Hydrate + Shave Gel"
+        },
+        {
+          "rank": 9,
+          "pid": "B000KOOCQO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Goody Ouchless Cushion Styling Hair Brush for Medium Hair #88168 Color May Very"
+        },
+        {
+          "rank": 10,
+          "pid": "B076S9XDTJ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "OGX Hydrating Moisture + Shea Soft & Smooth Body Wash, Coconut, 19.5 Fl Oz"
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "pid": "B07QMQFJY7",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "OGX Hydrating Moisture + Shea Soft & Smooth Body Lotion, 19.5 Fl Oz"
+        },
+        {
+          "rank": 2,
+          "pid": "B076S9XDTJ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "OGX Hydrating Moisture + Shea Soft & Smooth Body Wash, Coconut, 19.5 Fl Oz"
+        },
+        {
+          "rank": 3,
+          "pid": "B00VAPP48M",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Body & Sole Shampoo and Scalp Toning Brush - Helps Control Dandruff (Aqua Blue) Use to Clean Hair and Scalp, Apply Hair Products, Increase Scalp Circulation"
+        },
+        {
+          "rank": 4,
+          "pid": "B000HJUWRU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "The Body Shop Cactus Body Brush"
+        },
+        {
+          "rank": 5,
+          "pid": "B018ITP7ES",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Ultra Absorb Cat Box Liner Pads Premium Generic Refill for Breeze Tidy Cat Litter Box System - 22 Pad Pack"
+        },
+        {
+          "rank": 6,
+          "pid": "B0046HIP1Y",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Curl Junkie Curl Assurance Smoothing Lotion, 12 fl. oz."
+        },
+        {
+          "rank": 7,
+          "pid": "B075VZZ68H",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "CozyEars Disposable Pet Shower Caps, Shower, Raining, Swimming, Dogs, 12 Caps in a Pack (Large)"
+        },
+        {
+          "rank": 8,
+          "pid": "B07THS7T5Y",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Kitsch Scalp Massager Shampoo Brush - Scalp Scrubber & Hair Massager for All Hair Types | Hair Scalp Massager for Hair Growth | Scalp Scrub & Scalp Brush | Scalp Exfoliator & Hair Scrubber (Gray)"
+        },
+        {
+          "rank": 9,
+          "pid": "B000NRQ89M",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Ultra moisture in-Shower body lotion with shea butter 8.4 fl oz"
+        },
+        {
+          "rank": 10,
+          "pid": "B0016OCTDU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW! Solid Shampoo by LUSH"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "hybrid",
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000038",
+      "query": "user: I've been doing my own gels with that UV dryer and the grapefruit sparkle color I got before, but I'm not sure what else I need.\nassistant: Got it! Are you looking for something to finish off your manicure or more colors to try?\nuser: Maybe a finisher? I have that top and base set but not sure if I'm missing something.\nassistant: Do you feel like the shine wears off too soon with that set?\nuser: Yeah, the shine fades after a few days, so I'm open to suggestions.",
+      "gold_pid": "B004GJCN8I"
+    },
+    "gold_title": "CND Shellac Creative Nail Shellac UV Top Coat 0.5 oz",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B003VMXSIK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Elegant Wish"
+        },
+        {
+          "rank": 2,
+          "pid": "B003VMM74Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Midnight Caller (0.5 Oz)"
+        },
+        {
+          "rank": 3,
+          "pid": "B004SS6IKG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Need a Tan"
+        },
+        {
+          "rank": 4,
+          "pid": "B003VMVBVG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish #324 Simple Sheer"
+        },
+        {
+          "rank": 5,
+          "pid": "B003VMU63K",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Gossip Girl (0.5 Oz)"
+        },
+        {
+          "rank": 6,
+          "pid": "B003VN1ING",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish June Brid"
+        },
+        {
+          "rank": 7,
+          "pid": "B004SSIW5K",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Up In The Blue"
+        },
+        {
+          "rank": 8,
+          "pid": "B003VMTZ8C",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Light Elegant (0.5 Oz)"
+        },
+        {
+          "rank": 9,
+          "pid": "B004NMVP82",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish UV Soak Off Gel Polish Grand Jewels"
+        },
+        {
+          "rank": 10,
+          "pid": "B0055E61KY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Uv Soak Off Gel Polish -Black Shadow (0.5 Oz)"
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "pid": "B0BG8HNDD1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "ab gel 18 pcs Gel Nail Polish Kit, Include 6 pcs Metal Line Nail Stickers,16 Colors Soak Off UV LED Nail Gel Pastel Collection with Base and Top Coat Manicure Nail Art Salon"
+        },
+        {
+          "rank": 2,
+          "pid": "B00ZOTQC0O",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Gellen Base Coat Top Coat, for Gel Nails Polish UV LED Soak Off No Wipe Glossy Top Coat Long Lasting Home Gel Manicure Kit - 0.33 Fl oz *2"
+        },
+        {
+          "rank": 3,
+          "pid": "B06XJ24GTH",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "AIMEILI No Wipe Top Coat Soak Off U V LED Gel Nail Polish"
+        },
+        {
+          "rank": 4,
+          "pid": "B006G4I15K",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "MelodySusie Lastest Automatical LED Gel Lamp Light Nail Dryer for Harmony Gelish & LED Gels Nail Polish 30s-90s White + MelodySusie Nail Nipper"
+        },
+        {
+          "rank": 5,
+          "pid": "B09YNX8QKC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Vishine Gel Nail Polish Starter Kit with 36W UV LED Nail Lamp Speed Dryer Manicure Tools Set of 6 Sheer Milky White Neutrals Skin Nude Jelly Transparent Colors Gel Polish Base and Top Coat #055"
+        },
+        {
+          "rank": 6,
+          "pid": "B00PF9Q5EG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "AIMEILI Gel Nail Polish No Wipe Top and Base Coat Set, Shine Finish and Long Lasting, Soak Off Gel Nail Lacquer - 2 x 10ml"
+        },
+        {
+          "rank": 7,
+          "pid": "B01CW9UUQK",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Seche Vive Gel Effect Top Coat 0.5oz, boxed"
+        },
+        {
+          "rank": 8,
+          "pid": "B07PHZF1WW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "No Wipe Top Coat Base Coat Soak Off Set 10ml LED Lamp Cure Quick Dry Clear Shine Gloss Mirror Long Lasting Nail Art Gel Polish Resin Tested Formula For Home And Salon Use"
+        },
+        {
+          "rank": 9,
+          "pid": "B07WDV9FLZ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cat Eye Nail Gel Polish Magnetic Gel for Nails 6 Colors UV Gel Nail Polish Set Magnetic Gel Peel Off Face"
+        },
+        {
+          "rank": 10,
+          "pid": "B01NH0D2T5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "modelones Gel Top Coat and Base Coat, 2Pcs 10ml Gel Nail Polish No Wipe Top Coat Set, Glossy Shine Long Lasting LED Soak Off For Home DIY and Nail Salon"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "hybrid",
+    "direction": "improved",
+    "query": {
+      "qid": "beauty-train-000166",
+      "query": "user: hey I'm kinda unsure what to buy next, I've been using that nail oil and my matte strengthener from before but open to ideas.\nassistant: No problem! Are you thinking of staying in nail care or maybe exploring something like the eye makeup you picked up earlier?\nuser: I guess I'm leaning toward nails again, but not totally certain.\nassistant: Gotcha. Would a combined base and top coat set be something you'd find handy?\nuser: Yeah that sounds easy, I'm not too picky.",
+      "gold_pid": "B00770JW9Q"
+    },
+    "gold_title": "Seche Vite Dry Fast Top Coat/Seche Clear Crystal Clear Base Coat Duo [Misc.]",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B003O4BWV0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Essie Matte About You Matte Finisher .5 Oz"
+        },
+        {
+          "rank": 2,
+          "pid": "B0082XRJXS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW 2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 161 Nail Art Designs."
+        },
+        {
+          "rank": 3,
+          "pid": "B005FK3M46",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW 2013 Gals \"Princes Set\" of 25 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit."
+        },
+        {
+          "rank": 4,
+          "pid": "B000RHK3IU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "ALICE Set of 3 Sable Nail Art Brushes Pen, Detailer Liner and Striper, Graduation Gift"
+        },
+        {
+          "rank": 5,
+          "pid": "B006OMHR1S",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 160 Nail Art Designs"
+        },
+        {
+          "rank": 6,
+          "pid": "B006FRS9O6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Harmony Gelish Top and Base \"Set of 2\" Good Deal!!!"
+        },
+        {
+          "rank": 7,
+          "pid": "B006OMHV00",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Design Jumbo Nail Art Image Plate (C) of 42 Full Nailart Designs by Cheeky®"
+        },
+        {
+          "rank": 8,
+          "pid": "B005GCZ3YK",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Design Jumbo Nail Art Image Plate (I2) over 42 Nailart Designs by Cheeky®"
+        },
+        {
+          "rank": 9,
+          "pid": "B0082XRHGM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Design Jumbo Nail Art Image Plate (D) of 42 Full Nailart Designs by Cheeky®"
+        },
+        {
+          "rank": 10,
+          "pid": "B006OMHUL0",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Design Jumbo Nail Art Image Plate (B) of 42 Full Nailart Designs by Cheeky®"
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "pid": "B005FK3M46",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW 2013 Gals \"Princes Set\" of 25 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit."
+        },
+        {
+          "rank": 2,
+          "pid": "B07PHZF1WW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "No Wipe Top Coat Base Coat Soak Off Set 10ml LED Lamp Cure Quick Dry Clear Shine Gloss Mirror Long Lasting Nail Art Gel Polish Resin Tested Formula For Home And Salon Use"
+        },
+        {
+          "rank": 3,
+          "pid": "B0BPVTBT14",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Grip & Tip Adjustable Nail Polish Holder – Nail Tools for Pedicure Kit, Manicure Set and Nail Supplies, Nail Polish Organizer, Nail Art Supplies, 2 pk"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BG8HNDD1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "ab gel 18 pcs Gel Nail Polish Kit, Include 6 pcs Metal Line Nail Stickers,16 Colors Soak Off UV LED Nail Gel Pastel Collection with Base and Top Coat Manicure Nail Art Salon"
+        },
+        {
+          "rank": 5,
+          "pid": "B0082XRJXS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "NEW 2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 161 Nail Art Designs."
+        },
+        {
+          "rank": 6,
+          "pid": "B009NCM6JY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Fairy Set of 25 Nail Art Design Stamps Stamping Manicure Image Plates by Gals"
+        },
+        {
+          "rank": 7,
+          "pid": "B0082XRHGM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "New Design Jumbo Nail Art Image Plate (D) of 42 Full Nailart Designs by Cheeky®"
+        },
+        {
+          "rank": 8,
+          "pid": "B00126IXLO",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Quimica Alemana Nail Hardener 0.47 oz"
+        },
+        {
+          "rank": 9,
+          "pid": "B006OMHR1S",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 160 Nail Art Designs"
+        },
+        {
+          "rank": 10,
+          "pid": "B01NH0D2T5",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "modelones Gel Top Coat and Base Coat, 2Pcs 10ml Gel Nail Polish No Wipe Top Coat Set, Glossy Shine Long Lasting LED Soak Off For Home DIY and Nail Salon"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "hybrid",
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000078",
+      "query": "user: I liked those soft false lashes and the Burt's Bees foot kit I bought. I need a natural shampoo without harsh chemicals.\nassistant: Nice! Are you looking for something SLS-free?\nuser: Yes, exactly, SLS-free and made in the USA.",
+      "gold_pid": "B005I8RH78"
+    },
+    "gold_title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B005I8RH78",
+          "gain": 1.0,
+          "source": "gold",
+          "parse_ok": true,
+          "raw_output": null,
+          "title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA"
+        },
+        {
+          "rank": 2,
+          "pid": "B004EDYQX6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Tips and Toes Kit"
+        },
+        {
+          "rank": 3,
+          "pid": "B09WHMND5W",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Newcally Natural Look Lashes Mink 3D Fluffy Wispy False Eyelashes Short Light Volume Fake Eye Lashes Pack 14 Pairs Reusable Soft Faux Mink Eyelashes"
+        },
+        {
+          "rank": 4,
+          "pid": "B0BDTL82H1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Shed Control Shampoo with Omega 3 and Vitamin E | Shedding Shampoo for All Dogs | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Ounces"
+        },
+        {
+          "rank": 5,
+          "pid": "B00ZY64J2A",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Klorane Shampoo with Olive Extract, Thicker Fuller & Stronger Hair, Antioxidant Rich, Paraben & SLS Free"
+        },
+        {
+          "rank": 6,
+          "pid": "B0BGSD6NCW",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "VGTE False Eyelashes Russian Strip Lashes D Curl Wispy Fluffy Natural Cat Eye Lashes 3D Faux Mink Lashes 10 Pairs Pack (3D T01)"
+        },
+        {
+          "rank": 7,
+          "pid": "B08NG8WWH2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Oatmeal Dog Shampoo | With Colloidal Oat Flour & Honey | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Oz - Pack of 6"
+        },
+        {
+          "rank": 8,
+          "pid": "B0C6N71G61",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Moisturizing Lip Care, for All Day Hydration, 100% Natural, Original Beeswax with Vitamin E & Peppermint Oil (2 Pack)"
+        },
+        {
+          "rank": 9,
+          "pid": "B0BR86QDHL",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Eye Makeup Remover Pads, 35 Count"
+        },
+        {
+          "rank": 10,
+          "pid": "B008HBMQTM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Sensitive Facial Cleansing Towelettes with Cotton Extract, 30 Count"
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "pid": "B0BDTL82H1",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Shed Control Shampoo with Omega 3 and Vitamin E | Shedding Shampoo for All Dogs | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Ounces"
+        },
+        {
+          "rank": 2,
+          "pid": "B08NG8WWH2",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Oatmeal Dog Shampoo | With Colloidal Oat Flour & Honey | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Oz - Pack of 6"
+        },
+        {
+          "rank": 3,
+          "pid": "B0B5Q8D9YS",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Hypoallergenic Dog Shampoo with Shea Butter & Honey for Dogs with Dry or Sensitive Skin | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs | 16 Oz, 2 Pack"
+        },
+        {
+          "rank": 4,
+          "pid": "B004EDYQX6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Tips and Toes Kit"
+        },
+        {
+          "rank": 5,
+          "pid": "B09WHMND5W",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Newcally Natural Look Lashes Mink 3D Fluffy Wispy False Eyelashes Short Light Volume Fake Eye Lashes Pack 14 Pairs Reusable Soft Faux Mink Eyelashes"
+        },
+        {
+          "rank": 6,
+          "pid": "B0B5Q9C3MV",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Natural Waterless Shampoo Spray with Apple and Honey | Dry Dog Shampoo for All Dogs and Puppies | Cruelty, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 10 Ounces"
+        },
+        {
+          "rank": 7,
+          "pid": "B0B5Q8JKPB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Kitten Natural Tearless Shampoo with Buttermilk, 10 Oz - Burts Bees Cat Shampoo, Kitten Shampoo for Cats - Cat Grooming Supplies, Cat Bath Supplies, Kitty Shampoo, Pet Shampoo"
+        },
+        {
+          "rank": 8,
+          "pid": "B0BTPD94D8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Pets Natural Calming Dog Shampoo | Soothes, Calms & Revitalizes Dog's Coats | Dog Shampoos Made with Lavender and Green Tea | pH Balanced for Puppies - Made in USA, 32 Oz"
+        },
+        {
+          "rank": 9,
+          "pid": "B001GIOV3W",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees Face Wash, Deep Facial Cleansing Cream, All Natural Cleanser with Chamomile, 6 Ounce (Pack of 3) (Packaging May Vary)"
+        },
+        {
+          "rank": 10,
+          "pid": "B0BTBXG6Z6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Burt's Bees for Dogs Deodorizing Dog Shampoo with Apple & Rosemary |Dog Shampoo Combats Odors | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 oz - 2 Pack"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "hybrid",
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000356",
+      "query": "user: I've been using that Italian olive oil soap bar and my shea butter, but I feel like my hair care is missing something. Not really sure what I need though.\nassistant: Gotcha! Are you thinking more about a styling tool or an actual hair product?\nuser: Hmm, maybe a tool? I'm not totally sure what would help.\nassistant: Okay, let's look at some options for tools then.\nuser: Sure, what do you have in mind?",
+      "gold_pid": "B0017PUPMK"
+    },
+    "gold_title": "Spornette DeVille 100% Boar Bristle Paddle Brush",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B004X8KOEC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Eco Style Gel, Olive Oil, 16 oz"
+        },
+        {
+          "rank": 2,
+          "pid": "B004XC6YUG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "It's a 10 Miracle Styling Cream (5 oz)"
+        },
+        {
+          "rank": 3,
+          "pid": "B0046HIP1Y",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Curl Junkie Curl Assurance Smoothing Lotion, 12 fl. oz."
+        },
+        {
+          "rank": 4,
+          "pid": "B01LTIAU8S",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cantu for Men Leave-In Rinse-Out Conditioner for Hair & Beard, 13 oz (Packaging May Vary)"
+        },
+        {
+          "rank": 5,
+          "pid": "B004KRXFX8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Sally Hansen Beauty Tools, Do Your 'do Styling Shears"
+        },
+        {
+          "rank": 6,
+          "pid": "B09PBV4YT8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "BEWAVE Big Holes Barber Hair Brush Sponge Dreads Locking Twist Afro Curl Coil Wave Hair Care Tool, 2 Pcs with 1 Pc Hair Pick"
+        },
+        {
+          "rank": 7,
+          "pid": "B07Q4P6SLB",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Traininghead 26\"-28\" Mannequin Head Hair Styling Training Practice Head Manikin Cosmetology Doll Head Synthetic Fiber Hair Hairdressing Training Model with Free Clamp Stand"
+        },
+        {
+          "rank": 8,
+          "pid": "B08VNHYYT4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Dimstexp 1 Pack Microfiber Hair Towel for Women, Drying Curly Hair, Hair Towel Wrap & Anti Frizz Hair Products, Hair Wraps for Women, Curly Hair Products, Microfiber Towel and Hair Wrap(Pink)"
+        },
+        {
+          "rank": 9,
+          "pid": "B0BSPTLD2M",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Cantu Extra Hold Edge Stay Gel for Natural Hair with Shea Butter, 2.25 oz (Pack of 4) (Packaging May Vary)"
+        },
+        {
+          "rank": 10,
+          "pid": "B00658M1DU",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "As I Am Twist Defining Cream, 16 Ounce"
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "pid": "B09FPCLB9L",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Cantu Moisturizing Twist & Lock Gel with Shea Butter for Natural Hair, 13 oz (Packaging May Vary)"
+        },
+        {
+          "rank": 2,
+          "pid": "B00KD73PBQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Argan Oil For Hair Treatment & Elixir Serum ★LIMITED SALE★ #1 Hair Oil Treatment! Infused With Organic Jojoba Oil, Organic Argan Oil, Coconut Oil, Olive Oil, Shea Butter, Sunflower Oil, Grapeseed Oil And Vitamin B5 For Hair - Best Hair Care Leave-In Conditioner Treatment | Use As Hair Conditioner, Frizzy, Damaged, Dry Hair Treatment - We'll refund your money if you're not satisfied! Try Risk FREE!"
+        },
+        {
+          "rank": 3,
+          "pid": "B09PBV4YT8",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "BEWAVE Big Holes Barber Hair Brush Sponge Dreads Locking Twist Afro Curl Coil Wave Hair Care Tool, 2 Pcs with 1 Pc Hair Pick"
+        },
+        {
+          "rank": 4,
+          "pid": "B09FF2KPTC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Marc Anthony Leave-In Conditioner, Strictly Curls - Shea Butter, Vitamin E & Avocado Oil Softens & Defines Coarse Curls - Sulfate-Free Anti-Frizz Styling Product For Curly, & Wavy Hair"
+        },
+        {
+          "rank": 5,
+          "pid": "B0C34498SH",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "OGX Locking + Coconut Curls Air Dry Cream, No Parabens, 6 oz"
+        },
+        {
+          "rank": 6,
+          "pid": "B0BN313H8H",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Conair Topsy Tail Hair Tool, Ponytail Hair Loop Styling Tool with Hair Ties Hair Styling Kit Included, 5-Piece Set"
+        },
+        {
+          "rank": 7,
+          "pid": "B09F9WJ26T",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Marc Anthony Curl Enhancing Cream, Strictly Curls - Shea Butter, Vitamin E & Avocado Oil Softens & Defines Coarse Curls - Sulfate-Free Anti-Frizz Styling Product For Curly, & Wavy Hair - 2 Count"
+        },
+        {
+          "rank": 8,
+          "pid": "B002CC1ARQ",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "MySack Golf Ball Storage Bag | This Funny Golf Gift Is Sure to Get a Laugh | Store Your Other Golf Accessories for Men Such as Tees & Gloves by Putting Them in This Gag Gift"
+        },
+        {
+          "rank": 9,
+          "pid": "B004X8KOEC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Eco Style Gel, Olive Oil, 16 oz"
+        },
+        {
+          "rank": 10,
+          "pid": "B004XC6YUG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "It's a 10 Miracle Styling Cream (5 oz)"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "hybrid",
+    "direction": "worsened",
+    "query": {
+      "qid": "beauty-train-000379",
+      "query": "user: hey, i've been using that skin smoothing cream i got a while back but my face still feels kinda dull, not sure what to add\nassistant: got it! do you currently use any exfoliating cleanser or just a regular face wash?\nuser: i just use whatever, maybe that tinted moisturizer with spf sometimes but no real cleanser routine\nassistant: ok, so you might benefit from a daily cleanser that gently exfoliates to brighten things up\nuser: yeah that sounds good, i'm open to trying something new for mornings",
+      "gold_pid": "B0089JVEPO"
+    },
+    "gold_title": "Pond's luminous clean daily exfoliating cleanser, 5oz",
+    "rankings": {
+      "dense": [
+        {
+          "rank": 1,
+          "pid": "B000PK4XRQ",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Philosophy Microdelivery Exfoliating Wash, 8 Ounces"
+        },
+        {
+          "rank": 2,
+          "pid": "B0011NR3EQ",
+          "gain": 1,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": true}",
+          "title": "Philosophy Microdelivery Exfoliating Wash, 16 Ounces"
+        },
+        {
+          "rank": 3,
+          "pid": "B0016836RY",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "The Regimen: Complete Acne.org Treatment Kit"
+        },
+        {
+          "rank": 4,
+          "pid": "B001EJOPPM",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Buf-Puf Reusable Facial Sponge, Extra Gentle (Pack of 6)"
+        },
+        {
+          "rank": 5,
+          "pid": "B00I4ZERGG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "#1 Best Selling Organic Anti-Aging, Brightening Eye Cream 1 oz , Best Dark Circles, Puffiness, Dark Circle Eye Treatments, Wrinkles & Bags Under Eyes Treatment, Fast-Acting & All-Natural Facial Lines and Wrinkle Remover Using A Lightweight Oil-Free Formulation. Guaranteed to Work & Backed by Our 90-Day No-Questions Asked Guarantee!"
+        },
+        {
+          "rank": 6,
+          "pid": "B003F7X0G6",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Mary Kay TimeWise 3-in-1 Cleanser, Normal/Dry Skin,4.5 ounce"
+        },
+        {
+          "rank": 7,
+          "pid": "B09B3L65JD",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "INNERNEED Manual Silicone Face Brush Facial Scrubber Pads for Cleansing, Exfoliating, Anti-Aging Face Massage, Handheld for Sensitive and all Kinds of Skin (Pack of 2)"
+        },
+        {
+          "rank": 8,
+          "pid": "B00DHOUZ92",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Lavender Facial Cleanser & Makeup Remover, Gentle, All Natural - \"Take It Off\" - For All Skin Types. Great for Dry/Sensitive/Rosacea Skin. Organic Ingredients To Wash & Clean Your Face. You'll LOVE This! Money Back Guarantee EXTENDED For 1 Year!"
+        },
+        {
+          "rank": 9,
+          "pid": "B00GGXFJ7O",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Skin Cleansing System Facial Brush & Body Care Kit for Women & Men, Serious Natural Anti Aging Microdermabrasion Cleanser Tool Set for Exfoliating with Pumice Stone, Scrub Cleaning, Stimulate Collagen & Removes Dead Skin - Beauty Products & Gift Sets"
+        },
+        {
+          "rank": 10,
+          "pid": "B00479FP4Q",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay 4-in-1 Normal Daily Facial Cloths, 66-Count"
+        }
+      ],
+      "hybrid": [
+        {
+          "rank": 1,
+          "pid": "B00I4ZERGG",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "#1 Best Selling Organic Anti-Aging, Brightening Eye Cream 1 oz , Best Dark Circles, Puffiness, Dark Circle Eye Treatments, Wrinkles & Bags Under Eyes Treatment, Fast-Acting & All-Natural Facial Lines and Wrinkle Remover Using A Lightweight Oil-Free Formulation. Guaranteed to Work & Backed by Our 90-Day No-Questions Asked Guarantee!"
+        },
+        {
+          "rank": 2,
+          "pid": "B008IEUERE",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Clean & Clear Essentials Foaming Facial Cleanser, Oil-Free Daily Face Wash with Glycerin to Remove Acne Breakout-Causing Dirt, Oil & Makeup Without Over-Drying, 8 Fl Oz (Packaging may vary)"
+        },
+        {
+          "rank": 3,
+          "pid": "B0BZ3XNRK5",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Alpha Skin Care Revitalizing Body Lotion with 12% Glycolic AHA, Simple and Effective Multi-Purpose Daily Moisturizer Hydrates and Exfoliates with Anti-Aging, Smoothing Properties"
+        },
+        {
+          "rank": 4,
+          "pid": "B002UUT38I",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Olay Exfoliating Renewal Cleanser 6 Fl Oz"
+        },
+        {
+          "rank": 5,
+          "pid": "B006I9RQBI",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "UltraClear Acne Cream"
+        },
+        {
+          "rank": 6,
+          "pid": "B09KPH9SLP",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Face Wash by Olay Regenerist Advanced Anti-Aging Pore Scrub Cleanser (5.0 Oz) and Micro-Sculpting Face Moisturizer Cream (1.7 Oz) Skin Care Duo Pack, Total 6.7 Ounces Packaging may Vary"
+        },
+        {
+          "rank": 7,
+          "pid": "B07N7PBV31",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Best Face Wash for Men - Lather & Wood's Face Scrub - Luxurious Exfoliating Mens Face Wash for the Man's Man. 4oz Facial Cleanser for Men."
+        },
+        {
+          "rank": 8,
+          "pid": "B001FYSHL4",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "L'Oreal Paris Age Perfect Cream Cleanser, 5- Ounce"
+        },
+        {
+          "rank": 9,
+          "pid": "B00JYKBZ3I",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "Best Anti- aging Cream to Curb Wrinkles. Anti -aging Moisturizers with Peptides, Vitamin C and Hyaluronic Acid. #1 Anti-Wrinkle Cream. Use it for Pain Free Rejuvenation and Restoration of Skin without Painful Injections. Lifting and Firming Cream. Comes With 100 percent Money Back Guarantee !!!."
+        },
+        {
+          "rank": 10,
+          "pid": "B000PSTSSC",
+          "gain": 0.0,
+          "source": "llm",
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}",
+          "title": "BOOTS No7 Soft & Sheer Tinted Moisturizer SPF15 Medium"
+        }
+      ]
+    }
+  }
+]

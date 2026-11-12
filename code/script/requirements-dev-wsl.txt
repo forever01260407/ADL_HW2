@@ -1,0 +1,5 @@
+# Development overlay on the existing ADL-final environment, not TA requirements.
+# Python 3.12.12 is used locally; official Python 3.12.9 validation remains pending.
+numpy==1.26.4
+transformers==4.56.1
+faiss-cpu==1.12.0

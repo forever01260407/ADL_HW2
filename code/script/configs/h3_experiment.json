@@ -1,0 +1,29 @@
+{
+  "experiment": "h3_bge_base_epoch1",
+  "reference_training_config": "code/script/configs/w08_train.json",
+  "model_lock": "code/script/configs/h3_base_model.lock.json",
+  "output": "artifacts/training/h3_base_epoch1",
+  "smoke_output": "artifacts/training/h3_base_smoke",
+  "dense_weight": 5,
+  "bm25_weight": 1,
+  "route_top_k": 100,
+  "rrf_constant": 60,
+  "gold_gate": {
+    "hybrid_minimum_hit10_count_gain": 1,
+    "hybrid_minimum_mrr10_gain": 0.01,
+    "hybrid_hit50_must_not_decrease": true,
+    "dense_hit10_and_mrr10_must_not_decrease": true
+  },
+  "adoption_gate": {
+    "minimum_mrr10_gain_vs_small5_and_small6": 0.01,
+    "recall_must_not_decrease_vs_small5_and_small6": true,
+    "maximum_category_recall_drop_vs_small5": 0.02,
+    "maximum_category_mrr_drop_vs_small5": 0.03,
+    "inference_vram_budget_gib": 8,
+    "inference_rss_budget_gib": 32,
+    "maximum_dev_cold_seconds": 3600
+  },
+  "maximum_full_dev_judge_runs": 2,
+  "public_runs": 0,
+  "w11_authorized": false
+}

@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "relative_paths_checked_in_independent_copy": true,
+  "shell_entrypoints_work_from_other_directory": true,
+  "readme_python_commands_run_from_student_root": true,
+  "download_script_unchanged": true,
+  "training_entrypoint_smoke": "results/w11_strict_layout_validation.json",
+  "retrieval_entrypoint_rankings": "results/w11_strict_layout_retrieval_check.json",
+  "generation_prepare_requests": 15,
+  "generation_contexts_and_requests_identical_to_original": true,
+  "generation_calls": 0,
+  "qwen_assets_for_path_check": "pinned local assets linked into validation copy; no new Qwen download",
+  "report_rebuilt_from_other_directory": true,
+  "report_pages": 13,
+  "report_rebuilt_text_and_markdown_identical": true,
+  "report_rebuild_environment": "Windows bundled Python and existing Microsoft JhengHei fonts",
+  "font_requirement_documented": true,
+  "python_files_syntax_checked": 85,
+  "historical_ablation_runtime_requirements_documented": true,
+  "formal_pdf_unchanged": true,
+  "formal_checkpoint_unchanged": true,
+  "new_zip_created": false,
+  "new_public_runs": 0,
+  "new_judge_runs": 0,
+  "remaining": [
+    "final ZIP creation and archive audit when requested",
+    "user submission to NTU COOL"
+  ]
+}

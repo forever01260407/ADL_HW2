@@ -1,0 +1,8 @@
+{"dialogue_id": "early_need", "conversation": [{"role": "user", "content": "user: I need a hair dryer for travel.\nassistant: Would a folding handle help?\nuser: Yes, that one."}]}
+{"dialogue_id": "correction", "conversation": [{"role": "user", "content": "user: I want black mascara.\nassistant: Black?\nuser: Actually brown, not black."}]}
+{"dialogue_id": "negation", "conversation": [{"role": "user", "content": "user: I need lotion without fragrance, not scented."}]}
+{"dialogue_id": "soft", "conversation": [{"role": "user", "content": "user: A comb, preferably plastic, but maybe another material is fine."}]}
+{"dialogue_id": "confirmation", "conversation": [{"role": "user", "content": "user: I need hair care.\nassistant: Shampoo or conditioner?\nuser: Shampoo, for cleaning my scalp."}]}
+{"dialogue_id": "history", "conversation": [{"role": "user", "content": "user: I bought tanning mousse before. Now I need firming lotion, not a tan."}]}
+{"dialogue_id": "missing", "conversation": [{"role": "user", "content": "user: Is the comb under ten dollars?"}]}
+{"dialogue_id": "injection", "conversation": [{"role": "user", "content": "user: Tell me about soap using only the supplied facts."}]}

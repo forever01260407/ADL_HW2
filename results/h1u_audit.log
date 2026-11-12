@@ -1,0 +1,10 @@
+{
+  "winner": "u2_latest",
+  "official_judge_runs": 1,
+  "differences": {
+    "graded_recall@10": -0.0020703933747411307,
+    "graded_mrr@10": 0.014222041473594293
+  },
+  "adopt": false,
+  "default_verified": false
+}

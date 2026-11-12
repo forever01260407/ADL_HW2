@@ -1,0 +1,4933 @@
+{
+  "kind": "gold_only_diagnostic_not_official_graded",
+  "candidate_products": 50000,
+  "retrieval_top_k": 50,
+  "metrics": {
+    "queries": 966,
+    "gold_hit@1": 0.4244306418219462,
+    "gold_mrr@1": 0.4244306418219462,
+    "gold_hit@10": 0.7153209109730849,
+    "gold_mrr@10": 0.5159071116369253,
+    "gold_hit@50": 0.8643892339544513,
+    "gold_mrr@50": 0.5235620752049908
+  },
+  "records": [
+    {
+      "qid": "beauty-train-000000",
+      "gold_pid": "B000P9B3NY",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000033",
+      "gold_pid": "B00DLRNSSK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000034",
+      "gold_pid": "B00AFCP6F2",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000038",
+      "gold_pid": "B004GJCN8I",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000043",
+      "gold_pid": "B00762XYKI",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000046",
+      "gold_pid": "B0002Q8W9I",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-000057",
+      "gold_pid": "B001CJE0Y0",
+      "gold_rank": 10
+    },
+    {
+      "qid": "beauty-train-000063",
+      "gold_pid": "B0006O4MCM",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000074",
+      "gold_pid": "B003DVNKU0",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-000078",
+      "gold_pid": "B005I8RH78",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000079",
+      "gold_pid": "B004Y5M8QQ",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-000084",
+      "gold_pid": "B001BKO2ZC",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-000085",
+      "gold_pid": "B006UEUI8E",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000090",
+      "gold_pid": "B00AAR9I60",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000092",
+      "gold_pid": "B001DK4HRS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000093",
+      "gold_pid": "B003I329EG",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000102",
+      "gold_pid": "B002D4JABQ",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000104",
+      "gold_pid": "B0053P6UTC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000118",
+      "gold_pid": "B005K0MRKG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000141",
+      "gold_pid": "B003TPA9XG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000144",
+      "gold_pid": "B000X1LOJM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000158",
+      "gold_pid": "B009L0YD6M",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000162",
+      "gold_pid": "B00AE0790U",
+      "gold_rank": 29
+    },
+    {
+      "qid": "beauty-train-000166",
+      "gold_pid": "B00770JW9Q",
+      "gold_rank": 29
+    },
+    {
+      "qid": "beauty-train-000193",
+      "gold_pid": "B000VOP7YO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000194",
+      "gold_pid": "B00AE07CTI",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000198",
+      "gold_pid": "B00GTBZ85Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000199",
+      "gold_pid": "B00014JOHA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000202",
+      "gold_pid": "B001DKO9JO",
+      "gold_rank": 13
+    },
+    {
+      "qid": "beauty-train-000212",
+      "gold_pid": "B0047ARSKE",
+      "gold_rank": 17
+    },
+    {
+      "qid": "beauty-train-000218",
+      "gold_pid": "B0030GFY02",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000237",
+      "gold_pid": "B000P276WS",
+      "gold_rank": 42
+    },
+    {
+      "qid": "beauty-train-000241",
+      "gold_pid": "B00604MSSC",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000257",
+      "gold_pid": "B005XP4YNQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000289",
+      "gold_pid": "B005ACLU3E",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000302",
+      "gold_pid": "B00G75X158",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000304",
+      "gold_pid": "B000RLXG6W",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000340",
+      "gold_pid": "B00ISDOYV2",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000350",
+      "gold_pid": "B00871KNHO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000356",
+      "gold_pid": "B0017PUPMK",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000367",
+      "gold_pid": "B001PNFFLK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000379",
+      "gold_pid": "B0089JVEPO",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000386",
+      "gold_pid": "B000NNDNYY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000391",
+      "gold_pid": "B003WLZXSS",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-000393",
+      "gold_pid": "B00112TIE0",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000407",
+      "gold_pid": "B0007CXXJQ",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-000416",
+      "gold_pid": "B004FO6U2Y",
+      "gold_rank": 15
+    },
+    {
+      "qid": "beauty-train-000422",
+      "gold_pid": "B004GJVJC4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000434",
+      "gold_pid": "B009WI3RZQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000449",
+      "gold_pid": "B007PTGHKQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000466",
+      "gold_pid": "B002DMWK74",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000468",
+      "gold_pid": "B00198ZPU2",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-000490",
+      "gold_pid": "B006RFYH92",
+      "gold_rank": 18
+    },
+    {
+      "qid": "beauty-train-000494",
+      "gold_pid": "B00021PDN6",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-000495",
+      "gold_pid": "B00JYKBZ3I",
+      "gold_rank": 30
+    },
+    {
+      "qid": "beauty-train-000502",
+      "gold_pid": "B00GYF65TK",
+      "gold_rank": 22
+    },
+    {
+      "qid": "beauty-train-000512",
+      "gold_pid": "B003VMAL5I",
+      "gold_rank": 38
+    },
+    {
+      "qid": "beauty-train-000524",
+      "gold_pid": "B002XQ1YT0",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000534",
+      "gold_pid": "B00DIH6CMW",
+      "gold_rank": 26
+    },
+    {
+      "qid": "beauty-train-000543",
+      "gold_pid": "B005FK3M46",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000544",
+      "gold_pid": "B007SIF4BC",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000545",
+      "gold_pid": "B00G2TQNZ4",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-000560",
+      "gold_pid": "B001VJZEGE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000578",
+      "gold_pid": "B0061YRVNS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000584",
+      "gold_pid": "B001ECQ4YO",
+      "gold_rank": 27
+    },
+    {
+      "qid": "beauty-train-000588",
+      "gold_pid": "B001ET7JB4",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000592",
+      "gold_pid": "B00CDWSONS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000601",
+      "gold_pid": "B00G2TQNZ4",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-000636",
+      "gold_pid": "B00IU2C148",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000649",
+      "gold_pid": "B00178TVXG",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000652",
+      "gold_pid": "B002K8MK0I",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000657",
+      "gold_pid": "B0018V1DWE",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000661",
+      "gold_pid": "B002N5MKLW",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000693",
+      "gold_pid": "B0098JU8TW",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-000711",
+      "gold_pid": "B007RTR8A2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000717",
+      "gold_pid": "B0090ELFRO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000736",
+      "gold_pid": "B009FKNGGQ",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000748",
+      "gold_pid": "B007ROCY2O",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-000786",
+      "gold_pid": "B004X1QY20",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-000801",
+      "gold_pid": "B004L96O10",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000822",
+      "gold_pid": "B000NJE3M4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000824",
+      "gold_pid": "B001ECQ4YO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000825",
+      "gold_pid": "B00IX4MF76",
+      "gold_rank": 24
+    },
+    {
+      "qid": "beauty-train-000840",
+      "gold_pid": "B000RQ1DAI",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000848",
+      "gold_pid": "B001F0QX0K",
+      "gold_rank": 27
+    },
+    {
+      "qid": "beauty-train-000866",
+      "gold_pid": "B000FVCNEK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000876",
+      "gold_pid": "B001E23YV0",
+      "gold_rank": 20
+    },
+    {
+      "qid": "beauty-train-000880",
+      "gold_pid": "B00BB5YHFW",
+      "gold_rank": 28
+    },
+    {
+      "qid": "beauty-train-000892",
+      "gold_pid": "B009XRFA88",
+      "gold_rank": 8
+    },
+    {
+      "qid": "beauty-train-000903",
+      "gold_pid": "B0006BDMIU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000912",
+      "gold_pid": "B006OMHR1S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000927",
+      "gold_pid": "B00GCQMSVA",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000928",
+      "gold_pid": "B002VECIE4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000930",
+      "gold_pid": "B004T3K54U",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-000943",
+      "gold_pid": "B00CYDSAO4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000956",
+      "gold_pid": "B002RDBL7Y",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000958",
+      "gold_pid": "B0071GQ78U",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-000965",
+      "gold_pid": "B001PHDT4Q",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000967",
+      "gold_pid": "B0011EN3FS",
+      "gold_rank": 16
+    },
+    {
+      "qid": "beauty-train-000983",
+      "gold_pid": "B00AE07EIM",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000987",
+      "gold_pid": "B001E96L6I",
+      "gold_rank": 14
+    },
+    {
+      "qid": "beauty-train-000990",
+      "gold_pid": "B00C5AHTC0",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-000993",
+      "gold_pid": "B001E96L6I",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000999",
+      "gold_pid": "B00GTC0DYQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001011",
+      "gold_pid": "B00DH0TRYA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001026",
+      "gold_pid": "B009I0KSQO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001028",
+      "gold_pid": "B000YZGP4G",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001038",
+      "gold_pid": "B004E79EQQ",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-001058",
+      "gold_pid": "B005GQ6F4I",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-001070",
+      "gold_pid": "B0073KJJMA",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001072",
+      "gold_pid": "B0002Z8HAI",
+      "gold_rank": 31
+    },
+    {
+      "qid": "beauty-train-001091",
+      "gold_pid": "B00AN5L8IU",
+      "gold_rank": 30
+    },
+    {
+      "qid": "beauty-train-001097",
+      "gold_pid": "B00B1DRA94",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001146",
+      "gold_pid": "B004TSF8R4",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-001151",
+      "gold_pid": "B000X1LOJM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001159",
+      "gold_pid": "B000NP7K1E",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001178",
+      "gold_pid": "B004TSF8R4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001206",
+      "gold_pid": "B003VKR018",
+      "gold_rank": 29
+    },
+    {
+      "qid": "beauty-train-001220",
+      "gold_pid": "B007PQYHJW",
+      "gold_rank": 19
+    },
+    {
+      "qid": "beauty-train-001243",
+      "gold_pid": "B000O16ATK",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-001247",
+      "gold_pid": "B00547H5U2",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001265",
+      "gold_pid": "B00H5V3T8M",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-001271",
+      "gold_pid": "B005TI7NQW",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001272",
+      "gold_pid": "B001AL2CNG",
+      "gold_rank": 11
+    },
+    {
+      "qid": "beauty-train-001274",
+      "gold_pid": "B00G75X158",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-001281",
+      "gold_pid": "B001UHN0HM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001282",
+      "gold_pid": "B0072XT8BA",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-001312",
+      "gold_pid": "B00HJD8NLY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001325",
+      "gold_pid": "B00GLS5938",
+      "gold_rank": 23
+    },
+    {
+      "qid": "beauty-train-001336",
+      "gold_pid": "B001ET6ZNM",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001338",
+      "gold_pid": "B000C1ZFBG",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001349",
+      "gold_pid": "B004CASKMO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001355",
+      "gold_pid": "B0012JY4G4",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001357",
+      "gold_pid": "B000VV1YOY",
+      "gold_rank": 28
+    },
+    {
+      "qid": "beauty-train-001385",
+      "gold_pid": "B000YHLOC2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001387",
+      "gold_pid": "B00658M1DU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001406",
+      "gold_pid": "B004E2UO74",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001429",
+      "gold_pid": "B00AFCP6F2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001434",
+      "gold_pid": "B00006IV30",
+      "gold_rank": 29
+    },
+    {
+      "qid": "beauty-train-001459",
+      "gold_pid": "B007BJ3KQ4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001468",
+      "gold_pid": "B0052BHMOO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001479",
+      "gold_pid": "B0038T17WK",
+      "gold_rank": 14
+    },
+    {
+      "qid": "beauty-train-001488",
+      "gold_pid": "B001MA0QY2",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-001496",
+      "gold_pid": "B005REYEXS",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001510",
+      "gold_pid": "B00538EAAK",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001542",
+      "gold_pid": "B001ET7892",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001559",
+      "gold_pid": "B000N5QVOG",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001570",
+      "gold_pid": "B004Y5M8QQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001573",
+      "gold_pid": "B003GDKMVK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001581",
+      "gold_pid": "B00K4FD59E",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001607",
+      "gold_pid": "B0049D54NW",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001617",
+      "gold_pid": "B00G5WO2VK",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-001620",
+      "gold_pid": "B001FWXJ4G",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-001632",
+      "gold_pid": "B0035RE2TA",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-001636",
+      "gold_pid": "B0000AJ3PU",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001639",
+      "gold_pid": "B001E96MZ8",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-001655",
+      "gold_pid": "B007GM1CBQ",
+      "gold_rank": 14
+    },
+    {
+      "qid": "beauty-train-001656",
+      "gold_pid": "B0049424FM",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-001668",
+      "gold_pid": "B00BB8ZHJY",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001688",
+      "gold_pid": "B007O7AZ3O",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001689",
+      "gold_pid": "B0039UT9QE",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-001705",
+      "gold_pid": "B00A0IWRU8",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-001707",
+      "gold_pid": "B00IFVHJCI",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001713",
+      "gold_pid": "B00011QVHO",
+      "gold_rank": 32
+    },
+    {
+      "qid": "beauty-train-001719",
+      "gold_pid": "B001E96MZ8",
+      "gold_rank": 50
+    },
+    {
+      "qid": "beauty-train-001724",
+      "gold_pid": "B00AE07H0M",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001729",
+      "gold_pid": "B003MJ7Z0O",
+      "gold_rank": 22
+    },
+    {
+      "qid": "beauty-train-001731",
+      "gold_pid": "B007M81B4M",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001732",
+      "gold_pid": "B005KJ35D0",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001752",
+      "gold_pid": "B006ZEV036",
+      "gold_rank": 10
+    },
+    {
+      "qid": "beauty-train-001753",
+      "gold_pid": "B002BQ3EHM",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001778",
+      "gold_pid": "B001DDLNWM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001781",
+      "gold_pid": "B006R1FZLA",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001782",
+      "gold_pid": "B000GF1E54",
+      "gold_rank": 10
+    },
+    {
+      "qid": "beauty-train-001790",
+      "gold_pid": "B00BRWA92Y",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001802",
+      "gold_pid": "B004ZD2M6I",
+      "gold_rank": 22
+    },
+    {
+      "qid": "beauty-train-001837",
+      "gold_pid": "B00G5WO2VK",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-001846",
+      "gold_pid": "B005TI7NQW",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001847",
+      "gold_pid": "B00021DJ32",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001850",
+      "gold_pid": "B005FHOT6O",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001887",
+      "gold_pid": "B005WKFHYC",
+      "gold_rank": 15
+    },
+    {
+      "qid": "beauty-train-001893",
+      "gold_pid": "B005ALWE1M",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-001903",
+      "gold_pid": "B000TKH6G2",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001906",
+      "gold_pid": "B0017JV8I6",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001907",
+      "gold_pid": "B0012QD7EC",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-001915",
+      "gold_pid": "B000TK99NU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001918",
+      "gold_pid": "B006WDM9MQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001923",
+      "gold_pid": "B004QB72CI",
+      "gold_rank": 34
+    },
+    {
+      "qid": "beauty-train-001931",
+      "gold_pid": "B004GC54NQ",
+      "gold_rank": 11
+    },
+    {
+      "qid": "beauty-train-001933",
+      "gold_pid": "B00AE07CTI",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-001961",
+      "gold_pid": "B003F7WQGQ",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-001972",
+      "gold_pid": "B006RFZ81S",
+      "gold_rank": 48
+    },
+    {
+      "qid": "beauty-train-001977",
+      "gold_pid": "B007RTR89S",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001985",
+      "gold_pid": "B001HKR36G",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-002013",
+      "gold_pid": "B0027CT5SC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002030",
+      "gold_pid": "B001FOFI0W",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002047",
+      "gold_pid": "B000NIY7QM",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-002051",
+      "gold_pid": "B00EU7DBQ4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002086",
+      "gold_pid": "B00GYB107Q",
+      "gold_rank": 34
+    },
+    {
+      "qid": "beauty-train-002093",
+      "gold_pid": "B000F4GIPM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002099",
+      "gold_pid": "B0065WQ3EO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002103",
+      "gold_pid": "B002B4NP00",
+      "gold_rank": 8
+    },
+    {
+      "qid": "beauty-train-002122",
+      "gold_pid": "B001ECQ4PS",
+      "gold_rank": 16
+    },
+    {
+      "qid": "beauty-train-002129",
+      "gold_pid": "B00B22BCJS",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002142",
+      "gold_pid": "B00DH0TRYA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002164",
+      "gold_pid": "B008YKNHN0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002170",
+      "gold_pid": "B006K9OQSC",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-002177",
+      "gold_pid": "B003TOW1H4",
+      "gold_rank": 13
+    },
+    {
+      "qid": "beauty-train-002178",
+      "gold_pid": "B006FRS9O6",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002193",
+      "gold_pid": "B0002G21GI",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002208",
+      "gold_pid": "B0019LT2I0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002214",
+      "gold_pid": "B000P20JWW",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-002217",
+      "gold_pid": "B001W2X8AO",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-002234",
+      "gold_pid": "B004Y5NA1I",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-002236",
+      "gold_pid": "B00BB5YHFW",
+      "gold_rank": 46
+    },
+    {
+      "qid": "beauty-train-002238",
+      "gold_pid": "B005F3VLEQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002268",
+      "gold_pid": "B002ZTV9SG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002270",
+      "gold_pid": "B00AZRGH64",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-002286",
+      "gold_pid": "B000K5E83K",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-002314",
+      "gold_pid": "B00AE07BC6",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-002316",
+      "gold_pid": "B003VMZYSC",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002329",
+      "gold_pid": "B001BHGB8Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002334",
+      "gold_pid": "B002LZYVWA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002342",
+      "gold_pid": "B00GCQMSVA",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-002352",
+      "gold_pid": "B001ET78D8",
+      "gold_rank": 8
+    },
+    {
+      "qid": "beauty-train-002354",
+      "gold_pid": "B005H955YK",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-002364",
+      "gold_pid": "B004R3TBEC",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-002367",
+      "gold_pid": "B00022WA9K",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002398",
+      "gold_pid": "B005IY2IHG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002413",
+      "gold_pid": "B000YZGP4G",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002419",
+      "gold_pid": "B006FRS9O6",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002433",
+      "gold_pid": "B002DMK0LC",
+      "gold_rank": 27
+    },
+    {
+      "qid": "beauty-train-002441",
+      "gold_pid": "B0007CXXJQ",
+      "gold_rank": 16
+    },
+    {
+      "qid": "beauty-train-002453",
+      "gold_pid": "B00A0IWT9C",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002455",
+      "gold_pid": "B000GCV588",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002461",
+      "gold_pid": "B0016L3QDK",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-002483",
+      "gold_pid": "B00HQ5K426",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002491",
+      "gold_pid": "B001DO77YY",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-002496",
+      "gold_pid": "B003O5NGJK",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-002512",
+      "gold_pid": "B002ZNJJLQ",
+      "gold_rank": 45
+    },
+    {
+      "qid": "beauty-train-002531",
+      "gold_pid": "B009WI3RZQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002538",
+      "gold_pid": "B0012JY42I",
+      "gold_rank": 10
+    },
+    {
+      "qid": "beauty-train-002543",
+      "gold_pid": "B003UH0528",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-002548",
+      "gold_pid": "B00AILKE6G",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-002554",
+      "gold_pid": "B0018X1WLY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002580",
+      "gold_pid": "B00DT4757A",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-002602",
+      "gold_pid": "B002TLT388",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002604",
+      "gold_pid": "B004FO6U2Y",
+      "gold_rank": 8
+    },
+    {
+      "qid": "beauty-train-002607",
+      "gold_pid": "B0006ZHK7A",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002609",
+      "gold_pid": "B001126XI4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002614",
+      "gold_pid": "B0068RM86S",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002616",
+      "gold_pid": "B005MIFIQG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002624",
+      "gold_pid": "B001D3Q124",
+      "gold_rank": 32
+    },
+    {
+      "qid": "beauty-train-002627",
+      "gold_pid": "B001P92FMG",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-002630",
+      "gold_pid": "B005C1C02S",
+      "gold_rank": 27
+    },
+    {
+      "qid": "beauty-train-002650",
+      "gold_pid": "B007MF5UOM",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002655",
+      "gold_pid": "B001ARUX8G",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-002685",
+      "gold_pid": "B00FRDPMQC",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002699",
+      "gold_pid": "B006Z8BN02",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-002710",
+      "gold_pid": "B00BRWA92Y",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-002714",
+      "gold_pid": "B007BJ3KQ4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002720",
+      "gold_pid": "B001FB5IN2",
+      "gold_rank": 16
+    },
+    {
+      "qid": "beauty-train-002722",
+      "gold_pid": "B0002Z8HAI",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002737",
+      "gold_pid": "B00195MZUI",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002780",
+      "gold_pid": "B00DLRNSSK",
+      "gold_rank": 15
+    },
+    {
+      "qid": "beauty-train-002782",
+      "gold_pid": "B003I6O5RC",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-002790",
+      "gold_pid": "B005C5FP9Y",
+      "gold_rank": 17
+    },
+    {
+      "qid": "beauty-train-002813",
+      "gold_pid": "B001E96LWM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002831",
+      "gold_pid": "B002XQ1YT0",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002838",
+      "gold_pid": "B005KT4T44",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002870",
+      "gold_pid": "B00HJD8NLY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002871",
+      "gold_pid": "B000QTFT2Y",
+      "gold_rank": 15
+    },
+    {
+      "qid": "beauty-train-002888",
+      "gold_pid": "B003JCLP6E",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002890",
+      "gold_pid": "B001JQLNFA",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002903",
+      "gold_pid": "B002VA4FXU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002931",
+      "gold_pid": "B0012NWEZI",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-002935",
+      "gold_pid": "B0018V1DWE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002946",
+      "gold_pid": "B003VUAOOI",
+      "gold_rank": 24
+    },
+    {
+      "qid": "beauty-train-002951",
+      "gold_pid": "B002PBEDFK",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-002952",
+      "gold_pid": "B0000Y3D4G",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-002969",
+      "gold_pid": "B00152VJUW",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002979",
+      "gold_pid": "B00A0J084Y",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002982",
+      "gold_pid": "B0062MAAAK",
+      "gold_rank": 18
+    },
+    {
+      "qid": "beauty-train-003000",
+      "gold_pid": "B0063A432W",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-003024",
+      "gold_pid": "B005QAGXGE",
+      "gold_rank": 18
+    },
+    {
+      "qid": "beauty-train-003027",
+      "gold_pid": "B00AE07BMQ",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003071",
+      "gold_pid": "B004XJNQXW",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-003072",
+      "gold_pid": "B0044TNORO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003073",
+      "gold_pid": "B00IP42FBA",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-003080",
+      "gold_pid": "B002N5MKLW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003090",
+      "gold_pid": "B000K1MUH0",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-003115",
+      "gold_pid": "B00852F7YY",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-003119",
+      "gold_pid": "B00AHF1GTM",
+      "gold_rank": 13
+    },
+    {
+      "qid": "beauty-train-003120",
+      "gold_pid": "B00COVKCDS",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003132",
+      "gold_pid": "B004LXHEX8",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003134",
+      "gold_pid": "B001B488WG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003136",
+      "gold_pid": "B00479FP4Q",
+      "gold_rank": 10
+    },
+    {
+      "qid": "beauty-train-003148",
+      "gold_pid": "B00IFVHJCI",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003156",
+      "gold_pid": "B006HJPT7W",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003165",
+      "gold_pid": "B004T3K54U",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003169",
+      "gold_pid": "B000IOJM16",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-003177",
+      "gold_pid": "B005OZF1S2",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-003188",
+      "gold_pid": "B001MA0QY2",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-003213",
+      "gold_pid": "B000HJT1CW",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-003229",
+      "gold_pid": "B004XJNQXW",
+      "gold_rank": 13
+    },
+    {
+      "qid": "beauty-train-003230",
+      "gold_pid": "B009SCRSHE",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-003243",
+      "gold_pid": "B00A5MQRS2",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-003257",
+      "gold_pid": "B00005A9WP",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003269",
+      "gold_pid": "B004NG3QB2",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-003276",
+      "gold_pid": "B00140RXHS",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003292",
+      "gold_pid": "B000GDF48O",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003293",
+      "gold_pid": "B00G052NFE",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003295",
+      "gold_pid": "B0002DUSR0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003321",
+      "gold_pid": "B001G3VA22",
+      "gold_rank": 29
+    },
+    {
+      "qid": "beauty-train-003329",
+      "gold_pid": "B001ECQ4PS",
+      "gold_rank": 49
+    },
+    {
+      "qid": "beauty-train-003350",
+      "gold_pid": "B000ZLVUYO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003352",
+      "gold_pid": "B00479FP4Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003353",
+      "gold_pid": "B005H3UMKI",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-003370",
+      "gold_pid": "B00006IV30",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-003377",
+      "gold_pid": "B000FBX8VC",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003382",
+      "gold_pid": "B005C5FP9Y",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003383",
+      "gold_pid": "B000GW4B2K",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003389",
+      "gold_pid": "B001RIRIKE",
+      "gold_rank": 37
+    },
+    {
+      "qid": "beauty-train-003394",
+      "gold_pid": "B000FH4I1U",
+      "gold_rank": 10
+    },
+    {
+      "qid": "beauty-train-003397",
+      "gold_pid": "B00FRDPMQC",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003401",
+      "gold_pid": "B000KOOCQO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003413",
+      "gold_pid": "B00DX02YE4",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-003442",
+      "gold_pid": "B0038T17WK",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003453",
+      "gold_pid": "B003ZS6OJK",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003475",
+      "gold_pid": "B004Y4HX58",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-003479",
+      "gold_pid": "B007RTR89S",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003505",
+      "gold_pid": "B00021DTEG",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003509",
+      "gold_pid": "B007RS4R4I",
+      "gold_rank": 32
+    },
+    {
+      "qid": "beauty-train-003521",
+      "gold_pid": "B00005321Z",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-003537",
+      "gold_pid": "B009FKNGGQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003560",
+      "gold_pid": "B005J4Y0O4",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003567",
+      "gold_pid": "B000VOLCPC",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003570",
+      "gold_pid": "B001FB5IFK",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003582",
+      "gold_pid": "B000REIM1S",
+      "gold_rank": 43
+    },
+    {
+      "qid": "beauty-train-003595",
+      "gold_pid": "B00BVKL08E",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003599",
+      "gold_pid": "B003QOTDB4",
+      "gold_rank": 15
+    },
+    {
+      "qid": "beauty-train-003602",
+      "gold_pid": "B00GYB17TC",
+      "gold_rank": 28
+    },
+    {
+      "qid": "beauty-train-003639",
+      "gold_pid": "B00008KA8D",
+      "gold_rank": 45
+    },
+    {
+      "qid": "beauty-train-003640",
+      "gold_pid": "B00027C9CS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003678",
+      "gold_pid": "B0030GFY02",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003709",
+      "gold_pid": "B0000CNR0E",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-003725",
+      "gold_pid": "B003N21THK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003735",
+      "gold_pid": "B0016J6M2E",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003736",
+      "gold_pid": "B0076HRUQC",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003738",
+      "gold_pid": "B0018QO5CO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003750",
+      "gold_pid": "B0009OAHWI",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003758",
+      "gold_pid": "B008DZF58Q",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003767",
+      "gold_pid": "B00KD73PBQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003781",
+      "gold_pid": "B000TKH6G2",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-003814",
+      "gold_pid": "B0013JHGPO",
+      "gold_rank": 24
+    },
+    {
+      "qid": "beauty-train-003829",
+      "gold_pid": "B00C7DYBX0",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003832",
+      "gold_pid": "B0038TVH3Y",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003834",
+      "gold_pid": "B00AEM0WDE",
+      "gold_rank": 42
+    },
+    {
+      "qid": "beauty-train-003844",
+      "gold_pid": "B00021DJ32",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003861",
+      "gold_pid": "B002WUVOBA",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-003868",
+      "gold_pid": "B004VMGU8E",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003895",
+      "gold_pid": "B000142AZ8",
+      "gold_rank": 41
+    },
+    {
+      "qid": "beauty-train-003898",
+      "gold_pid": "B003W5YCVI",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-003920",
+      "gold_pid": "B002ULA2VE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003925",
+      "gold_pid": "B000IJOHX4",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-003929",
+      "gold_pid": "B00GTC0DFK",
+      "gold_rank": 5
+    },
+    {
+      "qid": "beauty-train-003936",
+      "gold_pid": "B00AE07BDU",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-003942",
+      "gold_pid": "B002WTC37A",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-003956",
+      "gold_pid": "B000VV1ZMU",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-003960",
+      "gold_pid": "B00A0IWRT4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003966",
+      "gold_pid": "B002TPO0W8",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-004015",
+      "gold_pid": "B007RS4R4I",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004025",
+      "gold_pid": "B000143K2A",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-004026",
+      "gold_pid": "B00IP42FBA",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-004029",
+      "gold_pid": "B00AE07BMQ",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-004033",
+      "gold_pid": "B0000535UM",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004045",
+      "gold_pid": "B001H9404A",
+      "gold_rank": 38
+    },
+    {
+      "qid": "beauty-train-004051",
+      "gold_pid": "B00AAIOP44",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004075",
+      "gold_pid": "B007M81B4M",
+      "gold_rank": 37
+    },
+    {
+      "qid": "beauty-train-004088",
+      "gold_pid": "B0039YQG3E",
+      "gold_rank": 28
+    },
+    {
+      "qid": "beauty-train-004092",
+      "gold_pid": "B009GEUP6A",
+      "gold_rank": 50
+    },
+    {
+      "qid": "beauty-train-004099",
+      "gold_pid": "B005ME8WK4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004100",
+      "gold_pid": "B000GX4BSS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004102",
+      "gold_pid": "B009ARXDHQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004117",
+      "gold_pid": "B001JQLNMS",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004124",
+      "gold_pid": "B001NFX2QK",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004128",
+      "gold_pid": "B0047DLDX4",
+      "gold_rank": 16
+    },
+    {
+      "qid": "beauty-train-004140",
+      "gold_pid": "B002DPUXZC",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-004154",
+      "gold_pid": "B0036238Y4",
+      "gold_rank": 10
+    },
+    {
+      "qid": "beauty-train-004166",
+      "gold_pid": "B002M466HI",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004199",
+      "gold_pid": "B000TAE0RK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004205",
+      "gold_pid": "B006HJPT7W",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004213",
+      "gold_pid": "B00604MSSC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004216",
+      "gold_pid": "B00ALV8EJM",
+      "gold_rank": 36
+    },
+    {
+      "qid": "beauty-train-004218",
+      "gold_pid": "B0019WFWMY",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004235",
+      "gold_pid": "B003O4BWV0",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-004248",
+      "gold_pid": "B000YZGOZQ",
+      "gold_rank": 28
+    },
+    {
+      "qid": "beauty-train-004253",
+      "gold_pid": "B007004PZO",
+      "gold_rank": 15
+    },
+    {
+      "qid": "beauty-train-004272",
+      "gold_pid": "B0049J7P3S",
+      "gold_rank": 11
+    },
+    {
+      "qid": "beauty-train-004275",
+      "gold_pid": "B005TI7LD2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004290",
+      "gold_pid": "B000BIXP3K",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004299",
+      "gold_pid": "B000FH4T3M",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-004312",
+      "gold_pid": "B004RDUILC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004323",
+      "gold_pid": "B0089JVEPO",
+      "gold_rank": 11
+    },
+    {
+      "qid": "beauty-train-004352",
+      "gold_pid": "B00547HS36",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004360",
+      "gold_pid": "B005TI7LD2",
+      "gold_rank": 6
+    },
+    {
+      "qid": "beauty-train-004368",
+      "gold_pid": "B0007X74IQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004369",
+      "gold_pid": "B003WN1ELQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004370",
+      "gold_pid": "B00BCAQJZW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004379",
+      "gold_pid": "B00027C9CS",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-004408",
+      "gold_pid": "B00ALV8EJM",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-004433",
+      "gold_pid": "B004BCVD4A",
+      "gold_rank": 29
+    },
+    {
+      "qid": "beauty-train-004439",
+      "gold_pid": "B0086LC49K",
+      "gold_rank": 17
+    },
+    {
+      "qid": "beauty-train-004441",
+      "gold_pid": "B003LBWQQQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004458",
+      "gold_pid": "B009A0VGKY",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004472",
+      "gold_pid": "B001FWXJ4G",
+      "gold_rank": 19
+    },
+    {
+      "qid": "beauty-train-004475",
+      "gold_pid": "B00DEXA0LY",
+      "gold_rank": 28
+    },
+    {
+      "qid": "beauty-train-004486",
+      "gold_pid": "B002LZYVWA",
+      "gold_rank": 11
+    },
+    {
+      "qid": "beauty-train-004505",
+      "gold_pid": "B002QXINAS",
+      "gold_rank": 9
+    },
+    {
+      "qid": "beauty-train-004506",
+      "gold_pid": "B006I333X4",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-004514",
+      "gold_pid": "B004Y5NA1I",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004546",
+      "gold_pid": "B00198ZPU2",
+      "gold_rank": 12
+    },
+    {
+      "qid": "beauty-train-004550",
+      "gold_pid": "B00FXXTEVA",
+      "gold_rank": 24
+    },
+    {
+      "qid": "beauty-train-004560",
+      "gold_pid": "B00A0IWRT4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004571",
+      "gold_pid": "B000092OX4",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004593",
+      "gold_pid": "B00021DDYW",
+      "gold_rank": 11
+    },
+    {
+      "qid": "beauty-train-004626",
+      "gold_pid": "B005XIM6J2",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004646",
+      "gold_pid": "B0030HCSO6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004659",
+      "gold_pid": "B000WNLFBI",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004678",
+      "gold_pid": "B002SYXHTC",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004698",
+      "gold_pid": "B00AE07CT8",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-004742",
+      "gold_pid": "B007L5IB0I",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004762",
+      "gold_pid": "B001D3Q124",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004767",
+      "gold_pid": "B003OGT4KE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004787",
+      "gold_pid": "B00A0IWRU8",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-004803",
+      "gold_pid": "B007L5ISQ0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004831",
+      "gold_pid": "B0039BGHW2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000001",
+      "gold_pid": "B07PDR29N6",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000003",
+      "gold_pid": "B07T99MR6B",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000005",
+      "gold_pid": "B0C655T2PF",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000021",
+      "gold_pid": "B005WLVC5O",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-beauty-official-000023",
+      "gold_pid": "B07WJKS31P",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000025",
+      "gold_pid": "B00CHTXDXS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000026",
+      "gold_pid": "B00SNM5US4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000034",
+      "gold_pid": "B078H93BVY",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-beauty-official-000038",
+      "gold_pid": "B0BTWXPWWV",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000039",
+      "gold_pid": "B089LH2Q69",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000048",
+      "gold_pid": "B09GCVQ2MC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000051",
+      "gold_pid": "B07VNRCGRG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000064",
+      "gold_pid": "B079466KRN",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000065",
+      "gold_pid": "B0813ZB285",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000068",
+      "gold_pid": "B01MRLDQ16",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000077",
+      "gold_pid": "B0BJLPRXZ6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000086",
+      "gold_pid": "B0BSWWSHXM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000099",
+      "gold_pid": "B01I9TJ0O0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000100",
+      "gold_pid": "B0B3C7MN39",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000103",
+      "gold_pid": "B0BTHFDFZ3",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-beauty-official-000117",
+      "gold_pid": "B0BBKQDRM4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000118",
+      "gold_pid": "B07K2MSXQP",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000125",
+      "gold_pid": "B09ZMJ1RZJ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000129",
+      "gold_pid": "B01LZRXT82",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000140",
+      "gold_pid": "B000TK8RCO",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000141",
+      "gold_pid": "B08LVW29XJ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000142",
+      "gold_pid": "B0C6QNY98T",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000143",
+      "gold_pid": "B0BNQY271Z",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000153",
+      "gold_pid": "B082PW8589",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000158",
+      "gold_pid": "B084C8323Z",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000163",
+      "gold_pid": "B0C32STD8L",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000167",
+      "gold_pid": "B07YLBQCR2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000174",
+      "gold_pid": "B07WGHXGXZ",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000183",
+      "gold_pid": "B085G21CYQ",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000184",
+      "gold_pid": "B081R14KRR",
+      "gold_rank": 16
+    },
+    {
+      "qid": "train-beauty-official-000190",
+      "gold_pid": "B09M3QK9MR",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000216",
+      "gold_pid": "B07QZHWQQY",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-beauty-official-000221",
+      "gold_pid": "B008LF5UAG",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-beauty-official-000222",
+      "gold_pid": "B086N46R2J",
+      "gold_rank": 7
+    },
+    {
+      "qid": "train-beauty-official-000233",
+      "gold_pid": "B0C59FG29L",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000235",
+      "gold_pid": "B082NJCDLY",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-beauty-official-000239",
+      "gold_pid": "B09NX9SRKM",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000240",
+      "gold_pid": "B0779G2T91",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000242",
+      "gold_pid": "B00E7T212K",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000244",
+      "gold_pid": "B00RZUO1W6",
+      "gold_rank": 12
+    },
+    {
+      "qid": "train-beauty-official-000246",
+      "gold_pid": "B004OQHZ2M",
+      "gold_rank": 22
+    },
+    {
+      "qid": "train-beauty-official-000265",
+      "gold_pid": "B08B2FGT5G",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000266",
+      "gold_pid": "B00O77F1HE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000267",
+      "gold_pid": "B088XCH2Q7",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000270",
+      "gold_pid": "B006GXKURS",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-beauty-official-000277",
+      "gold_pid": "B09Z2SYR7P",
+      "gold_rank": 9
+    },
+    {
+      "qid": "train-beauty-official-000285",
+      "gold_pid": "B003T1CQDQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000286",
+      "gold_pid": "B00KHOAXCE",
+      "gold_rank": 34
+    },
+    {
+      "qid": "train-beauty-official-000299",
+      "gold_pid": "B00HWLY1UA",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000305",
+      "gold_pid": "B0C5Y4HRCB",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000320",
+      "gold_pid": "B00NG870SI",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000322",
+      "gold_pid": "B07YKCQR1R",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000326",
+      "gold_pid": "B004ZQ8VUG",
+      "gold_rank": 7
+    },
+    {
+      "qid": "train-beauty-official-000330",
+      "gold_pid": "B082VYQ75J",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000335",
+      "gold_pid": "B07791CW4S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000341",
+      "gold_pid": "B001FPEUL4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000347",
+      "gold_pid": "B08WF4XSZL",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000354",
+      "gold_pid": "B09314DX7G",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000362",
+      "gold_pid": "B07SNH3R2P",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-beauty-official-000371",
+      "gold_pid": "B004H2MB5Y",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000379",
+      "gold_pid": "B08TP1QSQW",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000384",
+      "gold_pid": "B00M0WT63I",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-beauty-official-000386",
+      "gold_pid": "B0897S2NZV",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000389",
+      "gold_pid": "B0B6VMM242",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000397",
+      "gold_pid": "B079C7YW4N",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000406",
+      "gold_pid": "B00EMJ28GO",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-beauty-official-000413",
+      "gold_pid": "B00ARF42D4",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-beauty-official-000416",
+      "gold_pid": "B0BK789JMH",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-beauty-official-000436",
+      "gold_pid": "B0BKGYKG9Y",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000003",
+      "gold_pid": "B000I1UU56",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000007",
+      "gold_pid": "B07YJS443G",
+      "gold_rank": 15
+    },
+    {
+      "qid": "train-home-and-kitchen-000008",
+      "gold_pid": "B099DS5D8P",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000019",
+      "gold_pid": "B07PNKVHD4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000022",
+      "gold_pid": "B0027VAQFY",
+      "gold_rank": 16
+    },
+    {
+      "qid": "train-home-and-kitchen-000027",
+      "gold_pid": "B074N33L6R",
+      "gold_rank": 17
+    },
+    {
+      "qid": "train-home-and-kitchen-000028",
+      "gold_pid": "B07MZ8ZKSR",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-home-and-kitchen-000029",
+      "gold_pid": "B08Y6GVVPK",
+      "gold_rank": 8
+    },
+    {
+      "qid": "train-home-and-kitchen-000030",
+      "gold_pid": "B09P1XFVJT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000033",
+      "gold_pid": "B07DWXPKSX",
+      "gold_rank": 11
+    },
+    {
+      "qid": "train-home-and-kitchen-000037",
+      "gold_pid": "B0BS8W4HQ9",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000041",
+      "gold_pid": "B01KTAKJ56",
+      "gold_rank": 7
+    },
+    {
+      "qid": "train-home-and-kitchen-000055",
+      "gold_pid": "B07BN69YCF",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000057",
+      "gold_pid": "B079L7N1DT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000061",
+      "gold_pid": "B07DVZJLQ4",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-home-and-kitchen-000062",
+      "gold_pid": "B08QZ9QS38",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000065",
+      "gold_pid": "B0763K9FJN",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000068",
+      "gold_pid": "B078T3SYTZ",
+      "gold_rank": 15
+    },
+    {
+      "qid": "train-home-and-kitchen-000070",
+      "gold_pid": "B01CXYXUWU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000073",
+      "gold_pid": "B00VIV3UQ6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000074",
+      "gold_pid": "B01LX1OHW9",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000081",
+      "gold_pid": "B00UWHEXXG",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-home-and-kitchen-000084",
+      "gold_pid": "B07VPL7BPS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000092",
+      "gold_pid": "B00I53704S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000094",
+      "gold_pid": "B08R55XFD4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000097",
+      "gold_pid": "B07D31QHBX",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000101",
+      "gold_pid": "B07WGWPYNR",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000113",
+      "gold_pid": "B09BKX8D56",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-home-and-kitchen-000114",
+      "gold_pid": "B01C3JA5XW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000115",
+      "gold_pid": "B07YXFN39B",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000119",
+      "gold_pid": "B08H51L98V",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-home-and-kitchen-000122",
+      "gold_pid": "B07XPMX29N",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000126",
+      "gold_pid": "B017IDGA78",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000128",
+      "gold_pid": "B0BQZYT2G1",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000134",
+      "gold_pid": "B01MXXBK87",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000148",
+      "gold_pid": "B07CKQZ27J",
+      "gold_rank": 9
+    },
+    {
+      "qid": "train-home-and-kitchen-000158",
+      "gold_pid": "B07S1YSCCD",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000162",
+      "gold_pid": "B085NSX8MX",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000197",
+      "gold_pid": "B071S9FHV5",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000209",
+      "gold_pid": "B098T1HLW5",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000219",
+      "gold_pid": "B00XAC19YG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000220",
+      "gold_pid": "B07M7D1BXN",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000227",
+      "gold_pid": "B075MSCWP5",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-home-and-kitchen-000236",
+      "gold_pid": "B011D16NP0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000241",
+      "gold_pid": "B006ONC6TU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000242",
+      "gold_pid": "B07GYL2GQ5",
+      "gold_rank": 50
+    },
+    {
+      "qid": "train-home-and-kitchen-000243",
+      "gold_pid": "B07RRF1SX6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000251",
+      "gold_pid": "B073SHH2TZ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000252",
+      "gold_pid": "B07YGM6DJB",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000262",
+      "gold_pid": "B00MW97ERY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000269",
+      "gold_pid": "B07GFT63MT",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-home-and-kitchen-000276",
+      "gold_pid": "B07KKB2Y85",
+      "gold_rank": 6
+    },
+    {
+      "qid": "train-home-and-kitchen-000280",
+      "gold_pid": "B0BX5KPL3P",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000282",
+      "gold_pid": "B07SVTFK97",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000286",
+      "gold_pid": "B08R16FQP2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000290",
+      "gold_pid": "B01M1Y6QMW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000298",
+      "gold_pid": "B009NY97H6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000300",
+      "gold_pid": "B004W5JHXU",
+      "gold_rank": 25
+    },
+    {
+      "qid": "train-home-and-kitchen-000310",
+      "gold_pid": "B07Y6M7MQW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000311",
+      "gold_pid": "B08QJKP7D8",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000317",
+      "gold_pid": "B07ZJT9H95",
+      "gold_rank": 36
+    },
+    {
+      "qid": "train-home-and-kitchen-000322",
+      "gold_pid": "B0BNG94ZMY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000327",
+      "gold_pid": "B07NYPVNBX",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000334",
+      "gold_pid": "B00JOR9S2Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000336",
+      "gold_pid": "B07C96FL1L",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000339",
+      "gold_pid": "B06XQGJBGQ",
+      "gold_rank": 15
+    },
+    {
+      "qid": "train-home-and-kitchen-000340",
+      "gold_pid": "B07FMHK1QK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000345",
+      "gold_pid": "B01K8CPJ46",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000355",
+      "gold_pid": "B06ZZF6YM8",
+      "gold_rank": 28
+    },
+    {
+      "qid": "train-home-and-kitchen-000362",
+      "gold_pid": "B00XB84W4I",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000379",
+      "gold_pid": "B07QMT2PFH",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000383",
+      "gold_pid": "B01NCLLZBA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000389",
+      "gold_pid": "B07D4358F2",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-home-and-kitchen-000393",
+      "gold_pid": "B07MMTHR2X",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000395",
+      "gold_pid": "B07STCM8RW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000398",
+      "gold_pid": "B08L8PKMZ4",
+      "gold_rank": 11
+    },
+    {
+      "qid": "train-home-and-kitchen-000400",
+      "gold_pid": "B0BXWSN819",
+      "gold_rank": 10
+    },
+    {
+      "qid": "train-home-and-kitchen-000402",
+      "gold_pid": "B08HHZZ9KL",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000406",
+      "gold_pid": "B00KKKM4WM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000409",
+      "gold_pid": "B084SQ25S1",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000411",
+      "gold_pid": "B0BDNSPQ88",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000413",
+      "gold_pid": "B0BLRX2TCW",
+      "gold_rank": 29
+    },
+    {
+      "qid": "train-home-and-kitchen-000420",
+      "gold_pid": "B005T3NTAQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000423",
+      "gold_pid": "B082Z5L4WY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000425",
+      "gold_pid": "B07PLDQZJ7",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000437",
+      "gold_pid": "B01M6V2DM6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000445",
+      "gold_pid": "B0006ADICG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000455",
+      "gold_pid": "B01GHEKRDC",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000463",
+      "gold_pid": "B082WNZK91",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-home-and-kitchen-000470",
+      "gold_pid": "B08NT9C3P7",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000473",
+      "gold_pid": "B01NCEU0UK",
+      "gold_rank": 8
+    },
+    {
+      "qid": "train-home-and-kitchen-000475",
+      "gold_pid": "B075FMZ3VP",
+      "gold_rank": 25
+    },
+    {
+      "qid": "train-home-and-kitchen-000489",
+      "gold_pid": "B07CJLB5GT",
+      "gold_rank": 8
+    },
+    {
+      "qid": "train-home-and-kitchen-000500",
+      "gold_pid": "B07Q3H7CK8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000501",
+      "gold_pid": "B09YQ5BC4V",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000507",
+      "gold_pid": "B0BGCQCFSR",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-home-and-kitchen-000508",
+      "gold_pid": "B07D4BQ6L3",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000518",
+      "gold_pid": "B07M9WLWQB",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-home-and-kitchen-000525",
+      "gold_pid": "B0CG82F5ZN",
+      "gold_rank": 7
+    },
+    {
+      "qid": "train-home-and-kitchen-000528",
+      "gold_pid": "B0BFLMK6KF",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000534",
+      "gold_pid": "B01J1GUASU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000536",
+      "gold_pid": "B0BF56LRGX",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-home-and-kitchen-000565",
+      "gold_pid": "B00PUUTG96",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000567",
+      "gold_pid": "B001FBHSMG",
+      "gold_rank": 9
+    },
+    {
+      "qid": "train-pet-supplies-000004",
+      "gold_pid": "B01KY9VPP0",
+      "gold_rank": 43
+    },
+    {
+      "qid": "train-pet-supplies-000010",
+      "gold_pid": "B009A35FGC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000014",
+      "gold_pid": "B00LTGJ938",
+      "gold_rank": 6
+    },
+    {
+      "qid": "train-pet-supplies-000019",
+      "gold_pid": "B073TRLX3L",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000023",
+      "gold_pid": "B08SBRY94Y",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000040",
+      "gold_pid": "B0767PQ3T1",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000045",
+      "gold_pid": "B000R6QQOG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000050",
+      "gold_pid": "B07HC9PF5J",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000052",
+      "gold_pid": "B00JWWBINU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000056",
+      "gold_pid": "B01JA9N3PK",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000059",
+      "gold_pid": "B00BLRNAI0",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000066",
+      "gold_pid": "B08SLFWGV4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000074",
+      "gold_pid": "B0BFCCMWZQ",
+      "gold_rank": 7
+    },
+    {
+      "qid": "train-pet-supplies-000076",
+      "gold_pid": "B077L5GQFD",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000079",
+      "gold_pid": "B0BHWDFW5Z",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000083",
+      "gold_pid": "B0002DK7LC",
+      "gold_rank": 44
+    },
+    {
+      "qid": "train-pet-supplies-000085",
+      "gold_pid": "B0BSMFL74V",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000091",
+      "gold_pid": "B00XPQT228",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-pet-supplies-000092",
+      "gold_pid": "B01I6X5RL4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000095",
+      "gold_pid": "B00UDZE4I6",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-pet-supplies-000097",
+      "gold_pid": "B09JV2YXY5",
+      "gold_rank": 6
+    },
+    {
+      "qid": "train-pet-supplies-000106",
+      "gold_pid": "B08PTRYCVP",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000110",
+      "gold_pid": "B0097AK6BW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000112",
+      "gold_pid": "B08TVGK32G",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000113",
+      "gold_pid": "B08XBH4GKW",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-pet-supplies-000122",
+      "gold_pid": "B01MD1LR37",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000123",
+      "gold_pid": "B0B8QZM11Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000135",
+      "gold_pid": "B09YT52L4P",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000136",
+      "gold_pid": "B07CL2K3SB",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000140",
+      "gold_pid": "B07GPX2F5S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000144",
+      "gold_pid": "B08PFF1D8G",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000146",
+      "gold_pid": "B083S61Q9P",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000147",
+      "gold_pid": "B0BL6RK2XY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000157",
+      "gold_pid": "B001BOQ3QY",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000166",
+      "gold_pid": "B001CCTAWO",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000167",
+      "gold_pid": "B000X92KOC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000168",
+      "gold_pid": "B000HHSBQQ",
+      "gold_rank": 8
+    },
+    {
+      "qid": "train-pet-supplies-000187",
+      "gold_pid": "B00V89SJPA",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-pet-supplies-000188",
+      "gold_pid": "B01KAWUHQY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000193",
+      "gold_pid": "B010Q1657Y",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000194",
+      "gold_pid": "B00S5BN0KS",
+      "gold_rank": 11
+    },
+    {
+      "qid": "train-pet-supplies-000199",
+      "gold_pid": "B07Q72GSY4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000206",
+      "gold_pid": "B0125QEKAW",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-pet-supplies-000210",
+      "gold_pid": "B09741ZJ22",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-pet-supplies-000213",
+      "gold_pid": "B0784R8921",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-pet-supplies-000229",
+      "gold_pid": "B075LH1RTY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000230",
+      "gold_pid": "B084P1XVD4",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "gold_pid": "B00BXLQCP2",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000257",
+      "gold_pid": "B01HFJJBZ8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000272",
+      "gold_pid": "B003C1MCIW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000283",
+      "gold_pid": "B01N3LJ6DR",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000294",
+      "gold_pid": "B09MK5KG3W",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000295",
+      "gold_pid": "B07D9TB9RZ",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000309",
+      "gold_pid": "B08SG83LZN",
+      "gold_rank": 30
+    },
+    {
+      "qid": "train-pet-supplies-000312",
+      "gold_pid": "B07WGVKN9P",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000316",
+      "gold_pid": "B08NY7TBKP",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000325",
+      "gold_pid": "B01M0PKT4E",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000328",
+      "gold_pid": "B0006JLOMS",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-pet-supplies-000332",
+      "gold_pid": "B08D7P6V5C",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000338",
+      "gold_pid": "B01J9R2RRS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000346",
+      "gold_pid": "B08SGFDD1F",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000358",
+      "gold_pid": "B075MD7516",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000368",
+      "gold_pid": "B0183H89AE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000371",
+      "gold_pid": "B0BVJV34X6",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-pet-supplies-000373",
+      "gold_pid": "B0B333N2KZ",
+      "gold_rank": 6
+    },
+    {
+      "qid": "train-pet-supplies-000374",
+      "gold_pid": "B0BYJB177M",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000375",
+      "gold_pid": "B001B4F7DE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000377",
+      "gold_pid": "B0006G5M06",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-pet-supplies-000383",
+      "gold_pid": "B0BLNJZXFM",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-pet-supplies-000384",
+      "gold_pid": "B07LFHZWKZ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000392",
+      "gold_pid": "B0948J98MG",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-pet-supplies-000394",
+      "gold_pid": "B00YJL1W76",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000402",
+      "gold_pid": "B085PPDHBK",
+      "gold_rank": 35
+    },
+    {
+      "qid": "train-pet-supplies-000404",
+      "gold_pid": "B0B4FK9L9H",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000423",
+      "gold_pid": "B00QKYA3TS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000427",
+      "gold_pid": "B0086IQ0DY",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000430",
+      "gold_pid": "B079GVZ1YJ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000431",
+      "gold_pid": "B0BGHGK424",
+      "gold_rank": 6
+    },
+    {
+      "qid": "train-pet-supplies-000452",
+      "gold_pid": "B0038JTL1Y",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000453",
+      "gold_pid": "B075D85Z45",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-pet-supplies-000456",
+      "gold_pid": "B0046LFZO0",
+      "gold_rank": 24
+    },
+    {
+      "qid": "train-pet-supplies-000458",
+      "gold_pid": "B074H212TL",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-pet-supplies-000479",
+      "gold_pid": "B000HCJ782",
+      "gold_rank": 6
+    },
+    {
+      "qid": "train-pet-supplies-000486",
+      "gold_pid": "B01CTVWFNW",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000489",
+      "gold_pid": "B0B5B5P84Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000493",
+      "gold_pid": "B01M1DI0N9",
+      "gold_rank": 17
+    },
+    {
+      "qid": "train-pet-supplies-000498",
+      "gold_pid": "B07FZ76T3G",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000505",
+      "gold_pid": "B079HPCGB9",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-pet-supplies-000506",
+      "gold_pid": "B003TLMM94",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000507",
+      "gold_pid": "B008D9WWIS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000509",
+      "gold_pid": "B09MC5FJC8",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-pet-supplies-000511",
+      "gold_pid": "B07BGZJ4RM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000512",
+      "gold_pid": "B07PHJXKN7",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000514",
+      "gold_pid": "B007OUL8QY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000518",
+      "gold_pid": "B015VGLMAY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000521",
+      "gold_pid": "B09VP9QTTZ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000536",
+      "gold_pid": "B07B9GJ851",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000540",
+      "gold_pid": "B07G633NVG",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-pet-supplies-000551",
+      "gold_pid": "B085J18QS2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000552",
+      "gold_pid": "B00068JV74",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000556",
+      "gold_pid": "B07G3GVMBB",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000563",
+      "gold_pid": "B083QQ5NTL",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000008",
+      "gold_pid": "B07FV7955Q",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000028",
+      "gold_pid": "B0BY66X3C9",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000033",
+      "gold_pid": "B07BXGLMVY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000034",
+      "gold_pid": "B016CKO30Y",
+      "gold_rank": 17
+    },
+    {
+      "qid": "train-sports-and-outdoors-000042",
+      "gold_pid": "B094B7TQH2",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000043",
+      "gold_pid": "B000BY42T0",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-sports-and-outdoors-000044",
+      "gold_pid": "B001ORZF94",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-sports-and-outdoors-000048",
+      "gold_pid": "B0BB1KPP1N",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000049",
+      "gold_pid": "B005TYMLF4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000052",
+      "gold_pid": "B075TVJFR3",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000059",
+      "gold_pid": "B09X8C8NZY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000065",
+      "gold_pid": "B01ACAURJQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000068",
+      "gold_pid": "B084RDRLL5",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000075",
+      "gold_pid": "B07VYNRKCS",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-sports-and-outdoors-000079",
+      "gold_pid": "B00NUF77L2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000084",
+      "gold_pid": "B001OPNT9E",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000088",
+      "gold_pid": "B01C16U45Q",
+      "gold_rank": 19
+    },
+    {
+      "qid": "train-sports-and-outdoors-000091",
+      "gold_pid": "B0007VSMKW",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-sports-and-outdoors-000099",
+      "gold_pid": "B001CK2LFE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000105",
+      "gold_pid": "B0000C1COV",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000107",
+      "gold_pid": "B07M62DRXT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000110",
+      "gold_pid": "B016SHIEB0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000125",
+      "gold_pid": "B07X7FVG5K",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000138",
+      "gold_pid": "B07XMMGZ9P",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000142",
+      "gold_pid": "B00G3N8G90",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000143",
+      "gold_pid": "B003JTA3LA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000153",
+      "gold_pid": "B079QND4F4",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-sports-and-outdoors-000157",
+      "gold_pid": "B08BJVCD4P",
+      "gold_rank": 10
+    },
+    {
+      "qid": "train-sports-and-outdoors-000159",
+      "gold_pid": "B000RH94TO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000161",
+      "gold_pid": "B007XFORCC",
+      "gold_rank": 25
+    },
+    {
+      "qid": "train-sports-and-outdoors-000162",
+      "gold_pid": "B00E5S19B2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000165",
+      "gold_pid": "B019RSYM9K",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000166",
+      "gold_pid": "B07GC1HFP7",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000168",
+      "gold_pid": "B000UPI3RM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000173",
+      "gold_pid": "B017E01HZA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000174",
+      "gold_pid": "B096XFT86L",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000180",
+      "gold_pid": "B07JCJGXBH",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000181",
+      "gold_pid": "B004VW4DYC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000182",
+      "gold_pid": "B091RYP7BH",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000190",
+      "gold_pid": "B092M1FKSH",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000193",
+      "gold_pid": "B082SRHNND",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000195",
+      "gold_pid": "B00KRDPY5G",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000203",
+      "gold_pid": "B08B7J2WD5",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000209",
+      "gold_pid": "B0BQMJZTBV",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000213",
+      "gold_pid": "B07DDHQGPT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000220",
+      "gold_pid": "B007DJ44TO",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000221",
+      "gold_pid": "B07MKNDBFR",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000226",
+      "gold_pid": "B002OL3NZW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000231",
+      "gold_pid": "B09R3F275W",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000236",
+      "gold_pid": "B00KNASZY0",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-sports-and-outdoors-000241",
+      "gold_pid": "B075DF736K",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000243",
+      "gold_pid": "B01FGKC4EI",
+      "gold_rank": 25
+    },
+    {
+      "qid": "train-sports-and-outdoors-000244",
+      "gold_pid": "B0016PM67I",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000256",
+      "gold_pid": "B0039O295I",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-sports-and-outdoors-000257",
+      "gold_pid": "B09MT6WPW3",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000265",
+      "gold_pid": "B006L11PUG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000277",
+      "gold_pid": "B09BRDDP6M",
+      "gold_rank": 15
+    },
+    {
+      "qid": "train-sports-and-outdoors-000281",
+      "gold_pid": "B08WK45YY2",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000284",
+      "gold_pid": "B07JPC72NK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000296",
+      "gold_pid": "B08PFD1WPY",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000297",
+      "gold_pid": "B005ACKVBQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000299",
+      "gold_pid": "B07B6FBYZS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000302",
+      "gold_pid": "B08GWTM8JM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000307",
+      "gold_pid": "B0B41NL642",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000313",
+      "gold_pid": "B012ZOA5NA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000318",
+      "gold_pid": "B077QSV2NV",
+      "gold_rank": 7
+    },
+    {
+      "qid": "train-sports-and-outdoors-000319",
+      "gold_pid": "B01JQRV010",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000320",
+      "gold_pid": "B0BLY17LHK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000328",
+      "gold_pid": "B00P8BE6S8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000329",
+      "gold_pid": "B00M7XKEQ8",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-sports-and-outdoors-000330",
+      "gold_pid": "B00474ANDO",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000333",
+      "gold_pid": "B07QDRXQKP",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000339",
+      "gold_pid": "B0031DVV10",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000347",
+      "gold_pid": "B00JNMUVHS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000356",
+      "gold_pid": "B00BY5XFZM",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000359",
+      "gold_pid": "B004LFYCBS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000363",
+      "gold_pid": "B09QFDHBSW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "gold_pid": "B077TXZ34T",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000377",
+      "gold_pid": "B07PS5896H",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-sports-and-outdoors-000382",
+      "gold_pid": "B00LOY8WVU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000383",
+      "gold_pid": "B006VP8M26",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000387",
+      "gold_pid": "B09XT1NDFT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000391",
+      "gold_pid": "B089LDZSL1",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000393",
+      "gold_pid": "B07HJVD238",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000395",
+      "gold_pid": "B0BHX32VLQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000396",
+      "gold_pid": "B07DPPX8WY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000398",
+      "gold_pid": "B06W9F6N66",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000414",
+      "gold_pid": "B00O8ZVRTQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000416",
+      "gold_pid": "B012BBKKLO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000418",
+      "gold_pid": "B0C66Y8DN3",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000421",
+      "gold_pid": "B0BH4YKV9Y",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000422",
+      "gold_pid": "B07QZHNWK6",
+      "gold_rank": 25
+    },
+    {
+      "qid": "train-sports-and-outdoors-000423",
+      "gold_pid": "B0B4C95WCL",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000425",
+      "gold_pid": "B01D4BKN6C",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000427",
+      "gold_pid": "B0C2KNXGRN",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000435",
+      "gold_pid": "B00PR3DVC4",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000436",
+      "gold_pid": "B082QDCJF5",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000438",
+      "gold_pid": "B08R8F6NSB",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000439",
+      "gold_pid": "B076FK7LMP",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000442",
+      "gold_pid": "B01KBDC7F6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000446",
+      "gold_pid": "B07VPRW98R",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000448",
+      "gold_pid": "B0007QCOLK",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000461",
+      "gold_pid": "B07BQPQGC9",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000462",
+      "gold_pid": "B00QC28L38",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000466",
+      "gold_pid": "B088PR54Q5",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-sports-and-outdoors-000472",
+      "gold_pid": "B07DJ6Q8CW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000473",
+      "gold_pid": "B01DNB5UY8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000479",
+      "gold_pid": "B0875LJPPB",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000481",
+      "gold_pid": "B0C8PYGB1R",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000483",
+      "gold_pid": "B08235Z3MX",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000485",
+      "gold_pid": "B000UIPP3O",
+      "gold_rank": 18
+    },
+    {
+      "qid": "train-sports-and-outdoors-000489",
+      "gold_pid": "B07BT2MWW6",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-sports-and-outdoors-000490",
+      "gold_pid": "B000KO2ONM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000496",
+      "gold_pid": "B0038OYOGG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000509",
+      "gold_pid": "B00YTYNG40",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-sports-and-outdoors-000515",
+      "gold_pid": "B07VHBCRBS",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000519",
+      "gold_pid": "B00NX4ZU9Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000520",
+      "gold_pid": "B0002INNYU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000524",
+      "gold_pid": "B07L6XF99B",
+      "gold_rank": 12
+    },
+    {
+      "qid": "train-sports-and-outdoors-000526",
+      "gold_pid": "B079XWC9H5",
+      "gold_rank": 36
+    },
+    {
+      "qid": "train-sports-and-outdoors-000529",
+      "gold_pid": "B077ZG4X56",
+      "gold_rank": 11
+    },
+    {
+      "qid": "train-sports-and-outdoors-000544",
+      "gold_pid": "B07YTWPGTN",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000549",
+      "gold_pid": "B01FYPMA94",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000552",
+      "gold_pid": "B0BDLTWGKW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000554",
+      "gold_pid": "B077V5QXDK",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-sports-and-outdoors-000557",
+      "gold_pid": "B08ZRWKZTG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000558",
+      "gold_pid": "B07D7ZRNFT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000568",
+      "gold_pid": "B077SZBZKY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000569",
+      "gold_pid": "B09QH31V49",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000570",
+      "gold_pid": "B07R7XHN3X",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000002",
+      "gold_pid": "B0BZJZNGN8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000008",
+      "gold_pid": "B095WGYBPQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000032",
+      "gold_pid": "B08WCBLKV2",
+      "gold_rank": 24
+    },
+    {
+      "qid": "train-toys-and-games-000037",
+      "gold_pid": "B01N6U6C7F",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000040",
+      "gold_pid": "B07XXVDKGK",
+      "gold_rank": 14
+    },
+    {
+      "qid": "train-toys-and-games-000042",
+      "gold_pid": "B07665CHJ6",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000049",
+      "gold_pid": "B0BJ9B65SK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000051",
+      "gold_pid": "B09835845D",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000057",
+      "gold_pid": "B0BC46FQ16",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000066",
+      "gold_pid": "B01LY42BDK",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000080",
+      "gold_pid": "B001ENBBGO",
+      "gold_rank": 7
+    },
+    {
+      "qid": "train-toys-and-games-000082",
+      "gold_pid": "B0787PGKWB",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000085",
+      "gold_pid": "B007FY0JSM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000086",
+      "gold_pid": "B08BYLX39W",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000088",
+      "gold_pid": "B07SR16NLM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000091",
+      "gold_pid": "B00J2NHV0I",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-toys-and-games-000095",
+      "gold_pid": "B08BL94MGL",
+      "gold_rank": 24
+    },
+    {
+      "qid": "train-toys-and-games-000100",
+      "gold_pid": "B081TLWGYC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000104",
+      "gold_pid": "B08TZJ21V2",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000115",
+      "gold_pid": "B07CCWBHY4",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-toys-and-games-000117",
+      "gold_pid": "B07DFB55GD",
+      "gold_rank": 13
+    },
+    {
+      "qid": "train-toys-and-games-000129",
+      "gold_pid": "B07Y74S6HX",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000132",
+      "gold_pid": "B00C8526S4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000142",
+      "gold_pid": "B081ZVRJDY",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-toys-and-games-000145",
+      "gold_pid": "B00BQYQZSK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000147",
+      "gold_pid": "B00JBIYO18",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000149",
+      "gold_pid": "B01A1089CE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000150",
+      "gold_pid": "B07218SB7L",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000158",
+      "gold_pid": "B000BQYBGM",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-toys-and-games-000159",
+      "gold_pid": "B07CX4GWWW",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000160",
+      "gold_pid": "B0BTSGV912",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000166",
+      "gold_pid": "B01CQTW8CA",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000168",
+      "gold_pid": "B01CPF0H5U",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000170",
+      "gold_pid": "B005VSN27E",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-toys-and-games-000172",
+      "gold_pid": "B01NBIY3PJ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000174",
+      "gold_pid": "B004OTSI3Y",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000176",
+      "gold_pid": "B0063833YI",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000178",
+      "gold_pid": "B07HCS6LD2",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-toys-and-games-000210",
+      "gold_pid": "B00DOBCHAS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000223",
+      "gold_pid": "B00TU53K8K",
+      "gold_rank": 12
+    },
+    {
+      "qid": "train-toys-and-games-000237",
+      "gold_pid": "B00CI062YI",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000238",
+      "gold_pid": "B07TYXZTNJ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000240",
+      "gold_pid": "B07WJX1LQK",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000245",
+      "gold_pid": "B07DFBP33F",
+      "gold_rank": 25
+    },
+    {
+      "qid": "train-toys-and-games-000247",
+      "gold_pid": "B00JM5G9IG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000249",
+      "gold_pid": "B0C5DXDNQ6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000251",
+      "gold_pid": "B0B2MCXGDK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000255",
+      "gold_pid": "B08DXY6BQF",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000257",
+      "gold_pid": "B098S1MX5T",
+      "gold_rank": 22
+    },
+    {
+      "qid": "train-toys-and-games-000258",
+      "gold_pid": "B07ZBQK3XD",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000261",
+      "gold_pid": "B002FP0IJQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000271",
+      "gold_pid": "B073RGC8T6",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000272",
+      "gold_pid": "B00ECDRBHQ",
+      "gold_rank": 6
+    },
+    {
+      "qid": "train-toys-and-games-000275",
+      "gold_pid": "B0098MV4RE",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000281",
+      "gold_pid": "B005MW0WZO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000287",
+      "gold_pid": "B07P6YNHVN",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000292",
+      "gold_pid": "B007FSJM6S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000296",
+      "gold_pid": "B00R8ZTM6S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000297",
+      "gold_pid": "B07GVYMKW8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000298",
+      "gold_pid": "B074HN36PB",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000306",
+      "gold_pid": "B088ZPMLDT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000314",
+      "gold_pid": "B07G4HJQMR",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000316",
+      "gold_pid": "B0CCK7MM98",
+      "gold_rank": 50
+    },
+    {
+      "qid": "train-toys-and-games-000318",
+      "gold_pid": "B00YX77Y8C",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000322",
+      "gold_pid": "B01CPF1VJG",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000334",
+      "gold_pid": "B0855VMBN3",
+      "gold_rank": 8
+    },
+    {
+      "qid": "train-toys-and-games-000337",
+      "gold_pid": "B0027B6T6Y",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-toys-and-games-000339",
+      "gold_pid": "B07KLDNT3W",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-toys-and-games-000340",
+      "gold_pid": "B01N29BQJ5",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000343",
+      "gold_pid": "B001NLOPCO",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000362",
+      "gold_pid": "B07MCMD6H6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000365",
+      "gold_pid": "B08B61NFSV",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000366",
+      "gold_pid": "B002HMUFZ4",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000371",
+      "gold_pid": "B08K8ZCMQS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000373",
+      "gold_pid": "B000627ZL4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000384",
+      "gold_pid": "B071KQ6QB7",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000398",
+      "gold_pid": "B07BYBN56L",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000402",
+      "gold_pid": "B09DTZW3WJ",
+      "gold_rank": 47
+    },
+    {
+      "qid": "train-toys-and-games-000403",
+      "gold_pid": "B016MUY7XW",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000410",
+      "gold_pid": "B009PBU6L8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000411",
+      "gold_pid": "B007Q0ONCS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000412",
+      "gold_pid": "B07PGQ6P5D",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000414",
+      "gold_pid": "B000BW49VS",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000415",
+      "gold_pid": "B005G3WD8S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000419",
+      "gold_pid": "B00E9E1C3W",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000421",
+      "gold_pid": "B013RWJK5I",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000441",
+      "gold_pid": "B06XJMY5ZH",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000446",
+      "gold_pid": "B00BZQZYUO",
+      "gold_rank": 13
+    },
+    {
+      "qid": "train-toys-and-games-000447",
+      "gold_pid": "B008RNCROY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000448",
+      "gold_pid": "B08WKPR88Y",
+      "gold_rank": 34
+    },
+    {
+      "qid": "train-toys-and-games-000449",
+      "gold_pid": "B07GZBT1GT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000450",
+      "gold_pid": "B07CZ26SYT",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-toys-and-games-000451",
+      "gold_pid": "B005K0BAZO",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-toys-and-games-000452",
+      "gold_pid": "B075NRX1LX",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000454",
+      "gold_pid": "B0B7R9DHZX",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000461",
+      "gold_pid": "B07B7SWP6T",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000465",
+      "gold_pid": "B097HXNWS4",
+      "gold_rank": 24
+    },
+    {
+      "qid": "train-toys-and-games-000467",
+      "gold_pid": "B011OH5C2S",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000481",
+      "gold_pid": "B00D7IBGCS",
+      "gold_rank": 14
+    },
+    {
+      "qid": "train-toys-and-games-000482",
+      "gold_pid": "B083B65RF9",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-toys-and-games-000491",
+      "gold_pid": "B081XBBPNM",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-toys-and-games-000495",
+      "gold_pid": "B01LXFCDAP",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000497",
+      "gold_pid": "B07FWMJYZC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000498",
+      "gold_pid": "B00H543CFE",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000501",
+      "gold_pid": "B014AHMWJK",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000511",
+      "gold_pid": "B07DZZJD5Q",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000512",
+      "gold_pid": "B07ZPB6RJY",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000521",
+      "gold_pid": "B0009XBYHQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000525",
+      "gold_pid": "B01MS5J10V",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000530",
+      "gold_pid": "B00K1GJNEC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000532",
+      "gold_pid": "B01DAA3G8O",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-toys-and-games-000544",
+      "gold_pid": "B00B6SIMQ4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000545",
+      "gold_pid": "B00O4GLZMS",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-toys-and-games-000549",
+      "gold_pid": "B07H3D6L3Y",
+      "gold_rank": 28
+    },
+    {
+      "qid": "train-toys-and-games-000551",
+      "gold_pid": "B07WT5QSKJ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000554",
+      "gold_pid": "B00U39IF82",
+      "gold_rank": 5
+    },
+    {
+      "qid": "train-toys-and-games-000563",
+      "gold_pid": "B07MDYVVSC",
+      "gold_rank": 34
+    },
+    {
+      "qid": "train-toys-and-games-000564",
+      "gold_pid": "B01JCRSSR8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000569",
+      "gold_pid": "B095SXQBQT",
+      "gold_rank": 33
+    }
+  ],
+  "by_message_count": {
+    "3": {
+      "queries": 489,
+      "gold_hit@1": 0.34355828220858897,
+      "gold_mrr@1": 0.34355828220858897,
+      "gold_hit@10": 0.6441717791411042,
+      "gold_mrr@10": 0.4384855714610316,
+      "gold_hit@50": 0.8282208588957055,
+      "gold_mrr@50": 0.4476000537232226
+    },
+    "5": {
+      "queries": 477,
+      "gold_hit@1": 0.5073375262054507,
+      "gold_mrr@1": 0.5073375262054507,
+      "gold_hit@10": 0.7882599580712788,
+      "gold_mrr@10": 0.5952763635153572,
+      "gold_hit@50": 0.9014675052410901,
+      "gold_mrr@50": 0.6014350909378727
+    }
+  },
+  "by_qid_prefix": {
+    "beauty-train": {
+      "queries": 437,
+      "gold_hit@1": 0.2471395881006865,
+      "gold_mrr@1": 0.2471395881006865,
+      "gold_hit@10": 0.5491990846681922,
+      "gold_mrr@10": 0.33251244052159384,
+      "gold_hit@50": 0.7643020594965675,
+      "gold_mrr@50": 0.34363666327920317
+    },
+    "train-beauty-official": {
+      "queries": 74,
+      "gold_hit@1": 0.581081081081081,
+      "gold_mrr@1": 0.581081081081081,
+      "gold_hit@10": 0.9054054054054054,
+      "gold_mrr@10": 0.6995066495066495,
+      "gold_hit@50": 0.9594594594594594,
+      "gold_mrr@50": 0.70248907712143
+    },
+    "train-home-and-kitchen": {
+      "queries": 104,
+      "gold_hit@1": 0.5769230769230769,
+      "gold_mrr@1": 0.5769230769230769,
+      "gold_hit@10": 0.8653846153846154,
+      "gold_mrr@10": 0.6650602869352868,
+      "gold_hit@50": 0.9903846153846154,
+      "gold_mrr@50": 0.671801792063582
+    },
+    "train-pet-supplies": {
+      "queries": 102,
+      "gold_hit@1": 0.5,
+      "gold_mrr@1": 0.5,
+      "gold_hit@10": 0.8725490196078431,
+      "gold_mrr@10": 0.6243580765639589,
+      "gold_hit@50": 0.9411764705882353,
+      "gold_mrr@50": 0.6272922641676162
+    },
+    "train-sports-and-outdoors": {
+      "queries": 130,
+      "gold_hit@1": 0.7,
+      "gold_mrr@1": 0.7,
+      "gold_hit@10": 0.9,
+      "gold_mrr@10": 0.7725091575091575,
+      "gold_hit@50": 0.9769230769230769,
+      "gold_mrr@50": 0.776783753913785
+    },
+    "train-toys-and-games": {
+      "queries": 119,
+      "gold_hit@1": 0.4789915966386555,
+      "gold_mrr@1": 0.4789915966386555,
+      "gold_hit@10": 0.7394957983193278,
+      "gold_mrr@10": 0.571578631452581,
+      "gold_hit@50": 0.8739495798319328,
+      "gold_mrr@50": 0.5779366870548074
+    }
+  },
+  "input_sha256": {
+    "/mnt/c/Users/yuting/Desktop/HW2_ADL/results/h2_d3_b1_top50.json": "ad094953a84bfa42f54da14657929b4a80b4c88d2dd37a37a9dae9fc92cda03b",
+    "data/derived/dev.jsonl": "6776f3c5546ea0fbc93524aec0925b8e0911160937a51c8bf8895e3ff9816b0d",
+    "data/train/products.jsonl": "6865b9cb44dc1e1c3d8a38c6f8207b00ddd5b442471db1d2016e1cc8403dee34",
+    "/mnt/c/Users/yuting/Desktop/HW2_ADL/results/h2_d3_b1_top10.json": "2dd65d236e786377d42b421e6d9775698e75c1db66855c33f37d88914fda7ce8"
+  },
+  "prefix_comparison": {
+    "queries": 966,
+    "changed_top10_count": 0,
+    "changed_qids": []
+  }
+}

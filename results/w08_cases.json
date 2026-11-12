@@ -1,0 +1,158 @@
+{
+  "kind": "posthoc_deterministic_first_two_improved_and_worsened_beauty_gold_hit10_not_official_judgments",
+  "input_sha256": {
+    "results/w08_screening.json": "cf3d136b5657a267001d667d881a19f2884b19bf3ac31a5827b8ae748e865a9e",
+    "results/h1_hybrid_dev_top50.json": "b7cf5813c001bbb5ad73cbba38e7edc511570f7b4d930600f88d5df75a5ea988",
+    "results/w08_epoch1_dev_top50.json": "d5c919e2a2dc884c2263faad97453ac0073287ddf8e9002835c986125dfc308f"
+  },
+  "records": [
+    {
+      "kind": "improved",
+      "qid": "beauty-train-000078",
+      "query": "user: I liked those soft false lashes and the Burt's Bees foot kit I bought. I need a natural shampoo without harsh chemicals.\nassistant: Nice! Are you looking for something SLS-free?\nuser: Yes, exactly, SLS-free and made in the USA.",
+      "gold_pid": "B005I8RH78",
+      "gold_title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA",
+      "old_gold_rank": 45,
+      "new_gold_rank": 2,
+      "old_top3": [
+        {
+          "pid": "B0BDTL82H1",
+          "title": "Burt's Bees for Dogs Natural Shed Control Shampoo with Omega 3 and Vitamin E | Shedding Shampoo for All Dogs | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Ounces"
+        },
+        {
+          "pid": "B08NG8WWH2",
+          "title": "Burt's Bees for Pets Natural Oatmeal Dog Shampoo | With Colloidal Oat Flour & Honey | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs - Made in USA, 16 Oz - Pack of 6"
+        },
+        {
+          "pid": "B0B5Q8D9YS",
+          "title": "Burt's Bees for Dogs Hypoallergenic Dog Shampoo with Shea Butter & Honey for Dogs with Dry or Sensitive Skin | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Dogs | 16 Oz, 2 Pack"
+        }
+      ],
+      "new_top3": [
+        {
+          "pid": "B08ZGZ4BQ6",
+          "title": "J·R·LIGGETT'S All-Natural Shampoo Bar, Virgin Coconut and Argan Oil - Support Strong and Healthy Hair - Nourish Follicles with Antioxidants and Vitamins-Detergent and Sulfate-Free, One 3.5 Ounce"
+        },
+        {
+          "pid": "B005I8RH78",
+          "title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA"
+        },
+        {
+          "pid": "B0B5Q84T6G",
+          "title": "Burt's Bees for Cats Waterless Shampoo with Apple & Honey | Dry Cat Shampoo Cat Waterless Shampoo Spray | Cruelty Free, Sulfate & Paraben Free, pH Balanced for Cats - Made in USA, 10 Oz- 2 Pack"
+        }
+      ]
+    },
+    {
+      "kind": "improved",
+      "qid": "beauty-train-000090",
+      "query": "user: I need a new facial moisturizer. I've been happy with that gentle cleanser and eye cream I got before.\nassistant: Got it. What kind of moisturizer are you looking for?\nuser: Something gentle and good for sensitive skin, maybe with natural butters.\nassistant: Okay, I can look into that. Do you prefer a day or night cream?\nuser: Day cream ideally, and something that helps with aging too.",
+      "gold_pid": "B00AAR9I60",
+      "gold_title": "Hydrate, facial moisturizer, 1.7oz. (48g)",
+      "old_gold_rank": null,
+      "new_gold_rank": 2,
+      "old_top3": [
+        {
+          "pid": "B00CHHJX0M",
+          "title": "Simple Kind to Skin Facial Toner, Soothing, 6.7 Fl Oz (Pack of 1)"
+        },
+        {
+          "pid": "B00I4ZERGG",
+          "title": "#1 Best Selling Organic Anti-Aging, Brightening Eye Cream 1 oz , Best Dark Circles, Puffiness, Dark Circle Eye Treatments, Wrinkles & Bags Under Eyes Treatment, Fast-Acting & All-Natural Facial Lines and Wrinkle Remover Using A Lightweight Oil-Free Formulation. Guaranteed to Work & Backed by Our 90-Day No-Questions Asked Guarantee!"
+        },
+        {
+          "pid": "B09NB2R394",
+          "title": "Hydrating Facial Moisturizer Face Cream - Clean, Daily Face Moisturizer for All Skin Types - with Certified Organic Ingredients for Soft, Smooth Skin - Face Lotion for Women and Men, Anise"
+        }
+      ],
+      "new_top3": [
+        {
+          "pid": "B00KCTER3U",
+          "title": "Anti-Aging Facial Moisturizer Cream 3.4 OZ For Face, Under Eye, Oily, Sensitive, & Dry Skin ★LIMITED SALE!★ Best Anti-Wrinkle Cream | Youth Express Age-Defying Moisturizer | Suitable for Men & Women | Reduces Appearance of Wrinkles, Fine Lines & Hydrates the Skin - Moisturizing Night & Day Cream | Perfectly Suitable As Hand Cream & Eye Cream | 100 Days 100% Satisfaction Guarantee"
+        },
+        {
+          "pid": "B00AAR9I60",
+          "title": "Hydrate, facial moisturizer, 1.7oz. (48g)"
+        },
+        {
+          "pid": "B0C46SPKJ9",
+          "title": "L'Oreal Paris Collagen Face Moisturizer, Day and Night Cream, Neck and Chest Cream to smooth skin and reduce wrinkles, 1.7 oz"
+        }
+      ]
+    },
+    {
+      "kind": "worsened",
+      "qid": "beauty-train-000495",
+      "query": "user: I've been using that charcoal face sponge and the dead sea salt soap, but my skin still looks kinda dull and slack.\nassistant: Those are good for cleansing, but might not firm skin. What bothers you most about your skin now?\nuser: Honestly I'm skeptical of anti-aging stuff; my old vitamin c serum did nothing for fine lines and dry patches.",
+      "gold_pid": "B00JYKBZ3I",
+      "gold_title": "Best Anti- aging Cream to Curb Wrinkles. Anti -aging Moisturizers with Peptides, Vitamin C and Hyaluronic Acid. #1 Anti-Wrinkle Cream. Use it for Pain Free Rejuvenation and Restoration of Skin without Painful Injections. Lifting and Firming Cream. Comes With 100 percent Money Back Guarantee !!!.",
+      "old_gold_rank": 6,
+      "new_gold_rank": 22,
+      "old_top3": [
+        {
+          "pid": "B004ZNEMGQ",
+          "title": "Adovia Mineral Lift Serum"
+        },
+        {
+          "pid": "B00HNTBTOC",
+          "title": "Vitamin-C Serum - Potent 20% Topical Vitamin C + E + A Serum - Best Anti-aging + Anti-wrinkle Skin Care Combination Erases Years of Your Face - \"Keeps Vitamins Fresh\" for Superior Results - 100% \"No One Can Guess Your Age\" Money Back Guarantee"
+        },
+        {
+          "pid": "B00G2TQNZ4",
+          "title": "Vitamin C Serum for Face 20% - With Vegan Hyaluronic Acid & Vitamin E - Best Natural & Organic Anti Aging Formula Stimulates Collagen, Repairs Wrinkles & Fades Age Spots - Gives Skin a Radiant & Youthful Glow - Guaranteed Results"
+        }
+      ],
+      "new_top3": [
+        {
+          "pid": "B00HNTBTOC",
+          "title": "Vitamin-C Serum - Potent 20% Topical Vitamin C + E + A Serum - Best Anti-aging + Anti-wrinkle Skin Care Combination Erases Years of Your Face - \"Keeps Vitamins Fresh\" for Superior Results - 100% \"No One Can Guess Your Age\" Money Back Guarantee"
+        },
+        {
+          "pid": "B00G2TQNZ4",
+          "title": "Vitamin C Serum for Face 20% - With Vegan Hyaluronic Acid & Vitamin E - Best Natural & Organic Anti Aging Formula Stimulates Collagen, Repairs Wrinkles & Fades Age Spots - Gives Skin a Radiant & Youthful Glow - Guaranteed Results"
+        },
+        {
+          "pid": "B00GCQMSVA",
+          "title": "Best Vitamin C Serum Beautifies Face: GET GORGEOUS SALE! Restores & Protects ~ FADES Sun & Age Spots, Fine Lines & Wrinkles ~ #1 in Luxury Skin Care Anti Aging Products With Organic Vitamin C + E + Hyaluronic Acid Serum ~ Want The Finest For Your Face? 1 Fl. Oz. Of Beauty!"
+        }
+      ]
+    },
+    {
+      "kind": "worsened",
+      "qid": "beauty-train-001542",
+      "query": "user: I've been using that Giovanni shampoo I got a while back and really like it, but my ends feel rough.\nassistant: Nice, that one's a favorite. Happy to suggest something to help with that.\nuser: Got any conditioner that would pair well with it?",
+      "gold_pid": "B001ET7892",
+      "gold_title": "Giovanni Conditioner, Smooth as Silk for Daily Use, 8.5 fl oz Containers (Pack of 3)",
+      "old_gold_rank": 2,
+      "new_gold_rank": 50,
+      "old_top3": [
+        {
+          "pid": "B0BDS23LXF",
+          "title": "giovanni Invigorating Tea Tree Conditioner - Triple Treat Cleansing, Moisturizing, and Refreshing Formula, 8.5 Ounce (Pack of 1)"
+        },
+        {
+          "pid": "B001ET7892",
+          "title": "Giovanni Conditioner, Smooth as Silk for Daily Use, 8.5 fl oz Containers (Pack of 3)"
+        },
+        {
+          "pid": "B006I9RQBI",
+          "title": "UltraClear Acne Cream"
+        }
+      ],
+      "new_top3": [
+        {
+          "pid": "B0BDS23LXF",
+          "title": "giovanni Invigorating Tea Tree Conditioner - Triple Treat Cleansing, Moisturizing, and Refreshing Formula, 8.5 Ounce (Pack of 1)"
+        },
+        {
+          "pid": "B0019LP8UQ",
+          "title": "Enjoy Luxury Duo (Shampoo and Conditioner) - 33.8 Oz"
+        },
+        {
+          "pid": "B006I9RQBI",
+          "title": "UltraClear Acne Cream"
+        }
+      ]
+    }
+  ]
+}

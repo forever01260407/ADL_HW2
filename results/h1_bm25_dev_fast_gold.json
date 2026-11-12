@@ -1,0 +1,535 @@
+{
+  "kind": "gold_only_diagnostic_not_official_graded",
+  "candidate_products": 50000,
+  "retrieval_top_k": 10,
+  "metrics": {
+    "queries": 100,
+    "gold_hit@1": 0.3,
+    "gold_mrr@1": 0.3,
+    "gold_hit@10": 0.47,
+    "gold_mrr@10": 0.3522619047619047
+  },
+  "records": [
+    {
+      "qid": "train-pet-supplies-000140",
+      "gold_pid": "B07GPX2F5S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "gold_pid": "B077TXZ34T",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001206",
+      "gold_pid": "B003VKR018",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003071",
+      "gold_pid": "B004XJNQXW",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000193",
+      "gold_pid": "B000VOP7YO",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003898",
+      "gold_pid": "B003W5YCVI",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000181",
+      "gold_pid": "B004VW4DYC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "gold_pid": "B00BXLQCP2",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002935",
+      "gold_pid": "B0018V1DWE",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000084",
+      "gold_pid": "B07VPL7BPS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002624",
+      "gold_pid": "B001D3Q124",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004475",
+      "gold_pid": "B00DEXA0LY",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002364",
+      "gold_pid": "B004R3TBEC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000507",
+      "gold_pid": "B008D9WWIS",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-001496",
+      "gold_pid": "B005REYEXS",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000129",
+      "gold_pid": "B07Y74S6HX",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000161",
+      "gold_pid": "B007XFORCC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-home-and-kitchen-000227",
+      "gold_pid": "B075MSCWP5",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000999",
+      "gold_pid": "B00GTC0DYQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-003602",
+      "gold_pid": "B00GYB17TC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000383",
+      "gold_pid": "B0BLNJZXFM",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000241",
+      "gold_pid": "B00604MSSC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000554",
+      "gold_pid": "B00U39IF82",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001178",
+      "gold_pid": "B004TSF8R4",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000287",
+      "gold_pid": "B07P6YNHVN",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000306",
+      "gold_pid": "B088ZPMLDT",
+      "gold_rank": 4
+    },
+    {
+      "qid": "train-home-and-kitchen-000236",
+      "gold_pid": "B011D16NP0",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002870",
+      "gold_pid": "B00HJD8NLY",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000927",
+      "gold_pid": "B00GCQMSVA",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-001933",
+      "gold_pid": "B00AE07CTI",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-home-and-kitchen-000445",
+      "gold_pid": "B0006ADICG",
+      "gold_rank": 2
+    },
+    {
+      "qid": "train-home-and-kitchen-000489",
+      "gold_pid": "B07CJLB5GT",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004550",
+      "gold_pid": "B00FXXTEVA",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002931",
+      "gold_pid": "B0012NWEZI",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000218",
+      "gold_pid": "B0030GFY02",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000386",
+      "gold_pid": "B000NNDNYY",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000212",
+      "gold_pid": "B0047ARSKE",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-001091",
+      "gold_pid": "B00AN5L8IU",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000956",
+      "gold_pid": "B002RDBL7Y",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-pet-supplies-000050",
+      "gold_pid": "B07HC9PF5J",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002329",
+      "gold_pid": "B001BHGB8Q",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000117",
+      "gold_pid": "B0BBKQDRM4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002453",
+      "gold_pid": "B00A0IWT9C",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003767",
+      "gold_pid": "B00KD73PBQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000341",
+      "gold_pid": "B001FPEUL4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000173",
+      "gold_pid": "B017E01HZA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000508",
+      "gold_pid": "B07D4BQ6L3",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000423",
+      "gold_pid": "B0B4C95WCL",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-000199",
+      "gold_pid": "B00014JOHA",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-003397",
+      "gold_pid": "B00FRDPMQC",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-home-and-kitchen-000311",
+      "gold_pid": "B08QJKP7D8",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000118",
+      "gold_pid": "B07K2MSXQP",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-002051",
+      "gold_pid": "B00EU7DBQ4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000092",
+      "gold_pid": "B01I6X5RL4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000075",
+      "gold_pid": "B07VYNRKCS",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-home-and-kitchen-000092",
+      "gold_pid": "B00I53704S",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000213",
+      "gold_pid": "B0784R8921",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000449",
+      "gold_pid": "B07GZBT1GT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000556",
+      "gold_pid": "B07G3GVMBB",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004312",
+      "gold_pid": "B004RDUILC",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000481",
+      "gold_pid": "B00D7IBGCS",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-home-and-kitchen-000470",
+      "gold_pid": "B08NT9C3P7",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-004514",
+      "gold_pid": "B004Y5NA1I",
+      "gold_rank": 4
+    },
+    {
+      "qid": "beauty-train-002093",
+      "gold_pid": "B000F4GIPM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002342",
+      "gold_pid": "B00GCQMSVA",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002737",
+      "gold_pid": "B00195MZUI",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000026",
+      "gold_pid": "B00SNM5US4",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000466",
+      "gold_pid": "B002DMWK74",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-home-and-kitchen-000437",
+      "gold_pid": "B01M6V2DM6",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000065",
+      "gold_pid": "B01ACAURJQ",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-002982",
+      "gold_pid": "B0062MAAAK",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000337",
+      "gold_pid": "B0027B6T6Y",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000473",
+      "gold_pid": "B01DNB5UY8",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000038",
+      "gold_pid": "B004GJCN8I",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000178",
+      "gold_pid": "B07HCS6LD2",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-home-and-kitchen-000119",
+      "gold_pid": "B08H51L98V",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-000057",
+      "gold_pid": "B001CJE0Y0",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000520",
+      "gold_pid": "B0002INNYU",
+      "gold_rank": 8
+    },
+    {
+      "qid": "train-sports-and-outdoors-000277",
+      "gold_pid": "B09BRDDP6M",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-home-and-kitchen-000241",
+      "gold_pid": "B006ONC6TU",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000466",
+      "gold_pid": "B088PR54Q5",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-pet-supplies-000518",
+      "gold_pid": "B015VGLMAY",
+      "gold_rank": 7
+    },
+    {
+      "qid": "beauty-train-001668",
+      "gold_pid": "B00BB8ZHJY",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000143",
+      "gold_pid": "B003JTA3LA",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-pet-supplies-000509",
+      "gold_pid": "B09MC5FJC8",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000213",
+      "gold_pid": "B07DDHQGPT",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-toys-and-games-000450",
+      "gold_pid": "B07CZ26SYT",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000193",
+      "gold_pid": "B082SRHNND",
+      "gold_rank": 2
+    },
+    {
+      "qid": "beauty-train-003736",
+      "gold_pid": "B0076HRUQC",
+      "gold_rank": 3
+    },
+    {
+      "qid": "train-pet-supplies-000486",
+      "gold_pid": "B01CTVWFNW",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-toys-and-games-000261",
+      "gold_pid": "B002FP0IJQ",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002142",
+      "gold_pid": "B00DH0TRYA",
+      "gold_rank": 3
+    },
+    {
+      "qid": "beauty-train-001639",
+      "gold_pid": "B001E96MZ8",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-004075",
+      "gold_pid": "B007M81B4M",
+      "gold_rank": null
+    },
+    {
+      "qid": "beauty-train-002270",
+      "gold_pid": "B00AZRGH64",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-beauty-official-000100",
+      "gold_pid": "B0B3C7MN39",
+      "gold_rank": null
+    },
+    {
+      "qid": "train-sports-and-outdoors-000302",
+      "gold_pid": "B08GWTM8JM",
+      "gold_rank": 1
+    },
+    {
+      "qid": "beauty-train-000649",
+      "gold_pid": "B00178TVXG",
+      "gold_rank": 8
+    },
+    {
+      "qid": "beauty-train-003725",
+      "gold_pid": "B003N21THK",
+      "gold_rank": 1
+    },
+    {
+      "qid": "train-pet-supplies-000423",
+      "gold_pid": "B00QKYA3TS",
+      "gold_rank": 1
+    }
+  ],
+  "by_message_count": {
+    "3": {
+      "queries": 50,
+      "gold_hit@1": 0.24,
+      "gold_mrr@1": 0.24,
+      "gold_hit@10": 0.4,
+      "gold_mrr@10": 0.2966666666666667
+    },
+    "5": {
+      "queries": 50,
+      "gold_hit@1": 0.36,
+      "gold_mrr@1": 0.36,
+      "gold_hit@10": 0.54,
+      "gold_mrr@10": 0.40785714285714286
+    }
+  },
+  "input_sha256": {
+    "results/h1_bm25_dev_fast_top10.json": "1cf2513a60278b8eb1614c0d1c1d59c52beeac9a08fb96dd89219a911073f258",
+    "data/derived/dev_fast.jsonl": "6b1719affe263c741d656a1b979b3deb62b11a3a01e652255d5df8e1ffd8f52b",
+    "/mnt/c/Users/yuting/Desktop/HW2_ADL/data/train/products.jsonl": "6865b9cb44dc1e1c3d8a38c6f8207b00ddd5b442471db1d2016e1cc8403dee34"
+  }
+}

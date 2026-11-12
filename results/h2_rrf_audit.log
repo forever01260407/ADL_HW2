@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "independent_rankings_verified": 7728,
+  "variants": {
+    "dense_only": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 685,
+      "gold_hits_at_50": 823
+    },
+    "d075_b1": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 599,
+      "gold_hits_at_50": 771
+    },
+    "d1_b1": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 643,
+      "gold_hits_at_50": 804
+    },
+    "d11_b1": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 655,
+      "gold_hits_at_50": 815
+    },
+    "d15_b1": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 667,
+      "gold_hits_at_50": 829
+    },
+    "d2_b1": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 677,
+      "gold_hits_at_50": 835
+    },
+    "d3_b1": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 691,
+      "gold_hits_at_50": 835
+    },
+    "d4_b1": {
+      "independent_rankings_verified": 966,
+      "gold_hits_at_10": 697,
+      "gold_hits_at_50": 833
+    }
+  },
+  "five_categories_and_six_sources_verified": true,
+  "official_judge_runs": 0,
+  "public_runs": 0,
+  "default_unchanged": true,
+  "input_sha256": {
+    "code/script/audit_rrf_ablation.py": "7b4ca550a6ebcc8cc4c2200ebbe54fccdd87d338b265955032f3fecc8ea0f880",
+    "results/h2_rrf_plan.json": "b20a5dfd99646921f5bcd99d23ab7877508f60460f9d7b292205c0d553a8499a",
+    "results/h2_rrf_summary.json": "dd52b0280a556d077e34032b169b1baadf8392f1c564959f8fcf9290bb18f604",
+    "results/h2_rrf_baseline_check.json": "45c3952beabf629d890bf57491fa318a0a395cfd3bd2ed2da3f8a04b9dafe3f2",
+    "results/h2_rrf_tests.log": "970d8ecee912facbfdeef275a8f0941cf6ebaaeb7aea05a23e1f3a7c14e6562b"
+  }
+}

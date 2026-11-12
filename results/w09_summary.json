@@ -1,0 +1,104 @@
+{
+  "status": "experiment_and_analysis_complete",
+  "generation_quality_status": "known_content_and_format_failures; no_official_Q2_passing_threshold",
+  "outputs": 15,
+  "sample_count": 5,
+  "prompt_count": 3,
+  "tests_passed": 54,
+  "raw_decoding_and_shared_evidence_verified": true,
+  "retrieval_W08_unchanged": true,
+  "official_judge_runs_during_W09": 0,
+  "additional_training_during_W09": false,
+  "public_evaluated": false,
+  "official_hardware_validation": false,
+  "assignment_complete": false,
+  "qualitative_review": "non-blind Codex assistant; not human labels or independent grading",
+  "by_prompt": {
+    "G-P1": {
+      "samples": 5,
+      "subjective_mean_scores": {
+        "current_need": 1.2,
+        "constraints_and_preferences": 1.2,
+        "evidence_faithfulness": 1.0,
+        "no_unsupported_claims": 0.4,
+        "clarity": 2.0
+      },
+      "subjective_mean_total_out_of_10": 5.8,
+      "measured_diagnostics": {
+        "outputs_mentioning_any_pid": 1,
+        "outputs_with_requested_pid_format": 0,
+        "outputs_with_out_of_evidence_pid": 0,
+        "over_120_words": 0,
+        "length_capped": 0
+      }
+    },
+    "G-P2": {
+      "samples": 5,
+      "subjective_mean_scores": {
+        "current_need": 1.2,
+        "constraints_and_preferences": 1.2,
+        "evidence_faithfulness": 0.2,
+        "no_unsupported_claims": 0.4,
+        "clarity": 1.4
+      },
+      "subjective_mean_total_out_of_10": 4.4,
+      "measured_diagnostics": {
+        "outputs_mentioning_any_pid": 2,
+        "outputs_with_requested_pid_format": 0,
+        "outputs_with_out_of_evidence_pid": 0,
+        "over_120_words": 1,
+        "length_capped": 0
+      }
+    },
+    "G-P3": {
+      "samples": 5,
+      "subjective_mean_scores": {
+        "current_need": 0.8,
+        "constraints_and_preferences": 1.0,
+        "evidence_faithfulness": 0.2,
+        "no_unsupported_claims": 0.0,
+        "clarity": 1.2
+      },
+      "subjective_mean_total_out_of_10": 3.2,
+      "measured_diagnostics": {
+        "outputs_mentioning_any_pid": 1,
+        "outputs_with_requested_pid_format": 0,
+        "outputs_with_out_of_evidence_pid": 0,
+        "over_120_words": 3,
+        "length_capped": 0
+      }
+    }
+  },
+  "resources": [
+    {
+      "wall_seconds": 84.2501651599996,
+      "started_after_outputs": 0,
+      "completed_outputs": 15,
+      "status": "completed",
+      "peak_cuda_allocated_bytes": 3380521472,
+      "peak_cuda_reserved_bytes": 3806330880,
+      "peak_process_rss_bytes": 6326099968
+    }
+  ],
+  "artifacts_sha256": {
+    "results/w09_q2/manifest.json": "bc8af3a8ac094928d5ca0d2e92d0e16c1f3796ad035609420c0c657afdf416b9",
+    "results/w09_q2/plan.json": "5eaac8fe86811e48f02f0554612e2474e463f784f80f55f3fc5703ca6d666699",
+    "results/w09_q2/outputs.jsonl": "8300d4ac904db0535f42438da448f683de0128435474c2c608a5f191488dc988",
+    "results/w09_q2/audit.json": "0689283de8920ccee63ebc554c25216c0aa59d10a9535d7ccc706f1d754544c7",
+    "results/w09_q2/review.json": "0c7318f499f44e6e2c68fc6a6a873b6ef172bf8ce417f90045d7218a2b5fc115",
+    "results/w09_q2/review_summary.json": "8c2ee55835528c2bd03ec71ef2014baa3935afe59ebe2edb34b41d02fc29a9b1",
+    "results/w09_q2/raw_outputs.md": "066468e729244c312e92c6c923dbe1891113bff9eb7da2a473eb8795901bd3a3",
+    "results/w09_q2/evidence.md": "fffcc5e6ac93389b284de069bca067b6762a75ee0bc0d9c154cd7ee459d1fe66",
+    "W09_RESULTS.md": "42ddfdf5f441e6f5c7fd0feaf5ddcde4b90847be1378ab51bb406b42bdc4b080",
+    "PLAN.md": "985ab350e94b2482cf115a40d26f49062246e2b6a9abb605fb24063d14ba3911",
+    "DECISIONS.md": "c1dcefce550c3cbbeec45fa2d657c446dc0db2ae47c1326a3da3b02baa32086e",
+    "PROGRESS.md": "356638f976fbc224ae8ab48f0bf7ae3eb625c4bde9b212af94331953bf3e2840",
+    "README.md": "40b877ff4a90090c03f2b24b5f43d5ecdea99238eb0646ee6660eea659a41f09",
+    "code/script/generate_report.py": "f3a3dd5ed4ead4a89104972b072cc34d528586ff8157e85d657da95700af926a",
+    "code/script/audit_w09.py": "17e4c9f0e61265a7e2ee3b2fda3ec6eacfb59bf3820364ef8153840efdcdd701",
+    "code/script/analyze_generation.py": "fa144158c7ace402faf1d2d6c5de54b233d89b24527fa6a74f271eb962e887b7",
+    "code/script/configs/w09_generation.json": "62c12161569517a60149aea45e7712fbbb0465e60cf824305c8fccae094c7418",
+    "code/script/configs/w09_prompts.json": "756484fa9a6dd24f569fdf8720863c7eca94283521f6fa5e2d7fdc5cbfdfd4c2",
+    "results/w09_tests_final.log": "fbd9d31ed862e89ec3f118668c5b9a484e1f08d54eab608acd667066328a84d0"
+  }
+}

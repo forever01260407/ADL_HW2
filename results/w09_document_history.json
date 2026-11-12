@@ -1,0 +1,21 @@
+{
+  "summary_sha256": "caf3d352e24f9ff96b78a25a10bed378e1d437115f5e9685daac5c7e702c008e",
+  "mutable_documents": {
+    "PLAN.md": {
+      "sha256": "985ab350e94b2482cf115a40d26f49062246e2b6a9abb605fb24063d14ba3911",
+      "archived_path": "code/script/snapshots/w09_documents/PLAN.md"
+    },
+    "DECISIONS.md": {
+      "sha256": "c1dcefce550c3cbbeec45fa2d657c446dc0db2ae47c1326a3da3b02baa32086e",
+      "archived_path": "code/script/snapshots/w09_documents/DECISIONS.md"
+    },
+    "PROGRESS.md": {
+      "sha256": "356638f976fbc224ae8ab48f0bf7ae3eb625c4bde9b212af94331953bf3e2840",
+      "archived_path": "code/script/snapshots/w09_documents/PROGRESS.md"
+    },
+    "README.md": {
+      "sha256": "40b877ff4a90090c03f2b24b5f43d5ecdea99238eb0646ee6660eea659a41f09",
+      "archived_path": "code/script/snapshots/w09_documents/README.md"
+    }
+  }
+}

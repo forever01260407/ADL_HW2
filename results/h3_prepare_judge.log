@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "small5": {
+      "ranking_path": "results/h2b_d5_b1_top10.json",
+      "ranking_sha256": "93a5b66877663f7312f00578e2c5a937498d0ebdb8fa0a89272a16034b5bde7c",
+      "non_gold_comparisons": 8961,
+      "max_input_tokens": 2285
+    },
+    "base5": {
+      "ranking_path": "results/h3_base5_top10.json",
+      "ranking_sha256": "4c21f0ddf2d011242c08316f94897b955804c78fced1f217eeb61692e57ad325",
+      "non_gold_comparisons": 8932,
+      "max_input_tokens": 2285
+    }
+  },
+  "maximum_full_dev_judge_runs": 2
+}

@@ -1,0 +1,20 @@
+{
+  "audit": "passed",
+  "train_queries": 3864,
+  "candidate_pairs": 7728,
+  "query_coverage_and_reference_verified": true,
+  "source_checkpoint_trained_on_same_train_qids": true,
+  "dev_or_public_mining_queries": 0,
+  "rank_counts": {
+    "5": 3768,
+    "15": 3837,
+    "6": 96,
+    "16": 27
+  },
+  "input_sha256": {
+    "results/h5_negative_candidates.json": "38418a757f885927de3a3939b06565f0abce5653a2d7b3afe191e460ef0bdf2e",
+    "results/h5_train_dense_top100.json": "bdc97e126b1c1db854e39d85d482783389c2c396624db1bbe2d1b5e49d0ceff5",
+    "data/derived/train.jsonl": "82192dcf33f7322cab4a916a82666203b093e878312f184aaa22c4fe9a88967e",
+    "data/train/products.jsonl": "6865b9cb44dc1e1c3d8a38c6f8207b00ddd5b442471db1d2016e1cc8403dee34"
+  }
+}

@@ -1,0 +1,3 @@
+{"step": 1, "loss": 1.02923583984375, "grad_norm_before_clip": 7.708216190338135, "learning_rate": 0.0, "batch_size": 16, "in_batch_negatives_per_query": 15}
+{"step": 4, "loss": 0.7471331357955933, "grad_norm_before_clip": 5.618854522705078, "learning_rate": 6.666666666666667e-06, "batch_size": 16, "in_batch_negatives_per_query": 15}
+{"status": "completed", "mode": "smoke", "optimizer_steps": 4, "training_wall_seconds": 1.1063256730012654, "peak_cuda_allocated_bytes": 4146378752, "offline_reload_max_abs_difference": 0.0}

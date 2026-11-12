@@ -1,0 +1,45 @@
+{
+  "status": "remote_model_verified_pending_user_requested_packaging",
+  "finished_utc": "2026-10-25T13:14:44.208721+00:00",
+  "user_folder_url": "https://drive.google.com/drive/folders/1LiuipB0tRuIcEU2nt9_7q8V1YaaWmaji?usp=sharing",
+  "drive_file_id": "1bC4rxq7mqzrqtbXfgbWAcPKzwktUwsWk",
+  "direct_download_url": "https://drive.usercontent.google.com/download?id=1bC4rxq7mqzrqtbXfgbWAcPKzwktUwsWk&export=download&confirm=t",
+  "remote_validation": {
+    "status": "passed",
+    "url": "https://drive.usercontent.google.com/download?id=1bC4rxq7mqzrqtbXfgbWAcPKzwktUwsWk&export=download&confirm=t",
+    "archive_sha256": "714d7a9be5486de5db8c59a8fba1a9f65d4e868f3c00b668500c20e5d8309768",
+    "archive_bytes": 395347153,
+    "wall_seconds": 19.97228451,
+    "empty_destination": true,
+    "checkpoint_files_verified": 10,
+    "public_runs": 0,
+    "training_runs": 0
+  },
+  "asset_configuration_only_url_changed": true,
+  "original_final_checkpoint_unchanged": true,
+  "current_root_reports_match_reviewed_versions": true,
+  "new_archive_created": false,
+  "old_draft_zip_unchanged": true,
+  "training_runs": 0,
+  "public_runs": 0,
+  "judge_runs": 0,
+  "artifact_sha256": {
+    "download.sh": "8d81dbe0698de6ab5bb5267798b0729598ff3b450a2b0bbd045f1593bef3d53f",
+    "run.sh": "347605181725f76db48edabbe59659617b72509334325e8316941d6491ecd5a4",
+    "requirements.txt": "7b8de86d9e01f6a6087317d4e1d293e9e8e4618e829c36f7426c8294293f58d0",
+    "retrieval_utils.py": "95c2d8ee025ce20412a856afd7d8d9d064999c1984117f90f65b83eed4d16660",
+    "README.md": "e0c3985192db40b1fd8d1c6ed58fd02a75c9c3bed592bc7f7365fab4ab29b760",
+    "report.pdf": "8d81959cb5a7b935a2cf89fde3264564536f8ca19f8ab81a7fce9bdd13907561",
+    "report.md": "16ec879dd39ce5b5a66534465f019cd2a01abb64d84586a18334fef50388fb88",
+    "code/script/configs/release_assets.json": "2900c70dd10ffaa438cb15d84de52702c17215bc51f3ae8721632b3c74df6eae",
+    "code/script/build_submission.py": "c20e84d78b3e68e1032e6a0607f5321dfa266bc0e6b9deecd26b9eff1139f846",
+    "code/script/build_final_report.py": "34feed65090b8317e24e60567376ea4e45bec08deabd160a31f4d01fce6c9cbe",
+    "results/w11_remote_download_validation.json": "95217e9f9ddfbb516ec501bcc2d25c477863747d14bda964d8664e0c1697caa1",
+    "results/w11_editorial_review.json": "5dec98832fecfef736f585f3230ca3023f657fb50aa38aac2feb63ce981d9b75"
+  },
+  "historical_seals_unchanged": true,
+  "remaining": [
+    "final packaging and archive validation when requested",
+    "user submission to NTU COOL"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "default_changed": true,
+  "checkpoint": "artifacts/training/h5_hard_negative/checkpoint",
+  "dense_bm25_weights": [
+    5,
+    1
+  ],
+  "public_runs": 0,
+  "dev_queries": 966,
+  "changed_top50_count": 0,
+  "budget_checks": {
+    "allocator_budget_configured": true,
+    "cuda_allocated_within_budget": true,
+    "cuda_reserved_within_budget": true,
+    "rss_under_32gib": true,
+    "under_one_hour": true,
+    "batch32": true,
+    "no_configuration_overrides": true
+  },
+  "official_hardware_validation": false,
+  "cold_seconds": 175.911587745999,
+  "resources": {
+    "exit_code": 0,
+    "error": null,
+    "entrypoint_wall_seconds": 175.16406102500332,
+    "peak_process_rss_bytes": 2028969984,
+    "peak_cuda_allocated_bytes": 1111927808,
+    "peak_cuda_reserved_bytes": 1407188992,
+    "gpu_name": "NVIDIA GeForce RTX 4090",
+    "gpu_total_memory_bytes": 25756696576,
+    "cuda_allocator_budget_gib": 8.0,
+    "cuda_allocator_fraction": 0.33350296171148247,
+    "versions": {
+      "torch": "2.8.0+cu128",
+      "transformers": "4.56.1",
+      "sentence_transformers": "5.1.0",
+      "numpy": "1.26.4",
+      "faiss": "1.12.0"
+    },
+    "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+    "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35"
+  },
+  "input_sha256": {
+    "retrieval_utils.py": "95c2d8ee025ce20412a856afd7d8d9d064999c1984117f90f65b83eed4d16660",
+    "code/script/snapshots/h4_default/retrieval_utils.py": "048ac8e45bc148f787815e365ce850169c6830716a86622f46afd296403933f6",
+    "code/script/adopt_hard_negative.py": "da15b9054d2a6d8c85883e65d2508c3d9d527eb338427a01baa3df486724011f",
+    "results/h5_tests_selected.log": "4958efe39ac647b322d20c24438fceec40e6920cc0f135c1574c8ac05a6d5f49",
+    "results/h5_promotion_plan.json": "70760c7e12cf990650bac87942a9fe458061983502268051754de753cc04aaf5",
+    "results/h5_default_dev_top50.json": "9d31687dcc2d9d4062fdfe823e82e0554f6cc2dc34cc8b323a70b63457f9820a",
+    "results/h5_default_dev_timing.json": "80b991935148d0c55423471cc1e058380f3c090d8d817d6c03a47691155dc467",
+    "results/h5_quality_final.json": "0e9a2765f9923d462ceca3e6324af289ac69b21537facdcc2a550ff3b95b02bf"
+  }
+}

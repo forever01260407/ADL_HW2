@@ -1,0 +1,17 @@
+{
+  "entrypoint_wall_seconds": 664.1125574359976,
+  "peak_process_rss_bytes": 6584967168,
+  "peak_cuda_allocated_bytes": 4996308480,
+  "peak_cuda_reserved_bytes": 10603200512,
+  "gpu_name": "NVIDIA GeForce RTX 4090",
+  "gpu_total_memory_bytes": 25756696576,
+  "versions": {
+    "torch": "2.8.0+cu128",
+    "transformers": "4.56.1",
+    "numpy": "1.26.4"
+  },
+  "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+  "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "exit_code": 0,
+  "error": null
+}

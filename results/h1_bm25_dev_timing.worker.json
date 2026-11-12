@@ -1,0 +1,15 @@
+{
+  "entrypoint_wall_seconds": 9.433169747999955,
+  "peak_process_rss_bytes": 443670528,
+  "peak_cuda_allocated_bytes": null,
+  "peak_cuda_reserved_bytes": null,
+  "gpu_name": null,
+  "gpu_total_memory_bytes": null,
+  "versions": {
+    "numpy": "1.26.4"
+  },
+  "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+  "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "exit_code": 0,
+  "error": null
+}

@@ -1,0 +1,971 @@
+{
+  "shared_non_gold_pairs": 4361,
+  "shared_pair_gain_changes": 48,
+  "changes": [
+    {
+      "qid": "public-test-beauty-000006",
+      "pid": "B097J28TMZ",
+      "small1": {
+        "rank": 5,
+        "pid": "B097J28TMZ",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 6,
+        "pid": "B097J28TMZ",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000029",
+      "pid": "B09TW736H6",
+      "small1": {
+        "rank": 7,
+        "pid": "B09TW736H6",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 10,
+        "pid": "B09TW736H6",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000032",
+      "pid": "B016D8SH48",
+      "small1": {
+        "rank": 1,
+        "pid": "B016D8SH48",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 1,
+        "pid": "B016D8SH48",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000036",
+      "pid": "B0BR4TG2KK",
+      "small1": {
+        "rank": 6,
+        "pid": "B0BR4TG2KK",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 8,
+        "pid": "B0BR4TG2KK",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000086",
+      "pid": "B086RYRKMB",
+      "small1": {
+        "rank": 4,
+        "pid": "B086RYRKMB",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 10,
+        "pid": "B086RYRKMB",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000102",
+      "pid": "B07MM625RD",
+      "small1": {
+        "rank": 9,
+        "pid": "B07MM625RD",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 5,
+        "pid": "B07MM625RD",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000113",
+      "pid": "B082JJ4D98",
+      "small1": {
+        "rank": 3,
+        "pid": "B082JJ4D98",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B082JJ4D98",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000135",
+      "pid": "B0C2RYDDBW",
+      "small1": {
+        "rank": 2,
+        "pid": "B0C2RYDDBW",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 8,
+        "pid": "B0C2RYDDBW",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000149",
+      "pid": "B09F9W26YZ",
+      "small1": {
+        "rank": 1,
+        "pid": "B09F9W26YZ",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B09F9W26YZ",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-beauty-000177",
+      "pid": "B0C9W1R9PJ",
+      "small1": {
+        "rank": 5,
+        "pid": "B0C9W1R9PJ",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B0C9W1R9PJ",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000047",
+      "pid": "B09BKX8D56",
+      "small1": {
+        "rank": 3,
+        "pid": "B09BKX8D56",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B09BKX8D56",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000064",
+      "pid": "B08TK636C3",
+      "small1": {
+        "rank": 8,
+        "pid": "B08TK636C3",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B08TK636C3",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000115",
+      "pid": "B014CZB9NA",
+      "small1": {
+        "rank": 2,
+        "pid": "B014CZB9NA",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B014CZB9NA",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000184",
+      "pid": "B01HAN8R8G",
+      "small1": {
+        "rank": 2,
+        "pid": "B01HAN8R8G",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 5,
+        "pid": "B01HAN8R8G",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-home-and-kitchen-000193",
+      "pid": "B0BHP51CPK",
+      "small1": {
+        "rank": 6,
+        "pid": "B0BHP51CPK",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B0BHP51CPK",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000033",
+      "pid": "B0BKGK9W2L",
+      "small1": {
+        "rank": 7,
+        "pid": "B0BKGK9W2L",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B0BKGK9W2L",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000043",
+      "pid": "B07H7WGZ6D",
+      "small1": {
+        "rank": 2,
+        "pid": "B07H7WGZ6D",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B07H7WGZ6D",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000071",
+      "pid": "B08TYLDWV6",
+      "small1": {
+        "rank": 10,
+        "pid": "B08TYLDWV6",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B08TYLDWV6",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000090",
+      "pid": "B09DVR36YN",
+      "small1": {
+        "rank": 2,
+        "pid": "B09DVR36YN",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B09DVR36YN",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000090",
+      "pid": "B0BB6P8H65",
+      "small1": {
+        "rank": 8,
+        "pid": "B0BB6P8H65",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 10,
+        "pid": "B0BB6P8H65",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000103",
+      "pid": "B07BLXW9N8",
+      "small1": {
+        "rank": 8,
+        "pid": "B07BLXW9N8",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 9,
+        "pid": "B07BLXW9N8",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000133",
+      "pid": "B002RM1882",
+      "small1": {
+        "rank": 2,
+        "pid": "B002RM1882",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B002RM1882",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000133",
+      "pid": "B09MSYY253",
+      "small1": {
+        "rank": 9,
+        "pid": "B09MSYY253",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 5,
+        "pid": "B09MSYY253",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000133",
+      "pid": "B09QGS53BV",
+      "small1": {
+        "rank": 7,
+        "pid": "B09QGS53BV",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 9,
+        "pid": "B09QGS53BV",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000152",
+      "pid": "B000MLIZ22",
+      "small1": {
+        "rank": 7,
+        "pid": "B000MLIZ22",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B000MLIZ22",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000152",
+      "pid": "B0BRSGWRC9",
+      "small1": {
+        "rank": 2,
+        "pid": "B0BRSGWRC9",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 6,
+        "pid": "B0BRSGWRC9",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-pet-supplies-000195",
+      "pid": "B008158XP0",
+      "small1": {
+        "rank": 2,
+        "pid": "B008158XP0",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 1,
+        "pid": "B008158XP0",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000004",
+      "pid": "B003KZKDZ4",
+      "small1": {
+        "rank": 7,
+        "pid": "B003KZKDZ4",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 6,
+        "pid": "B003KZKDZ4",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000042",
+      "pid": "B086MRM73N",
+      "small1": {
+        "rank": 1,
+        "pid": "B086MRM73N",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 1,
+        "pid": "B086MRM73N",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000055",
+      "pid": "B0035ELWS2",
+      "small1": {
+        "rank": 4,
+        "pid": "B0035ELWS2",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 1,
+        "pid": "B0035ELWS2",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000112",
+      "pid": "B00C6OUDX2",
+      "small1": {
+        "rank": 2,
+        "pid": "B00C6OUDX2",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B00C6OUDX2",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000113",
+      "pid": "B07NGRTXK8",
+      "small1": {
+        "rank": 2,
+        "pid": "B07NGRTXK8",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B07NGRTXK8",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000137",
+      "pid": "B081DPQT7V",
+      "small1": {
+        "rank": 4,
+        "pid": "B081DPQT7V",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B081DPQT7V",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000139",
+      "pid": "B0C2JJTR7T",
+      "small1": {
+        "rank": 2,
+        "pid": "B0C2JJTR7T",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B0C2JJTR7T",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000145",
+      "pid": "B0B9PCMWJM",
+      "small1": {
+        "rank": 5,
+        "pid": "B0B9PCMWJM",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B0B9PCMWJM",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000179",
+      "pid": "B01N5V4SBY",
+      "small1": {
+        "rank": 9,
+        "pid": "B01N5V4SBY",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B01N5V4SBY",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000179",
+      "pid": "B07GFCRMVG",
+      "small1": {
+        "rank": 5,
+        "pid": "B07GFCRMVG",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 10,
+        "pid": "B07GFCRMVG",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000179",
+      "pid": "B0BQM4X5G3",
+      "small1": {
+        "rank": 3,
+        "pid": "B0BQM4X5G3",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 6,
+        "pid": "B0BQM4X5G3",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000179",
+      "pid": "B0C6BDRD2H",
+      "small1": {
+        "rank": 2,
+        "pid": "B0C6BDRD2H",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 5,
+        "pid": "B0C6BDRD2H",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000188",
+      "pid": "B004O0FQTM",
+      "small1": {
+        "rank": 10,
+        "pid": "B004O0FQTM",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B004O0FQTM",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000197",
+      "pid": "B0C6CXZS4K",
+      "small1": {
+        "rank": 9,
+        "pid": "B0C6CXZS4K",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 4,
+        "pid": "B0C6CXZS4K",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-sports-and-outdoors-000200",
+      "pid": "B07Z8L22SG",
+      "small1": {
+        "rank": 2,
+        "pid": "B07Z8L22SG",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B07Z8L22SG",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-toys-and-games-000068",
+      "pid": "B0070B5534",
+      "small1": {
+        "rank": 5,
+        "pid": "B0070B5534",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B0070B5534",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-toys-and-games-000077",
+      "pid": "B08CF2JNST",
+      "small1": {
+        "rank": 6,
+        "pid": "B08CF2JNST",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 5,
+        "pid": "B08CF2JNST",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-toys-and-games-000116",
+      "pid": "B07KG7X48H",
+      "small1": {
+        "rank": 3,
+        "pid": "B07KG7X48H",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B07KG7X48H",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-toys-and-games-000137",
+      "pid": "B07ZR211K1",
+      "small1": {
+        "rank": 3,
+        "pid": "B07ZR211K1",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B07ZR211K1",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "public-test-toys-and-games-000158",
+      "pid": "B0187JDC6O",
+      "small1": {
+        "rank": 3,
+        "pid": "B0187JDC6O",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 2,
+        "pid": "B0187JDC6O",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "public-test-toys-and-games-000158",
+      "pid": "B07DFCXD1H",
+      "small1": {
+        "rank": 2,
+        "pid": "B07DFCXD1H",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "base5": {
+        "rank": 3,
+        "pid": "B07DFCXD1H",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    }
+  ],
+  "note": "Both original one-shot outputs preserved; cause of shared-pair changes not isolated. No judgment cherry-picking or rerun.",
+  "input_sha256": {
+    "results/w10_w08_public_graded.json": "5008737fc503fda3a0556650fadeca1c2814389b7ec803e205aa2780f8e69a23",
+    "results/h4_base5_public_graded.json": "2af60f00169e5847dd44dcd2b4619654cc0e3eaf9f60cfe5e0786bc72de7d008"
+  }
+}

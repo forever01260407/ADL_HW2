@@ -1,0 +1,34 @@
+{
+  "status": "local_public_scoring_complete; official_hardware_validation_pending",
+  "public_metrics": {
+    "queries": 1000,
+    "graded_recall@10": 0.902,
+    "graded_mrr@10": 0.7043484126984128
+  },
+  "public_course_points_estimate": 6,
+  "public_available_course_points": 8,
+  "private_grade_known": false,
+  "report_grade_known": false,
+  "overall_grade_known": false,
+  "official_hardware_validation": false,
+  "tests_passed": 59,
+  "public_judge_runs": 1,
+  "model_unchanged": true,
+  "model_decision": "retain_w08_hybrid; no larger-model experiment started; prioritize official environment and report/package",
+  "public_feedback_seen": true,
+  "artifacts_sha256": {
+    "W10_RESULTS.md": "28986916f82b19ccab19c84530e720bf0707564953400188f56211ad4f24368a",
+    "results/w10_summary.json": "276b9fd41a6dd279f260c0af69112b17eb787d789fdbae30b9087a391d254622",
+    "results/w10_frozen_plan.json": "2f80a8a20391715a90bb87c2b698414a252b9563dd6fed59a4a173b4d6450f7f",
+    "results/w10_judge_plan.json": "3437fc08709e2b5f48d6e16008acfe5554a9b93bbc0e6c0a24ac30287d1d3bc3",
+    "results/w10_tests.log": "019b38244a0ace4fa35b3fb3e68e4fdea24a1ce74915fef9c9d15c6b2f4e8fc8",
+    "results/w10_w08_public_gold.json": "26b9d32f26784c1dd6c383e8ec4e054113666c3b3f6fd61771fb511fed57b26f",
+    "results/w10_w08_public_top50.json": "dbcfed35a431c582ad3c64dafba717b06b38fd73acee43f230b3060e7629aff7",
+    "results/w10_w08_public_top10.json": "13efba0df0ac7622db0b93e100149dc745d0b7c169e9315a13acf12328944431",
+    "results/w10_w08_public_timing.json": "9c1323ea8456a6074ce5459ab57ba946a30283b722c8b745c870047d4d12eafb",
+    "results/w10_w08_public_graded.json": "5008737fc503fda3a0556650fadeca1c2814389b7ec803e205aa2780f8e69a23",
+    "results/w10_w08_public_judge_timing.json": "9e1150775173816f64c7e039bfbc16086a0fa332c0b7684176e1d733731fdbd4",
+    "code/script/audit_w10.py": "28baa77b39cf2c5ebd48935750c0266a9ea9d729f48ba8fee7297e2895af606f",
+    "code/script/tests/test_grading.py": "680daba2c4a6574ecbeaf42ec24c2e1a7fbc08db129fa45f81cdddd176a5f9fa"
+  }
+}

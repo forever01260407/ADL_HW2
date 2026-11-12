@@ -1,0 +1,72 @@
+{
+  "status": "frozen_h5_public_confirmation_complete_boss_both",
+  "finished_utc": "2026-10-25T02:52:43.144429+00:00",
+  "metrics": {
+    "queries": 1000,
+    "graded_recall@10": 0.952,
+    "graded_mrr@10": 0.8024043650793651
+  },
+  "boss_recall_threshold": 0.95,
+  "boss_mrr_threshold": 0.8,
+  "boss_both_passed": true,
+  "public_course_percentage_points_estimate": 8,
+  "public_queries": 1000,
+  "candidate_products": 75000,
+  "public_retrieval_runs": 1,
+  "public_judge_runs": 1,
+  "training_runs": 0,
+  "mining_runs": 0,
+  "default_changed": false,
+  "public_tuning_or_selection": false,
+  "w11_started": false,
+  "official_hardware_validation": false,
+  "public_previously_seen": true,
+  "historical_h5_seal_verified": true,
+  "historical_h5_seal_sha256": "59feff0179460e9f697a21058a9530d2432488311f8e6123cb6b6ba5c8191363",
+  "retrieval_budget_checks": {
+    "allocator_budget_configured": true,
+    "cuda_allocated_within_budget": true,
+    "cuda_reserved_within_budget": true,
+    "rss_under_32gib": true,
+    "under_one_hour": true,
+    "batch32": true,
+    "no_configuration_overrides": true
+  },
+  "artifact_sha256": {
+    "H6_RESULTS.md": "3a473eb3e6429aba501e2e0d155b2b62317ae9a5a954934052b363e9c87a9648",
+    "code/script/confirm_h5_public.py": "e5fce8fbe7e7ff65a6b1f2c45c715e7560e1a91740adc283ef38adf7abec29aa",
+    "results/h6_frozen_plan.json": "85b412ec99cd87a016276070d249fcc5be7a2882a51ce202b9a4785438fca30c",
+    "results/h6_h5_public_gold.json": "b9a14b6731bfb2fb94968f82220bedf81d2b45101daa8c9a982335062363504e",
+    "results/h6_h5_public_graded.json": "705733327051e015a93cb2b54e1918858c21363aaa845bd02e278a7a2828d73a",
+    "results/h6_h5_public_judge_timing.json": "5f2c7cfd36b1fbf7f0b3349c3719d600fc684fa434f4c8d5ecaeb881f9377667",
+    "results/h6_h5_public_judge_timing.log": "0adc04016fcecd9be16dfe8996572ab83b61dcb66353b19dec716e68df89db4b",
+    "results/h6_h5_public_judge_timing.worker.json": "a5baf259027c5133aefd4e088cb3b46daee32ad1c8e44dd54a96edeaafd90c47",
+    "results/h6_h5_public_timing.json": "9055567b99a455229a59b4f27f29a751434eb1cca355b39abb25b90b9016257f",
+    "results/h6_h5_public_timing.log": "43eff00a42745ae43c0e1567ef87c03953d1194fb147b725c60d93dd6c83819a",
+    "results/h6_h5_public_timing.worker.json": "6564d31adecdb05f9a9f27ed6ed09ba94f9c829ad5153e7c9b4a2bf0c010cf6a",
+    "results/h6_h5_public_top10.json": "fc95327d4a6d4b33834d021b880f173ae90822c0657592c2cc5d1851611fdf25",
+    "results/h6_h5_public_top50.json": "d91e7dbc0ed0095321fa696d7b96dfce15c53dc258d321e349357bb2b815f727",
+    "results/h6_judge_plan.json": "12bf3cd3943537a148fced14123d0facdc21cedcbf26ef07ddde5ba24b66e7ba",
+    "results/h6_summary.json": "d38a6a6098e8998de5d4025e0b9e386a16bec75fb9c8016e603ec9fd4c40529a",
+    "results/h6_tests_analysis.log": "a8f4d5048fc0a13ec7c50055fcd3992152631bf6453c7018544f22a2e122deca",
+    "results/h6_tests_grading.log": "6273232de4d3ef7acd4ecafa5c86beeeb974f56586b21089a2990b3f72facbe6",
+    "results/h6_tests_measurement.log": "53b77ed73b881186e0f76e3a51bce55b2d9b1423f4fc18759eb12e7a5b519b65"
+  },
+  "checkpoint_sha256": {
+    "artifacts/training/h5_hard_negative/checkpoint/1_Pooling/config.json": "2b1d283d4e7e9a64eef827933051d26478d271766eb234c76012f9012cd97907",
+    "artifacts/training/h5_hard_negative/checkpoint/config.json": "c7d0a7580e015e98305702068ffde8b36e54be9e862c3d4a379046181ace48f4",
+    "artifacts/training/h5_hard_negative/checkpoint/config_sentence_transformers.json": "4f23dd77608eabbd1915a1d4562f2582aaadf5884f587d574f2529ce91ff0f5b",
+    "artifacts/training/h5_hard_negative/checkpoint/model.safetensors": "61885419cc42c473335c10b81fed396eec15df4947b805b35a1eda3cd5e50b56",
+    "artifacts/training/h5_hard_negative/checkpoint/modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+    "artifacts/training/h5_hard_negative/checkpoint/sentence_bert_config.json": "65c2293c310f5476a8d1cbada277722c3e7ae5b5ddbaa2d2fe5d075f410d6d02",
+    "artifacts/training/h5_hard_negative/checkpoint/special_tokens_map.json": "5d5b662e421ea9fac075174bb0688ee0d9431699900b90662acd44b2a350503a",
+    "artifacts/training/h5_hard_negative/checkpoint/tokenizer.json": "91f1def9b9391fdabe028cd3f3fcc4efd34e5d1f08c3bf2de513ebb5911a1854",
+    "artifacts/training/h5_hard_negative/checkpoint/tokenizer_config.json": "479a5afc56069a77cc24c74a1943501275664e8d493e215f5716a81ebc0e86db",
+    "artifacts/training/h5_hard_negative/checkpoint/vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3"
+  },
+  "mutable_document_references": [
+    "PLAN.md",
+    "DECISIONS.md",
+    "PROGRESS.md"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "audit": "passed",
+  "metrics": {
+    "dense": {
+      "queries": 966,
+      "graded_recall@10": 0.6521739130434783,
+      "graded_mrr@10": 0.39644582470669426
+    },
+    "bm25": {
+      "queries": 966,
+      "graded_recall@10": 0.650103519668737,
+      "graded_mrr@10": 0.4508869006539814
+    },
+    "hybrid": {
+      "queries": 966,
+      "graded_recall@10": 0.7391304347826086,
+      "graded_mrr@10": 0.46578017680502154
+    }
+  },
+  "paired_changes": {
+    "bm25": {
+      "graded_recall@10": {
+        "mean_difference": -0.002070393374741201,
+        "improved_queries": 142,
+        "worsened_queries": 144,
+        "unchanged_queries": 680
+      },
+      "graded_mrr@10": {
+        "mean_difference": 0.05444107594728713,
+        "improved_queries": 315,
+        "worsened_queries": 263,
+        "unchanged_queries": 388
+      }
+    },
+    "hybrid": {
+      "graded_recall@10": {
+        "mean_difference": 0.08695652173913043,
+        "improved_queries": 132,
+        "worsened_queries": 48,
+        "unchanged_queries": 786
+      },
+      "graded_mrr@10": {
+        "mean_difference": 0.06933435209832725,
+        "improved_queries": 336,
+        "worsened_queries": 166,
+        "unchanged_queries": 464
+      }
+    }
+  },
+  "selected_variant": "hybrid",
+  "selected_default_verified": true
+}

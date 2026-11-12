@@ -1,0 +1,6 @@
+{"stage": "base", "step": 1, "loss": 0.7907232046127319, "batch_size": 16, "learning_rate": 0.0, "own_verified_negatives": 0, "grad_norm_before_clip": 8.78421401977539}
+{"stage": "base", "step": 4, "loss": 0.37845325469970703, "batch_size": 16, "learning_rate": 6.666666666666667e-06, "own_verified_negatives": 0, "grad_norm_before_clip": 4.918787479400635}
+{"status": "completed", "stage": "base", "train_count": 16, "optimizer_steps": 4, "training_wall_seconds": 1.6672483349975664, "peak_cuda_allocated_bytes": 2542147072, "peak_cuda_reserved_bytes": 3087007744, "trained_own_negative_exposures": 0}
+{"stage": "hard", "step": 1, "loss": 0.6171233654022217, "batch_size": 16, "learning_rate": 0.0, "own_verified_negatives": 16, "grad_norm_before_clip": 6.211441993713379}
+{"stage": "hard", "step": 4, "loss": 0.5971046686172485, "batch_size": 16, "learning_rate": 1.6666666666666667e-06, "own_verified_negatives": 16, "grad_norm_before_clip": 6.233606815338135}
+{"status": "completed", "stage": "hard", "train_count": 16, "optimizer_steps": 4, "training_wall_seconds": 2.3992734089988517, "peak_cuda_allocated_bytes": 2967137792, "peak_cuda_reserved_bytes": 3258974208, "trained_own_negative_exposures": 64}

@@ -1,0 +1,27 @@
+{"teacher_pairs_completed": 8, "total": 7728, "strict_negative_pairs": 8}
+{"teacher_pairs_completed": 400, "total": 7728, "strict_negative_pairs": 350}
+{"teacher_pairs_completed": 800, "total": 7728, "strict_negative_pairs": 699}
+{"teacher_pairs_completed": 1200, "total": 7728, "strict_negative_pairs": 1062}
+{"teacher_pairs_completed": 1600, "total": 7728, "strict_negative_pairs": 1421}
+{"teacher_pairs_completed": 2000, "total": 7728, "strict_negative_pairs": 1771}
+{"teacher_pairs_completed": 2400, "total": 7728, "strict_negative_pairs": 2139}
+{"teacher_pairs_completed": 2800, "total": 7728, "strict_negative_pairs": 2486}
+{"teacher_pairs_completed": 3200, "total": 7728, "strict_negative_pairs": 2846}
+{"teacher_pairs_completed": 3600, "total": 7728, "strict_negative_pairs": 3220}
+{"teacher_pairs_completed": 4000, "total": 7728, "strict_negative_pairs": 3597}
+{"teacher_pairs_completed": 4400, "total": 7728, "strict_negative_pairs": 3980}
+{"teacher_pairs_completed": 4800, "total": 7728, "strict_negative_pairs": 4366}
+{"teacher_pairs_completed": 5200, "total": 7728, "strict_negative_pairs": 4743}
+{"teacher_pairs_completed": 5600, "total": 7728, "strict_negative_pairs": 5107}
+{"teacher_pairs_completed": 6000, "total": 7728, "strict_negative_pairs": 5484}
+{"teacher_pairs_completed": 6400, "total": 7728, "strict_negative_pairs": 5859}
+{"teacher_pairs_completed": 6800, "total": 7728, "strict_negative_pairs": 6224}
+{"teacher_pairs_completed": 7200, "total": 7728, "strict_negative_pairs": 6599}
+{"teacher_pairs_completed": 7600, "total": 7728, "strict_negative_pairs": 6975}
+{"teacher_pairs_completed": 7728, "total": 7728, "strict_negative_pairs": 7100}
+{
+  "verified_negative_queries": 3796,
+  "without_verified_negative_queries": 68,
+  "parse_failures": 0,
+  "teacher_seconds": 513.7373175699977
+}

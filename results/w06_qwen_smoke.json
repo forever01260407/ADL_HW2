@@ -1,0 +1,226 @@
+{
+  "kind": "official_judge_compatibility_smoke_not_quality_benchmark",
+  "model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+  },
+  "judge_prompt_tokens": {
+    "count": 954,
+    "min": 358,
+    "max": 1868,
+    "p50": 1021.5,
+    "p95": 1571.6999999999998,
+    "over_limit": 0,
+    "limit": 32756
+  },
+  "settings": {
+    "batch_size": 8,
+    "max_new_tokens": 12,
+    "dtype": "bfloat16",
+    "do_sample": false,
+    "truncation": false
+  },
+  "input_sha256": {
+    "data/derived/dev_fast.jsonl": "6b1719affe263c741d656a1b979b3deb62b11a3a01e652255d5df8e1ffd8f52b",
+    "results/w06_b0_dev_fast_top10.json": "d0386fd2d5aaa840bb1ba07c53bf05d627ca0a0fa1f9a9c3f62d78ea6b9cb0bb"
+  },
+  "original_evaluate_sha256": "0f640c6b126594d75d39baa1c3b7447185fda9010a5e8486a88e29198b23acbf",
+  "status": "passed",
+  "batches": {
+    "first_eight": {
+      "input_lengths": [
+        1497,
+        1034,
+        1137,
+        1306,
+        1329,
+        1159,
+        1419,
+        1058
+      ],
+      "parse_failures": 0,
+      "raw_decisions": [
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 2,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B0BTSDSPXP",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 3,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B08GDFT6Y7",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 4,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B0CB4X7L6Y",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 5,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B01CHKH990",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 6,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B0BTSJZ21V",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 7,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B0BTSBXK4K",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 8,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B07PRDC4TQ",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-pet-supplies-000140",
+          "rank": 9,
+          "gold_pid": "B07GPX2F5S",
+          "candidate_pid": "B0BTSDVFCH",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    },
+    "eight_longest_prompts": {
+      "input_lengths": [
+        1868,
+        1850,
+        1847,
+        1821,
+        1814,
+        1807,
+        1807,
+        1804
+      ],
+      "parse_failures": 0,
+      "raw_decisions": [
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000143",
+          "rank": 3,
+          "gold_pid": "B003JTA3LA",
+          "candidate_pid": "B09V5CH8CR",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000423",
+          "rank": 3,
+          "gold_pid": "B0B4C95WCL",
+          "candidate_pid": "B09J3DHWYK",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000373",
+          "rank": 6,
+          "gold_pid": "B077TXZ34T",
+          "candidate_pid": "B07FM39LNB",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000373",
+          "rank": 2,
+          "gold_pid": "B077TXZ34T",
+          "candidate_pid": "B07D9W245F",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000143",
+          "rank": 2,
+          "gold_pid": "B003JTA3LA",
+          "candidate_pid": "B006O0Y84Y",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000373",
+          "rank": 7,
+          "gold_pid": "B077TXZ34T",
+          "candidate_pid": "B007QG6ZGE",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000373",
+          "rank": 10,
+          "gold_pid": "B077TXZ34T",
+          "candidate_pid": "B0716Q48DF",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        },
+        {
+          "model": "/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/Qwen2.5-1.5B-Instruct",
+          "qid": "train-sports-and-outdoors-000423",
+          "rank": 1,
+          "gold_pid": "B0B4C95WCL",
+          "candidate_pid": "B08PNCM5JL",
+          "relevant": false,
+          "parse_ok": true,
+          "raw_output": "{\"relevant\": false}"
+        }
+      ]
+    }
+  },
+  "elapsed_seconds_including_model_load": 14.040916480000078,
+  "peak_cuda_allocated_bytes": 4575377408,
+  "peak_cuda_reserved_bytes": 5532286976,
+  "gpu_name": "NVIDIA GeForce RTX 4090"
+}

@@ -1,0 +1,74 @@
+test_alternatives_differ_from_gold_only (test_analysis.AnalysisTests.test_alternatives_differ_from_gold_only) ... ok
+test_audit_uses_saved_raw_decisions_and_detects_tampering (test_analysis.AnalysisTests.test_audit_uses_saved_raw_decisions_and_detects_tampering) ... ok
+test_gold_miss_and_rank_cutoffs (test_analysis.AnalysisTests.test_gold_miss_and_rank_cutoffs) ... ok
+test_prefix_changes_and_invalid_coverage (test_analysis.AnalysisTests.test_prefix_changes_and_invalid_coverage) ... ok
+test_token_budget_boundary (test_analysis.AnalysisTests.test_token_budget_boundary) ... ok
+test_bm25_against_independent_formula_and_pool_changes (test_hybrid.HybridTests.test_bm25_against_independent_formula_and_pool_changes) ... bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_tf=unique lexical_s=0.001
+bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+bm25: products=4 queries=1 terms=5 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+bm25: products=4 queries=1 terms=4 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+ok
+test_candidate_floor_small_pool_and_invalid_modes (test_hybrid.HybridTests.test_candidate_floor_small_pool_and_invalid_modes) ... bm25: products=3 queries=1 terms=3 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+retrieval: products=3 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False dense_s=0.073 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.073
+ok
+test_decimals_models_negation_and_description_tail (test_hybrid.HybridTests.test_decimals_models_negation_and_description_tail) ... bm25: products=3 queries=1 terms=9 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+bm25: products=3 queries=1 terms=9 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+bm25: products=3 queries=1 terms=9 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+ok
+test_rrf_formula_union_and_unique_pids (test_hybrid.HybridTests.test_rrf_formula_union_and_unique_pids) ... bm25: products=4 queries=1 terms=3 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+retrieval: products=4 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False dense_s=0.028 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.028
+ok
+test_zero_lexical_matches_preserve_dense_order_and_boundary_ties (test_hybrid.HybridTests.test_zero_lexical_matches_preserve_dense_order_and_boundary_ties) ... bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False dense_s=0.032 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.033
+bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+retrieval: products=105 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=hybrid rerank=False dense_s=0.030 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.030
+bm25: products=105 queries=1 terms=1 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+bm25: products=2 queries=1 terms=0 k1=1.5 b=0.75 query_tf=unique lexical_s=0.000
+ok
+test_candidate_floor_pool_cap_and_topk (test_reranking.RerankingTests.test_candidate_floor_pool_cap_and_topk) ... rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=3 pairs=3 batch=4 truncated_queries=0 rerank_s=0.099
+retrieval: products=3 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True dense_s=0.028 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.127
+rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=4 pairs=4 batch=4 truncated_queries=0 rerank_s=0.032
+retrieval: products=5 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True dense_s=0.031 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.063
+ok
+test_nonfinite_scores_and_bad_configuration_fail (test_reranking.RerankingTests.test_nonfinite_scores_and_bad_configuration_fail) ... ok
+test_only_candidates_and_cross_query_batch_mapping (test_reranking.RerankingTests.test_only_candidates_and_cross_query_batch_mapping) ... rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=3 pairs=6 batch=4 truncated_queries=0 rerank_s=0.036
+retrieval: products=4 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True dense_s=0.029 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.066
+ok
+test_ties_preserve_dense_order_not_pid_order (test_reranking.RerankingTests.test_ties_preserve_dense_order_not_pid_order) ... rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=3 pairs=3 batch=4 truncated_queries=0 rerank_s=0.034
+retrieval: products=3 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True dense_s=0.072 truncated_queries=0 load_and_products_s=0.003 total_function_s=0.106
+ok
+test_token_budget_preserves_last_correction_and_raw_roles (test_reranking.RerankingTests.test_token_budget_preserves_last_correction_and_raw_roles) ... rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=2 pairs=2 batch=4 truncated_queries=1 rerank_s=0.038
+retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True dense_s=0.031 truncated_queries=1 load_and_products_s=0.002 total_function_s=0.078
+rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL candidates=2 pairs=2 batch=4 truncated_queries=0 rerank_s=0.042
+retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=True dense_s=0.034 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.076
+ok
+test_bad_inputs_and_empty_queries (test_retrieval.ContractTests.test_bad_inputs_and_empty_queries) ... ok
+test_labels_are_ignored_and_topk_respected (test_retrieval.ContractTests.test_labels_are_ignored_and_topk_respected) ... retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False dense_s=0.030 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.030
+ok
+test_long_query_preserves_start_and_final_negation (test_retrieval.DialogueTests.test_long_query_preserves_start_and_final_negation) ... retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False dense_s=0.029 truncated_queries=1 load_and_products_s=0.001 total_function_s=0.029
+ok
+test_short_role_transcripts_unchanged_and_isolated (test_retrieval.DialogueTests.test_short_role_transcripts_unchanged_and_isolated) ... retrieval: products=12 queries=8 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False dense_s=0.029 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.029
+ok
+test_boundary_ties_order_and_pool_mutation (test_retrieval.IndexTests.test_boundary_ties_order_and_pool_mutation) ... retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False dense_s=0.028 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.028
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False dense_s=0.029 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.029
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=dense rerank=False dense_s=0.002 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.002
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=dense rerank=False dense_s=0.002 truncated_queries=0 load_and_products_s=0.002 total_function_s=0.002
+ok
+test_exact_oracle_and_mapping (test_retrieval.IndexTests.test_exact_oracle_and_mapping) ... retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss retriever=dense rerank=False dense_s=0.029 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.029
+retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy retriever=dense rerank=False dense_s=0.001 truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+ok
+test_nonfinite_or_zero_vectors_fail (test_retrieval.IndexTests.test_nonfinite_or_zero_vectors_fail) ... ok
+test_balanced_sample_and_label_free_q2 (test_splits.SplitTests.test_balanced_sample_and_label_free_q2) ... ok
+test_real_split_invariants (test_splits.SplitTests.test_real_split_invariants) ... ok
+test_roles_order_and_negation_are_distinct (test_splits.SplitTests.test_roles_order_and_negation_are_distinct) ... ok
+test_transitive_union_and_input_order (test_splits.SplitTests.test_transitive_union_and_input_order) ... ok
+test_validation (test_splits.SplitTests.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 3.486s
+
+OK

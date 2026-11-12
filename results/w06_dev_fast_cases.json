@@ -1,0 +1,189 @@
+{
+  "selection": "first 3 graded failures and first 1 graded hit without gold, in saved dev-fast order; descriptive only",
+  "examples": [
+    {
+      "qid": "beauty-train-003071",
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I really liked that nail stamper I got earlier and the peppermint oil, but I'm kinda unsure what to look at next."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Are you thinking of expanding your nail art or more into essential oils?"
+        },
+        {
+          "role": "user",
+          "content": "Maybe more nail art? I'm not totally sure what's out there though."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! Do you prefer full nail patterns or just small accent designs?"
+        },
+        {
+          "role": "user",
+          "content": "I think full nail patterns sound fun, but I'm open to ideas."
+        }
+      ],
+      "graded_recall": 0.0,
+      "gold_rank": null,
+      "gold_product": {
+        "parent_asin": "B004XJNQXW",
+        "title": "Bundle Monster Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit 25pc",
+        "description": "Category: Beauty Description: This set includes Bundle Monster's Nail Stamping Plate Collection, officially released in 2011. This 25 piece nail art image plates include plates BM201 to BM225 and features 6 designs on each plate totaling to 150 designs. This particular set focuses more on the full nail patterns and french nail designs - AND our full nail design have gotten BIGGER since our first nail plate set, measuring at 1.6cm x 1.3cm. Designs are made to fit on most nail beds. All designs featured in this set is NOT reduplicated in any of our other nail plate sets. Use this variety pack to have fun working on your nails or give them away as fabulous gifts to families and friends. PACKAGE CONTENT: 25 Nail Art Image Plates *ONLY*. SCRAPER AND STAMPER are not included and must be purchased in order to use plates properly. PLATE SPECS: Plate Dimension: 5.5cm in Diameter. Make and Finish: Made of Stainless Steel and has a shiny, glossy finish with a \"Bundle Monster\" paper backing. **INSTRUCTIONS FOR NAIL STAMPING: 1. Apply polish on image plate design. 2. Using the scraper, scrape off the excessive nail polish. 3. Stamp the image in rolling motion. 4. Stamp design on nail smoothly. Done ! ***NOTE: Before use, peel off the tight, protective, blue plastic on top of each plate. All image designs featured in this set are authentically created and designed in-house by Bundle Monster EXCUSIVELY. Each design is protected by copyright laws.*** Bundle Monster is a registered trademark of Remy Collections LLC and is exclusively distributed by Bundle Monster. Bundle Monster trademark is protected by Trademark Law."
+      },
+      "top3": [
+        {
+          "pid": "B0082XRJXS",
+          "title": "NEW 2012 Cheeky Set of 26 Nail Art Nailart Polish Stamp Stamping Manicure Image Plates Accessories Set Kit With Total of 161 Nail Art Designs.",
+          "description": "Category: Beauty Description: New Designs Nail Art Stamper Image PlateThese Cheeky stamping plates are fabulous and make a perfect addition to any nail art collection.The results are an eye catching, detailed and crisp nail design which is probably impossible to implement in free hand or any other nail art technique.Helpful Hints:-Make sure you remove the protective plastic cover from the front of the plates before attempting to use.Wet a cotton ball w/ pure acetone and hold it with tweezers in order to avoid ruining the designs on your nails.Use the acetone soaked cotton ball to wipe nail polish off of the plates and stamper.The plate should be dry before applying more polish. Use a thick highly pigmented polish for stamping. Work fast!If you take too long the polish will dry on the plate or stamper and you will not get it to transfer.If you are working fast and the polish does not transfer try another type of polish, some polished are extra quick drying.Be gentle when you apply top coat or you may smear your design.Becoming an official \"Cheeky Chick\"Cheeky is a lady's best friend!It is a one stop shop for ladies beauty needs such as: makeup, nails, personal care products or innovative beauty gadgets, all are only few clicks away when shopping on our Cheeky shop.Cheeky's famous high quality products and services are guaranteed with every purchase of one of our products.After the purchase of your first Cheeky item, you will become an official \"Cheeky Chick\" and most likely develop severe addiction to Cheeky's products.You will find that enjoyable shopping experience, excellent service and stylish high quality products can be bought at a fair price.Please note that we offer fast (from the UK) and slow (from China) shipping options for your convenience. Please select your most suitable shipping option according to your needs and budget.",
+          "gain": 0.0
+        },
+        {
+          "pid": "B006OMHV00",
+          "title": "New Design Jumbo Nail Art Image Plate (C) of 42 Full Nailart Designs by Cheeky®",
+          "description": "Category: Beauty Description: New Designs Nail Art Stamper Image PlateThese Cheeky stamping plates are fabulous and make a perfect addition to any nail art collection.The results are an eye catching, detailed and crisp nail design - probably impossible to implement in free hand or any other nail art technique.Helpful Hints:-Make sure you remove the protective plastic cover from the front of the plates before attempting to use.Wet a cotton ball w/ pure acetone and hold it with tweezers in order to avoid ruining the designs on your nails.Use the acetone soaked cotton ball to wipe nail polish off of the plates and stamper.The plate should be dry before applying more polish. Use a thick highly pigmented polish for stamping. Work fast!If you take too long the polish will dry on the plate or stamper and you will not get it to transfer.If you are working fast and the polish does not transfer try another type of polish, some polished are extra quick drying.Be gentle when you apply top coat or you may smear your design.Becoming an official \"Cheeky Chick\"Cheeky is a lady's best friend!It is a one stop shop for ladies beauty needs such as: makeup, nails, personal care products or innovative beauty gadgets, all are only few clicks away when shopping on our Cheeky shop.Cheeky's famous high quality products and services are guaranteed with every purchase of one of our products.After the purchase of your first Cheeky item, you will become an official \"Cheeky Chick\" and most likely develop severe addiction to Cheeky's products.You will find that enjoyable shopping experience, excellent service and stylish high quality products can be bought at a fair price.Please note that we offer fast (from the UK) and slow (from China) shipping options for your convenience. Please select your most suitable shipping option according to your needs and budget.",
+          "gain": 0.0
+        },
+        {
+          "pid": "B005GCZ3YK",
+          "title": "New Design Jumbo Nail Art Image Plate (I2) over 42 Nailart Designs by Cheeky®",
+          "description": "Category: Beauty Description: New Designs Nail Art Stamper Image PlateThese Cheeky stamping plates are fabulous and make a perfect addition to any nail art collection.The results are an eye catching, detailed and crisp nail design - probably impossible to implement in free hand or any other nail art technique.Helpful Hints:-Make sure you remove the protective plastic cover from the front of the plates before attempting to use.Wet a cotton ball w/ pure acetone and hold it with tweezers in order to avoid ruining the designs on your nails.Use the acetone soaked cotton ball to wipe nail polish off of the plates and stamper.The plate should be dry before applying more polish. Use a thick highly pigmented polish for stamping. Work fast!If you take too long the polish will dry on the plate or stamper and you will not get it to transfer.If you are working fast and the polish does not transfer try another type of polish, some polished are extra quick drying.Be gentle when you apply top coat or you may smear your design.Becoming an official \"Cheeky Chick\"Cheeky is a lady's best friend!It is a one stop shop for ladies beauty needs such as: makeup, nails, personal care products or innovative beauty gadgets, all are only few clicks away when shopping on our Cheeky shop.Cheeky's famous high quality products and services are guaranteed with every purchase of one of our products.After the purchase of your first Cheeky item, you will become an official \"Cheeky Chick\" and most likely develop severe addiction to Cheeky's products.You will find that enjoyable shopping experience, excellent service and stylish high quality products can be bought at a fair price.Please note that we offer fast (from the UK) and slow (from China) shipping options for your convenience. Please select your most suitable shipping option according to your needs and budget.",
+          "gain": 0.0
+        }
+      ]
+    },
+    {
+      "qid": "beauty-train-000193",
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I've been happy with that copper hair color and my volumizing shampoo, but I'm looking for a women's eau de parfum to try now."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Are you wanting something light or a stronger scent?"
+        },
+        {
+          "role": "user",
+          "content": "I want a 1.6 ounce spray, just a standard women's perfume from a designer house."
+        }
+      ],
+      "graded_recall": 0.0,
+      "gold_rank": null,
+      "gold_product": {
+        "parent_asin": "B000VOP7YO",
+        "title": "Narciso Rodriguez By Narciso Rodriguez For Women, Eau De Parfum Spray, 1.6-Ounce Bottle",
+        "description": "Category: Beauty Description: Launched by the design house of Narciso Rodriguez.When applying any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you. For instance, your mood, stress level, age, body chemistry, diet, and current medications may all alter the scents you wear. Similarly, factor such as dry or oily skin can even affect the amount of time a fragrance will last after being applied"
+      },
+      "top3": [
+        {
+          "pid": "B000ARDBH2",
+          "title": "Guess Eau de Parfum Spray for Women, 2.5 Fluid Ounce",
+          "description": "Category: Beauty Description: Guess by Guess designer fragrance for Women Eau De Parfum Spray 2.5 oz. Sweet and sexy, the new fragrance from Guess gives the Guess girl another opportunity to flaunt her feminine style. A juicy tangerine and green apple note introduces an absolutely feminine heart of dewy freesia, pink peony and delicate muguet. Accents of peach and red fruit vibrate through the blend. Absolutely chic and radiant, the dry down of cedar wood and amber provide texture while soft skin-musk enhances depth and sensuality.",
+          "gain": 0.0
+        },
+        {
+          "pid": "B000C1VT0W",
+          "title": "Curious by Britney Spears for Women, Eau De Parfum Spray, 1.7 Ounce",
+          "description": "Category: Beauty Description: Introduced in 2004. Recommended use: casual.When applying any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you. For instance, your mood, stress level, age, body chemistry, diet, and current medications may all alter the scents you wear. Similarly, factor such as dry or oily skin can even affect the amount of time a fragrance will last after being applied",
+          "gain": 0.0
+        },
+        {
+          "pid": "B0045SU5ZI",
+          "title": "Coach Poppy Eau de Parfum Spray for Women, 1.7 Ounce",
+          "description": "Category: Beauty Description: Buy Coach Women's Perfumes - Coach Poppy for Women 1.7 oz Eau de Parfum Spray",
+          "gain": 0.0
+        }
+      ]
+    },
+    {
+      "qid": "beauty-train-002624",
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I've been using that lavender face brush I bought, but my skin still feels dull. Any ideas?"
+        },
+        {
+          "role": "assistant",
+          "content": "Maybe a mask could help alongside it. What kind of skincare are you after?"
+        },
+        {
+          "role": "user",
+          "content": "Something natural maybe, but I'm wary of powders that claim miracle fixes."
+        }
+      ],
+      "graded_recall": 0.0,
+      "gold_rank": null,
+      "gold_product": {
+        "parent_asin": "B001D3Q124",
+        "title": "100% Pure Seaweed Facial Mask 2.9 oz",
+        "description": "Category: Beauty Description: Nutrient rich Seaweed Mask detoxes facial pores, purges out toxins, leaves your complexion fresh and pure, while seaweeds nourish your skin with antioxidants, vitamins and minerals. Potent Alpha Lipoic Acid and Vitamin C repair damaged skin, restores elasticity, and strengthens cellular structure. To use: mix powder with either water, tea, fruit juice or plain yogurt."
+      },
+      "top3": [
+        {
+          "pid": "B00DHOUZ92",
+          "title": "Lavender Facial Cleanser & Makeup Remover, Gentle, All Natural - \"Take It Off\" - For All Skin Types. Great for Dry/Sensitive/Rosacea Skin. Organic Ingredients To Wash & Clean Your Face. You'll LOVE This! Money Back Guarantee EXTENDED For 1 Year!",
+          "description": "Category: Beauty Description: Your Search For The BEST, All Natural, GENTLE Facial Cleanser Is Over!We know today's woman has a life that is bursting with activity, and we strive to make her skincare regime a no-brainer with simple, clean formulas made from natural and powerful botanical sources.We create versatile products, allowing women to experience luxury that works overtime.Our stunningTake It Off Lavender Facial Cleanseris certainly no exception to our multi-use philosophy- this gentle gem cleanses the face and neck thoroughly, providing a safe and effective deep-clean, but it doesn't stop there.So what does it do that other cleansers don't?Well, firstly,Take It Offis suitable for all skin types, since it is non-toxic and gentle.Secondly,Take It Offis reallyGENTLEyet reallyEFFECTIVE!Thirdly,Take It Offremoves makeup, which means you'll be cleansing your skin and removing your makeup in one step. We took note of all the women who confided in us their frustration towards their cleansers leaving unsightly, stubborn makeup behind.How effective can a cleanser be if it is unable to remove dirt and makeup? Isn't that the whole purpose of a cleanser? We think so, but we also believe there should be other benefits in your daily cleanser. Not only does Take It Off remove dirt, oil, makeup and other impurities, but it also literally acts as a skin treatment.This potent cleanser is not only safe for skin conditions such as acne, Rosacea and Eczema, but actually soothes and improves these conditions. Who knew a cleanser could do so much?Take It Offbrings you a high-performance, luxurious cleanser that will leave your skin refreshed, smooth, clean and crystal clear.Buy \"Take It Off\" Today - You Will LOVE it!You Have A Full 1 Year Money Guarantee!",
+          "gain": 0.0
+        },
+        {
+          "pid": "B008AGWMEI",
+          "title": "Seventh Generation Refreshing Facial Wipes, Lavender, 30 Count",
+          "description": "Category: Beauty Description: Treat your face to a gentle, thorough clean whenever you like. Gentle facial cleansing cloths are infused with 100% plant-based cleansers that leave delicate facial skin feeling nurtured and healthy. Choose mandarin to refresh, lavender to soothe.",
+          "gain": 0.0
+        },
+        {
+          "pid": "B00HDPR7G0",
+          "title": "FACIAL MASK | Natural MUD MASK Will Clarify and Invigorate Your Skin | CLAY MASK for Men, Women, & Teens | FACE MASK w/Gentle Exfoliator and Moisturizer Repairs Imperfections | Heals Dry Skin & Helps Clear Acne & Oily Skin",
+          "description": "Category: Beauty Description: Pamper Yourself With a Spa Quality Facial Mask in the Comfort of Your Own Home All-New Proprietary Formula to Clarify and Invigorate Your ComplexionRefresh Natural Skincare is dedicated to developing the highest quality natural skin care products on the market today. Using all natural ingredients, We have created a spa-quality face mask formula free of parabens, dyes, and fragrances that is both gentle and effective. Pamper Yourself and Nourish Your Skin with a Blend of Natural IngredientsOur specialists work to channel the power of all-natural ingredients to replenish and revive skin. Skin that's glowing and clear provides a level of confidence that allows you to go out and conquer anything that is thrown your way. Avoid Harsh Chemicals and AdditivesThe team at Refresh Natural Skincare understands the chemistry and balance of the oils and overall nature of your skin and works to produce products that provide a deep, invigorating clean naturally. Harsh chemicals can interfere with your skin's natural balance; leaving your skin dried out, red or irritated. Enjoy the natural benefits of a clay mask free of harsh chemicals or additives No More Harsh Chemicals & Forget the Complicated Homemade Natural Facial Masks.Enjoy our facial mask and slip away for some you time at the \"spa\" in the comfort of your own home. Pamper yourself and your skin to achieve a state of total bliss and relaxation. You'll be left with beautiful skin that's free of harsh, unnatural ingredients. 100% Satisfaction Guaranteed!Order Today To Start Enjoying Younger, Healthier Looking Skin",
+          "gain": 0.0
+        }
+      ]
+    },
+    {
+      "qid": "beauty-train-001206",
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I really liked that burgundy box dye I got from Revlon, and my combo skin foundation still works great. Thinking of switching up my hair color but worried about damage."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! What kind of color are you considering? Reds can be tricky but there are gentler options."
+        },
+        {
+          "role": "user",
+          "content": "Maybe a red, but every red I've seen makes hair brassy and fried. I'm skeptical any drugstore dye can avoid that."
+        }
+      ],
+      "graded_recall": 1,
+      "gold_rank": null,
+      "gold_product": {
+        "parent_asin": "B003VKR018",
+        "title": "Revlon Colorsilk Luminista Red (150), 4.4 Fluid Ounce",
+        "description": "Category: Beauty Description: Revlon Colorsilk Luminista saturates dark hair with vibrant, shimmering color while subduing unwanted brassiness. This gentle, ammonia-free formula contains shine-enhancing mango butter and leaves hair in better condition than before you colored. And with its extra-creamy, moisturizing after-color conditioner, hair looks healthy and bouncy, not flat and frizzy or dull"
+      },
+      "top3": [
+        {
+          "pid": "B000GCR6S6",
+          "title": "Revlon Colorsilk Color Burgundy 48",
+          "description": "Category: Beauty Description: Revlon ColorSilk #48 Burgundy is formulated to penetrate every strand with its gentle, ammonia-free formula and after-color conditioner with nourishing silk proteins. Hair looks silkier, shinier and healthier than before you colored. 100% gray coverage. (2 Fl Oz)",
+          "gain": 0.0
+        },
+        {
+          "pid": "B09KC6G5PD",
+          "title": "Punky Vermillion Red Semi Permanent Conditioning Hair Color, Vegan, PPD and Paraben Free, lasts up to 25 washes, 3.5oz",
+          "description": "Brand: Punky Category: Beauty & Personal Care > Hair Care > Hair Coloring Products > Hair Color Features: Semi Permanent Conditioning Hair Dye: Get the perfect shade of cinnamon-y red with Punky Colour Vermillion Red hair dye! Stand out of the crowd with a mysterious, extra bold look! Transform and condition hair for a soft & silky brand new look with zero commitments. This should be your next hair goal! Non-Damaging & Conditions Hair: No need to add peroxide so this hair color is safe for all hair types. This will nourish strands, prevent breakage and over-drying, leaving hair silky soft, and healthy-looking. Go for fashionable hair color without hair damage! Long-Lasting & Vibrant Hair Color: With color-enhancing Keratin Complex for a more lasting intense, vivid color. It fades in up to 35 shampoos, so you can try trendy colors and transform your style. Mix and match to multi-tonal hair, ombre, or holographic hues! Easy To Use & Apply Hair Tint: Hair color made easy with Punky! Just apply the color evenly from hair roots to ends with a tinting brush, comb through and leave on approximately 15-30 minutes and then rinse out. Easy peasy! Switch up your hairstyle now! Trusted By Pros For Ultimate Hair Care: A leader in the hair color industry! Punky Colour continually works to bring you the brightest, boldest, most amped-up products and excellent customer service. Achieve head-turning looks using Punky Colour products and expert techniques! Details: Color: Vermillion Red Package Information: Jar Product Benefits: Color and nourish hair strands, prevent breakage and over-drying, leaves hair frizz-free, silky soft, and healthy-looking.Color and nourish hair strands, prevent breakage and over-drying, leaves hair frizz-free, silky soft, and healthy-looking. See more Brand: Punky Item Form: Cream Is Discontinued By Manufacturer: No Package Dimensions: 2.91 x 2.17 x 2.13 inches; 3.52 Ounces Item model number: 97470 UPC: 782794854839 797978145498 014608514265 789542708901 737003718327 Manufacturer: American International Industries",
+          "gain": 1
+        },
+        {
+          "pid": "B09S794SG5",
+          "title": "Permanent Hair Color by Revlon, Permanent Hair Dye, Total Color with 100% Gray Coverage, Clean & Vegan, 63 Light Golden Brown, 3.5 Oz",
+          "description": "Brand: REVLON Category: Beauty & Personal Care > Hair Care > Hair Coloring Products > Hair Color Features: CLEAN AND VEGAN HAIR COLOR: Our innovative clean and vegan hair dye is formulated without ammonia, parabens, sulfates, silicones, mineral oil, gluten, and phthalates GENTLE ON HAIR: The nourishing cream formula is gentle on your hair and respectful of your scalp, and is infused with cannabis sativa (hemp) seed oil 100% GRAY COVERAGE: Rich, vibrant hair color that covers even the most stubborn grays and lasts for up to 6 weeks! Change your look, or cover gray hair, it’s your choice! EASY TO USE HAIR COLOR KITS: The permanent, at-home hair dye kits are so easy to apply, with a simple, mess-free, non-drip formula 16 BOTANICAL ENRICHED SHADES: Botanical Enriched Conditioning Gloss with camellia oil is infused with shade-specific ingredients: sesame oil for brown hair dye, black-tea extract for black or dark hair, cranberry for red hair color, and chamomile for blonde or platinum Description: Meet REVLON Total color, A hair color that's free of many ingredients and created with a formula that's not only gentle on hair, but respectful of scalp, too. REVLON Color surround technology allows the color to penetrate deeply into each and every strand for rich, natural-looking results from root to tip. This high-impact color system provides 100% gray coverage - even on the most stubborn grays! That means 6 weeks of rich, vibrant color. Ultra-moistruzied hair with less breakage. Hair so soft, you won't want to stop touching it. Healthier looking hair and brilliant, shiny results. Details: Color: 63 Light Golden Brown Product Benefits: Nourishing Brand: REVLON Item Form: Cream Hair Type: Normal Product Dimensions: 2.2 x 3.4 x 6.69 inches; 3.49 Ounces Item model number: 309970096786 UPC: 309970096786 Manufacturer: AmazonUs/REVL7",
+          "gain": 0.0
+        }
+      ]
+    }
+  ]
+}

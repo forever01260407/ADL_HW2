@@ -1,0 +1,26 @@
+{
+  "kind": "official_judge_compatibility_smoke_not_quality_benchmark",
+  "model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+  },
+  "judge_prompt_tokens": {
+    "count": 9207,
+    "min": 355,
+    "max": 2265,
+    "p50": 1040.0,
+    "p95": 1603.699999999999,
+    "over_limit": 0,
+    "limit": 32756
+  },
+  "settings": {
+    "batch_size": 8,
+    "max_new_tokens": 12,
+    "dtype": "bfloat16",
+    "do_sample": false,
+    "truncation": false
+  },
+  "original_evaluate_sha256": "0f640c6b126594d75d39baa1c3b7447185fda9010a5e8486a88e29198b23acbf",
+  "status": "preflight_passed"
+}

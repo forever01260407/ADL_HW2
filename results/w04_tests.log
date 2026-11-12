@@ -1,0 +1,30 @@
+test_boundary_ties_order_and_pool_mutation (test_retrieval.DialogueTests.test_boundary_ties_order_and_pool_mutation) ... <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+<frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=0 load_and_products_s=0.002 total_function_s=0.086
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=0 load_and_products_s=0.001 total_function_s=0.097
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy truncated_queries=0 load_and_products_s=0.009 total_function_s=0.012
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+ok
+test_exact_oracle_and_mapping (test_retrieval.DialogueTests.test_exact_oracle_and_mapping) ... retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=0 load_and_products_s=0.005 total_function_s=0.047
+retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+ok
+test_long_query_preserves_start_and_final_negation (test_retrieval.DialogueTests.test_long_query_preserves_start_and_final_negation) ... retrieval: products=2 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=1 load_and_products_s=0.001 total_function_s=0.040
+ok
+test_nonfinite_or_zero_vectors_fail (test_retrieval.DialogueTests.test_nonfinite_or_zero_vectors_fail) ... ok
+test_short_role_transcripts_unchanged_and_isolated (test_retrieval.DialogueTests.test_short_role_transcripts_unchanged_and_isolated) ... retrieval: products=12 queries=8 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=0 load_and_products_s=0.001 total_function_s=0.034
+ok
+test_boundary_ties_order_and_pool_mutation (test_retrieval.IndexTests.test_boundary_ties_order_and_pool_mutation) ... retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=0 load_and_products_s=0.001 total_function_s=0.030
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=0 load_and_products_s=0.009 total_function_s=0.155
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+retrieval: products=15 queries=1 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+ok
+test_exact_oracle_and_mapping (test_retrieval.IndexTests.test_exact_oracle_and_mapping) ... retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=faiss truncated_queries=0 load_and_products_s=0.001 total_function_s=0.035
+retrieval: products=12 queries=2 model=/mnt/c/Users/yuting/Desktop/HW2_ADL batch=32 backend=numpy truncated_queries=0 load_and_products_s=0.001 total_function_s=0.001
+ok
+test_nonfinite_or_zero_vectors_fail (test_retrieval.IndexTests.test_nonfinite_or_zero_vectors_fail) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.565s
+
+OK

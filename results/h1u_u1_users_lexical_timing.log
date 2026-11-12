@@ -1,0 +1,2 @@
+bm25: products=50000 queries=966 terms=210066 k1=1.5 b=0.75 query_mode=users last_weight=1 title_weight=1 parse_fallbacks=0 context_added=0 weighted_queries=0 lexical_s=6.769
+Saved 966 ranked lists -> /mnt/c/Users/yuting/Desktop/HW2_ADL/results/h1u_u1_users_lexical_top100.json

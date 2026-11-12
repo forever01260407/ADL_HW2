@@ -1,0 +1,437 @@
+{
+  "winner": "u2_latest",
+  "gold_gate_verified": true,
+  "uncached_matches_screening": true,
+  "official_judge_runs": 1,
+  "baseline_metrics": {
+    "queries": 966,
+    "graded_recall@10": 0.7391304347826086,
+    "graded_mrr@10": 0.46578017680502154
+  },
+  "winner_graded": {
+    "metrics": {
+      "queries": 966,
+      "graded_recall@10": 0.7370600414078675,
+      "graded_mrr@10": 0.48000221827861583
+    },
+    "comparisons": 9108,
+    "parse_failures": 0,
+    "judge_resources": {
+      "peak_cuda_memory_gib": 4.58703088760376,
+      "peak_cuda_memory_reserved_gib": 13.287109375
+    },
+    "judge_runtime_seconds": 575.960865852001
+  },
+  "differences": {
+    "graded_recall@10": -0.0020703933747411307,
+    "graded_mrr@10": 0.014222041473594293
+  },
+  "paired_changes": {
+    "graded_recall@10": {
+      "improved": 53,
+      "worsened": 55
+    },
+    "graded_mrr@10": {
+      "improved": 229,
+      "worsened": 169
+    }
+  },
+  "beauty_train_baseline": {
+    "graded_recall@10": 0.6338672768878718,
+    "graded_mrr@10": 0.359199629508554
+  },
+  "beauty_train_graded": {
+    "graded_recall@10": 0.6361556064073226,
+    "graded_mrr@10": 0.3598734154226145
+  },
+  "beauty_train_difference": {
+    "graded_recall@10": 0.0022883295194507935,
+    "graded_mrr@10": 0.0006737859140604763
+  },
+  "adopt": false,
+  "official_hardware_validation": false,
+  "winner_timing": {
+    "cold_process_wall_seconds": 104.68613668800026,
+    "resources": {
+      "entrypoint_wall_seconds": 104.03445580799962,
+      "peak_process_rss_bytes": 1801359360,
+      "peak_cuda_allocated_bytes": 503805952,
+      "peak_cuda_reserved_bytes": 717225984,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": "0",
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null,
+      "HW2_RETRIEVER": "hybrid",
+      "HW2_RRF_CANDIDATES": "100",
+      "HW2_BM25_QUERY_MODE": "users",
+      "HW2_BM25_LAST_WEIGHT": "2",
+      "HW2_BM25_TITLE_WEIGHT": "1",
+      "HW2_BM25_TRACE_PATH": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+      "data/train/products.jsonl": "data/train/products.jsonl"
+    }
+  },
+  "judge_timing": {
+    "cold_process_wall_seconds": 578.0810973750013,
+    "resources": {
+      "entrypoint_wall_seconds": 577.3872482849983,
+      "peak_process_rss_bytes": 6478159872,
+      "peak_cuda_allocated_bytes": 4925286912,
+      "peak_cuda_reserved_bytes": 14266925056,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "numpy": "1.26.4"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": null,
+      "HW2_RERANK": "0",
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null,
+      "HW2_RETRIEVER": "hybrid",
+      "HW2_RRF_CANDIDATES": "100",
+      "HW2_BM25_QUERY_MODE": "users",
+      "HW2_BM25_LAST_WEIGHT": "2",
+      "HW2_BM25_TITLE_WEIGHT": "1",
+      "HW2_BM25_TRACE_PATH": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+      "data/train/products.jsonl": "data/train/products.jsonl",
+      "results/h1u_winner_top10.json": "results/h1u_winner_top10.json"
+    }
+  },
+  "default_verified": false,
+  "default_action": "retain_h1_full_1_1",
+  "shared_non_gold_pairs": 6051,
+  "shared_pair_grade_disagreements": [
+    {
+      "qid": "beauty-train-000218",
+      "pid": "B08MHMN8TB",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-000502",
+      "pid": "B00CDTHC6G",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-000661",
+      "pid": "B00KK1V28I",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-000786",
+      "pid": "B003JNQV7G",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-000928",
+      "pid": "B0B7VJ7ZPF",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-000983",
+      "pid": "B098CY2DNC",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-000983",
+      "pid": "B09NHJWP2N",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-001038",
+      "pid": "B00KK1V28I",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-001146",
+      "pid": "B09VWH7Q1Q",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-001729",
+      "pid": "B09M9GDJWJ",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-001790",
+      "pid": "B087MYZQDQ",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-001837",
+      "pid": "B00H0CVFGO",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-002051",
+      "pid": "B008RVYJS8",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-002888",
+      "pid": "B0038OEELG",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-002982",
+      "pid": "B00CDGR29G",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-003148",
+      "pid": "B0BN4WCR6C",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-003269",
+      "pid": "B07SVQKCDY",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-003767",
+      "pid": "B00KAL5JAU",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-003767",
+      "pid": "B0C7V1ZN46",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-003832",
+      "pid": "B0CB1W2W2Y",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-003936",
+      "pid": "B0BWT8WW8K",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "beauty-train-004560",
+      "pid": "B00OMRBXGW",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "beauty-train-004646",
+      "pid": "B005D2SFAC",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-beauty-official-000142",
+      "pid": "B09HB5XJP7",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000269",
+      "pid": "B0B4X4KF6Z",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-home-and-kitchen-000413",
+      "pid": "B08HYHJDJB",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000508",
+      "pid": "B07RGR8SZ9",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-home-and-kitchen-000534",
+      "pid": "B08HHJ35F6",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-pet-supplies-000052",
+      "pid": "B07XVZ85PT",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-pet-supplies-000147",
+      "pid": "B07Z3Y46JQ",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-pet-supplies-000166",
+      "pid": "B005NK5DEU",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-pet-supplies-000210",
+      "pid": "B0C9MFPDMW",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-pet-supplies-000210",
+      "pid": "B0BCNDX3GS",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-pet-supplies-000512",
+      "pid": "B08H1XD4G6",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-sports-and-outdoors-000034",
+      "pid": "B0BK3SF13M",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000065",
+      "pid": "B081N39N4W",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-sports-and-outdoors-000182",
+      "pid": "B093HBQTKP",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000307",
+      "pid": "B097HD7895",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-sports-and-outdoors-000320",
+      "pid": "B0BF1KKXMJ",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-sports-and-outdoors-000391",
+      "pid": "B082H9C96Y",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-sports-and-outdoors-000485",
+      "pid": "B07F33PYYT",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-sports-and-outdoors-000489",
+      "pid": "B08D96JYTG",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-toys-and-games-000296",
+      "pid": "B01B1UE4Q8",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-toys-and-games-000451",
+      "pid": "B09KTMJKQP",
+      "before": 1,
+      "after": 0.0
+    },
+    {
+      "qid": "train-toys-and-games-000512",
+      "pid": "B00LXWIEQG",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-toys-and-games-000512",
+      "pid": "B082H47DN5",
+      "before": 0.0,
+      "after": 1
+    },
+    {
+      "qid": "train-toys-and-games-000530",
+      "pid": "B01BZE9S52",
+      "before": 1,
+      "after": 0.0
+    }
+  ]
+}

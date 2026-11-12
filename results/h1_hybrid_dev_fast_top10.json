@@ -1,0 +1,1505 @@
+{
+  "top_k": 10,
+  "results": [
+    {
+      "qid": "train-pet-supplies-000140",
+      "ranked_pids": [
+        "B07GPX2F5S",
+        "B000GEWHNS",
+        "B075WYNNFL",
+        "B08737FP7D",
+        "B086TKK26F",
+        "B0BTSDSPXP",
+        "B01MF8HTRQ",
+        "B08GDFT6Y7",
+        "B0C3VLFLF2",
+        "B018ITP7ES"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "ranked_pids": [
+        "B077TXZ34T",
+        "B07FHYZQ48",
+        "B0852H6XM3",
+        "B07H3RPL8D",
+        "B07D9W245F",
+        "B08L46K67W",
+        "B004GZ96VO",
+        "B07FM39LNB",
+        "B0716Q48DF",
+        "B07575NGC4"
+      ]
+    },
+    {
+      "qid": "beauty-train-001206",
+      "ranked_pids": [
+        "B09S794SG5",
+        "B0C2NP6NV7",
+        "B0BW7BKC77",
+        "B0BP488JG5",
+        "B0873WMKLY",
+        "B07QRM8ZVT",
+        "B08GGWXXXS",
+        "B01MA3FJRW",
+        "B0C2C5V3XH",
+        "B07BXHMXB6"
+      ]
+    },
+    {
+      "qid": "beauty-train-003071",
+      "ranked_pids": [
+        "B006OMHV00",
+        "B006OMHUL0",
+        "B0082XRHGM",
+        "B0082XRJXS",
+        "B005V2LLXC",
+        "B005GCZ3YK",
+        "B009NCM6JY",
+        "B07PHTWLNJ",
+        "B005FK3M46",
+        "B006OMHTMK"
+      ]
+    },
+    {
+      "qid": "beauty-train-000193",
+      "ranked_pids": [
+        "B000PYK34E",
+        "B09X6G1SRW",
+        "B000ARDBH2",
+        "B000IRQBPI",
+        "B00TAKMZN6",
+        "B005D2SFAC",
+        "B007VDSQBY",
+        "B0BGV7PNWZ",
+        "B0045SU5ZI",
+        "B00427WJVK"
+      ]
+    },
+    {
+      "qid": "beauty-train-003898",
+      "ranked_pids": [
+        "B00KGH913O",
+        "B0036Q7ZYY",
+        "B00TZ04SSG",
+        "B00005UQSP",
+        "B0033GLYQM",
+        "B09NHJWP2N",
+        "B000052XYQ",
+        "B0CCZK7VWN",
+        "B003W5YCVI",
+        "B008EDILME"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000181",
+      "ranked_pids": [
+        "B09F8ZKS63",
+        "B07C4Y1296",
+        "B09NYBFD27",
+        "B0B187PTN5",
+        "B07RRTDQZJ",
+        "B095GWGMNL",
+        "B079YXHXX8",
+        "B01DDEYCIA",
+        "B07CGBL77B",
+        "B094MMG1J4"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "ranked_pids": [
+        "B06Y4F3TVT",
+        "B0C6N34M6D",
+        "B07XVZ85PT",
+        "B0CC67Q461",
+        "B09BTBVK7P",
+        "B06XL19QJR",
+        "B01N3UZ10A",
+        "B08223DG6P",
+        "B07CHK6LGQ",
+        "B087C9K52B"
+      ]
+    },
+    {
+      "qid": "beauty-train-002935",
+      "ranked_pids": [
+        "B0018V1DWE",
+        "B00KLA4INE",
+        "B00L0C529Q",
+        "B006ZCQD30",
+        "B00GW1HKHW",
+        "B00H0LVCVI",
+        "B00CE2JC9W",
+        "B001RIRIKE",
+        "B000VEMWB0",
+        "B004ZD2M6I"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000084",
+      "ranked_pids": [
+        "B07VPL7BPS",
+        "B077S5F295",
+        "B098JX1C3Z",
+        "B07D1VJ2J1",
+        "B08HD86KP4",
+        "B0B31GQX5M",
+        "B0C61Y4RJR",
+        "B07KK7PDN2",
+        "B0BZCMX8JQ",
+        "B07MLQQPDM"
+      ]
+    },
+    {
+      "qid": "beauty-train-002624",
+      "ranked_pids": [
+        "B00DUUGR72",
+        "B00DHOUZ92",
+        "B075K72NRW",
+        "B00I4ZERGG",
+        "B0BR1WMB2Z",
+        "B00HDPR7G0",
+        "B09VWH7Q1Q",
+        "B0BNTNV6YS",
+        "B01FR410BG",
+        "B00I87ISH4"
+      ]
+    },
+    {
+      "qid": "beauty-train-004475",
+      "ranked_pids": [
+        "B084C8323Z",
+        "B01KK19IRE",
+        "B07X1VDZ73",
+        "B0BQQ3T6D6",
+        "B07ZJWN58D",
+        "B0C5CRXWN7",
+        "B09783DQBR",
+        "B0BD6KMYDN",
+        "B01I9TJ0O0",
+        "B002TSA90C"
+      ]
+    },
+    {
+      "qid": "beauty-train-002364",
+      "ranked_pids": [
+        "B0C54Y7J2B",
+        "B0779BY2S1",
+        "B000UEAARO",
+        "B000ODNSR0",
+        "B0BQQ3T6D6",
+        "B004R3TBEC",
+        "B07X1VDZ73",
+        "B09KYHV449",
+        "B083733G1Y",
+        "B01BGATILO"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000507",
+      "ranked_pids": [
+        "B083JVHR59",
+        "B00OQ6AK5O",
+        "B08L4QDBGY",
+        "B097B3CCB6",
+        "B07YLF73RZ",
+        "B08XQ7ZCST",
+        "B008D9WWIS",
+        "B0BMX6WZNT",
+        "B000RP4V76",
+        "B003Y5DS5M"
+      ]
+    },
+    {
+      "qid": "beauty-train-001496",
+      "ranked_pids": [
+        "B00K2O3NV2",
+        "B00H2TZ4F8",
+        "B08936CZHQ",
+        "B00H0CVFGO",
+        "B00IH49VBU",
+        "B01N4VMLGA",
+        "B000TW2JQC",
+        "B004BL2DHC",
+        "B00GDTVJ7A",
+        "B0BDXRBXD8"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000129",
+      "ranked_pids": [
+        "B07Y74S6HX",
+        "B07WDHR6BP",
+        "B089P25SXB",
+        "B00CV859XC",
+        "B0042QMKJW",
+        "B076V4V2QQ",
+        "B07CVRB5ZL",
+        "B000Q5ZMM0",
+        "B009EXIAOC",
+        "B07GRKXJL4"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000161",
+      "ranked_pids": [
+        "B00R5J1BXY",
+        "B01F5D1NCK",
+        "B00ATVI2K0",
+        "B00ZF59C2M",
+        "B00961LY54",
+        "B01F4EM5N6",
+        "B01F8LQXKQ",
+        "B01F8KE2JQ",
+        "B01F8KL3T8",
+        "B06WLNHRPX"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000227",
+      "ranked_pids": [
+        "B00I4ZERGG",
+        "B085QMTVJS",
+        "B0C248BWQK",
+        "B01G31PBZS",
+        "B07DKYNFK3",
+        "B006I9RQBI",
+        "B09FW7LZZG",
+        "B002CC1ARQ",
+        "B003ZZFBOW",
+        "B000P275TW"
+      ]
+    },
+    {
+      "qid": "beauty-train-000999",
+      "ranked_pids": [
+        "B06X9MG5WB",
+        "B09MDT2W3K",
+        "B019FGCYRG",
+        "B005SPETGS",
+        "B01MXCO41W",
+        "B0BJVXWBHR",
+        "B081J396FB",
+        "B0B35BX3GW",
+        "B0062W4T98",
+        "B005SPETHW"
+      ]
+    },
+    {
+      "qid": "beauty-train-003602",
+      "ranked_pids": [
+        "B00604MUWG",
+        "B0CB1W2W2Y",
+        "B00604MWB0",
+        "B008CC4HBG",
+        "B076FHLQMY",
+        "B00CH3OT4G",
+        "B006I9RQBI",
+        "B01I9TKBAM",
+        "B0043OYFJQ",
+        "B00GTBZOVE"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000383",
+      "ranked_pids": [
+        "B07QK8VMX3",
+        "B08MVRLW2Q",
+        "B083969CH5",
+        "B0BTWDJM68",
+        "B09D2GTF2Z",
+        "B0BLNJZXFM",
+        "B09KHPL7LT",
+        "B09D7BXRPP",
+        "B0C5FNPRH5",
+        "B082DZD364"
+      ]
+    },
+    {
+      "qid": "beauty-train-000241",
+      "ranked_pids": [
+        "B0C32STM21",
+        "B01MT3PG83",
+        "B00604MSSC",
+        "B0C6LBJHHP",
+        "B0C6598ZR6",
+        "B09SC6MX55",
+        "B07VCVDRKG",
+        "B00X0XHPNE",
+        "B088CLDV3K",
+        "B07CTBJHHH"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000554",
+      "ranked_pids": [
+        "B0BYSQ3YMD",
+        "B07Y9DD67L",
+        "B00ECV541I",
+        "B0BKH4V5W3",
+        "B0BJWTSQCB",
+        "B084K4DY8B",
+        "B00U39IF82",
+        "B07SJXLHZD",
+        "B01EMXRVL6",
+        "B00IR7NCU8"
+      ]
+    },
+    {
+      "qid": "beauty-train-001178",
+      "ranked_pids": [
+        "B00I4ZERGG",
+        "B00J4SCZFM",
+        "B0B9BQFSCX",
+        "B00F008GFQ",
+        "B00D0ANSAG",
+        "B00KY4X8P6",
+        "B00NT8DMZU",
+        "B00GJ4X3MI",
+        "B01MT6H91G",
+        "B003UNP20W"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000287",
+      "ranked_pids": [
+        "B08F2DY7MD",
+        "B00OT7NC5K",
+        "B08MNSCBLZ",
+        "B08W8PQ4K9",
+        "B0151L2JV0",
+        "B07RC2FDM4",
+        "B084ZXZTPB",
+        "B07BC6SG83",
+        "B085JPLDDN",
+        "B09F5PY5W9"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000306",
+      "ranked_pids": [
+        "B088ZPMLDT",
+        "B08DRBQ1YS",
+        "B07ZZP4HHG",
+        "B07XZ1Y8Y2",
+        "B08YK8WK98",
+        "B07XL9CJWC",
+        "B081TLNDJB",
+        "B08F75ZKXJ",
+        "B084R1YBML",
+        "B01LEJD98A"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000236",
+      "ranked_pids": [
+        "B07WSRMC8P",
+        "B083KR3PJ7",
+        "B073GBFJHY",
+        "B06Y4M2W31",
+        "B00VEAJKT2",
+        "B07H8WF5TF",
+        "B07WSRLD95",
+        "B07P41HDTF",
+        "B078H6534H",
+        "B0125U36Q2"
+      ]
+    },
+    {
+      "qid": "beauty-train-002870",
+      "ranked_pids": [
+        "B00HJD8NLY",
+        "B00G75X158",
+        "B00HOHLKY2",
+        "B00IH49VBU",
+        "B00H0CVFGO",
+        "B00K83VT5Y",
+        "B00IKD3MX6",
+        "B00KBGHC9K",
+        "B00H7NKNE6",
+        "B000ACB09I"
+      ]
+    },
+    {
+      "qid": "beauty-train-000927",
+      "ranked_pids": [
+        "B00LG63DOM",
+        "B00G4SDPHC",
+        "B00GCQMSVA",
+        "B00GQ9I9IO",
+        "B00G2TQNZ4",
+        "B00G052NFE",
+        "B00IDWP4IA",
+        "B0BS71PXPX",
+        "B00GLE8SNK",
+        "B00JK3ZHIS"
+      ]
+    },
+    {
+      "qid": "beauty-train-001933",
+      "ranked_pids": [
+        "B09SHG9ZY2",
+        "B01M1NP02K",
+        "B01HTJTMF8",
+        "B0BS7569QL",
+        "B0B936RZF4",
+        "B00CHHKJ2S",
+        "B01KK19IRE",
+        "B006T8BXF8",
+        "B00OMRBXGW",
+        "B002TSA90C"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000445",
+      "ranked_pids": [
+        "B0B2D81714",
+        "B09Q49TBTM",
+        "B07WVR572T",
+        "B09LLSZQRJ",
+        "B09634RD4X",
+        "B09QPP3SNT",
+        "B0006ADICG",
+        "B09NBVTMXC",
+        "B09YLS4SQ7",
+        "B0C7WFNKQ1"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000489",
+      "ranked_pids": [
+        "B0BPC11XG1",
+        "B0BNT5CGXT",
+        "B0B1LPDYB5",
+        "B097TT2LD5",
+        "B08Q3R8RFH",
+        "B07XXRF2FN",
+        "B09MRNJWHD",
+        "B09XR2T5T9",
+        "B075FWDM5S",
+        "B00YDW529U"
+      ]
+    },
+    {
+      "qid": "beauty-train-004550",
+      "ranked_pids": [
+        "B00C8G2VLK",
+        "B00IT1HKV4",
+        "B00GGH84CW",
+        "B00I6R90Q4",
+        "B00H0CVFGO",
+        "B00EABZTBU",
+        "B076S4RTR7",
+        "B00H7NKNE6",
+        "B00I46E8DC",
+        "B00I4ZERGG"
+      ]
+    },
+    {
+      "qid": "beauty-train-002931",
+      "ranked_pids": [
+        "B09T3P3PD9",
+        "B005BF1M10",
+        "B001MHMGDY",
+        "B09V1J3CD8",
+        "B0098T3D5I",
+        "B08PVM5MGM",
+        "B09SHNCNLL",
+        "B00A9R0BXU",
+        "B005OAYNAY",
+        "B07LF47GZ6"
+      ]
+    },
+    {
+      "qid": "beauty-train-000218",
+      "ranked_pids": [
+        "B0042GH78G",
+        "B009G0E19Q",
+        "B0BRTGB1W5",
+        "B06Y2GJBTX",
+        "B0030GFY02",
+        "B000GCUO30",
+        "B08MHMN8TB",
+        "B000ALFROS",
+        "B085NQF7ZM",
+        "B08B6FGHP7"
+      ]
+    },
+    {
+      "qid": "beauty-train-000386",
+      "ranked_pids": [
+        "B076FYJXGN",
+        "B0BHFCMMW1",
+        "B0BBN3R2WV",
+        "B0B7PSSXGR",
+        "B0BR8ZZ1L7",
+        "B0B2MKRTKB",
+        "B09NB2R394",
+        "B0BB62XC8B",
+        "B000NNDNYY",
+        "B0C5F6XGJK"
+      ]
+    },
+    {
+      "qid": "beauty-train-000212",
+      "ranked_pids": [
+        "B003BJZ1M4",
+        "B0753Q75KZ",
+        "B0C7V1ZN46",
+        "B0002AQ8FE",
+        "B003Q33LJ0",
+        "B0CDD5KVJ6",
+        "B00TBJSRLA",
+        "B089XBWX5Q",
+        "B0C95GN2KL",
+        "B01G5ZLJEE"
+      ]
+    },
+    {
+      "qid": "beauty-train-001091",
+      "ranked_pids": [
+        "B00K1H6AY2",
+        "B0016836RY",
+        "B00I4ZERGG",
+        "B002CC1ARQ",
+        "B00187OEWO",
+        "B018ITP7ES",
+        "B003KZC4GA",
+        "B07D5S54KF",
+        "B006I9RQBI",
+        "B00IAMTLS2"
+      ]
+    },
+    {
+      "qid": "beauty-train-000956",
+      "ranked_pids": [
+        "B07NQKVD9Y",
+        "B0BP5GSPLL",
+        "B00BHRC7R4",
+        "B000P6I3WG",
+        "B09PPZ3D8Y",
+        "B09783DQBR",
+        "B01DLZYY4I",
+        "B00016XJ4M",
+        "B07VCVDRKG",
+        "B073QPMFPC"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000050",
+      "ranked_pids": [
+        "B08NDBLJKZ",
+        "B003PU2IKW",
+        "B00BVUCIH6",
+        "B07PZY38YX",
+        "B0BTSGV95K",
+        "B004CQZQQG",
+        "B09W583P59",
+        "B07HC9PF5J",
+        "B08MNPFSCY",
+        "B0BTSDSPXP"
+      ]
+    },
+    {
+      "qid": "beauty-train-002329",
+      "ranked_pids": [
+        "B098D6S6VR",
+        "B09CFHLRB9",
+        "B0C2B2553Z",
+        "B00RWCDM4A",
+        "B07XYMMMLZ",
+        "B01K1TSP4W",
+        "B0842YD1CX",
+        "B008Y13RUC",
+        "B08G2SPJYS",
+        "B0C29QBGK4"
+      ]
+    },
+    {
+      "qid": "train-beauty-official-000117",
+      "ranked_pids": [
+        "B0BBKQDRM4",
+        "B007CTNHL6",
+        "B09GJCYTJ6",
+        "B09KLC1QYJ",
+        "B0B5TBBH7Q",
+        "B00008Y1BE",
+        "B0BTSXLTKZ",
+        "B002LFQ4OS",
+        "B004BCXAM8",
+        "B0B6WVQXF2"
+      ]
+    },
+    {
+      "qid": "beauty-train-002453",
+      "ranked_pids": [
+        "B00A0IWT9C",
+        "B00A0IWTDI",
+        "B0002FCA92",
+        "B019FGCYRG",
+        "B00GTBZ85Q",
+        "B09KLZCR4V",
+        "B0BJVXWBHR",
+        "B0020122ZS",
+        "B00GTBZN4C",
+        "B005SPETGS"
+      ]
+    },
+    {
+      "qid": "beauty-train-003767",
+      "ranked_pids": [
+        "B00KAL5JAU",
+        "B09FF2KPTC",
+        "B00TUJWAKK",
+        "B07VPNXN5J",
+        "B0C7V1ZN46",
+        "B09JPXW4F9",
+        "B0BGQ83813",
+        "B0CDD5KVJ6",
+        "B0BLC726MX",
+        "B0C95GN2KL"
+      ]
+    },
+    {
+      "qid": "train-beauty-official-000341",
+      "ranked_pids": [
+        "B01B0YEZFU",
+        "B0002Z1JK8",
+        "B001FPEUL4",
+        "B000WQU5IE",
+        "B07L577T8W",
+        "B07V3MDTF3",
+        "B0C4YGJND2",
+        "B0B19MM9GD",
+        "B09F714KGL",
+        "B09JVMCC4V"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000173",
+      "ranked_pids": [
+        "B017E01HZA",
+        "B09F74DDV4",
+        "B09J3J7559",
+        "B0B2K9MG55",
+        "B07RQW55TY",
+        "B01AMRKF1O",
+        "B08X7HQTFS",
+        "B0B9RSPCWT",
+        "B005THYQ9U",
+        "B09J8D11VB"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000508",
+      "ranked_pids": [
+        "B09K7JYXVJ",
+        "B07D4BQ6L3",
+        "B09X54KK9T",
+        "B0BWY9LQ8B",
+        "B06WWPK98V",
+        "B07SQYWGK6",
+        "B094ZV7SZB",
+        "B07RGR8SZ9",
+        "B09JZMKL86",
+        "B07FWXH9ZW"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000423",
+      "ranked_pids": [
+        "B09J3DHWYK",
+        "B01MDLUWZ7",
+        "B08PNCM5JL",
+        "B00O7MGZ6A",
+        "B08NVS2DXY",
+        "B01BN7T5LI",
+        "B0B4C95WCL",
+        "B0C3Q71MZ4",
+        "B076FZ6LYZ",
+        "B0BGGNZCMG"
+      ]
+    },
+    {
+      "qid": "beauty-train-000199",
+      "ranked_pids": [
+        "B00014JOHA",
+        "B0063HX0R4",
+        "B003EUR1D2",
+        "B0016B5LAQ",
+        "B0016OCTDU",
+        "B00GN5L14A",
+        "B0019FLYP0",
+        "B00FH692PQ",
+        "B08M9S4CLJ",
+        "B00005UQSP"
+      ]
+    },
+    {
+      "qid": "beauty-train-003397",
+      "ranked_pids": [
+        "B007Q0WW0S",
+        "B0007X74E0",
+        "B09MDT2W3K",
+        "B0062W4T98",
+        "B0C34498SH",
+        "B000TW2JQC",
+        "B09FF2KPTC",
+        "B09W2B2PHF",
+        "B00LMIVLXY",
+        "B002CC1ARQ"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000311",
+      "ranked_pids": [
+        "B08GJ4XMG9",
+        "B0BXGBQGJG",
+        "B01MXE52HK",
+        "B07WFHZ1GN",
+        "B0BJQ12X7X",
+        "B07S1HKYYJ",
+        "B0B5ZDB4F4",
+        "B07TWFRJSW",
+        "B09K56JPBK",
+        "B0C3VLFLF2"
+      ]
+    },
+    {
+      "qid": "train-beauty-official-000118",
+      "ranked_pids": [
+        "B07K2MSXQP",
+        "B096KRHQSZ",
+        "B07GC1HCYH",
+        "B0BK948Z16",
+        "B07WYT2PM8",
+        "B002GCKVJA",
+        "B07ZJ99V5T",
+        "B0C7LZKGN8",
+        "B0BX2L2JP6",
+        "B08SL3Z3LQ"
+      ]
+    },
+    {
+      "qid": "beauty-train-002051",
+      "ranked_pids": [
+        "B00D06ARFO",
+        "B00EU7DBQ4",
+        "B008RVYJS8",
+        "B00ARX9X6M",
+        "B00912CL5K",
+        "B009OWLX8I",
+        "B00E19LRA8",
+        "B00BIFWYTG",
+        "B00CGKJ7QU",
+        "B00DPTW8JY"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000092",
+      "ranked_pids": [
+        "B01I6X5RL4",
+        "B07Z6CF5XW",
+        "B00NP5VV28",
+        "B01F0O60CW",
+        "B08G4CV69M",
+        "B0BVGDXDXM",
+        "B08NSVJF5Y",
+        "B08TLGHZWM",
+        "B00MN2TMH0",
+        "B0843D93V3"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000075",
+      "ranked_pids": [
+        "B0B6R9X229",
+        "B004YLU6O6",
+        "B01N5O7551",
+        "B00168YEKC",
+        "B07T8G82YQ",
+        "B0125U36Q2",
+        "B00CMQJW0E",
+        "B09DS3SL7F",
+        "B00FOPO0AW",
+        "B00ISKDOEI"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000092",
+      "ranked_pids": [
+        "B0982XHZFH",
+        "B0BTLH8VST",
+        "B0BBWKM4KS",
+        "B00I53704S",
+        "B078PVB7GM",
+        "B09P85TMTV",
+        "B07PVJ278C",
+        "B0BTL69XLS",
+        "B0BVBW6XFS",
+        "B098F1BLL1"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000213",
+      "ranked_pids": [
+        "B07B35NGKB",
+        "B07DHT9W6M",
+        "B096Q2NY3T",
+        "B0784R8921",
+        "B08TLV1DNX",
+        "B07F8C93HP",
+        "B0861DV2SY",
+        "B01CPRFD8Y",
+        "B09V6XFNTC",
+        "B01LR9ZS4K"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000449",
+      "ranked_pids": [
+        "B0786H9SZ6",
+        "B00B4EJO1C",
+        "B07GZBT1GT",
+        "B07CJXDSV9",
+        "B01N5JB1ZU",
+        "B0B64DXNXL",
+        "B00K89KFX0",
+        "B09DSWRZ1M",
+        "B07BQS63XG",
+        "B00BN6QAWM"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000556",
+      "ranked_pids": [
+        "B0B39P122D",
+        "B07GPCHYLC",
+        "B07K351GP2",
+        "B014MCQY42",
+        "B096XJZNHR",
+        "B0B5NP8131",
+        "B08N892ZWX",
+        "B0C1WDDHSX",
+        "B07N8V5NQR",
+        "B08P3PLQMN"
+      ]
+    },
+    {
+      "qid": "beauty-train-004312",
+      "ranked_pids": [
+        "B003VSDR7Q",
+        "B004RDUILC",
+        "B001C6H6F8",
+        "B002RXW5BA",
+        "B008R56PAY",
+        "B003VSH34Y",
+        "B0061KQG6K",
+        "B005UKRRKG",
+        "B0026J10CU",
+        "B005UL1B34"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000481",
+      "ranked_pids": [
+        "B0036WSVQ4",
+        "B077YPNPJK",
+        "B091D9KR3Z",
+        "B0BVV4XKJ1",
+        "B087H2LWWZ",
+        "B00TM9126G",
+        "B0C5GSB6WJ",
+        "B01N3NOLM8",
+        "B0912YZ8HM",
+        "B0016LKFXE"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000470",
+      "ranked_pids": [
+        "B08NT9C3P7",
+        "B09H6NC1LF",
+        "B09HBNJK56",
+        "B08G8RCNPV",
+        "B0B1F4C9ZM",
+        "B09QCHSQVY",
+        "B083LH2P3R",
+        "B09SWFT1CT",
+        "B07RWNCB9Q",
+        "B07M7D1BXN"
+      ]
+    },
+    {
+      "qid": "beauty-train-004514",
+      "ranked_pids": [
+        "B004Y5M8QQ",
+        "B00BDJNURC",
+        "B004Y5NA1I",
+        "B09YBLC9CG",
+        "B0753Q75KZ",
+        "B0C7V1ZN46",
+        "B004YBC5K4",
+        "B0C95GN2KL",
+        "B07F38DR63",
+        "B001W2X8AO"
+      ]
+    },
+    {
+      "qid": "beauty-train-002093",
+      "ranked_pids": [
+        "B000F4GIPC",
+        "B000F4GIP2",
+        "B000F4GIPM",
+        "B000L8GL8G",
+        "B0013945IA",
+        "B000F4EMP0",
+        "B000LJGRG6",
+        "B00OMRBXGW",
+        "B0054Y0PMK",
+        "B000TMM2PU"
+      ]
+    },
+    {
+      "qid": "beauty-train-002342",
+      "ranked_pids": [
+        "B08TL4S8NF",
+        "B009GEUPMY",
+        "B00F5KDZ4S",
+        "B0BZ3XNRK5",
+        "B00GCQMSVA",
+        "B07TW85NZ2",
+        "B0019Z8HT6",
+        "B07RT73CGB",
+        "B003YCCLIA",
+        "B002UUT38I"
+      ]
+    },
+    {
+      "qid": "beauty-train-002737",
+      "ranked_pids": [
+        "B0B6JFLYXB",
+        "B00IKD3MX6",
+        "B00H2TZ4F8",
+        "B0779G2T91",
+        "B001F51TTA",
+        "B000REO5JQ",
+        "B00I4ZERGG",
+        "B07DJPC8JB",
+        "B003LDJK5O",
+        "B00JYKBZ3I"
+      ]
+    },
+    {
+      "qid": "train-beauty-official-000026",
+      "ranked_pids": [
+        "B004DJVWDS",
+        "B00KK1V28I",
+        "B00SNM5US4",
+        "B003VUAOOI",
+        "B000EVEKMY",
+        "B002IY2EBY",
+        "B000ULRDJU",
+        "B07NQH1CXG",
+        "B07GSV892H",
+        "B003Q33LJ0"
+      ]
+    },
+    {
+      "qid": "beauty-train-000466",
+      "ranked_pids": [
+        "B0046MK34G",
+        "B00I4ZERGG",
+        "B09K4QJ5Q2",
+        "B00BCAQJZW",
+        "B00E0M563U",
+        "B006X1LOQO",
+        "B088ZMW6NT",
+        "B0B3JL6DDC",
+        "B07KGHH67K",
+        "B0012K3RFM"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000437",
+      "ranked_pids": [
+        "B000O5NR5Q",
+        "B07FZVK7YT",
+        "B0BY786P6S",
+        "B0B18DS55M",
+        "B005EZ0U1U",
+        "B07RYN4BCW",
+        "B0897W1H7N",
+        "B01M6V2DM6",
+        "B0BM3FNW3J",
+        "B08CSBQMPX"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000065",
+      "ranked_pids": [
+        "B01ACAURJQ",
+        "B081N39N4W",
+        "B08Y3CL4TK",
+        "B08BVSG4QP",
+        "B09K2SHN2V",
+        "B077G1VMJ1",
+        "B07YMSPXMP",
+        "B088QZ1YDL",
+        "B07NYZS5VG",
+        "B07GBTY9G3"
+      ]
+    },
+    {
+      "qid": "beauty-train-002982",
+      "ranked_pids": [
+        "B0082XRJXS",
+        "B005FK3M46",
+        "B006OMHR1S",
+        "B0080GV0Z0",
+        "B00ANFYEQS",
+        "B00CDGR29G",
+        "B009NCM6JY",
+        "B00649P3H6",
+        "B006OMHUGU",
+        "B006OMHTMK"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000337",
+      "ranked_pids": [
+        "B07ZBF4F3B",
+        "B0948NS32Y",
+        "B09PR4YGJQ",
+        "B08TV4FNP6",
+        "B071RCD31V",
+        "B08BLK61MZ",
+        "B09X2381JH",
+        "B009SQR406",
+        "B0BVLQSRQG",
+        "B01NBIDLGW"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000473",
+      "ranked_pids": [
+        "B0C6F3B8X1",
+        "B01DNB5UY8",
+        "B01K3Q178O",
+        "B09MDPNBYB",
+        "B08FRMCQ13",
+        "B0C65DRWDS",
+        "B098D73J8L",
+        "B0B1WQSLCZ",
+        "B0BN624N2M",
+        "B0C5WFZZL8"
+      ]
+    },
+    {
+      "qid": "beauty-train-000038",
+      "ranked_pids": [
+        "B0BG8HNDD1",
+        "B00ZOTQC0O",
+        "B06XJ24GTH",
+        "B006G4I15K",
+        "B09YNX8QKC",
+        "B00PF9Q5EG",
+        "B01CW9UUQK",
+        "B07PHZF1WW",
+        "B07WDV9FLZ",
+        "B01NH0D2T5"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000178",
+      "ranked_pids": [
+        "B07HCXZC8Z",
+        "B07HCYH14G",
+        "B07HCS6LD2",
+        "B07HCXQ6B2",
+        "B00ECV541I",
+        "B07JMVFTN5",
+        "B07JBB2X39",
+        "B09SQ88Q6N",
+        "B07MBBZQKM",
+        "B07F3FYHGM"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000119",
+      "ranked_pids": [
+        "B08W3KLGF1",
+        "B08WKP2X49",
+        "B08H51L98V",
+        "B098KQMVV3",
+        "B06XSR81VN",
+        "B07FSVNVF3",
+        "B0BDSZZNLV",
+        "B07N8KZZN7",
+        "B07Q4RSDGR",
+        "B014KQ9YH4"
+      ]
+    },
+    {
+      "qid": "beauty-train-000057",
+      "ranked_pids": [
+        "B00I4ZERGG",
+        "B0000Y3C3I",
+        "B0BPQ28KZB",
+        "B00G55LYS6",
+        "B00HQ5K426",
+        "B00DUUGR72",
+        "B006I9RQBI",
+        "B01N4VMLGA",
+        "B015YZQGJO",
+        "B00GEG0FRM"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000520",
+      "ranked_pids": [
+        "B0002INNYU",
+        "B07575NGC4",
+        "B00I77PJC2",
+        "B01N3KVLMW",
+        "B007PALJ5S",
+        "B000H6GZI8",
+        "B005CD3GF6",
+        "B07BSN1YCH",
+        "B0BZ9MD6W2",
+        "B07BMCKW86"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000277",
+      "ranked_pids": [
+        "B0062BXBVG",
+        "B06XGM2Q8P",
+        "B07P5BRF7N",
+        "B08B7J2WD5",
+        "B017P3B0NU",
+        "B09DXSCDQV",
+        "B00RD37JQK",
+        "B07X5DM2P8",
+        "B000TQB7VG",
+        "B0BSL7BBRY"
+      ]
+    },
+    {
+      "qid": "train-home-and-kitchen-000241",
+      "ranked_pids": [
+        "B006ONC6TU",
+        "B07NDJ3XT7",
+        "B008FQC1Q2",
+        "B0011X521M",
+        "B00020BQGK",
+        "B07MZSM8BP",
+        "B00DBTONPK",
+        "B00Y36XAP4",
+        "B09P6189SZ",
+        "B07NZJJG5G"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000466",
+      "ranked_pids": [
+        "B07GFN476K",
+        "B07P7B99DS",
+        "B09TGKMY7C",
+        "B0033990PG",
+        "B01FH80Y8C",
+        "B019JR5AMW",
+        "B07DB3BC3Z",
+        "B088PR54Q5",
+        "B079YXHXX8",
+        "B0014I4TYA"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000518",
+      "ranked_pids": [
+        "B015VGLMAY",
+        "B0B1P527L3",
+        "B0BY3KQ2W5",
+        "B0076L30VM",
+        "B098NSPJS6",
+        "B0CB1FM7VW",
+        "B0B66PQC5P",
+        "B07DWYL6F1",
+        "B095P8PXDZ",
+        "B0BV3QZ4YT"
+      ]
+    },
+    {
+      "qid": "beauty-train-001668",
+      "ranked_pids": [
+        "B00I4ZERGG",
+        "B006I9RQBI",
+        "B0016836RY",
+        "B0BQ1V4345",
+        "B07PLV1VPM",
+        "B000I5MJ8S",
+        "B002CC1ARQ",
+        "B005M05558",
+        "B00J4QYWUU",
+        "B0030GFY02"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000143",
+      "ranked_pids": [
+        "B006O0Y84Y",
+        "B003JTA3LA",
+        "B002YRB35I",
+        "B09V5CH8CR",
+        "B01CXZ45QY",
+        "B097MHS7J9",
+        "B09W92Y3M9",
+        "B0B48F42CS",
+        "B087LKFCSX",
+        "B0152UALF6"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000509",
+      "ranked_pids": [
+        "B08TLT99RQ",
+        "B07VB13NP5",
+        "B07W65PTF5",
+        "B017EQWU0A",
+        "B07BBNPDGQ",
+        "B0BL38YJD1",
+        "B0BK94F922",
+        "B081DRZMCN",
+        "B0BPLH3WRP",
+        "B088GRTXVD"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000213",
+      "ranked_pids": [
+        "B07DDHQGPT",
+        "B001IAHX6A",
+        "B0793RQP3Z",
+        "B01H6M27N2",
+        "B07RSBKJBP",
+        "B087TW38GB",
+        "B09T9DDLLF",
+        "B0BKL6BJTB",
+        "B0BCVTTKXP",
+        "B08JPZ4XDZ"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000450",
+      "ranked_pids": [
+        "B083W279DP",
+        "B07F92ST9Z",
+        "B0B4P8H17C",
+        "B072BYW98S",
+        "B01MTF75KV",
+        "B07YP233BN",
+        "B00IVP18PW",
+        "B08XQMYQ5D",
+        "B076413C2Z",
+        "B002CC1ARQ"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000193",
+      "ranked_pids": [
+        "B07D4QCJTK",
+        "B082SRHNND",
+        "B0BTSRY6PH",
+        "B07PLQPB48",
+        "B01E6IPWH2",
+        "B079K5N7KF",
+        "B09LSK66YY",
+        "B006WRWEJU",
+        "B09W2QY6JP",
+        "B0BJCXXPB6"
+      ]
+    },
+    {
+      "qid": "beauty-train-003736",
+      "ranked_pids": [
+        "B0076H7REM",
+        "B00772CR82",
+        "B0071S7EWQ",
+        "B0076HRUQC",
+        "B000O1DHL4",
+        "B001E23YV0",
+        "B0013K3G02",
+        "B002TLT2TS",
+        "B007BNDOHA",
+        "B000O3BDHW"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000486",
+      "ranked_pids": [
+        "B08TCWQR42",
+        "B01N2SS5VS",
+        "B07PSMDQPB",
+        "B07HB87FXW",
+        "B0B2K8BCGG",
+        "B09WXXM28X",
+        "B0BVBTGN8J",
+        "B07PPVGGN5",
+        "B002CC1ARQ",
+        "B00J0VD3ZY"
+      ]
+    },
+    {
+      "qid": "train-toys-and-games-000261",
+      "ranked_pids": [
+        "B08M9XKYND",
+        "B000BURAP2",
+        "B0001FPRC0",
+        "B0BXYJ387Y",
+        "B085RH2V95",
+        "B08XZSDNQY",
+        "B09WW5SQPP",
+        "B0B13JMFQB",
+        "B0BNMWWHZ2",
+        "B096L8BGVQ"
+      ]
+    },
+    {
+      "qid": "beauty-train-002142",
+      "ranked_pids": [
+        "B008AMKZUU",
+        "B008Q0E714",
+        "B00DJKU1Y8",
+        "B00DH0TRYA",
+        "B003ILUQPM",
+        "B004XJNQXW",
+        "B00F029RNY",
+        "B005FK3M46",
+        "B009NCM6JY",
+        "B006OMHTMK"
+      ]
+    },
+    {
+      "qid": "beauty-train-001639",
+      "ranked_pids": [
+        "B01LTI093E",
+        "B005M31X88",
+        "B000ODM538",
+        "B0C7DPJ616",
+        "B09KPH9SLP",
+        "B002TSA90C",
+        "B089BX8NSJ",
+        "B000052XW5",
+        "B001E96MZ8",
+        "B00GGXFJ7O"
+      ]
+    },
+    {
+      "qid": "beauty-train-004075",
+      "ranked_pids": [
+        "B00F008GFQ",
+        "B001F51TTA",
+        "B00I4ZERGG",
+        "B006I9RQBI",
+        "B00LJEACWC",
+        "B00LICKHOS",
+        "B09Z6MFRCF",
+        "B00KY4X8P6",
+        "B00IXVIG54",
+        "B003BMI628"
+      ]
+    },
+    {
+      "qid": "beauty-train-002270",
+      "ranked_pids": [
+        "B06XJ5XSL1",
+        "B07624D26X",
+        "B0BZB3PM78",
+        "B079ZC5XSP",
+        "B008B7QY0E",
+        "B078SPWH8T",
+        "B079ZG3FWF",
+        "B001MTFMOM",
+        "B009GLQG6Q",
+        "B0B73QSSS3"
+      ]
+    },
+    {
+      "qid": "train-beauty-official-000100",
+      "ranked_pids": [
+        "B00DUUGR72",
+        "B0BYPP7GRN",
+        "B01FR410BG",
+        "B01I9TIUU0",
+        "B0B3C7MN39",
+        "B0BYPRY8DW",
+        "B00I87ISH4",
+        "B00479FP4Q",
+        "B001PRJ9XQ",
+        "B00CHHJX0M"
+      ]
+    },
+    {
+      "qid": "train-sports-and-outdoors-000302",
+      "ranked_pids": [
+        "B08GWTM8JM",
+        "B07NLZ7935",
+        "B09DKP86H7",
+        "B09DFFKWZF",
+        "B0C2H87SKL",
+        "B08BZ3XSL7",
+        "B097G22DHJ",
+        "B0752KNQS3",
+        "B000BKTBR2",
+        "B0BXWZNWQ6"
+      ]
+    },
+    {
+      "qid": "beauty-train-000649",
+      "ranked_pids": [
+        "B00126IXLO",
+        "B06XYNHFF2",
+        "B096LHC1F4",
+        "B001D06VSG",
+        "B00178TVXG",
+        "B0785TX9HV",
+        "B000PSRXSY",
+        "B09KCDYKLX",
+        "B0CB88FF9T",
+        "B07PHZF1WW"
+      ]
+    },
+    {
+      "qid": "beauty-train-003725",
+      "ranked_pids": [
+        "B003N21THK",
+        "B01FR410BG",
+        "B00OPD8WOO",
+        "B00005NFBD",
+        "B00DUUGR72",
+        "B005AN3TK0",
+        "B00I4ZERGG",
+        "B00HDPR7G0",
+        "B00005NFBJ",
+        "B00KNJOLSA"
+      ]
+    },
+    {
+      "qid": "train-pet-supplies-000423",
+      "ranked_pids": [
+        "B014DAHV9U",
+        "B085N17PQN",
+        "B0BG6VPJ72",
+        "B01H4MAFRY",
+        "B0B93MMC49",
+        "B09LR8HR53",
+        "B09G68G6CT",
+        "B00QKYA3TS",
+        "B0026L5UQU",
+        "B09P7B7H8B"
+      ]
+    }
+  ]
+}

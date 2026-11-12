@@ -1,0 +1,833 @@
+{
+  "shared_non_gold_pairs": 5819,
+  "shared_pair_gain_changes": 40,
+  "changes": [
+    {
+      "qid": "beauty-train-000092",
+      "pid": "B0C7DPJ616",
+      "baseline": {
+        "rank": 2,
+        "pid": "B0C7DPJ616",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B0C7DPJ616",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-000218",
+      "pid": "B009G0E19Q",
+      "baseline": {
+        "rank": 2,
+        "pid": "B009G0E19Q",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 1,
+        "pid": "B009G0E19Q",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-000340",
+      "pid": "B00K4FD59E",
+      "baseline": {
+        "rank": 2,
+        "pid": "B00K4FD59E",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 1,
+        "pid": "B00K4FD59E",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "beauty-train-000468",
+      "pid": "B0034W4PWK",
+      "baseline": {
+        "rank": 7,
+        "pid": "B0034W4PWK",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B0034W4PWK",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-001097",
+      "pid": "B002LFNQT4",
+      "baseline": {
+        "rank": 5,
+        "pid": "B002LFNQT4",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 4,
+        "pid": "B002LFNQT4",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-001097",
+      "pid": "B00NLMS94I",
+      "baseline": {
+        "rank": 4,
+        "pid": "B00NLMS94I",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B00NLMS94I",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-001510",
+      "pid": "B00538TSMU",
+      "baseline": {
+        "rank": 6,
+        "pid": "B00538TSMU",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 8,
+        "pid": "B00538TSMU",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-001732",
+      "pid": "B00D2IFG8S",
+      "baseline": {
+        "rank": 8,
+        "pid": "B00D2IFG8S",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 1,
+        "pid": "B00D2IFG8S",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-001837",
+      "pid": "B00H0CVFGO",
+      "baseline": {
+        "rank": 6,
+        "pid": "B00H0CVFGO",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B00H0CVFGO",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-002129",
+      "pid": "B000MC5US8",
+      "baseline": {
+        "rank": 6,
+        "pid": "B000MC5US8",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 2,
+        "pid": "B000MC5US8",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-002329",
+      "pid": "B009ZRFJFA",
+      "baseline": {
+        "rank": 2,
+        "pid": "B009ZRFJFA",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 4,
+        "pid": "B009ZRFJFA",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-002548",
+      "pid": "B00AM7BSXO",
+      "baseline": {
+        "rank": 2,
+        "pid": "B00AM7BSXO",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 1,
+        "pid": "B00AM7BSXO",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "beauty-train-002935",
+      "pid": "B000GX77NO",
+      "baseline": {
+        "rank": 8,
+        "pid": "B000GX77NO",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 5,
+        "pid": "B000GX77NO",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-003188",
+      "pid": "B003V3AZJY",
+      "baseline": {
+        "rank": 5,
+        "pid": "B003V3AZJY",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B003V3AZJY",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-003442",
+      "pid": "B006HT0AK8",
+      "baseline": {
+        "rank": 8,
+        "pid": "B006HT0AK8",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 6,
+        "pid": "B006HT0AK8",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-003936",
+      "pid": "B0BWT8WW8K",
+      "baseline": {
+        "rank": 1,
+        "pid": "B0BWT8WW8K",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B0BWT8WW8K",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-003956",
+      "pid": "B000XFWO10",
+      "baseline": {
+        "rank": 7,
+        "pid": "B000XFWO10",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B000XFWO10",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-004352",
+      "pid": "B001GNBW0W",
+      "baseline": {
+        "rank": 7,
+        "pid": "B001GNBW0W",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B001GNBW0W",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "beauty-train-004433",
+      "pid": "B00547HS36",
+      "baseline": {
+        "rank": 8,
+        "pid": "B00547HS36",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B00547HS36",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-beauty-official-000354",
+      "pid": "B002LMBLTY",
+      "baseline": {
+        "rank": 2,
+        "pid": "B002LMBLTY",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 2,
+        "pid": "B002LMBLTY",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-home-and-kitchen-000162",
+      "pid": "B0BZ8CV73M",
+      "baseline": {
+        "rank": 6,
+        "pid": "B0BZ8CV73M",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B0BZ8CV73M",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-home-and-kitchen-000355",
+      "pid": "B09D5BBV2N",
+      "baseline": {
+        "rank": 7,
+        "pid": "B09D5BBV2N",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 6,
+        "pid": "B09D5BBV2N",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "train-pet-supplies-000004",
+      "pid": "B08TXN34M8",
+      "baseline": {
+        "rank": 6,
+        "pid": "B08TXN34M8",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 1,
+        "pid": "B08TXN34M8",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-pet-supplies-000112",
+      "pid": "B07GB4ZY87",
+      "baseline": {
+        "rank": 3,
+        "pid": "B07GB4ZY87",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 10,
+        "pid": "B07GB4ZY87",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "train-pet-supplies-000199",
+      "pid": "B012EFKJY0",
+      "baseline": {
+        "rank": 3,
+        "pid": "B012EFKJY0",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B012EFKJY0",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-pet-supplies-000375",
+      "pid": "B09NNH5SFV",
+      "baseline": {
+        "rank": 6,
+        "pid": "B09NNH5SFV",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B09NNH5SFV",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-sports-and-outdoors-000034",
+      "pid": "B082K2NM99",
+      "baseline": {
+        "rank": 10,
+        "pid": "B082K2NM99",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 9,
+        "pid": "B082K2NM99",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "train-sports-and-outdoors-000138",
+      "pid": "B01HG434W8",
+      "baseline": {
+        "rank": 8,
+        "pid": "B01HG434W8",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 6,
+        "pid": "B01HG434W8",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "train-sports-and-outdoors-000182",
+      "pid": "B093HBQTKP",
+      "baseline": {
+        "rank": 3,
+        "pid": "B093HBQTKP",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B093HBQTKP",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "train-sports-and-outdoors-000328",
+      "pid": "B081544YH8",
+      "baseline": {
+        "rank": 5,
+        "pid": "B081544YH8",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 5,
+        "pid": "B081544YH8",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-sports-and-outdoors-000391",
+      "pid": "B01GBEAD14",
+      "baseline": {
+        "rank": 1,
+        "pid": "B01GBEAD14",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B01GBEAD14",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-sports-and-outdoors-000442",
+      "pid": "B00Q8HN0NI",
+      "baseline": {
+        "rank": 4,
+        "pid": "B00Q8HN0NI",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B00Q8HN0NI",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "train-sports-and-outdoors-000489",
+      "pid": "B08D96JYTG",
+      "baseline": {
+        "rank": 1,
+        "pid": "B08D96JYTG",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 1,
+        "pid": "B08D96JYTG",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-toys-and-games-000115",
+      "pid": "B00BB7ZYKM",
+      "baseline": {
+        "rank": 4,
+        "pid": "B00BB7ZYKM",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 5,
+        "pid": "B00BB7ZYKM",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-toys-and-games-000129",
+      "pid": "B089P25SXB",
+      "baseline": {
+        "rank": 8,
+        "pid": "B089P25SXB",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 6,
+        "pid": "B089P25SXB",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-toys-and-games-000142",
+      "pid": "B09X1147HN",
+      "baseline": {
+        "rank": 2,
+        "pid": "B09X1147HN",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 1,
+        "pid": "B09X1147HN",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-toys-and-games-000178",
+      "pid": "B07JBB2X39",
+      "baseline": {
+        "rank": 4,
+        "pid": "B07JBB2X39",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 4,
+        "pid": "B07JBB2X39",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-toys-and-games-000258",
+      "pid": "B082H42777",
+      "baseline": {
+        "rank": 2,
+        "pid": "B082H42777",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      },
+      "h5": {
+        "rank": 6,
+        "pid": "B082H42777",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      }
+    },
+    {
+      "qid": "train-toys-and-games-000316",
+      "pid": "B07C7NFNBX",
+      "baseline": {
+        "rank": 5,
+        "pid": "B07C7NFNBX",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 3,
+        "pid": "B07C7NFNBX",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    },
+    {
+      "qid": "train-toys-and-games-000512",
+      "pid": "B082H47DN5",
+      "baseline": {
+        "rank": 4,
+        "pid": "B082H47DN5",
+        "gain": 1,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": true}"
+      },
+      "h5": {
+        "rank": 7,
+        "pid": "B082H47DN5",
+        "gain": 0.0,
+        "source": "llm",
+        "parse_ok": true,
+        "raw_output": "{\"relevant\": false}"
+      }
+    }
+  ],
+  "baseline_first_accepted": {
+    "rank1": 534,
+    "rank2_10": 307,
+    "no_accepted_top10": 125
+  },
+  "h5_first_accepted": {
+    "rank1": 593,
+    "no_accepted_top10": 103,
+    "rank2_10": 270
+  },
+  "paired_counts": {
+    "graded_recall@10": {
+      "mean_difference": 0.022774327122153208,
+      "improved": 42,
+      "worsened": 20
+    },
+    "graded_mrr@10": {
+      "mean_difference": 0.04889291465378422,
+      "improved": 214,
+      "worsened": 105
+    }
+  },
+  "note": "Single original Judge run per configuration; shared decisions can vary with batch composition, cause not isolated. Both raw outputs retained; no cherry-picking.",
+  "input_sha256": {
+    "results/h3_base5_graded.json": "e42858737b28af8b90250c8eaf6fdfdb0b16ce672f37f915b74ddaf46dbefc94",
+    "results/h5_base5_graded.json": "d493fcef58bc300ca65a1214fa0bac651ad7785b6c7ab460cb4f7dfc840acd27"
+  }
+}

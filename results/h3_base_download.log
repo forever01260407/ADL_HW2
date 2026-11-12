@@ -1,0 +1,11 @@
+{"file": "1_Pooling/config.json", "bytes": 190, "verified": true}
+{"file": "config.json", "bytes": 777, "verified": true}
+{"file": "config_sentence_transformers.json", "bytes": 124, "verified": true}
+{"file": "model.safetensors", "bytes": 437955512, "verified": true}
+{"file": "modules.json", "bytes": 349, "verified": true}
+{"file": "sentence_bert_config.json", "bytes": 52, "verified": true}
+{"file": "special_tokens_map.json", "bytes": 125, "verified": true}
+{"file": "tokenizer.json", "bytes": 711396, "verified": true}
+{"file": "tokenizer_config.json", "bytes": 366, "verified": true}
+{"file": "vocab.txt", "bytes": 231508, "verified": true}
+{"bytes": 438900399, "files": 10}

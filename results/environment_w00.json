@@ -1,0 +1,48 @@
+{
+  "checked_at_utc": "2026-10-23T12:03:27.118216+00:00",
+  "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+  "executable": "/home/charlie/miniconda3/envs/ADL-final/bin/python",
+  "disk_free_gib": 18.51,
+  "imports": {
+    "torch": {
+      "ok": true,
+      "version": "2.8.0+cu128"
+    },
+    "numpy": {
+      "ok": true,
+      "version": "2.3.5"
+    },
+    "transformers": {
+      "ok": true,
+      "version": "4.56.2"
+    },
+    "sentence_transformers": {
+      "ok": true,
+      "version": "5.1.0"
+    },
+    "faiss": {
+      "ok": false,
+      "error": "No module named 'faiss'",
+      "exception": "ModuleNotFoundError"
+    },
+    "datasets": {
+      "ok": true,
+      "version": "4.0.0"
+    },
+    "huggingface_hub": {
+      "ok": true,
+      "version": "0.36.0"
+    },
+    "accelerate": {
+      "ok": true,
+      "version": "1.10.1"
+    }
+  },
+  "gpu": {
+    "available": true,
+    "cuda_runtime": "12.8",
+    "name": "NVIDIA GeForce RTX 4090",
+    "memory_bytes": 25756696576
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "graded_adoption_gate_failed",
+  "quality_adoption_gate": {
+    "passed": false,
+    "checks": {
+      "recall_vs_small5": true,
+      "mrr_vs_small5": true,
+      "recall_vs_small6": true,
+      "mrr_vs_small6": true,
+      "beauty:graded_recall@10": true,
+      "beauty:graded_mrr@10": true,
+      "home-and-kitchen:graded_recall@10": true,
+      "home-and-kitchen:graded_mrr@10": true,
+      "pet-supplies:graded_recall@10": false,
+      "pet-supplies:graded_mrr@10": true,
+      "sports-and-outdoors:graded_recall@10": true,
+      "sports-and-outdoors:graded_mrr@10": true,
+      "toys-and-games:graded_recall@10": true,
+      "toys-and-games:graded_mrr@10": true
+    }
+  },
+  "small5": {
+    "queries": 966,
+    "graded_recall@10": 0.8467908902691511,
+    "graded_mrr@10": 0.631014410595156
+  },
+  "base5": {
+    "queries": 966,
+    "graded_recall@10": 0.870600414078675,
+    "graded_mrr@10": 0.6582980051924151
+  },
+  "small6": {
+    "queries": 966,
+    "graded_recall@10": 0.8457556935817805,
+    "graded_mrr@10": 0.6294008182983338
+  }
+}

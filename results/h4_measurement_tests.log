@@ -1,0 +1,7 @@
+test_relative_log_path_is_saved_and_previous_attempt_not_overwritten (test_measurement.MeasurementTests.test_relative_log_path_is_saved_and_previous_attempt_not_overwritten) ... ok
+test_resource_gate_requires_real_budget_and_no_candidate_overrides (test_measurement.MeasurementTests.test_resource_gate_requires_real_budget_and_no_candidate_overrides) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.003s
+
+OK

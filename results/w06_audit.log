@@ -1,0 +1,49 @@
+{
+  "audit": "passed",
+  "splits": {
+    "dev_fast": {
+      "gold_only": {
+        "queries": 100,
+        "gold_hit@1": 0.17,
+        "gold_mrr@1": 0.17,
+        "gold_hit@10": 0.46,
+        "gold_mrr@10": 0.24853968253968253
+      },
+      "official_graded": {
+        "queries": 100,
+        "graded_recall@10": 0.68,
+        "graded_mrr@10": 0.375484126984127
+      }
+    },
+    "dev": {
+      "gold_only": {
+        "queries": 966,
+        "gold_hit@1": 0.2225672877846791,
+        "gold_mrr@1": 0.2225672877846791,
+        "gold_hit@10": 0.468944099378882,
+        "gold_mrr@10": 0.29241595188800157
+      },
+      "official_graded": {
+        "queries": 966,
+        "graded_recall@10": 0.6521739130434783,
+        "graded_mrr@10": 0.39644582470669426
+      }
+    }
+  },
+  "candidate_diagnostic": {
+    "metrics": {
+      "queries": 966,
+      "gold_hit@1": 0.2225672877846791,
+      "gold_mrr@1": 0.2225672877846791,
+      "gold_hit@10": 0.468944099378882,
+      "gold_mrr@10": 0.29241595188800157,
+      "gold_hit@50": 0.6490683229813664,
+      "gold_mrr@50": 0.3011336507900343
+    },
+    "top10_prefix_check": {
+      "queries": 966,
+      "changed_top10_count": 0,
+      "changed_qids": []
+    }
+  }
+}

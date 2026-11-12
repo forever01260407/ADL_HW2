@@ -1,0 +1,21 @@
+{
+  "model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+  },
+  "batch_size": 8,
+  "max_new_tokens": 12,
+  "dtype": "bfloat16",
+  "do_sample": false,
+  "truncation": false,
+  "maximum_public_judge_runs": 1,
+  "non_gold_comparisons": 9146,
+  "max_input_tokens": 2399,
+  "context_limit": 32768,
+  "input_sha256": {
+    "results/h4_public_plan.json": "73f632d26dc99a66e80dad2bedc5cce39700b8bf2f946209f06fda4ff56dbbf0",
+    "results/h4_base5_public_top10.json": "de16fa6f19f332f1fae343d4afa7f4c5af4f2f553194e5d1df2c5ab5eba10e55",
+    "results/h4_base5_public_top50.json": "e884630ede88ebcb8477187b55f1414292d857e6645ffdb5328a1d4b0e48baef"
+  }
+}

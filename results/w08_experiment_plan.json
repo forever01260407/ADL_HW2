@@ -1,0 +1,18 @@
+{
+  "experiment": "w08_bge_small_epoch1",
+  "maximum_quality_training_runs": 1,
+  "epochs": 1,
+  "maximum_official_judge_runs": 1,
+  "gold_gate": "overall and beauty-train Hit10/MRR10/Hit50 nondecreasing, at least one improvement per group",
+  "adoption_gate": "official Recall10/MRR10 nondecreasing and at least one improvement",
+  "baseline": "H1 hybrid full/1/1",
+  "config_sha256": "257930e09262738e2601cc99177dc87e08de269d748373dd9465ae8d9050f2f0",
+  "baseline_sha256": {
+    "results/h1_hybrid_dev_top50.json": "b7cf5813c001bbb5ad73cbba38e7edc511570f7b4d930600f88d5df75a5ea988",
+    "results/h1_hybrid_dev_graded.json": "4d7ff4672ba70dc41d84b31581669a24a49e01718179043391b232e1d763065c",
+    "results/h1u_baseline_gold.json": "63eca98657454ff785d09f4c2e8bfacb74ab3e08ee5327085ea4bb08bd174c90"
+  },
+  "smoke_passed": true,
+  "smoke_valid_queries": 8,
+  "formal_hardware_validated": false
+}

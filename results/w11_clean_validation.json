@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "queries": 966,
+  "products": 50000,
+  "top_k": 50,
+  "changed_rankings": 0,
+  "rankings_equal_original_h5": true,
+  "local_archive_download_install_verified": true,
+  "remote_download_verified": false,
+  "official_hardware_validation": false,
+  "cold_process_wall_seconds": 186.16127546899952,
+  "budget_checks": {
+    "allocator_budget_configured": true,
+    "cuda_allocated_within_budget": true,
+    "cuda_reserved_within_budget": true,
+    "rss_under_32gib": true,
+    "under_one_hour": true,
+    "batch32": true,
+    "no_configuration_overrides": true
+  },
+  "resources": {
+    "exit_code": 0,
+    "error": null,
+    "entrypoint_wall_seconds": 185.07965024499572,
+    "peak_process_rss_bytes": 2018402304,
+    "peak_cuda_allocated_bytes": 1111927808,
+    "peak_cuda_reserved_bytes": 1407188992,
+    "gpu_name": "NVIDIA GeForce RTX 4090",
+    "gpu_total_memory_bytes": 25756696576,
+    "cuda_allocator_budget_gib": 8.0,
+    "cuda_allocator_fraction": 0.33350296171148247,
+    "versions": {
+      "torch": "2.8.0+cu128",
+      "transformers": "4.56.1",
+      "sentence_transformers": "5.1.0",
+      "numpy": "1.26.4",
+      "faiss": "1.12.0"
+    },
+    "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+    "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35"
+  },
+  "model_archive_sha256": "714d7a9be5486de5db8c59a8fba1a9f65d4e868f3c00b668500c20e5d8309768"
+}

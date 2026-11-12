@@ -1,0 +1,81 @@
+{
+  "metrics": {
+    "queries": 1000,
+    "graded_recall@10": 0.902,
+    "graded_mrr@10": 0.7043484126984128
+  },
+  "comparisons": 9181,
+  "parse_failures": 0,
+  "grade_estimate": {
+    "split": "public",
+    "interpretation": "estimated additive per-cell course percentage points; exact boundary/grading rules not explicitly confirmed",
+    "cells": [
+      {
+        "tier": "simple",
+        "metric": "graded_recall@10",
+        "threshold": 0.86,
+        "actual": 0.902,
+        "course_percentage_points": 2,
+        "relation": "above",
+        "estimated_if_inclusive": 2,
+        "estimated_if_strict": 2
+      },
+      {
+        "tier": "simple",
+        "metric": "graded_mrr@10",
+        "threshold": 0.65,
+        "actual": 0.7043484126984128,
+        "course_percentage_points": 2,
+        "relation": "above",
+        "estimated_if_inclusive": 2,
+        "estimated_if_strict": 2
+      },
+      {
+        "tier": "strong",
+        "metric": "graded_recall@10",
+        "threshold": 0.885,
+        "actual": 0.902,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      },
+      {
+        "tier": "strong",
+        "metric": "graded_mrr@10",
+        "threshold": 0.68,
+        "actual": 0.7043484126984128,
+        "course_percentage_points": 1,
+        "relation": "above",
+        "estimated_if_inclusive": 1,
+        "estimated_if_strict": 1
+      },
+      {
+        "tier": "boss",
+        "metric": "graded_recall@10",
+        "threshold": 0.95,
+        "actual": 0.902,
+        "course_percentage_points": 1,
+        "relation": "below",
+        "estimated_if_inclusive": 0,
+        "estimated_if_strict": 0
+      },
+      {
+        "tier": "boss",
+        "metric": "graded_mrr@10",
+        "threshold": 0.8,
+        "actual": 0.7043484126984128,
+        "course_percentage_points": 1,
+        "relation": "below",
+        "estimated_if_inclusive": 0,
+        "estimated_if_strict": 0
+      }
+    ],
+    "estimated_points_inclusive": 6,
+    "estimated_points_strict": 6,
+    "available_points": 8,
+    "private_points_known": false,
+    "report_points_known": false
+  },
+  "official_hardware_validation": false
+}

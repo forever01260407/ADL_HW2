@@ -1,0 +1,2 @@
+retrieval: products=50000 queries=966 model=/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/bge-small-en-v1.5 batch=32 backend=faiss retriever=dense rerank=False pre_rerank_s=95.770 truncated_queries=0 load_and_products_s=91.750 total_function_s=95.770
+Saved 966 ranked lists -> results/h1u_dense_top100.json

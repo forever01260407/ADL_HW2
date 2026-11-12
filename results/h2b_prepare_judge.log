@@ -1,0 +1,20 @@
+{
+  "selected_variant": "d6_b1",
+  "ranking_path": "results/h2b_d6_b1_top10.json",
+  "ranking_sha256": "748ae810646621ab39de61fe2f59ec6651483eb659b444e3ae7048eebea6cb7c",
+  "model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+  },
+  "maximum_full_dev_judge_runs": 1,
+  "queries": 966,
+  "non_gold_comparisons": 8962,
+  "max_input_tokens": 2285,
+  "context_limit": 32768,
+  "batch_size": 8,
+  "max_new_tokens": 12,
+  "dtype": "bfloat16",
+  "do_sample": false,
+  "truncation": false
+}

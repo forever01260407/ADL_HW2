@@ -1,0 +1,93 @@
+{
+  "pages": 13,
+  "raw_generation_outputs": 15,
+  "all_raw_text_preserved_ignoring_layout_whitespace": true,
+  "replacement_characters": 0,
+  "all_pages_rendered_and_visually_inspected": true,
+  "render_resolution_dpi": 80,
+  "contact_sheets": [
+    "tmp/pdfs/final-sheet-1.png",
+    "tmp/pdfs/final-sheet-2.png",
+    "tmp/pdfs/final-sheet-3.png"
+  ],
+  "layout_notes": "13 pages; tables and bilingual glyphs readable; all five samples have all three original outputs; sample2 dialogue explicitly summarized, full original in saved plan",
+  "pdf_sha256": "9dd2dc1d2741f005c6178193b9993259292efdf4c7f9e11d9455852a75ada3f6",
+  "source_builder_sha256": "406c1baeca1f71731fe841d4c12b3962f91cb417d554c764494444a71369be36",
+  "checks": [
+    {
+      "qid": "train-pet-supplies-000140",
+      "prompt_id": "G-P1",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000140",
+      "prompt_id": "G-P2",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000140",
+      "prompt_id": "G-P3",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "prompt_id": "G-P1",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "prompt_id": "G-P2",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-sports-and-outdoors-000373",
+      "prompt_id": "G-P3",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "beauty-train-003071",
+      "prompt_id": "G-P1",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "beauty-train-003071",
+      "prompt_id": "G-P2",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "beauty-train-003071",
+      "prompt_id": "G-P3",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "prompt_id": "G-P1",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "prompt_id": "G-P2",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "train-pet-supplies-000234",
+      "prompt_id": "G-P3",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "beauty-train-001206",
+      "prompt_id": "G-P1",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "beauty-train-001206",
+      "prompt_id": "G-P2",
+      "raw_text_preserved": true
+    },
+    {
+      "qid": "beauty-train-001206",
+      "prompt_id": "G-P3",
+      "raw_text_preserved": true
+    }
+  ]
+}

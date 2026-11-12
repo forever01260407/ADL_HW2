@@ -1,0 +1,74 @@
+{
+  "kind": "assistant_subjective_review_not_official_quality_score",
+  "reviewer": "Codex assistant; not user annotation, an independent judge, or blinded review",
+  "outputs_reviewed": 15,
+  "dimensions": [
+    "current_need",
+    "constraints_and_preferences",
+    "evidence_faithfulness",
+    "no_unsupported_claims",
+    "clarity"
+  ],
+  "by_prompt": {
+    "G-P1": {
+      "samples": 5,
+      "subjective_mean_scores": {
+        "current_need": 1.2,
+        "constraints_and_preferences": 1.2,
+        "evidence_faithfulness": 1.0,
+        "no_unsupported_claims": 0.4,
+        "clarity": 2.0
+      },
+      "subjective_mean_total_out_of_10": 5.8,
+      "measured_diagnostics": {
+        "outputs_mentioning_any_pid": 1,
+        "outputs_with_requested_pid_format": 0,
+        "outputs_with_out_of_evidence_pid": 0,
+        "over_120_words": 0,
+        "length_capped": 0
+      }
+    },
+    "G-P2": {
+      "samples": 5,
+      "subjective_mean_scores": {
+        "current_need": 1.2,
+        "constraints_and_preferences": 1.2,
+        "evidence_faithfulness": 0.2,
+        "no_unsupported_claims": 0.4,
+        "clarity": 1.4
+      },
+      "subjective_mean_total_out_of_10": 4.4,
+      "measured_diagnostics": {
+        "outputs_mentioning_any_pid": 2,
+        "outputs_with_requested_pid_format": 0,
+        "outputs_with_out_of_evidence_pid": 0,
+        "over_120_words": 1,
+        "length_capped": 0
+      }
+    },
+    "G-P3": {
+      "samples": 5,
+      "subjective_mean_scores": {
+        "current_need": 0.8,
+        "constraints_and_preferences": 1.0,
+        "evidence_faithfulness": 0.2,
+        "no_unsupported_claims": 0.0,
+        "clarity": 1.2
+      },
+      "subjective_mean_total_out_of_10": 3.2,
+      "measured_diagnostics": {
+        "outputs_mentioning_any_pid": 1,
+        "outputs_with_requested_pid_format": 0,
+        "outputs_with_out_of_evidence_pid": 0,
+        "over_120_words": 3,
+        "length_capped": 0
+      }
+    }
+  },
+  "input_sha256": {
+    "results/w09_q2/review.json": "0c7318f499f44e6e2c68fc6a6a873b6ef172bf8ce417f90045d7218a2b5fc115",
+    "results/w09_q2/outputs.jsonl": "8300d4ac904db0535f42438da448f683de0128435474c2c608a5f191488dc988",
+    "results/w09_q2/plan.json": "5eaac8fe86811e48f02f0554612e2474e463f784f80f55f3fc5703ca6d666699",
+    "code/script/analyze_generation.py": "fa144158c7ace402faf1d2d6c5de54b233d89b24527fa6a74f271eb962e887b7"
+  }
+}

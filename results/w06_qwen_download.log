@@ -1,0 +1,2 @@
+Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]Fetching 7 files:  14%|█▍        | 1/7 [00:00<00:02,  2.67it/s]Fetching 7 files:  43%|████▎     | 3/7 [00:00<00:00,  4.68it/s]Fetching 7 files:  57%|█████▋    | 4/7 [00:51<00:53, 17.79s/it]Fetching 7 files: 100%|██████████| 7/7 [00:51<00:00,  7.38s/it]
+{"role": "generator", "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306", "files": 7, "bytes": 3098955668}

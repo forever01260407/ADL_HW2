@@ -1,0 +1,4 @@
+You're using a BertTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+rerank: model=/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/ms-marco-MiniLM-L6-v2 candidates=50 pairs=48300 batch=16 truncated_queries=0 rerank_s=66.765
+retrieval: products=50000 queries=966 model=/mnt/c/Users/yuting/Desktop/HW2_ADL/artifacts/models/bge-small-en-v1.5 batch=32 backend=faiss rerank=True dense_s=83.927 truncated_queries=0 load_and_products_s=79.109 total_function_s=150.693
+Saved 966 ranked lists -> results/w07_a1_dev_top10.json

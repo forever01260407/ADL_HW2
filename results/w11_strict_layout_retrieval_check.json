@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "queries": 8,
+  "products": 12,
+  "top_k": 10,
+  "all_rankings_equal": true,
+  "valid_unique_top10": true,
+  "wall_seconds": [
+    19.88620645900002,
+    20.262440767999976
+  ],
+  "quality_evaluation": false,
+  "public_runs": 0,
+  "judge_runs": 0
+}

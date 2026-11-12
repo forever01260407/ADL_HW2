@@ -1,0 +1,1 @@
+{"plan": "/mnt/c/Users/yuting/Desktop/HW2_ADL/results/h2_rrf_plan.json", "checkpoint_files_verified": 10, "lexical_cache_verified": true, "configs": {"dense_only": [1, 0], "d075_b1": [0.75, 1], "d1_b1": [1, 1], "d11_b1": [1.1, 1], "d15_b1": [1.5, 1], "d2_b1": [2, 1], "d3_b1": [3, 1], "d4_b1": [4, 1]}}

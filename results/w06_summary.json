@@ -1,0 +1,215 @@
+{
+  "scope": "B0 fixed grouped dev only; no public results or training",
+  "candidate_products": 50000,
+  "models": {
+    "embedding": {
+      "repo_id": "BAAI/bge-small-en-v1.5",
+      "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+      "path": "artifacts/models/bge-small-en-v1.5"
+    },
+    "generator": {
+      "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+    }
+  },
+  "splits": {
+    "dev_fast": {
+      "gold_only": {
+        "queries": 100,
+        "gold_hit@1": 0.17,
+        "gold_mrr@1": 0.17,
+        "gold_hit@10": 0.46,
+        "gold_mrr@10": 0.24853968253968253
+      },
+      "official_graded": {
+        "metrics": {
+          "queries": 100,
+          "graded_recall@10": 0.68,
+          "graded_mrr@10": 0.375484126984127
+        },
+        "comparisons": 954,
+        "parse_failures": 0,
+        "judge_resources": {
+          "peak_cuda_memory_gib": 4.261152267456055,
+          "peak_cuda_memory_reserved_gib": 5.8984375
+        },
+        "judge_runtime_seconds": 85.63518757099996
+      },
+      "graded_by_message_count": {
+        "3": {
+          "queries": 50,
+          "graded_recall@10": 0.62,
+          "graded_mrr@10": 0.27674603174603174
+        },
+        "5": {
+          "queries": 50,
+          "graded_recall@10": 0.74,
+          "graded_mrr@10": 0.47422222222222227
+        }
+      },
+      "retrieval_cold_wall_seconds": 112.304603831,
+      "retrieval_resources": {
+        "entrypoint_wall_seconds": 111.28549596399999,
+        "peak_process_rss_bytes": 1788530688,
+        "peak_cuda_allocated_bytes": 503805952,
+        "peak_cuda_reserved_bytes": 717225984,
+        "gpu_name": "NVIDIA GeForce RTX 4090",
+        "gpu_total_memory_bytes": 25756696576,
+        "versions": {
+          "torch": "2.8.0+cu128",
+          "transformers": "4.56.1",
+          "sentence_transformers": "5.1.0",
+          "numpy": "1.26.4",
+          "faiss": "1.12.0"
+        },
+        "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+        "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+        "exit_code": 0,
+        "error": null
+      },
+      "judge_cold_wall_seconds": 88.14895507799997
+    },
+    "dev": {
+      "gold_only": {
+        "queries": 966,
+        "gold_hit@1": 0.2225672877846791,
+        "gold_mrr@1": 0.2225672877846791,
+        "gold_hit@10": 0.468944099378882,
+        "gold_mrr@10": 0.29241595188800157
+      },
+      "official_graded": {
+        "metrics": {
+          "queries": 966,
+          "graded_recall@10": 0.6521739130434783,
+          "graded_mrr@10": 0.39644582470669426
+        },
+        "comparisons": 9207,
+        "parse_failures": 0,
+        "judge_resources": {
+          "peak_cuda_memory_gib": 4.554347515106201,
+          "peak_cuda_memory_reserved_gib": 8.630859375
+        },
+        "judge_runtime_seconds": 580.282922581
+      },
+      "graded_by_message_count": {
+        "3": {
+          "queries": 489,
+          "graded_recall@10": 0.6155419222903885,
+          "graded_mrr@10": 0.34992534164313305
+        },
+        "5": {
+          "queries": 477,
+          "graded_recall@10": 0.689727463312369,
+          "graded_mrr@10": 0.4441366343882067
+        }
+      },
+      "retrieval_cold_wall_seconds": 105.08243603799997,
+      "retrieval_resources": {
+        "entrypoint_wall_seconds": 104.089109307,
+        "peak_process_rss_bytes": 1788010496,
+        "peak_cuda_allocated_bytes": 503805952,
+        "peak_cuda_reserved_bytes": 717225984,
+        "gpu_name": "NVIDIA GeForce RTX 4090",
+        "gpu_total_memory_bytes": 25756696576,
+        "versions": {
+          "torch": "2.8.0+cu128",
+          "transformers": "4.56.1",
+          "sentence_transformers": "5.1.0",
+          "numpy": "1.26.4",
+          "faiss": "1.12.0"
+        },
+        "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+        "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+        "exit_code": 0,
+        "error": null
+      },
+      "judge_cold_wall_seconds": 583.114356848
+    }
+  },
+  "official_hardware_validation": false,
+  "dev_fast_vs_full_dev_rankings": {
+    "queries": 100,
+    "changed_top10_count": 0,
+    "changed_qids": []
+  },
+  "dev_fast_vs_full_dev_judge_metrics": {
+    "different_qid_count": 4,
+    "different_qids": [
+      "beauty-train-000999",
+      "beauty-train-002329",
+      "train-pet-supplies-000213",
+      "train-pet-supplies-000509"
+    ],
+    "note": "same queries may have different padding/grouping in batch-8 runs"
+  },
+  "candidate_diagnostic": {
+    "metrics": {
+      "queries": 966,
+      "gold_hit@1": 0.2225672877846791,
+      "gold_mrr@1": 0.2225672877846791,
+      "gold_hit@10": 0.468944099378882,
+      "gold_mrr@10": 0.29241595188800157,
+      "gold_hit@50": 0.6490683229813664,
+      "gold_mrr@50": 0.3011336507900343
+    },
+    "top10_prefix_check": {
+      "queries": 966,
+      "changed_top10_count": 0,
+      "changed_qids": []
+    }
+  },
+  "token_statistics": {
+    "model": {
+      "repo_id": "BAAI/bge-small-en-v1.5",
+      "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+      "path": "artifacts/models/bge-small-en-v1.5"
+    },
+    "policy": "product head truncation at 512 tokens; query raw text if it fits, otherwise head/tail",
+    "source": {
+      "products": "data/train/products.jsonl",
+      "queries": "data/derived/dev.jsonl"
+    },
+    "products": {
+      "count": 50000,
+      "min": 8,
+      "max": 2746,
+      "p50": 387.0,
+      "p95": 692.0,
+      "over_limit": 13488,
+      "limit": 512,
+      "truncated_fraction": 0.26976,
+      "first_10_over_limit_ids": [
+        "B0000530ED",
+        "B0000535CH",
+        "B00005A441",
+        "B00006FE2Z",
+        "B00006JN4F",
+        "B00006WNSM",
+        "B00008BNZ4",
+        "B00008Y1BE",
+        "B00009YJSJ",
+        "B00011EXBA"
+      ]
+    },
+    "dev_queries_with_instruction": {
+      "count": 966,
+      "min": 55,
+      "max": 200,
+      "p50": 104.0,
+      "p95": 168.0,
+      "over_limit": 0,
+      "limit": 512,
+      "truncated_fraction": 0.0,
+      "first_10_over_limit_ids": []
+    }
+  },
+  "protected_sources_unchanged": true,
+  "notes": [
+    "dev-fast is a subset of dev, not an independent holdout",
+    "gold-only misses may still be acceptable alternatives",
+    "Overall GPU memory usage was high and could not be attributed to this process; timings are observed runs, not a clean hardware benchmark",
+    "fresh process and full rebuilt index; OS disk cache was not flushed",
+    "RTX 4090 / Python 3.12.12 differs from required RTX 3070 / Python 3.12.9"
+  ]
+}

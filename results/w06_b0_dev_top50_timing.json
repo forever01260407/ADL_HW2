@@ -1,0 +1,68 @@
+{
+  "started_utc": "2026-10-23T19:04:04.853245+00:00",
+  "command": [
+    "/mnt/c/Users/yuting/Desktop/HW2_ADL/.venv/bin/python",
+    "retrieval.py",
+    "--dialogues",
+    "data/derived/dev.jsonl",
+    "--products",
+    "data/train/products.jsonl",
+    "--top-k",
+    "50",
+    "--output",
+    "results/w06_b0_dev_top50.json"
+  ],
+  "input_sha256": {
+    "retrieval.py": "7c0a0c0a6a5f466a3a3bcf78e7d410bacaf1876eeb44aa3cae10c6cebba8f774",
+    "evaluate.py": "0f640c6b126594d75d39baa1c3b7447185fda9010a5e8486a88e29198b23acbf",
+    "eval_utils.py": "47b1dd2dee9b6c9769d4952dc32712ac8e25f0cb57665ceb2247880d43e32e0b",
+    "retrieval_utils.py": "cc7c402ffdda983af58024044e0a2ff38de33cfcddb7154a085c0e0177f241bc",
+    "code/script/run_measured.py": "e01886c6bd5ecbb47d66f463f96214fe2dcd8f4f04a883510e9e149d15f672d0",
+    "data/derived/dev.jsonl": "6776f3c5546ea0fbc93524aec0925b8e0911160937a51c8bf8895e3ff9816b0d",
+    "data/train/products.jsonl": "6865b9cb44dc1e1c3d8a38c6f8207b00ddd5b442471db1d2016e1cc8403dee34"
+  },
+  "models": {
+    "embedding": {
+      "repo_id": "BAAI/bge-small-en-v1.5",
+      "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+      "path": "artifacts/models/bge-small-en-v1.5"
+    },
+    "generator": {
+      "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+    }
+  },
+  "environment": {
+    "HF_HUB_OFFLINE": "1",
+    "TRANSFORMERS_OFFLINE": "1",
+    "TOKENIZERS_PARALLELISM": "false",
+    "OMP_NUM_THREADS": "4",
+    "HW2_BATCH_SIZE": "32",
+    "HW2_MODEL_PATH": null
+  },
+  "timing_scope": "fresh Python child including wrapper startup, imports, data/model load, indexing, search, output; no index cache; OS disk caches not flushed",
+  "official_hardware_validation": false,
+  "cold_process_wall_seconds": 101.87006823099995,
+  "exit_code": 0,
+  "log": "results/w06_b0_dev_top50_timing.log",
+  "resources": {
+    "entrypoint_wall_seconds": 101.13091187499998,
+    "peak_process_rss_bytes": 1790369792,
+    "peak_cuda_allocated_bytes": 503805952,
+    "peak_cuda_reserved_bytes": 717225984,
+    "gpu_name": "NVIDIA GeForce RTX 4090",
+    "gpu_total_memory_bytes": 25756696576,
+    "versions": {
+      "torch": "2.8.0+cu128",
+      "transformers": "4.56.1",
+      "sentence_transformers": "5.1.0",
+      "numpy": "1.26.4",
+      "faiss": "1.12.0"
+    },
+    "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+    "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "exit_code": 0,
+    "error": null
+  }
+}

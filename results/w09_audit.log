@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "sample_count": 5,
+  "prompt_count": 3,
+  "outputs": 15,
+  "max_input_tokens": 2337,
+  "max_generated_tokens": 211,
+  "truncated_evidence_products": 0,
+  "by_prompt": {
+    "G-P1": {
+      "outputs": 5,
+      "stop_reasons": {
+        "eos": 5
+      },
+      "total_generation_seconds": 15.630384307001805,
+      "generated_tokens": 571,
+      "out_of_evidence_pid_outputs": 0,
+      "empty_outputs": 0,
+      "over_120_words": 0
+    },
+    "G-P2": {
+      "outputs": 5,
+      "stop_reasons": {
+        "eos": 5
+      },
+      "total_generation_seconds": 18.6687758160042,
+      "generated_tokens": 680,
+      "out_of_evidence_pid_outputs": 0,
+      "empty_outputs": 0,
+      "over_120_words": 1
+    },
+    "G-P3": {
+      "outputs": 5,
+      "stop_reasons": {
+        "eos": 5
+      },
+      "total_generation_seconds": 21.474159535999206,
+      "generated_tokens": 821,
+      "out_of_evidence_pid_outputs": 0,
+      "empty_outputs": 0,
+      "over_120_words": 3
+    }
+  }
+}

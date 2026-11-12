@@ -1,0 +1,39 @@
+{
+  "status": "clean_review_directory_verified_no_zip",
+  "directory": "C:\\Users\\yuting\\Desktop\\HW2_ADL\\output\\submission_ready\\r15922a14",
+  "files": 623,
+  "root_files": [
+    "README.md",
+    "SUBMISSION_MANIFEST.json",
+    "download.sh",
+    "eval_utils.py",
+    "evaluate.py",
+    "report.pdf",
+    "requirements.txt",
+    "retrieval.py",
+    "retrieval_utils.py",
+    "run.sh"
+  ],
+  "root_directories": [
+    "artifacts",
+    "code",
+    "data",
+    "results"
+  ],
+  "only_root_markdown": "README.md",
+  "required_files_present": true,
+  "exact_file_allowlist_and_hashes_passed": true,
+  "report_pages": 13,
+  "reviewed_pdf_and_markdown_matched": true,
+  "remote_model_download_verified": true,
+  "models_raw_course_data_and_secrets_excluded": true,
+  "old_draft_zip_unchanged": true,
+  "new_zip_created": false,
+  "model_or_retrieval_changes": false,
+  "external_uploads": 0,
+  "remaining": [
+    "final ZIP and archive audit when requested",
+    "user uploads final ZIP to course NTU COOL"
+  ],
+  "builder_sha256": "61a4c19f78ce31b4df4c1c4816fbe7e3635067a334b9a1ee9a5d8e94fddbac81"
+}

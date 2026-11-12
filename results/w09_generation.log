@@ -1,0 +1,15 @@
+{"completed": 1, "qid": "train-pet-supplies-000140", "prompt": "G-P1", "tokens": 148, "stop": "eos"}
+{"completed": 2, "qid": "train-pet-supplies-000140", "prompt": "G-P2", "tokens": 63, "stop": "eos"}
+{"completed": 3, "qid": "train-pet-supplies-000140", "prompt": "G-P3", "tokens": 173, "stop": "eos"}
+{"completed": 4, "qid": "train-sports-and-outdoors-000373", "prompt": "G-P1", "tokens": 123, "stop": "eos"}
+{"completed": 5, "qid": "train-sports-and-outdoors-000373", "prompt": "G-P2", "tokens": 115, "stop": "eos"}
+{"completed": 6, "qid": "train-sports-and-outdoors-000373", "prompt": "G-P3", "tokens": 138, "stop": "eos"}
+{"completed": 7, "qid": "beauty-train-003071", "prompt": "G-P1", "tokens": 65, "stop": "eos"}
+{"completed": 8, "qid": "beauty-train-003071", "prompt": "G-P2", "tokens": 211, "stop": "eos"}
+{"completed": 9, "qid": "beauty-train-003071", "prompt": "G-P3", "tokens": 169, "stop": "eos"}
+{"completed": 10, "qid": "train-pet-supplies-000234", "prompt": "G-P1", "tokens": 119, "stop": "eos"}
+{"completed": 11, "qid": "train-pet-supplies-000234", "prompt": "G-P2", "tokens": 120, "stop": "eos"}
+{"completed": 12, "qid": "train-pet-supplies-000234", "prompt": "G-P3", "tokens": 161, "stop": "eos"}
+{"completed": 13, "qid": "beauty-train-001206", "prompt": "G-P1", "tokens": 116, "stop": "eos"}
+{"completed": 14, "qid": "beauty-train-001206", "prompt": "G-P2", "tokens": 171, "stop": "eos"}
+{"completed": 15, "qid": "beauty-train-001206", "prompt": "G-P3", "tokens": 180, "stop": "eos"}

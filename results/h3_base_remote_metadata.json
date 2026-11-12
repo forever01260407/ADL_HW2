@@ -1,0 +1,61 @@
+{
+  "repo_id": "BAAI/bge-base-en-v1.5",
+  "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+  "files": {
+    "1_Pooling/config.json": {
+      "rfilename": "1_Pooling/config.json",
+      "blobId": "da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d",
+      "size": 190
+    },
+    "config.json": {
+      "rfilename": "config.json",
+      "blobId": "09a8200d8a549a3b9dba53b67156ca26810cc720",
+      "size": 777
+    },
+    "config_sentence_transformers.json": {
+      "rfilename": "config_sentence_transformers.json",
+      "blobId": "dcb0c0d97d09b930d13600b1a773ddb27e441aab",
+      "size": 124
+    },
+    "model.safetensors": {
+      "rfilename": "model.safetensors",
+      "blobId": "c766488f5e160d3128aeaa99bb4ad9083d2ff9e6",
+      "size": 437955512,
+      "lfs": {
+        "sha256": "c7c1988aae201f80cf91a5dbbd5866409503b89dcaba877ca6dba7dd0a5167d7",
+        "size": 437955512,
+        "pointerSize": 134
+      }
+    },
+    "modules.json": {
+      "rfilename": "modules.json",
+      "blobId": "952a9b81c0bfd99800fabf352f69c7ccd46c5e43",
+      "size": 349
+    },
+    "sentence_bert_config.json": {
+      "rfilename": "sentence_bert_config.json",
+      "blobId": "ea85692bff64b0d1917833c31ddbca8ab10f5455",
+      "size": 52
+    },
+    "special_tokens_map.json": {
+      "rfilename": "special_tokens_map.json",
+      "blobId": "a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+      "size": 125
+    },
+    "tokenizer.json": {
+      "rfilename": "tokenizer.json",
+      "blobId": "688882a79f44442ddc1f60d70334a7ff5df0fb47",
+      "size": 711396
+    },
+    "tokenizer_config.json": {
+      "rfilename": "tokenizer_config.json",
+      "blobId": "37fca74771bc76a8e01178ce3a6055a0995f8093",
+      "size": 366
+    },
+    "vocab.txt": {
+      "rfilename": "vocab.txt",
+      "blobId": "fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+      "size": 231508
+    }
+  }
+}

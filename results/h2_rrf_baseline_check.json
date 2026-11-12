@@ -1,0 +1,64 @@
+{
+  "queries": 966,
+  "top_k": 50,
+  "changed_queries": 0,
+  "exact_rankings_reproduced": true,
+  "plan_sha256": "b20a5dfd99646921f5bcd99d23ab7877508f60460f9d7b292205c0d553a8499a",
+  "old_untrained_dense_cache_used": false,
+  "trained_dense_timing": {
+    "cold_process_wall_seconds": 105.10136917599812,
+    "resources": {
+      "entrypoint_wall_seconds": 104.33111554599964,
+      "peak_process_rss_bytes": 1788309504,
+      "peak_cuda_allocated_bytes": 503805952,
+      "peak_cuda_reserved_bytes": 717225984,
+      "gpu_name": "NVIDIA GeForce RTX 4090",
+      "gpu_total_memory_bytes": 25756696576,
+      "versions": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.56.1",
+        "sentence_transformers": "5.1.0",
+        "numpy": "1.26.4",
+        "faiss": "1.12.0"
+      },
+      "python": "3.12.12 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 20:16:04) [GCC 11.2.0]",
+      "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+      "exit_code": 0,
+      "error": null
+    },
+    "environment": {
+      "HF_HUB_OFFLINE": "1",
+      "TRANSFORMERS_OFFLINE": "1",
+      "TOKENIZERS_PARALLELISM": "false",
+      "OMP_NUM_THREADS": "4",
+      "HW2_BATCH_SIZE": "32",
+      "HW2_MODEL_PATH": "artifacts/training/w08_epoch1/checkpoint",
+      "HW2_RERANK": "0",
+      "HW2_RERANK_CANDIDATES": null,
+      "HW2_RERANK_BATCH_SIZE": null,
+      "HW2_RERANK_MODEL_PATH": null,
+      "HW2_RETRIEVER": "dense",
+      "HW2_RRF_CANDIDATES": "100",
+      "HW2_BM25_QUERY_MODE": "full",
+      "HW2_BM25_LAST_WEIGHT": "1",
+      "HW2_BM25_TITLE_WEIGHT": "1",
+      "HW2_BM25_TRACE_PATH": null
+    },
+    "verified_sources": {
+      "retrieval.py": "retrieval.py",
+      "evaluate.py": "evaluate.py",
+      "eval_utils.py": "eval_utils.py",
+      "retrieval_utils.py": "retrieval_utils.py",
+      "code/script/run_measured.py": "code/script/run_measured.py",
+      "data/derived/dev.jsonl": "data/derived/dev.jsonl",
+      "data/train/products.jsonl": "data/train/products.jsonl"
+    }
+  },
+  "input_sha256": {
+    "results/h2_w08_dense_top100.json": "d207850d2b399e730f9fc1334fe4945508b2215af1e3e68375bed5c5ee611db7",
+    "results/h2_w08_dense_timing.json": "f1f2953df8088aee5ee313e116a25552ca3d51152b53ec290884806d64b6f8bb",
+    "results/h1u_u0_full_lexical_top100.json": "7e267700ace306268d9fa5c6b5d532cfb303b89372764df25b8237bb3e1bcb1f",
+    "results/h1u_u0_full_trace.json": "6598305591971197ca4c9da9286b9e892c47ecedac1594bada0a817a749e5f65",
+    "results/w08_default_dev_top50.json": "d5c919e2a2dc884c2263faad97453ac0073287ddf8e9002835c986125dfc308f"
+  }
+}

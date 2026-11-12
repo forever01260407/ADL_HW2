@@ -1,0 +1,42 @@
+{
+  "kind": "compatibility_smoke_not_retrieval_quality",
+  "model": {
+    "repo_id": "BAAI/bge-small-en-v1.5",
+    "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+    "path": "artifacts/models/bge-small-en-v1.5"
+  },
+  "device": "cuda",
+  "sample_policy": "first N train products and train dialogues; no gold used",
+  "samples": {
+    "products": 128,
+    "queries": 128
+  },
+  "token_lengths": {
+    "products": {
+      "min": 17,
+      "max": 801,
+      "p50": 120.5,
+      "p95": 630.5999999999992,
+      "over_512": 8
+    },
+    "queries": {
+      "min": 59,
+      "max": 139,
+      "p50": 88.0,
+      "p95": 132.59999999999997,
+      "over_512": 0
+    }
+  },
+  "vector_dimension": 384,
+  "faiss_exact_score_check": true,
+  "elapsed_seconds_including_model_load": 1.322821715,
+  "peak_cuda_allocated_bytes": 452739584,
+  "peak_cuda_reserved_bytes": 654311424,
+  "versions": {
+    "torch": "2.8.0+cu128",
+    "faiss": "1.12.0",
+    "numpy": "1.26.4",
+    "transformers": "4.56.1",
+    "sentence_transformers": "5.1.0"
+  }
+}

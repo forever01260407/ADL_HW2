@@ -1,0 +1,30 @@
+{
+  "audit": "passed",
+  "metrics": {
+    "B0": {
+      "queries": 966,
+      "graded_recall@10": 0.6521739130434783,
+      "graded_mrr@10": 0.39644582470669426
+    },
+    "A1": {
+      "queries": 966,
+      "graded_recall@10": 0.6066252587991718,
+      "graded_mrr@10": 0.32725935784941995
+    }
+  },
+  "paired_changes": {
+    "graded_recall@10": {
+      "mean_difference": -0.045548654244306416,
+      "improved_queries": 76,
+      "worsened_queries": 120,
+      "unchanged_queries": 770
+    },
+    "graded_mrr@10": {
+      "mean_difference": -0.06918646685727431,
+      "improved_queries": 213,
+      "worsened_queries": 322,
+      "unchanged_queries": 431
+    }
+  },
+  "selection": "Keep B0 default; A1 did not improve both graded metrics"
+}

@@ -1,0 +1,19 @@
+{
+  "first_parent_exit_code": 1,
+  "first_worker_exit_code": 0,
+  "first_top50_equals_h3": true,
+  "failure": "ValueError: relative log path passed directly to Path.relative_to(absolute ROOT)",
+  "fix": "resolve log path before relative_to; no model or retrieval change",
+  "first_full_parent_cold_seconds": null,
+  "retry_scope": "complete dev only; no Public attempted",
+  "focused_regression_tests": 2,
+  "focused_tests_passed": true,
+  "input_sha256": {
+    "results/h4_dev_attempt1_top50.json": "0b1b38dd1b0d4207bc2af945704808885f75dfd5b18dfed1383d84a662881081",
+    "results/h4_dev_attempt1_timing.worker.json": "81eb3b25879030474edfeb071f2c3aa5ba320da83a772ab0415fb8efc7121628",
+    "results/h4_dev_attempt1_timing.log": "faaed09bac8c11dbdd2adf99a577b5c63d8ecda48617b7bbb4c122b25edcaa5e",
+    "code/script/run_validated.py": "d5d9bae063d1f3d0ce396277de5246b55388ddd08ca84223237c2117670460e9",
+    "code/script/tests/test_measurement.py": "167cece3a5b12ee59cabfe791d1697f2e4a3723d96f093d31e564e4387810d90",
+    "results/h4_measurement_tests.log": "5370f114feae1b0641a51a02be2bde29162e039e33e13fdbb49d44461ef3fbd5"
+  }
+}

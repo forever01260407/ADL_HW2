@@ -1,0 +1,23 @@
+{
+  "experiment": "w08_bge_small_epoch1",
+  "seed": 42,
+  "epochs": 1,
+  "batch_size": 16,
+  "learning_rate": 0.00002,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "max_grad_norm": 1.0,
+  "scale": 20.0,
+  "max_seq_length": 512,
+  "precision": "float32",
+  "loss": "MultipleNegativesRankingLoss",
+  "query_instruction": "Represent this sentence for searching relevant passages: ",
+  "retrieval": {
+    "HW2_RETRIEVER": "hybrid",
+    "HW2_RERANK": "0",
+    "HW2_BM25_QUERY_MODE": "full",
+    "HW2_BM25_LAST_WEIGHT": "1",
+    "HW2_BM25_TITLE_WEIGHT": "1",
+    "HW2_RRF_CANDIDATES": "100"
+  }
+}

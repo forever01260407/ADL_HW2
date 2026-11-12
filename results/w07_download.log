@@ -1,0 +1,2 @@
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files:  17%|█▋        | 1/6 [00:00<00:01,  3.19it/s]Fetching 6 files:  33%|███▎      | 2/6 [00:05<00:13,  3.44s/it]Fetching 6 files: 100%|██████████| 6/6 [00:05<00:00,  1.01it/s]
+{"role": "reranker", "revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a", "files": 6, "bytes": 91815758}

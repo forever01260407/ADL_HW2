@@ -1,0 +1,86 @@
+{
+  "kind": "gold_only_diagnostic_not_official_graded",
+  "candidate_products": 75000,
+  "retrieval_top_k": 50,
+  "metrics": {
+    "queries": 1000,
+    "gold_hit@1": 0.516,
+    "gold_mrr@1": 0.516,
+    "gold_hit@10": 0.819,
+    "gold_mrr@10": 0.6154369047619048,
+    "gold_hit@50": 0.928,
+    "gold_mrr@50": 0.6214312345323749
+  },
+  "by_message_count": {
+    "3": {
+      "queries": 510,
+      "gold_hit@1": 0.40784313725490196,
+      "gold_mrr@1": 0.40784313725490196,
+      "gold_hit@10": 0.7490196078431373,
+      "gold_mrr@10": 0.5211647992530345,
+      "gold_hit@50": 0.9,
+      "gold_mrr@50": 0.5291086469313169
+    },
+    "5": {
+      "queries": 490,
+      "gold_hit@1": 0.6285714285714286,
+      "gold_mrr@1": 0.6285714285714286,
+      "gold_hit@10": 0.8918367346938776,
+      "gold_mrr@10": 0.7135568513119535,
+      "gold_hit@50": 0.9571428571428572,
+      "gold_mrr@50": 0.7175220910151088
+    }
+  },
+  "by_qid_prefix": {
+    "public-test-beauty": {
+      "queries": 200,
+      "gold_hit@1": 0.54,
+      "gold_mrr@1": 0.54,
+      "gold_hit@10": 0.885,
+      "gold_mrr@10": 0.6538789682539682,
+      "gold_hit@50": 0.965,
+      "gold_mrr@50": 0.6581198822327272
+    },
+    "public-test-home-and-kitchen": {
+      "queries": 200,
+      "gold_hit@1": 0.605,
+      "gold_mrr@1": 0.605,
+      "gold_hit@10": 0.855,
+      "gold_mrr@10": 0.6968928571428572,
+      "gold_hit@50": 0.94,
+      "gold_mrr@50": 0.7016803307815225
+    },
+    "public-test-pet-supplies": {
+      "queries": 200,
+      "gold_hit@1": 0.45,
+      "gold_mrr@1": 0.45,
+      "gold_hit@10": 0.755,
+      "gold_mrr@10": 0.549704365079365,
+      "gold_hit@50": 0.925,
+      "gold_mrr@50": 0.5594718261441206
+    },
+    "public-test-sports-and-outdoors": {
+      "queries": 200,
+      "gold_hit@1": 0.595,
+      "gold_mrr@1": 0.595,
+      "gold_hit@10": 0.875,
+      "gold_mrr@10": 0.6856726190476191,
+      "gold_hit@50": 0.95,
+      "gold_mrr@50": 0.6894881231643809
+    },
+    "public-test-toys-and-games": {
+      "queries": 200,
+      "gold_hit@1": 0.39,
+      "gold_mrr@1": 0.39,
+      "gold_hit@10": 0.725,
+      "gold_mrr@10": 0.4910357142857143,
+      "gold_hit@50": 0.86,
+      "gold_mrr@50": 0.4983960103391231
+    }
+  },
+  "prefix_comparison": {
+    "queries": 1000,
+    "changed_top10_count": 0,
+    "changed_qids": []
+  }
+}

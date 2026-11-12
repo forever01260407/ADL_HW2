@@ -1,0 +1,7 @@
+{
+  "adopt": true,
+  "official_judge_runs": 1,
+  "default_verified": true,
+  "default_action": "promoted_and_verified",
+  "default_query_count": 966
+}

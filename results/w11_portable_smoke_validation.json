@@ -1,0 +1,18 @@
+{
+  "base": {
+    "status": "completed",
+    "optimizer_steps": 4,
+    "train_count": 16,
+    "peak_cuda_allocated_bytes": 2542147072,
+    "peak_cuda_reserved_bytes": 3087007744,
+    "offline_reload_max_abs_difference": 0.0
+  },
+  "hard": {
+    "status": "completed",
+    "optimizer_steps": 4,
+    "train_count": 16,
+    "peak_cuda_allocated_bytes": 2967137792,
+    "peak_cuda_reserved_bytes": 3258974208,
+    "offline_reload_max_abs_difference": 0.0
+  }
+}

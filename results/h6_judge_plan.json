@@ -1,0 +1,29 @@
+{
+  "maximum_public_judge_runs": 1,
+  "queries": 1000,
+  "batch_size": 8,
+  "max_new_tokens": 12,
+  "dtype": "bf16",
+  "greedy": true,
+  "truncation": false,
+  "non_gold_comparisons": 9096,
+  "max_judge_input_tokens": 2399,
+  "context_limit": 32768,
+  "model": {
+    "repo_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "path": "artifacts/models/Qwen2.5-1.5B-Instruct"
+  },
+  "model_sha256": {
+    "artifacts/models/Qwen2.5-1.5B-Instruct/config.json": "98d2ff8cc47488d08a2b0b3acf4eb99ef210779b42bd48605f6b8e36acdbf670",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/generation_config.json": "e558847a8b4402616f1273797b015104dc266fe4b520056fca88823ba8f8ebe6",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/merges.txt": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/model.safetensors": "dd924a11b4c220f385b51ffa522daea7c9f3d850e31b162bb5661df483c6d3ee",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/tokenizer.json": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/tokenizer_config.json": "5b5d4f65d0acd3b2d56a35b56d374a36cbc1c8fa5cf3b3febbbfabf22f359583",
+    "artifacts/models/Qwen2.5-1.5B-Instruct/vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+  },
+  "ranking_sha256": "fc95327d4a6d4b33834d021b880f173ae90822c0657592c2cc5d1851611fdf25",
+  "top50_sha256": "d91e7dbc0ed0095321fa696d7b96dfce15c53dc258d321e349357bb2b815f727",
+  "frozen_plan_sha256": "85b412ec99cd87a016276070d249fcc5be7a2882a51ce202b9a4785438fca30c"
+}
